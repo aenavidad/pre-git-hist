@@ -1,4 +1,4 @@
-# historical-series-re-Belize > pre-git-hist
+# pre-git-hist
 
 ## abstract
 
@@ -8,7 +8,7 @@ This repository was created on 11 August 2022 in Boston MA to store archival ver
 
 - commit-like data listed in `events.tsv`
 - data-files and their versions listed in `files.tsv`
-- To be filled in as of 11 August 2022.
+- data-files are stored in the `files` directory
 
 ## notice
 
