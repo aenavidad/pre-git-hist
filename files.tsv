@@ -1,20 +1,3 @@
-created-date	type	name	abstract
-2020-10-22T05:04	tsv	file0	bz civil service payscale data but not indicating sources clearly though likely for single year
-2020-10-22T05:04	tsv	file1	bz civil service offices data but not indicating sources clearly though likely for single year
-2020-10-22T05:04	tsv	file2	bz civil service or crown service offices data but not indicating sources clearly though likely for single year
-2020-10-22T05:04	tsv	file3	bz civil service budgetary data per civil service office for 2021 but not indicating sources clearly though likely for Treasury data for FY 2018-19 or later
-2020-10-29T18:42	txt	file4	FOI Act request for ss 6 and 7 statements from Min of Health dated 3229 Mussel Creek St 30 October 2020
-2020-11-02T20:16	tsv	file5	bz govt rule of law data 1996-2019 from vars sources in mean and std error but not indicating sources clearly
-2020-11-02T20:16	tsv	file6	bz govt rule of law data 1996-2019 from vars sources in mean and std error but not indicating sources clearly
-2020-11-02T20:16	tsv	file7	bz govt rule of law data 1996-2019 from vars sources in mean and std error but not indicating sources clearly
-2020-11-02T20:16	tsv	file8	bz govt rule of law data 1996-2019 from vars sources in mean and std error but not indicating sources clearly
-2020-11-02T20:16	tsv	file9	bz govt rule of law data 1996-2019 from vars sources in mean and std error but not indicating sources clearly
-2020-11-02T20:16	tsv	file10	bz govt rule of law data 1996-2019 from vars sources in mean and std error but not indicating sources clearly
-2020-11-02T20:16	tsv	file11	bz govt rule of law data 1996-2019 from vars sources in mean and std error but not indicating sources clearly
-2020-11-02T20:16	tsv	file12	bz govt rule of law data 1996-2019 from vars sources in mean and std error but not indicating sources clearly
-2020-11-02T20:16	tsv	file13	bz govt rule of law data 1996-2019 from vars sources in mean and std error but not indicating sources clearly
-2020-11-02T20:16	tsv	file14	bz govt rule of law data 1996-2019 from vars sources in mean and std error but not indicating sources clearly
-2020-11-02T20:16	tsv	file15	bz govt rule of law data 1996-2019 from vars sources in mean and std error but not indicating sources clearly
-2020-11-05T18:35	txt	file16	undated letter to the Amandala re letter published 31 Oct by Fr. Giuliani re LGBT issues or freedom of expression in bz
-2020-11-07T22:51	tsv	file17	bz human rights data 1981-2011 likely obtained via a CIRI 2014 publication or database but sourced from US Dept of State and Amnesty Intl reports but does not indicate sources clearly
-2020-11-08T00:05	
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed2023de3111a85c816a866a088e0848f710137e7442cdc4185f3ec0f7c64466
+size 37368
