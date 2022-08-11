@@ -1,0 +1,193 @@
+Table 1
+Name	Start	Parliament	150 mi	50 mi	0 mi	EM-DAT	EM-DAT Loss	EM-DAT Loss unit	EM-DAT Deaths	Max wind	Min press	Max cat w/in	Data	Loss	Loss unit	Deaths
+U	29 Jun 1851	1	1							80	-1					
+U	21 Sep 1852	1	1	1	1					55	-1					
+U	16 Aug 1857	3	1							65	-1					
+U	7 Sep 1857	3	1	1	1					55	-1					
+U	10 Jun 1858	3	1							55	-1					
+U	20 Jun 1859	3	1	1						80	990					
+U	25 Jul 1860	3	1							75	-1					
+U	28 Jul 1861	4	1	1	1					45	-1					
+U	26 Aug 1864	4	1	1	1					70	-1	1				
+U	13 Aug 1866	5	1	1						90	-1	1				
+U	17 Aug 1866	5	1							65	-1					
+U	30 Oct 1870	Council	1	1						70	-1	1				
+U	16 Sep 1871	Council	1	1	1					45	-1					
+U	25 Sep 1874	Council	1	1						80	980					
+U	17 Jul 1876	Council	1	1	1					75	-1	1				
+U	19 Aug 1879	Council	1							90	964	1				
+U	10 Sep 1879	Council	1	1	1					80	-1					
+U	9 Jun 1880	Council	1	1	1					45	-1					
+U	4 Aug 1880	Council	1							95	-1	1				
+U	5 Oct 1880	Council	1							70	-1					
+U	16 Aug 1881	Council	1							70	-1					
+U	16 Sep 1883	Council	1							50	-1					
+U	20 Jul 1887	Council	1							85	-1	2				
+U	2 Aug 1887	Council	1	1	1					55	-1					
+U	6 Oct 1887	Council	1	1						65	-1	2				
+U	6 Oct 1887	Council	1							50	-1					
+U	9 Oct 1887	Council	1							100	-1	3				
+U	19 Aug 1888	Council	1							45	-1					
+U	8 Oct 1888	Council	1	1						60	-1					
+U	12 Sep 1889	Council	1							95	-1	2				
+U	14 Sep 1889	Council	1							100	-1	3				
+U	15 Oct 1889	Council	1	1	1					50	-1					
+U	5 Oct 1891	Council	1							120	951	2				
+U	14 Oct 1891	Council	1	1	1					55	-1					
+U	23 Oct 1891	Council	1	1						55	-1					
+U	23 Sep 1892	Council	1							55	-1					
+U	5 Oct 1892	Council	1	1	1					85	-1	2				
+U	4 Jul 1893	Council	1	1	1					85	-1	1				
+U	4 Sep 1893	Council	1							85	-1					
+U	9 Sep 1894	Council	1	1	1					55	-1					
+U	25 Sep 1895	Council	1	1	1					55	982					
+U	28 Sep 1895	Council	1							50	-1					
+U	2 Oct 1895	Council	1							35	-1					
+U	2 Sep 1898	Council	1	1	1					75	-1	1				
+U	12 Sep 1898	Council	1	1	1					50	-1					
+U	20 Sep 1898	Council	1							50	-1					
+U	21 Oct 1898	Council	1							40	-1					
+U	27 Oct 1898	Council	1							85	-1	2				
+U	27 Oct 1898	Council	1	1	1					50	-1					
+U	28 Sep 1904	Council	1	1	1					70	-1	1				
+U	24 Sep 1905	Council	1							45	-1					
+U	8 Oct 1906	Council	1	1	1					105	953	1				
+U	6 Aug 1909	Council	1							40	1004					
+U	21 Jun 1913	Council	1							65	-1					
+U	28 Oct 1913	Council	1							65	1003					
+U	27 Aug 1916	Council	1	1	1					70	986					
+U	9 Oct 1916	Council	1	1						95	970	2				
+U	11 Nov 1916	Council	1							60	1002					
+U	6 Jul 1917	Council	1	1	1					45	-1					
+U	22 Aug 1918	Council	1	1	1					90	968	1				
+U	16 Sep 1920	Council	1	1						85	975					
+U	16 Jun 1921	Council	1	1	1					80	980					
+U	12 Jun 1922	Council	1	1						45	1006					
+U	11 Oct 1922	Council	1							95	-1	2				
+U	18 Jun 1924	Council	1	1	1					40	-1					
+U	27 Sep 1924	Council	1							55	999					
+U	14 Oct 1924	Council	1							145	910	3				
+U	3 Oct 1926	Council	1	1	1					35	-1					
+U	12 Nov 1926	Council	1							35	-1					
+U	16 Oct 1927	Council	1	1						40	-1					
+U	1 Sep 1928	Council	1							50	-1					
+U	24 Jun 1931	Council	1	1						45	-1					
+U	11 Jul 1931	Council	1	1						60	1000					
+U	10 Aug 1931	Council	1	1	1					50	-1					
+U	6 Sep 1931	Council	1	1	1	1	"7,500,000"	USD	1500	115	-1	4	1	"7,500,000"	USD	2500
+U	8 Sep 1931	Council	1	1						85	987					
+U	18 Oct 1931	Council	1							40	-1					
+U	11 Nov 1931	Council	1	1	1					45	-1					
+U	25 Sep 1932	Council	1	1	1					125	943					
+U	7 Oct 1932	Council	1	1	1					60	-1					
+U	14 Jul 1933	Council	1	1	1					45	-1					
+U	10 Sep 1933	Council	1	1						95	960	1				
+U	16 Sep 1933	Council	1							140	929	4				
+U	4 Jun 1934	Council	1	1	1					85	966	1				
+U	30 Aug 1935	Council	1							50	-1					
+U	18 Oct 1935	Council	1							75	988					
+U	12 Jun 1936	8	1	1						40	996					
+U	28 Aug 1936	8	1	1						70	-1					
+U	23 Aug 1938	8	1							105	979	3				
+U	10 Oct 1938	8	1	1	1					50	996					
+U	12 Jun 1939	9	1	1	1					55	-1					
+U	18 Sep 1940	9	1	1						45	1004					
+U	23 Sep 1941	9	1	1	1					115	-1	1				
+U	3 Aug 1942	10	1	1	1					50	-1					
+U	15 Sep 1942	10	1	1	1					45	-1					
+U	5 Nov 1942	10	1	1	1					95	-1	2				
+U	20 Oct 1943	10	1	1	1					40	-1					
+U	16 Aug 1944	10	1							105	973	1				
+U	20 Jun 1945	11	1							85	-1					
+U	29 Aug 1945	11	1	1	1					60	990					
+U	2 Oct 1945	11	1	1	1					80	982	1				
+U	5 Oct 1946	11	1	1						85	977					
+U	9 Aug 1947	11	1							95	977					
+U	27 Sep 1949	12	1							95	965					
+CHARLIE	12 Aug 1951	12	1							115	68	4				
+U	2 Feb 1952	12	1	1						60	-1					
+GILDA	24 Sep 1954	13	1	1	1					60	998					
+HILDA	12 Sep 1955	13	1							105	952	3				
+JANET	21 Sep 1955	13	1	1		1	"5,000,000"	USD	16	150	914	5	1	"5,000,000"	USD	16
+FLOSSY	20 Sep 1956	13	1	1	1					80	974					
+GERDA	14 Sep 1958	14	1	1	1					50	1001					
+ABBY	9 Jul 1960	14	1	1	1					70	995	1	1	"81,000"	BHD	0
+ANNA	17 Jul 1961	15	1	1	1					90	976	1				
+HATTIE	26 Oct 1961	15	1	1	1	1	"60,000,000"	USD	275	145	914	5	1	"60,000,000"	USD	307
+U	3 Jun 1964	15	1							60	992					
+U	5 Nov 1964	15	1	1	1					60	997					
+DEBBIE	24 Sep 1965	16	1							50	1000					
+ABBY	1 Jun 1968	16	1							65	965					
+FRANCELIA	29 Aug 1969	17	1	1	1					100	973	3				
+LAURIE	17 Oct 1969	17	1							90	973					
+ELLA	8 Sep 1970	17	1							110	967					
+CHLOE	18 Aug 1971	17	1	1	1					55	1004					
+EDITH	5 Sep 1971	17	1	1	1					140	943	1				
+U	6 Oct 1971	17	1							25	-1					
+LAURA	12 Nov 1971	17	1	1	1					60	994					
+AGNES	14 Jun 1972	17	1							75	977					
+U	6 Sep 1973	17	1							30	-1					
+CARMEN	29 Aug 1974	18	1	1						130	928	4	1			1
+FIFI	14 Sep 1974	18	1	1	1	1	"4,000,000"	USD		95	971	2	1	"4,000,000"	USD	0
+ORLENE	21 Sep 1974	18	1	1	1					90	-1	2				
+U	25 Sep 1975	18	1	1	1					25	-1					
+U	27 Oct 1975	18	1	1						25	-1					
+U	8 Nov 1975	18	1							30	-1					
+FRIEDA	16 Oct 1977	18	1	1	1					50	1005					
+GRETA	13 Sep 1978	18	1	1	1	1	"6,000,000"	USD	5	115	947	4	1	"25,000,000"	USD	4
+U	12 Oct 1979	19	1	1						30	-1					
+HERMINE	20 Sep 1980	19	1	1	1					60	993					
+U	16 Oct 1980	19	1	1						25	-1					
+PAUL	18 Sep 1982	19	1							95	-1					
+U	1 Sep 1986	20	1	1	1					30	-1					
+KAREN	28 Nov 1989	21	1							50	1000					
+DIANA	4 Aug 1990	21	1	1						85	980					
+FABIAN	15 Oct 1991	21	1							40	1002					
+GERT	14 Sep 1993	22	1	1	1					85	970					
+U	21 Sep 1993	22	1	1	1					30	-1					
+U	24 Sep 1994	22	1	1	1					30	1004					
+OPAL	27 Sep 1995	22	1							130	916					
+ROXANNE	7 Oct 1995	22	1							100	956	3				
+DOLLY	19 Aug 1996	22	1	1						70	989	1				
+KYLE	11 Oct 1996	22	1	1						45	1001					
+MITCH	22 Oct 1998	23	1			1	"50,000"	USD	9	155	905	5	1	"50,000"	USD	9
+KATRINA	28 Oct 1999	23	1	1	1					35	999					
+GORDON	14 Sep 2000	23	1							70	981					
+KEITH	28 Sep 2000	23	1	1	1	1	"277,460,000"	USD	14	120	939	4	1	"280,046,900"	USD	19
+CHANTAL	14 Aug 2001	23	1	1	1	1				60	997		1	"10,180,000"	USD	
+IRIS	4 Oct 2001	23	1	1	1	1	"250,000,000"	USD	30	125	948	4	1	"480,000,000"	BZD	24
+ISIDORE	14 Sep 2002	23	1							110	934	1				
+BILL	28 Jun 2003	24	1							50	997					
+LARRY	27 Sep 2003	24	1							55	993					
+CINDY	3 Jul 2005	24	1	1						65	991					
+EMILY	11 Jul 2005	24	1							140	929	4				
+STAN	1 Oct 2005	24	1							70	977					
+WILMA	15 Oct 2005	24	1			1				160	882	4				
+GAMMA	14 Nov 2005	24	1			1			3	45	1002		1			3
+BARRY	31 May 2007	24	1	1						50	990					
+DEAN	13 Aug 2007	24	1	1		1	"14,847,000"	USD		150	905	5	1	"96,680,000"	USD	0
+FELIX	31 Aug 2007	24	1	1	1					150	929					
+ALMA	29 May 2008	24	1							55	994					
+ARTHUR	31 May 2008	24	1	1	1	1			7	40	1004		1	"78,000,000"	USD	5
+AGATHA	28 May 2010	25	1							40	1001					
+ALEX	24 Jun 2010	25	1	1	1					95	946		1	"1,250,000"	USD	
+KARL	13 Sep 2010	25	1	1						110	956					
+MATTHEW	23 Sep 2010	25	1	1	1	1				50	998					
+PAULA	11 Oct 2010	25	1							90	981	2				
+RICHARD	19 Oct 2010	25	1	1	1					85	977	2	1	"70,476,982"	BZD	1
+HARVEY	19 Aug 2011	25	1	1	1					55	994					
+RINA	22 Oct 2011	25	1							100	966	3				
+ERNESTO	1 Aug 2012	26	1	1						85	973	2	1	"762,800"	BZD	0
+HELENE	9 Aug 2012	26	1	1	1					40	1004					
+BARRY	16 Jun 2013	26	1	1	1					40	1003					
+HANNA	21 Oct 2014	26	1	1	1					35	1000					
+EARL	2 Aug 2016	27	1	1	1	1				75	979	1	1	"188,678,394"	BZD	0
+FRANKLIN	6 Aug 2017	27	1							75	981					
+HARVEY	16 Aug 2017	27	1	1						115	937					
+ALBERTO	25 May 2018	27	1							55	990					
+MICHAEL	6 Oct 2018	27	1	1						140	919					
+note	1 BHD = 0.70 USD rate used; 1 BZD = 0.50 USD rate used. CPI for BZD  from SIB/ via Central Bank. CPI for USD from BLS/ via Alioth LLC															
+note	"Centroid coordinates for Belize from Prof. Kelly O’Neill at Harvard, 2018 file."															
+note	NMS has conflicting data. ORLENE expunged (record contained under FIFI).															
+cf	NOAA data at NOAA Hurricane Tracks															
+note	U = unnamed / S = tropical storm / D = tropical depression. Wind speeds in kt / Pressure in mb															

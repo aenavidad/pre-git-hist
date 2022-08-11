@@ -1,0 +1,325 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Weekly Jamaica Courant</title>
+    <ns>0</ns>
+    <id>70918921</id>
+    <revision>
+      <id>1090988720</id>
+      <parentid>1090954268</parentid>
+      <timestamp>2022-06-01T15:10:15Z</timestamp>
+      <contributor>
+        <username>Bearcat</username>
+        <id>24902</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="16328" xml:space="preserve">{{short description|First newspaper in colonial Jamaica}}
+{{use Jamaican English|date=May 2022}}
+{{use dmy dates|date=May 2022}}
+{{Infobox newspaper
+| name                 = Weekly Jamaica Courant
+| logo                 = 
+| logo_size            = 
+| logo_border          = 
+| logo_alt             = 
+| image                = Weekly Jamaica Courant published as Jamaica Courant July 30 1718.png
+| image_size           = 250px
+| image_border         = 
+| image_alt            = 
+| caption              = ''Weekly Jamaica Courant'' {{small|/ damaged front-page of issue no. 10 / via Gale}}
+| motto                = 
+| type                 = Weekly newspaper
+| format               = [[Tabloid (newspaper format)|Tabloid]]
+| school               = 
+| owner                = &lt;!-- or |owners= --&gt;
+| founder              = &lt;!-- or |founders= --&gt;
+| publisher            = {{unbulleted list|Robert Baldwin {{small|/ 1718{{nbnd}}1722}}|Mary Baldwin {{small|/ 1722{{nbnd}}1734}}|Peter &amp; Robert Baldwin Jr. {{small|/ 1734{{nbnd}}1746}}|unknown {{small|/ 1746{{nbnd}}1755}}}}
+| president            = 
+| generalmanager       = 
+| chiefeditor          = 
+| editor               = {{unbulleted list|Robert Baldwin {{small|/ 1718{{nbnd}}1722}}|Mary Baldwin {{small|/ 1722{{nbnd}}1734}}|Peter &amp; Robert Baldwin Jr. {{small|/ 1734{{nbnd}}1746}}|unknown {{small|/ 1746{{nbnd}}1755}}}}
+| depeditor            = 
+| assoceditor          = 
+| maneditor            = &lt;!-- or |maneditors= --&gt;
+| newseditor           = 
+| managingeditordesign = 
+| dirinteractive       = 
+| campuseditor         = 
+| campuschief          = 
+| metroeditor          = 
+| metrochief           = 
+| opeditor             = 
+| sportseditor         = 
+| photoeditor          = 
+| staff                = 
+| custom_label         = 
+| custom               = 
+| foundation           = ''on'' or ''before'' {{start date and age|1718|05|28|df=y}}&lt;!-- or |launched= --&gt;&lt;!-- Use: {{start date and age|YYYY|MM|DD}} or {{start date|...}}, if ceased --&gt;
+| political            = 
+| language             = 
+| ceased publication   = ''in'' 1755&lt;!-- Use: {{end date|YYYY|MM|DD}} --&gt;
+| relaunched           = 
+| headquarters         = 
+| publishing_city      = [[Kingston, Jamaica|Kingston]]
+| publishing_country   = [[Jamaica]]
+| circulation          = 
+| circulation_date     = 
+| circulation_ref      = 
+| readership           = 
+| sister newspapers    = 
+| ISSN                 = 
+| eISSN                = 
+| oclc                 = 1069647674 &lt;!-- various oclc numbers exist, this was the first oclc number, and one of two with the most complete bibliographic data --&gt;
+| RNI                  = 
+| website              = 
+| free                 = 
+}}
+
+The '''''Weekly Jamaica Courant''''', published as '''''The Weekly Jamaica Courant, with News Foreign and Domestick''''', was the first newspaper published in colonial Jamaica and the West Indies, and the second regular newspaper in the British settlements of the New World. It was first published in 1718, and was disestablished in 1755, being succeeded or replaced by the ''Jamaica Gazette'' or the ''St. Jago de la Vega Gazette''.
+
+== History ==
+
+=== Prelude ===
+
+On 1 October 1717, Nicholas Lawes, Governor of Jamaica, requested the Board of Trade's permission for the founding of a local printing press.{{sfn|Cave|1975|p=12}}{{sfn|Ledward|1924|loc=sec. entitled 'Journal, October 1717: Journal Book S,' sub-section for meeting of 10 October 1717, ie entitled 'October 10. Present:—Mr. Chetwynd, Sir Charles Cooke, Mr. Docminique, Mr. Molesworth, Mr. Pulteney, Mr. Bladen,' second sub-sub-sec., ie entitled 'Jamaica,' para. entitled '{{spaces|hair}}''Councillors, printing-press, post office''{{spaces|hair}}'}}{{sfn|Cundall|1935|pp=2-3}}{{notetag|Previously, on 8 December 1715, the Council of Jamaica had notified the Assembly that 'they heartily wish[ed] that their house [would] join with them in establishing a printing press for publishing the Minutes of both bodies,' which endeavour did not pan out {{harv|Cundall|1935|p=2}}.}}
+{{blockquote
+|text=I am of opinion if a printing press were set up in Jamaica it would be of great use, and benefit for publick intelligence, advertisement, and many other things. But to prevent abuses, that might attend such a liberty, there should be but one, and that to be licensed to the Govr. for the time being.
+|author=N. Lawes, in 1 Oct. 1717 letter to Board of Trade.{{sfn|Cave|1975|p=13}}{{sfn|Cundall|1935|p=3}}
+}}
+Lawes presented his case personally at the Board's meeting on 10 October 1717, further adding that a press 'would be a publick convenience and advantage to commerce.'{{sfn|Cave|1975|p=13}}{{sfn|Ledward|1924|loc=sec. entitled 'Journal, October 1717: Journal Book S,' sub-section for meeting of 10 October 1717, ie entitled 'October 10. Present:—Mr. Chetwynd, Sir Charles Cooke, Mr. Docminique, Mr. Molesworth, Mr. Pulteney, Mr. Bladen,' second sub-sub-sec., ie entitled 'Jamaica,' para. entitled '{{spaces|hair}}''Councillors, printing-press, post office''{{spaces|hair}}'}}
+
+The requested press was set up by Robert Baldwin, printer, sometime during April{{nbnd}}May 1718, on Church St., Kingston.{{sfn|Cave|1975|p=13}} He is thought to have been guaranteed a government contract for the printing of official business, and to have chosen Kingston as his base for the greater commercial opportunities this centre offered (in contrast with Spanish Town, the administrative capital, which saw less commerce than Kingston and nearby Port Royal).{{sfn|Cave|1975|p=13}}{{sfn|Cave|1976|p=22}}{{sfn|Cundall|1935|p=4}}{{notetag|The Baldwin press's first publication is thought to have been ''A Pindarique Ode on the arrival of his Excellency Sir Nicholas Lawes'', a four-page pamphlet, published in two editions in 1718 {{harv|Cave|1975|p=14}}. Copies of the first edition have not been discovered. A copy of the second edition is housed in Chetham's Library, and {{URL|1=https://chethams.inforlib.uk/iguana01/www.main.cls?l=eng&amp;surl=search&amp;p=*#recordId=1.40725|2=has been digitised here}}.}}{{notetag|The Baldwin press, like 17th century American presses, additionally met the printing needs of smaller West Indian settlements without a press of their own {{harv|Cave|1978|pp=166-167}}. For instance, [[British Honduras|colonial Belize]], a dependency of Jamaica until the late 19th century, is thought to have relied on British, American, and later Jamaican presses in the 17th, 18th, and early 19th centuries {{harv|Cave|1976|pp=21-22}}.}}
+
+=== Establishment ===
+
+The ''Courant'''s date of first publication is uncertain. The earliest extant issue is that of 28 May 1718, which has been proposed as the paper's first issue.{{sfn|Cave|1975|p=14}} An earlier issue of 11 February 1718, not extant, has also been proposed as the paper's first issue.{{sfn|Cundall|1935|pp=5, 61}} Either issue makes the ''Courant'' the first newspaper published in the West Indies, and the second regular newspaper in the British colonies of the New World (preceded only by the ''[[Boston News-Letter]]'' of 1704).{{sfn|Cave|1975|p=14}}{{notetag|''[[Publick Occurrences Both Forreign and Domestick]]'', published 25 September 1690, is not counted as a ''regular'' newspaper, it being suppressed after its first issue. The ''[[Boston News-Letter]]'', first published 24 April 1704, is usually deemed the first ''regular'' newspaper of the New World.}}
+{{blockquote
+|text={{smallcaps|First Newspaper Establishment in Jamaica.}} The establishment of a printing press in this Island [...] proved a considerable convenience to the Government, and the commercial body of that day. The mercantile consignments were then publishend, and with facility circulated. The previous method employed to give notoriety to the arrivals of articles of mart, was having a written list attached to door posts of the respective stores, or by engaging a [slave] to proclaim the catalogue through the streets.
+|author=The Hermit in Kingston, in ''Jamaica Journal'' of 4 Oct. 1823.{{sfn|Cundall|1935|p=2}}
+}}
+
+=== Run ===
+
+==== Editorship ====
+
+The ''Courant'' was published by authority and passed by the censor of colonial Jamaica, Thomas Ridout.{{sfn|Cave|1975|p=14}} It was edited by Robert Baldwin until the first quarter of 1722; by his widow, Mary, until sometime during 1734; by their sons, Peter and Robert [Jr.], until 5 February 1746; it is unclear who edited the paper after this.{{sfn|Cave|1975|pp=15-16}}{{sfn|Cundall|1935|p=61}}{{notetag|Robert Baldwin died sometime before 17 April 1722 {{harv|Cave|1975|p=15}}. Peter Baldwin was dead by 5 February 1746 {{harv|Cave|1975|p=16}}.}}
+
+==== Printing ====
+
+The ''Courant'' was usually printed in four sheets of 17{{spaces|thin}}{{frac|1|2}} by 22{{spaces|thin}}{{frac|1|2}} inches.{{sfn|Cave|1975|p=14}} Its early copy seems to have been modelled after the ''[[London Gazette]]'', to which paper the ''Courant'''s first issues bore resemblance.{{sfn|Cave|1975|p=14}} The paper's design and format were modified in the 1720s.{{sfn|Cave|1975|p=14}} It was published by Robert Baldwin until the first quarter of 1722; by his widow, Mary, until sometime during 1734; by their sons, Peter and Robert [Jr.], until 5 February 1746; it is unclear who published the paper after this.{{sfn|Cave|1975|pp=15-16}}{{sfn|Cundall|1935|p=61}}{{notetag|Robert Baldwin died sometime before 17 April 1722 {{harv|Cave|1975|p=15}}. Peter Baldwin was dead by 5 February 1746 {{harv|Cave|1975|p=16}}.}}
+
+==== Coverage ====
+
+The ''Courant'' covered European news (as published in British papers which were brought over to Port Royal), government business, and some local news, including prices current and shipping intelligence, in addition to advertisements.{{sfn|Cave|1975|p=14}} Its coverage seems to have remained unchanged throughout the paper's history.{{sfn|Cave|1975|p=14}}
+
+An analysis of advertisements in extant issues of the ''Courant'' revealed that ads for runaway (black and white) slaves constituted the bulk of the paper's ads.{{sfn|Cave|1975|p=16}} The issue for 12 September 1722, notably, gave an account of the 28 August 1722 hurricane, which claimed 400 lives.{{sfn|Cave|1975|p=16}}
+
+==== Circulation ====
+
+A ''Courant'' issue cost 'one bit, or three-half-crowns a quarter.'{{sfn|Cave|1975|p=14}} Its audience is thought to have comprised mainly Jamaican merchants and planters.{{sfn|Cave|1975|p=14}} Distribution was organised by parish, with various of the press's agents taking subscriptions, and slaves delivering the paper's issues.{{sfn|Cave|1975|pp=14-15}} For instance,
+
+=== Disestablishment ===
+
+The ''Courant'''s date of last publication is uncertain. Its last issue is generally thought to have been published in 1755.{{sfn|Cave|1975|p=14}} It may have been continued by the ''St. Jago de la Vega Gazette'', first published in 1755, or merged with or replaced by the ''Jamaica Gazette'', first published in 1745.{{sfn|Lent|1976|p=93}}{{sfn|Cundall|1935|p=61}}
+
+== Legacy ==
+
+'[P]itifully few copies' of the ''Courant'' 'have survived the ravages of time, hurricane and termites.'{{sfn|Cave|1975|p=14}} For instance, the earliest extant issues, for 30 July 1718 and 5 August 1718, survived only due to their removal from Jamaica, as Baldwin had used these as pasteboard to bind a Royal Navy log-book due for the Board of Trade in London.{{sfn|Cave|1975|p=14}} In total, only 15 of the paper's issues are known.{{sfn|Cave|1975|p=16}}
+
+== Notes ==
+{{notefoot}}
+
+== Citations ==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+# {{cite magazine
+ |first             = Roderick
+ |last              = Cave
+ |date              = 1975
+ |title             = Printing comes to Jamaica
+ |work              = Jamaica Journal
+ |location          = Kingston
+ |pages             = 11-18
+ |volume            = 9
+ |issue             = 2-3
+ |publisher         = Institute of Jamaica
+ |url               = https://www.dloc.com/UF00090030/00027
+ |url-access        =
+}}
+# {{cite journal
+ |last              = Cave
+ |first             = Roderick
+ |date              = 1976
+ |title             = Printing in Nineteenth-Century Belize
+ |journal           = Library Quarterly
+ |volume            = 46
+ |issue             = 1
+ |pages             = 20-37
+ |url               = http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/4306599
+ |url-access        = subscription
+ |doi               = 10.1086/620464
+ |jstor             = 4306599
+}}
+# {{cite journal
+ |last              = Cave
+ |first             = Roderick
+ |date              = 1978
+ |title             = Early Printing and the Book Trade in the West Indies
+ |journal           = Library Quarterly
+ |volume            = 48
+ |issue             = 2
+ |pages             = 163-192
+ |url               = http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/4306937
+ |url-access        = subscription
+ |doi               = 
+ |jstor             = 4306937
+}}
+# {{cite book
+ |first             = Frank
+ |last              = Cundall
+ |date              = 1916
+ |title             = The press and printers of Jamaica prior to 1820
+ |series            = 
+ |volume            = 
+ |location          = Worcester, Mass.
+ |publisher         = American Antiquarian Society
+ |hdl               = 2027/hvd.32044024430100
+ |oclc              = 621457
+}}
+# {{cite book
+ |first             = Frank
+ |last              = Cundall
+ |date              = 1935
+ |title             = A history of printing in Jamaica from 1717 to 1834
+ |series            = 
+ |volume            = 
+ |location          = Kingston, Jam.
+ |publisher         = Institute of Jamaica
+ |hdl               = 
+ |oclc              = 493836
+ |url               = https://wellcomecollection.org/works/uqe4h9f7
+}}
+# {{cite book
+ |editor-first      = K. H.
+ |editor-last       = Ledward
+ |date              = 1924
+ |title             = March 1715 - October 1718
+ |series            = Journals of the Board of Trade and Plantations
+ |volume            = 3
+ |location          = London
+ |publisher         = Her Majesty's Stationery Office
+ |hdl               = 2027/msu.31293027029853
+ |oclc              =
+ |url               = http://www.british-history.ac.uk/jrnl-trade-plantations/vol3/
+}}
+# {{cite journal
+ |last              = Lent
+ |first             = John A.
+ |date              = 1976
+ |title             = The Oldest Existing Newspapers in the Commonwealth Caribbean
+ |journal           = Caribbean Quarterly
+ |volume            = 22
+ |issue             = 4
+ |pages             = 90-106
+ |url               = http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/23050567
+ |url-access        = subscription
+ |doi               = 
+ |jstor             = 23050567
+}}
+# {{cite book
+ |first             = Robert Montgomery
+ |last              = Martin
+ |date              = 1834
+ |title             = Possessions in the West Indies
+ |series            = History of the British colonies
+ |volume            = 2
+ |location          = London
+ |publisher         = Cochrane &amp; McCrone
+ |hdl               = 2027/hvd.32044009927740
+ |oclc              = 1155228020
+ |url               = 
+ |url-access        =
+}}
+# {{cite book
+ |last              = McMurtie
+ |first             = Douglas Crawford
+ |date              = 1934
+ |title             = The early press of Jamaica
+ |edition           = 1st
+ |orig-date         = 
+ |series            = 
+ |volume            = 
+ |location          = Metuchen, N.J.
+ |publisher         = Priv. print.
+ |hdl               = 2027/txu.059173023849961
+ |oclc              = 3429184
+}}
+# {{cite book
+ |last              = McMurtie
+ |first             = Douglas Crawford
+ |date              = 1942
+ |title             = The first printing in Jamaica, with a discussion of the date of the first establishment of a press on the island by Robert Baldwin
+ |edition           = 2nd
+ |orig-date         = First published 1934
+ |series            = 
+ |volume            = 
+ |location          = Evanston, Ill.
+ |publisher         = Priv. print.
+ |hdl               = 
+ |oclc              = 2457982
+}}
+{{refend}}
+
+{{authority control}}
+{{Jamaica topics}}
+
+[[Category:18th-century disestablishments in Jamaica]]
+[[Category:1710s establishments in Jamaica]]
+[[Category:Newspapers published in Jamaica]]
+[[Category:Publications disestablished in the 1750s]]
+[[Category:Publications established in 1718]]</text>
+      <sha1>5r446vviz8fdajdam8hqwjrszgdu340</sha1>
+    </revision>
+  </page>
+</mediawiki>

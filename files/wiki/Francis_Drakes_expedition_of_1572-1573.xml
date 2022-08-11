@@ -1,0 +1,798 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Francis Drake's expedition of 1572–1573</title>
+    <ns>0</ns>
+    <id>70703762</id>
+    <revision>
+      <id>1095290575</id>
+      <parentid>1095285711</parentid>
+      <timestamp>2022-06-27T14:54:07Z</timestamp>
+      <contributor>
+        <username>Eastfarthingan</username>
+        <id>11187569</id>
+      </contributor>
+      <minor/>
+      <comment>Cleaned up using [[WP:AutoEd|AutoEd]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55016" xml:space="preserve">{{short description|Caribbean trip by the English explorer}}
+{{use dmy dates|date=May 2022}}
+{{use British English|date=May 2022}}
+{{Infobox military conflict
+| conflict          = Drake's expedition of 1572{{nbnd}}1573
+| width             =
+| partof            = [[Anglo-Spanish War (1585–1604)|Anglo-Spanish War]]
+| image             = File:America, from discovery in 1942 to the present time (1894) (14577961570).jpg
+| image_size        = 300px
+| alt               =
+| caption           = Francis Drake in Central America, 1573
+| date              = {{start and end dates|1572|5|24|1573|8|6|df=y}}
+| place             = [[Isthmus of Panama]]
+| coordinates       = {{Coord|8|40|N|80|0|W|display=title,inline}}
+| map_type          =
+| map_relief        =
+| map_size          =
+| map_marksize      =
+| map_caption       =
+| map_label         =
+| territory         =
+| result            = Anglo-French privateer victory
+| status            =
+| combatants_header =
+| combatant1        = {{unbulleted list|{{flag|England}}|{{flagicon image|Bannière de France style 1700.svg}} [[Kingdom of France|France]]|''[[Cimarron people (Panama)|Cimarrones]]''}}
+| combatant2        = {{flag|Spain|1506}}
+| combatant3        =
+| commander1        = {{unbulleted list|{{flagicon|England}} [[Francis Drake]]|{{flagicon|England}} John Drake{{KIA|bold=no}}|{{flagicon|England}} Joseph Drake{{Natural Causes|bold=no}}|{{flagicon|England}} James Raunce&lt;sup&gt;1&lt;/sup&gt;|{{flagicon|England}} [[John Oxenham]]|{{flagicon|England}} Thomas Sherwell|{{flagicon|England}} John Overy|{{flagicon|England}} Ellis Hixom&lt;sup&gt;2&lt;/sup&gt;|{{flagicon image|Bannière de France style 1700.svg}} [[Guillaume Le Testu]]{{KIA|bold=no}}|{{flagicon|Genoa}} Lopez Vaez {{small|/ presumed}}|Pedro Mandinga&lt;sup&gt;6&lt;/sup&gt; {{small|/ ''cimarron'' chief}}|Diego {{small|/ ''cimarron''}}}}
+| commander2        = {{unbulleted list|{{flagicon|Spain|1506}} Luís de Rojas {{small|/ Gov.}}|{{flagicon|Spain|1506}} Francisco Bahamonde de Lugo {{small|/ Gov.}}|{{flagicon|Spain|1506}} Álvaro de Mendoza|{{flagicon|Spain|1506}} Martín de Mendoza|{{flagicon|Spain|1506}} Antonio Juárez de la Concha|{{flagicon|Spain|1506}} Jorge Nuñez de Prado|{{flagicon|Spain|1506}} Juan Juárez de Castilla|{{flagicon|Spain|1506}} Nicolás López|{{flagicon|Spain|1506}} Cristóbal Monte|{{flagicon|Spain|1506}} Anton Couto}}
+| commander3        =
+| units1            = {{unbulleted list|{{flagicon|England}} ''Pascha''&lt;sup&gt;3&lt;/sup&gt; {{small|/ 70 t. 47 men Francis Drake capt.}}|{{flagicon|England}} ''Swan''&lt;sup&gt;4&lt;/sup&gt; {{small|/ 25 t. 26 men John Drake capt.}}|{{flagicon|England}} ''Lion'' {{small|/ c. 20 t.}}|{{flagicon|England}} ''Bear'' {{small|/ c. 20 t.}}|{{flagicon|England}} ''Minion'' {{small|/ c. 20 t.}}|{{flagicon|England}} barque {{small|/ 30 men Raunce capt. Overy mstr.}}|{{flagicon image|Bannière de France style 1700.svg}} ''Havre''&lt;sup&gt;5&lt;/sup&gt; {{small|/ 80 t. 70 men}}|sm. craft {{small|/ 30 ''cimarron'' men}}}}
+| units2            = {{flagicon|Spain|1506}} ''Santa Catalina'' {{small|/ Couto capt.}}
+| units3            =
+| strength1         = {{unbulleted list|203 men {{small|/ 103 ''in'' 1572 / 173 ''in'' 1573}}|3 ships|3 pinnaces|1 barque|sev. sm. craft}}
+| strength2         = {{unbulleted list|vars. infantry units|vars. naval units}}
+| strength3         =
+| casualties1       = {{unbulleted list|&gt; 4 killed|&gt; 30 deaths {{small|/ illness}}|vars. wounded|1 to 3 detained}}
+| casualties2       = {{unbulleted list|11 to 14 killed|vars. wounded|&gt; 14 vessels surprised {{small|/ cargo seized / crews detained, impressed, or marooned}}|&gt; 6 settlements surprised|c. 100,000 pesos in gold lost}}
+| casualties3       =
+| notes             = {{unbulleted list|&lt;sup&gt;1&lt;/sup&gt; ''aka'' Raunse, Rance, Ranse|&lt;sup&gt;2&lt;/sup&gt; ''aka'' Hickson|&lt;sup&gt;3&lt;/sup&gt; ''aka'' ''Pascha'', ''Pasca'', ''Pasco''|&lt;sup&gt;4&lt;/sup&gt; ''aka'' ''Swanlet''|&lt;sup&gt;5&lt;/sup&gt; ''aka'' ''New Haven''|&lt;sup&gt;6&lt;/sup&gt;''aka'' Chief Pedro}}
+| campaignbox       = {{Campaignbox Anglo-Spanish War}}
+}}
+
+'''Francis Drake's expedition of 1572{{nbnd}}1573''' was an uncommissioned profiteering voyage by [[Sir Francis Drake]] in the western and southern quarters of the [[Caribbean Sea]].
+
+== Prelude ==
+
+Drake's 1571 cruise of the West Indies had proved quite successful, earning him and his crew over £100,000. Consequently, upon his return to Plymouth that year, Drake determined to repeat his feat, assembling, with his brothers John and Joseph, a fleet of two light ships and three small pinnaces.{{sfn|Kelsey|2004|loc=sec. 'Raids on the Spanish main' para. 2-3}}{{sfn|Marley|1998|p=101}}{{notetag|It has been suggested that the 1572{{nbnd}}1573 expedition was Drake's sixth one to the West Indies, making Drake's 1571 cruise his fifth, and further, that the former's aim was the capture of Nombre de Dios {{harv|Wright|1932|pp=xxxvii-xxxviii}}.}}
+
+== Expedition ==
+
+=== Departure ===
+Drake and company departed Plymouth (aboard the ''Pascha'' and ''Swan'') in May 1572, landing in southern Dominica on 29 June. Here, the crew refreshed their provisions, and set (on 1 July) set for Port Pheasant (Zapzurro Cove, 35 leagues west of Tolú), which they reached in 11 days (on 12 July). The following day, Drake is joined by James Raunse and his 30 men.{{sfn|Kelsey|2004|loc=sec. 'Raids on the Spanish main' para. 3}}{{sfn|Marley|1998|p=101}}{{sfn|Best|2021|pp=48-49}}{{notetag|The pinnaces (''Lion'', ''Bear'', ''Minion'') had been brought from Plymouth dismantled, aboard the ''Pascha'' and ''Swan'' (cf previous citations). Drake had learnt of the small hidden cove, dubbed ''Port Pheasant'', on a prior trip. Entrance to the cove was through a narrow channel in some reefs. The cove had a beach of about a mile in length, and water seven fathoms deep. At the cove, the crew noticed smoke rising from the jungle. Near this spot was a lead plate with a message that read{{nbnd}}{{blockquote|text=Captain Drake, if you fortune to come to this port make haste away, for the Spaniards which you had with you here last year have betrayed the place and taken away all that you left here. I departed from hence this present 7 of July 1572.|author=Your loving friend, John Garrett [of Plymouth].}}(cf previous citations).}}
+
+=== Cruise ===
+==== 1572 ====
+===== Nombre de Dios =====
+[[File:Insvlæ Americanæ in Oceano Septentrionali cum terris adjacentibus. LOC 2003630536.jpg|thumb|''Insvlæ Americanæ'', 1634 map of the [[Spanish Main]] {{small|/ 1634 map by [[Willem Blaeu|Willem Janszoon Bleau]] / via LC}}]]
+At Port Pheasant, Drake and Raunse's men built a log fort, so as to allow the carpenters time to assemble Drake's pinnaces.{{sfn|Kelsey|2004|loc=sec. 'Raids on the Spanish main' para. 3}}
+
+On 20 July, the pinnaces having been assembled, the Drake{{nbnd}}Raunce fleet sail for Isla de Pinos (not Cuban isle), where they surprise two Spanish frigates out of Nombre de Dios. The frigates' (enslaved) sailors furnish the party with fresh intelligence regarding the said port, whereupon Drake (with 53 of his men aboard Drake's three pinnaces) and Raunce (with 20 of his men aboard a Spanish prize shallop) set sail for Nombre de Dios, making landfall in the evening of 29 July.{{sfn|Marley|1998|p=101}}{{sfn|Kelsey|2004|loc=sec. 'Raids on the Spanish main' para. 3}}{{sfn|Wright|1932|p=xxxviii}}
+
+At 3:00 am that night, the men steal into the port aboard rowboats, but are nonetheless espied by a 60-tonne Spanish merchantman in the harbour. Drake and company managed to land, however, whereupon they took the town's six-gun battery without opposition. They now began dismounting its ordinance, which endeavour stirred the ''vecinos'' out of slumber. Upon hearing the warning bells and war drums, Drake and Raunce split their company{{nbnd}} a dozen men guard the shore, John Oxenham and 16 others circle behind the plaza, while Drake leads the rest (46 men, with Raunce) noisily up the town's main thoroughfare. In the plaza, the Drake detachment are greeted by 'a jolly hot volley of shot,' but they nevertheless eventually scatter the impromptu militia, and thereby secure the city for themselves. Before the crew could loot the treasury, however, a sudden rainstorm drenched the men's match and gunpowder, and (coincidentally), Drake fainted from loss of blood (having sustained a gunshot during the volley). The fleet hastily retreated to Bastimentos (at dawn, on 30 July).{{sfn|Marley|1998|p=101}}{{sfn|De la O Torres|2020|pp=268, 281}}{{sfn|Wright|1932|pp=xxxvii-xxxviii}}{{sfn|Best|2021|p=49}}{{notetag|It has been suggested that the gathered militia did not, in fact, disperse, and that the fleet made their escape upon seeing the congregation (rather than upon the captain's being injured) ({{harvnb|Kelsey|2004|loc=sec. 'Raids on the Spanish main' para. 3}}, {{harvnb|De la O Torres|2020|p=281}}).}}
+
+===== Spanish Main =====
+While recuperating at Bastimentos, Paunce takes his leave (on 6 August). Drake (now with only his 73 men) now sets upon the Spanish Main, sighting Carthagena by the evening of 13 August. That night, the men seize the ''Pasha'', a 240-tonne merchantman. This is followed by the seizure of two frigates the next day. As his crew was now stretched thin across two ships, three pinnaces, and three Spanish prizes, Drake burns one of the prizes, and scuttles the ''Swan''.{{sfn|Kelsey|2004|loc=sec. 'Raids on the Spanish main' para. 4}}{{sfn|Marley|1998|pp=101-102}}{{sfn|Wright|1932|p=xxxiv}}{{sfn|Best|2021|pp=49-50}}
+
+Shortly thereafter, the crew set up a camp, christened ''Port Plenty'', in the Gulf of San Blas (ie Darien). From this base, (Francis) Drake and company spend the next five or six weeks raiding settlements along the Main (as far east as the Magdalena River), while John Drake endeavours to befriend the Panamanian ''cimarrones''.{{sfn|Kelsey|2004|loc=sec. 'Raids on the Spanish main' para. 4}}{{sfn|Marley|1998|pp=101-102}}{{sfn|Best|2021|p=50}}{{notetag|Port Plenty called ''Fort Diego'' in {{harvnb|Wright|1932|p=xxxix}}, who further locates it on Slaughter Island, also in San Blas.}}
+
+John having cemented an alliance with the ''cimarrones'' (by 24 September), the company relocate Port Plenty, and spend the next two weeks fortifying it. On 7 October they are once more cruising off Cartagena. On 17 October, Oxenham and the ''Swan'' seize a 50-tonne barque, marooning its 10 men and 5 slaves. On 20 October, the fleet intercept a 58-tonne and a 12-tonne frigate, likewise stranding their crews. Having noticed the fleet, on 22 October (at dawn), two frigates from Carthagena engage Drake. They have a difficult time of it, however, the bay proving too vast to corner the Englishmen. The fleet finally quit Carthagena (for the Magdalena River) on 3 November, their provisions running dangerously low.{{sfn|Marley|1998|p=102}}{{notetag|On 27 October, a Spanish merchant frigate ran aground in the bay, but Drake was prevented from taking it by the two (military) frigates. On 2 November, these were reinforced by an armed shallop, which engaged the Drake {{harv|Marley|1998|p=102}}.}}{{notetag|During this cruise, 'Drake sought to do more or less honest business [with the Spanish at Cartagena] where now he proffered for sale or barter tin, pewter, cloth and other merchandise[,] [but he found that] King [Philip] had forbidden [the ''vecinos''] to traffique with any forraine Nation [such that] no hope remained of any purchase to bee had in this place any longer' {{harv|Wright|1932|p=xl}}.}}{{notetag|{{harvnb|Best|2021|p=49}} notes that ''cimarrones'' had (almost) taken Nombre de Dios by surprise six weeks prior to Drake's arrival in Dominica or Port Pheasant, and further claims John or Francis Drake made contact at Isla de las Palmas.}}
+
+The fleet reach Magdalena on 5 November, but find the settlements deserted and the herds withdrawn inland (Spanish authorities having forwarded the ''vecinos''). They continue on to Santa Marta, reaching that town within a week. Here they also find the Spanish prepared, as they are prevented from watering by hidden snipers on shore. (Seize 90 tonne vessels w victuals here on 12 nov, detain crew for a day) They next set for Curaçao, landing there on 13 November. (A couple of days later, Drake de- taches Oxenham’s pinnace Minion to sail directly back and advise his Panamanian base of his immi- nent return, while he scours the Main with his own pinnace and prize.) Upon refreshing for a few days, Drake renewed his raids towards the Main, while Oxenham (aboard the ''Minion'') was despatched to the recently-relocated Port Plenty, for advise the crew there of Drake's upcoming return.{{sfn|Marley|1998|p=102}}{{notetag|An empty Spanish frigate was seized near Magdalena, and a 90-tonne vessel (with victuals) near Curaçao. The latter's crew were detained for a day {{harv|Marley|1998|p=102}}.}}
+
+Drake followed Oxenham to Port Plenty within the fortnight. Upon his 27 November arrival, he discovered his brother John had died. Drake now decided to postpone further raids, so as to renew his efforts upon the Panamanian treasure train the coming year. His remaining brother, Joseph, succumbed to a fatal fever that December.{{sfn|Kelsey|2004|loc=sec. 'Raids on the Spanish main' para. 4}}{{sfn|Marley|1998|p=102}}{{sfn|Wright|1932|p=xl}}{{notetag|John Drake had been 'sodenlie stroken with a gunne shott' during a 9 October attempt to board a Spanish frigate passing near Port Plenty. Joseph Drake died of a fever that December (cf previous citations). {{harvnb|Wright|1932|p=xl}} suggests Joseph's death was part of a yellow fever epidemic in the crew's camp, which would have proved fatal to a number of the men. The crew's doctor, during Joseph's autopsy, had found no evidence of yellow fever. He nevertheless concocted an antidote, 'which he hoped would save other crew members,' but died upon trying his own medicine {{harv|Best|2021|p=50}}.}}
+
+==== 1573 ====
+===== Venta Cruces =====
+On 30 January, upon ''cimarron'' allies' intelligence, the ''Lion'' reconnoitred Nombre de Dios, intercepting a Spanish frigate there, which confirmed (the ''cimarrones''' information) that the Spanish plate fleet had arrived. Consequently, on 3 February, Drake and Oxenham, with 16 Englishmen and 30 ''cimarrones'', trudged through the jungle and over the Cordilleras to intercept the treasure train. On 14 February, the party approached Panama City, whereupon a ''cimarron'' in disguise stole into the settlement, returning that evening with news of an upcoming 14-mule treasure train (from Lima, to Nombre de Dios, via Venta de Cruces). The rovers set up an ambush near Venta Cruces (on Chagres River). Robert Pike, a drunken crew-mate, was discovered by a Spanish traveller en route to Venta Cruces, whereupon the treasure train was forestalled. They nonetheless managed to seize a few silver-loaded mules, and make a hasty retreat to Venta Cruces, which they easily occupied for some time, reaching base camp on 22 February.{{sfn|Kelsey|2004|loc=sec. 'Raids on the Spanish main' para. 4}}{{sfn|Marley|1998|p=102}}{{sfn|Wright|1932|pp=xli-xliii}}{{sfn|Best|2021|pp=50-51}}{{notetag|On 11 February, the ''cimarron'' chief, Pedro Mandingo, lead Drake to a hilltop tree, from where the latter sighted both oceans flaking the isthmus, thereby (reputedly) being the first Englishman to do so. Drake is said to have prayed that God 'give him life and leave to sail once in an English ship in that sea' ({{harvnb|Marley|1998|p=102}}, {{harvnb|Best|2021|p=51}}).}}
+
+===== Veragua =====
+Undaunted, Drake determined to cruise off Veragua (aboard the ''Minion''), finally desisting on 19 March, having gained a frigate and its Genoese pilot. In the meantime, Oxenham cruise eastwards (aboard the ''Bear''), where he seized a well-provisioned frigate out of Tolú, heading back to camp by 21 March.{{sfn|Marley|1998|pp=102-103}}{{notetag|At this point, the ''Lion'' was scuttled 'for lack of men' {{harv|Marley|1998|p=103}}.}}{{notetag|{{blockquote|text=In the month of February a little frigate sailed along the coast of Verague to the mouth of El Desaguadero [San Juan River]. She carried thirteen Englishmen. Her armament was eighteen small culverins and two larger pieces, all ready for action. They seized four frigates which had sailed from the province of Nicaragua (from the city of Leon and from the city of Granada) and were bound to Nombre de Dios to sell poultry, maize and such like. / On Holy Thursday, in the afternoon, these same English with a frigate and a pinnace and a skiff arrived at La Guanaja, which is an island close to the city of Trujillo. They were guided by Antonio Vaez, Portuguese, and two Spaniards whom they had made prisoners at Cape Cameron, where these men had been held captives among the Indians. Seven years before in company with Licentiate Ortiz they had gone to Tegucigalpa and there they had remained, lost. / These two gave the English to understand that they would persuade the Indians of the island to give them good supplies and what they might need. As soon as they reached land they made off among the Indians, who brought them in a canoe to Trujillo, where they now are. / From Trujillo forty soldiers set out in a small ship in search of the Englishman. They say they did not find him, and that he had sailed, steering a northerly course. / I had written to the town council to be on the alert to attack these English if they called; and I warned Puerto de Caballos to be ready, advising that I understood these people were going to do damage in that place. Similarly, they intended to enter Golfo Dulce and pillage certain Spanish establishments which are at the landing place, where there is a quantity of wine and merchandise.|author=Guatemala, 15 May 1573, Villalobos to Crown, trans. Wright {{harv|Wright|1932|loc=pt. 1 doc. no 29}}.}}}}
+
+The men celebrated Easter at Port Plenty, on 22 March. The next day, Drake ventured out (aboard his Spanish prize and the ''Bear''). On 25 March, they chanced upon Guillaume Le Testu (and his 70 men aboard an 80-tonne ship), who agrees to join Drake and the ''cimarrones'' in an attempt against the treasure train.{{sfn|Marley|1998|p=103}}{{sfn|De la O Torres|2020||pp=281-282}}{{sfn|Wright|1932|pp=xliii-xliv}}{{sfn|Bergreen|2021|pp=51-52}}{{notetag|{{harvnb|Bergreen|2021|pp=51–52}} places the chance meeting as occurring off Cativas Island, and further dates it to 23 March 1573, though does not indicate whether the date is Gregorian or Julian.}}
+
+===== Nombre De Dios =====
+On 31 March, Drake (with 20 men), Le Testu (with some 20 men), and a number of ''cimarrones'', rendezvous at the mouth of the San Francisco River, from where they advance (this time towards Nombre de Dios) to intercept the treasure train. On the morning of 1 April, the rovers (successfully) ambushed a treasure train of some 160 mules and 45 armed guards. The Spaniards guards engaged the rovers, mortally wounding Le Testu in the process. As their treasure summed nearly 30 tonnes of silver and gold, the surviving crew hid half of the booty before hastily making their escape, planning to recuperate the loot later on. They arrive at the rendezvous point on 3 April, only to find seven Spanish pinnaces at the river's mouth, and none of their own vessels (one prize and two pinnaces, which had been blown off-course some 12 miles by a strong westerly wind). Drake and three 'brave companions' venture out, in a shoddy raft, to retrieve their craft, which they do by nightfall, returning with the ''Bear'' and the ''Minion''. The rovers hastily returned to base camp, where the loot was divided and the each contingent parted ways, their enterprise having proved a success.{{sfn|Marley|1998|pp=103-104}}{{sfn|Wright|1932|pp=liv}}{{sfn|Best|2021|p=52}}{{notetag|{{harvnb|Kelsey|2004|loc=sec. 'Raids on the Spanish main' para. 5}} suggests that this raid netted Drake's company at least £20,000.}}{{notetag|Le Testu, who had not died immediately upon his wounding, was left near the ambush site with two of his men. In mid-April, Oxenham, Thomas Sherwell, with 10 of their men and 16 ''cimarrones'', returned to rescue Le Testu. To their dismay, they discover Le Testu and one of his men had been taken by Spaniards on the day of the ambush, along with most of the 15 tonnes of silver which had been hidden. Oxenham rescued the remaining Frenchman, and retrieved 13 silver bars and a few quoits of gold before rejoining Drake {{harv||Marley|1998|pp=103–104}}.}}
+
+=== Return ===
+In late April, Drake departed Port Plenty, now with a 30-man crew. The crew provisioned themselves at the Magdalena River (with 250 turtles and a Spanish merchantman). The crew set anchor at Plymouth on 9 August, bringing the expedition to an end.{{sfn|Marley|1998|p=104}}{{sfn|Bergreen|2021|pp=52-53}}{{notetag|Diego, the ''cimarron'', joined Drake's crew {{harv|Bergreen|2021|loc=cap. 1 sec. 'Drake did not expect to command ...' para. 9}}.}}
+
+=== Timeline ===
+{| class="sortable"
+|+ style="text-align:left;"|Timeline of the 1572{{nbnd}}1573 expedition.{{sfn|Marley|1998|pp=101-104}}{{sfn|Wright|1932|loc=pt. 1 docs. nos. 17-35}}{{sfn|Wright|1932|pp=????????}}{{sfn|Best|2021|pp=48-53}}{{notetag|The accuracy of some of these dates has been called into question {{harv|Wright|1932|p=xli}}.}}
+|-
+! style="text-align:right;"                                       |{{abbr|Flr.|Floor or lower bound of date or date-range}}
+! style="text-align:right;padding-left:.5em;"                     |{{abbr|Clg.|Ceiling or upper bound of date or date-range}}
+! style="text-align:left;padding-left:.5em;"class=unsortable      |Place
+! style="text-align:left;padding-left:.5em;"class=unsortable      |Event
+! style="text-align:left;padding-left:.5em;"class=unsortable      |Parties
+! style="text-align:left;padding-left:.5em;"class=unsortable      |Notes
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|5|24|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|5|24|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Plymouth
+| style="padding-left:.5em;vertical-align:top;"                   |Departure
+| style="padding-left:.5em;vertical-align:top;"                   |{{hlist|''Pascha''|''Swan''}} {{small|/ Drake 73 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |–
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|6|29|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|6|29|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Dominica
+| style="padding-left:.5em;vertical-align:top;"                   |Arrival
+| style="padding-left:.5em;vertical-align:top;"                   |{{hlist|''Pascha''|''Swan''}} {{small|/ Drake 73 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Provisioned
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|7|1|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|7|1|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Dominica
+| style="padding-left:.5em;vertical-align:top;"                   |Departure
+| style="padding-left:.5em;vertical-align:top;"                   |{{hlist|''Pascha''|''Swan''}} {{small|/ Drake 73 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |–
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|7|12|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|7|12|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Port Pheasant
+| style="padding-left:.5em;vertical-align:top;"                   |Arrival
+| style="padding-left:.5em;vertical-align:top;"                   |{{hlist|''Pascha''|''Swan''}} {{small|/ Drake 73 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Pinnaces ''Lion'', ''Bear'', ''Minion'' assembled
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|7|13|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|7|13|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Port Pheasant
+| style="padding-left:.5em;vertical-align:top;"                   |Arrival
+| style="padding-left:.5em;vertical-align:top;"                   |{{hlist|barque|Sp. shallop}} {{small|/ Raunce 30 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |–
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|7|14|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|7|14|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Port Pheasant
+| style="padding-left:.5em;vertical-align:top;"                   |Cruise
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake ? men}}&lt;br&gt;''Santa Catalina'' {{small|/ Couto ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |''Santa Catalina'' seized {{small|/crew detained 40 days}}
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|7|20|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|7|28|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Isle of Pinos
+| style="padding-left:.5em;vertical-align:top;"                   |Cruise
+| style="padding-left:.5em;vertical-align:top;"                   |{{hlist|''Lion''|''Bear''|''Minion''}} {{small|/ Drake 53 men}}&lt;br&gt;Sp. shallop {{small|/ Raunce 20 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |2 Sp. frig. seized
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|7|29|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|7|30|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Nombre de Dios
+| style="padding-left:.5em;vertical-align:top;"                   |Sack
+| style="padding-left:.5em;vertical-align:top;"                   |{{hlist|''Lion''|''Bear''|''Minion''}} {{small|/ Drake 53 men}}&lt;br&gt;Sp. shallop {{small|/ Raunce 20 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Sp. residents engage {{small|/ 7 or 8 Sp. killed / 32 Sp. wounded / some Eng. killed}} / Sp. merchandise seized
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|8|6|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|8|6|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Port Pheasant
+| style="padding-left:.5em;vertical-align:top;"                   |Departure
+| style="padding-left:.5em;vertical-align:top;"                   |{{hlist|barque|Sp. shallop}} {{small|/ Raunce 30 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |–
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|8|13|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|8|13|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Spanish Main
+| style="padding-left:.5em;vertical-align:top;"                   |Cruise
+| style="padding-left:.5em;vertical-align:top;"                   |{{hlist|''Pascha''|''Swan''|''Lion''|''Bear''|''Minion''}} {{small|/ Drake ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Sp. ship seized {{small|/ 240 t.}}
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|8|14|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|8|14|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Spanish Main
+| style="padding-left:.5em;vertical-align:top;"                   |Cruise
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |2 Sp. frig. seized {{small|/ 1 burnt}} / ''Swan'' scuttled
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|8|15|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|8|15|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Port Plenty
+| style="padding-left:.5em;vertical-align:top;"                   |Arrival
+| style="padding-left:.5em;vertical-align:top;"                   |{{hlist|''Pascha''|''Lion''|''Bear''|''Minion''|Sp. ship|Sp. frig.}} {{small|/ Drake ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |–
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|8|16|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{start date|1572|9|23|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Spanish Main
+| style="padding-left:.5em;vertical-align:top;"                   |Cruise
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |–
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|8|15|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|9|23|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Port Plenty
+| style="padding-left:.5em;vertical-align:top;"                   |Arrival
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Pedro ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Alliance est. by John Drake
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|9|24|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|9|24|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Port Plenty
+| style="padding-left:.5em;vertical-align:top;"                   |Arrival
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Camp relocated
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|10|17|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|10|19|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Spanish Main
+| style="padding-left:.5em;vertical-align:top;"                   |Cruise
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Sp. barque seized {{small|/ 50 t. 10 Sp. 5 slaves / all marooned}}
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|10|20|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{start date|1572|10|21|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Spanish Main
+| style="padding-left:.5em;vertical-align:top;"                   |Cruise
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Sp. ship seized {{small|/ 58 t. / all marooned}} / Sp. frig. seized {{small|/ 12 t. / all marooned}}
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|10|22|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|11|2|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Carthagena
+| style="padding-left:.5em;vertical-align:top;"                   |Cruise
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake ? men}}&lt;br&gt;{{hlist|2 frig.|1 shallop}} {{small|/ Mendoza ? Sp. men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Sp. engage
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|11|3|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|11|3|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Carthagena
+| style="padding-left:.5em;vertical-align:top;"                   |Departure
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |–
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|11|5|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|11|5|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Magdalena
+| style="padding-left:.5em;vertical-align:top;"                   |Arrival
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Sp. residents fled / herds withdrawn / Sp. frig. seized {{small|/ no cargo}}
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|11|12|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|11|12|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Santa Marta
+| style="padding-left:.5em;vertical-align:top;"                   |Arrival
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Sp. snipers engage / Sp. ship seized {{small|/ 90 t. ? men / well provisioned / crew detained}}
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|11|13|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|11|13|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Curaçao
+| style="padding-left:.5em;vertical-align:top;"                   |Arrival
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |–
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|11|15|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|11|18|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Curaçao
+| style="padding-left:.5em;vertical-align:top;"                   |Departure
+| style="padding-left:.5em;vertical-align:top;"                   |''Minion'' {{small|/ Oxenham ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |–
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|11|15|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|11|26|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Spanish Main
+| style="padding-left:.5em;vertical-align:top;"                   |Cruise
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |–
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1572|11|27|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1572|11|27|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Port Plenty
+| style="padding-left:.5em;vertical-align:top;"                   |Arrival
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |And rest / John, Joseph die
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1573|1|30|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1573|1|30|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Nombre de Dios
+| style="padding-left:.5em;vertical-align:top;"                   |Cruise
+| style="padding-left:.5em;vertical-align:top;"                   |''Lion'' {{small|/ ? ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Sp. frig. seized {{small|/ crew interrogated}}
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1573|2|3|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1573|2|3|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Port Plenty
+| style="padding-left:.5em;vertical-align:top;"                   |Departure
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake 17 men}}&lt;br&gt;? {{small|/ Pedro 30 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Jungle march
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1573|2|14|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1573|2|14|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Panama
+| style="padding-left:.5em;vertical-align:top;"                   |Arrival
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake 17 men}}&lt;br&gt;? {{small|/ Pedro 30 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Ambush set up, but discovered / couple Sp. treasure mules seized {{small|4 to 6 Sp. killed, inc. 1 friar}} / 1 Sp. settlement burnt
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1573|2|22|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1573|2|22|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Port Plenty
+| style="padding-left:.5em;vertical-align:top;"                   |Arrival
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake 17 men}}&lt;br&gt;? {{small|/ Pedro 30 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |–
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1573|2|23|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1573|3|19|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Veragua
+| style="padding-left:.5em;vertical-align:top;"                   |Cruise
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake 17 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Sp. frig. seized {{small|/ Genoese pilot impressed}}
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1573|2|23|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1573|3|21|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |?
+| style="padding-left:.5em;vertical-align:top;"                   |Cruise
+| style="padding-left:.5em;vertical-align:top;"                   |''Bear'' {{small|/ Oxenham ? men}}&lt;br&gt;? {{small|/ Pedro 30 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Due east of Veragua / Sp. frig seized {{small|/ well-provisioned}}
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1573|3|23|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1573|3|30|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |?
+| style="padding-left:.5em;vertical-align:top;"                   |Cruise
+| style="padding-left:.5em;vertical-align:top;"                   |{{hlist|''Bear''|Sp. frig.}} {{small|/ Drake ? men}}
+| style="padding-left:.5em;vertical-align:top;"                   |–
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1573|3|25|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1573|3|25|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |?
+| style="padding-left:.5em;vertical-align:top;"                   |Meeting
+| style="padding-left:.5em;vertical-align:top;"                   |{{hlist|''Bear''|Sp. frig.}} {{small|/ Drake ? men}}&lt;br&gt;''Havre'' {{small|/ Testu 70 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Testu joins Drake
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1573|3|31|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1573|4|3|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Nombre de Dios
+| style="padding-left:.5em;vertical-align:top;"                   |Sack
+| style="padding-left:.5em;vertical-align:top;"                   |{{hlist|''Bear''|''Minion''|Sp. frig.}} {{small|/ Drake 20 men}}&lt;br&gt;? {{small|/ Testu 20 men}}&lt;br&gt;? {{small|/ Pedro ? men}}&lt;br&gt;mules {{small|/ 45 Sp. men}}
+| style="padding-left:.5em;vertical-align:top;"                   |1 Eng. 1 ''cimarron'' 2 French killed / 1 ''cimarron'' captured / 1 French stranded / 3 Sp. mule trains seized {{small|/30 t. = 200,0000 pesos gold and silver / half left behind, later recovered by Sp.}}
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1573|4|7|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1573|4|22|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Nombre de Dios
+| style="padding-left:.5em;vertical-align:top;"                   |Rescue
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Oxenham 11 men}}&lt;br&gt;? {{small|/ Pedro 16 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |Testu + guard presumed dead / remaining guard rescued / 13 silver bars + few quoits gold recovered
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1573|4|15|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1573|4|30|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Port Plenty
+| style="padding-left:.5em;vertical-align:top;"                   |Departure
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake 30 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |1 Sp. vessel seized
+|-
+| style="text-align:right;vertical-align:top;"                    |{{start date|1573|8|9|df=y}}
+| style="text-align:right;vertical-align:top;padding-left:.5em;"  |{{end date|1573|8|9|df=y}}
+| style="vertical-align:top;padding-left:.5em;"                   |Plymouth
+| style="padding-left:.5em;vertical-align:top;"                   |Arrival
+| style="padding-left:.5em;vertical-align:top;"                   |? {{small|/ Drake 30 men}}
+| style="padding-left:.5em;vertical-align:top;"                   |–
+|}
+
+== Aftermath ==
+
+Drake and company are thought to have profited at least £20,000 altogether. Some of this may have been forwarded to member of the Privy Council, who reportedly secured Drake a pre-emptive pardon for his unauthorised expedition. Drake himself may have use some of his share to buy a property on Notte Street, Plymouth, where he was listed as a merchant in 1576.{{sfn|Kelsey|2004|loc=sec. 'Raids on the Spanish main' paras. 5-6}}{{sfn|Wright|1932|p=xlv}}
+
+In the first half of 1573, the Real Audiencia of Panama stationed 60 soldiers at the Nombre de Dios garrison, to bolster its defence, and further petitioned the Crown 'promptly to take measures necessary to the defence of this coast and kingdom, for it is considered certain that the corsairs who have now left will return in greater force, and it is even said that they announce that they will settle.' Later that year, Spanish authorities in Panama retaliated against Drake's ''cimarron'' allies.{{sfn|Wright|1932|loc=pt. 1 doc. no. 25}}{{sfn|Wright|1932|p=xlv|loc=footnote no. 3}}
+
+The Real Audiencia of Guatemala likewise took steps to better defend its realm, planning 'to settle some Indians in a location [in Golfo Dulce] such that they can send warning if any [pirate] vessels seek to enter.'{{sfn|Wright|1932|p=75|loc=pt. 1 doc. no. 29}}
+
+== Legacy ==
+
+This voyage has been considered Drake's first ''independent'' expedition, with its final raid on the treasure train deemed 'the most daring attack ever made upon Spanish-American treasure [up to 1573]'.{{sfn|Wright|1932|pp=xxxvii, xlii}}
+
+Drake (or Oxenham) is further reputed as the first Englishman to have sighted the Pacific and Atlantic Oceans from Pedro Mandingo's lookout point, (as Vasco Nuñez de Balboa had done in 1513, purportedly from the same lookout), and the first Englishman to have cruised the Bay of Honduras (and possibly the waters of present-day Belize).{{sfn|Wright|1932|pp=xli-xlii}}{{sfn|Best|2021|pp=50-51}}{{sfn|Winzerling|1946|pp=19-22}}
+
+An artisanal rum distillery, named after Pedro Mandinga, was established in Panama City in the late 2010s.{{sfn|Arjona|2022|loc=para. 1}}
+
+== Notes ==
+{{notefoot}}
+
+== Citations ==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+
+# {{cite book
+ |editor-last1= Andrews
+ |editor-first1= Kenneth R
+ |title= English privateering voyages to the West Indies, 1588-1595 : documents relating to English voyages to the West Indies from the defeat of the armada to the last voyage of Sir Francis Drake
+ |date= 1958
+ |volume=
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 111
+ |publisher= Published for the Hakluyt Society at the University Press
+ |location= Cambridge
+ |edition= 1st
+ |hdl= 2027/mdp.39015026881832
+ |oclc= 504851
+}}
+# {{cite book
+ |last1= Andrews
+ |first1= Kenneth R.
+ |title= Drake's voyages: a re-assessment of their place in Elizabethan maritime expansion
+ |date= 1968
+ |orig-date=First published 1967 by Weidenfeld &amp; Nicolson
+ |volume=
+ |series=
+ |publisher= Charles Scribner's Sons
+ |location= New York
+ |edition=
+ |hdl= 2027/mdp.39015026881832
+ |oclc=250607  |url=https://archive.org/details/drakesvoyagesrea00andr/
+}}
+# {{cite news
+|last= Arjona
+|first= Esther M.
+|date= 20 March 2022
+|title= Los sabores de Pedro Mandinga
+|url= https://www.laestrella.com.pa/cafe-estrella/cultura/220320/sabores-pedro-mandinga
+|work= Estrella de Panamá
+|location= Panama City
+|access-date= 5 May 2022
+}}
+# {{cite book
+ |last1= Bergreen
+ |first1= Laurence
+ |title= In search of a kingdom : Francis Drake, Elizabeth I, and the perilous birth of the British Empire
+ |date= 2021
+ |orig-date=
+ |volume=
+ |series=
+ |publisher= Custom House
+ |location= New York
+ |edition= 1st
+ |hdl=
+ |oclc=1193560224
+ |url=
+}}
+# {{cite book
+ |last1= Best
+ |first1= Brian
+ |title= Elizabeth's sea dogs and their war against Spain
+ |date= 2021
+ |orig-date=
+ |volume=
+ |series=
+ |publisher= Frontline Books
+ |location= Barnsley
+ |edition= 1st
+ |hdl=
+ |oclc=1241107573
+ |url=http://ezp-prod1.hul.harvard.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=nlebk&amp;AN=2804205&amp;site=ehost-live&amp;scope=site
+ |url-access=subscription
+}}
+# {{cite book |author=Bicheno, Hugh |author-link=Hugh Bicheno |title=Elizabeth's Sea Dogs: How England's Mariners Became the Scourge of the Seas|year=2012|publisher=Conway|isbn=978-1844861743}}
+# {{cite book
+ |last1= Bradley
+ |first1= Peter T.
+ |title= British maritime enterprise in the New World : from the late fifteenth to the mid-eighteenth century
+ |date= 1999
+ |volume=
+ |series=Studies in British history ; v. 57
+ |publisher= Edwin Mellen Press
+ |location= Lewiston, NY
+ |edition= 1st
+ |hdl= 2027/mdp.39015054149409
+ |oclc= 42290563
+}}
+# {{cite thesis
+ |last=De la O Torres
+ |first=Rodrigo Alejandro
+ |title=DE CORSARIOS, MARES Y COSTAS: EL CORSO EN LA CONSTRUCCIÓN DEL ESPACIO GOLFO-CARIBE. 1527-1620
+ |date=November 2014
+ |type=PhD
+ |publisher=Centro de Investigaciones y Estudios Superiores en Antropología Social
+ |place=Mérida, Yuc.
+ |url=http://ciesas.repositorioinstitucional.mx/jspui/handle/1015/1044
+}}
+# {{cite journal
+ |last1= De la O Torres
+ |first1= Rodrigo Alejandro
+ |date= January–June 2016
+ |title= La presencia de corsarios franceses en el Golfo-Caribe entre 1536-1566 : una propuesta de análisis espacial
+ |jstor=
+ |url= https://dialnet.unirioja.es/servlet/articulo?codigo=5589881
+ |journal= Historia 2.0: Conocimiento Histórico en Clave Digital
+ |series=
+ |issn= 2027-9035
+ |doi=
+ |volume= 6
+ |issue= 11
+ |pages= 36–56
+}}
+# {{cite journal
+ |last1= De la O Torres
+ |first1= Rodrigo Alejandro
+ |date= July–December 2019
+ |title= Miedos y fenómeno de la piratería en el Golfo-Caribe durante el siglo XVI. Un ensayo de aproximación
+ |jstor=
+ |url= http://ref.scielo.org/23mwfc
+ |journal= Historelo revista de historia regional y local
+ |series=
+ |issn= 2145-132X
+ |doi=10.15446/historelo.v11n22.73263
+ |volume= 11
+ |issue= 2
+ |pages= 267–300
+|s2cid= 198778698
+ }}
+# {{cite book
+ |last1= De la O Torres
+ |first1= Rodrigo Alejandro
+ |title= DE CORSARIOS, MARES Y COSTAS : El corso en la construcción del espacio y experiencias marítimas en el Golfo-Caribe, 1527-1620
+ |date= 2020
+ |volume=
+ |publisher= Universidad Autónoma de Aguascalientes
+ |location= Ciudad Universitaria, Aguascalientes
+ |edition= 1st
+ |url=
+ |oclc= 1280054563
+}}
+# {{cite book
+ |last1= Gasteazoro
+ |first1= Carlos Manuel
+ |last2= Araúz
+ |first2= Calestino Andrés
+ |last3= Muñoz Pinzón
+ |first3= Armando
+ |title= Tabla cronológica : (de hechos históricos, políticos, sociales, económicos, culturales y científicos)
+ |date= 1980
+ |volume=
+ |series=
+ |publisher= Lotería Nacional de Beneficencia
+ |location= Panamá
+ |edition= 1st
+ |hdl=
+ |oclc= 12830207
+}}
+# {{cite book
+ |editor-last1= Figueroa
+ |editor-first1= Alejandro J.
+ |editor-last2= Johnson
+ |editor-first2= Erlend
+ |editor-last3= Goodwin
+ |editor-first3= Whitney A.
+ |title= Southeastern Mesoamerica : indigenous interaction, resilience, and change
+ |date= 2021
+ |volume=
+ |series=
+ |publisher= University Press of Colorado
+ |location= Louisville, Colorado
+ |edition= 1st
+ |url= https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/82605
+ |url-access=subscription
+ |oclc= 1226797442
+}}
+# {{cite thesis
+ |last=Galvin
+ |first=Peter Robert
+ |title=The Pirates' Wake: A Geography of Piracy and Pirates as Geographers in Colonial Spanish America, 1536-1718. (Volumes I and II).
+ |date=1991
+ |type=PhD
+ |publisher=Louisiana State University
+ |place=Baton Rouge, Louis.
+ |url=https://digitalcommons.lsu.edu/gradschool_disstheses/5233
+}}
+# {{cite book
+|editor-last1=Hakluyt
+|editor-first1=Richard
+|date= 1600
+|publisher= George Bishop, Ralfe Newberie, &amp; Robert Barker
+|location= London
+|title= The principal nauigations, voiages, traffiques and discoueries of the English nation made by sea or ouer-land, to the remote and farthest distant quarters of the earth, at any time within the compasse of these 1500. yeeres: deuided into three seuerall volumes, according to the positions of the regions, whereunto they were directed
+|volume= 3
+|oclc= 252871354
+|edition=2nd expanded
+|url=https://www.proquest.com/docview/2248550788
+|id={{ProQuest|2248550788}}
+|url-access=subscription
+}}
+# {{cite book
+ |last1= Howgego
+ |first1= Raymond John
+ |series= Encyclopedia of exploration to 1800 : a comprehensive reference guide to the history and literature of exploration, travel, and colonization from the earliest times to the year 1800
+ |date= 1958
+ |volume=
+ |title=To 1800: a comprehensive reference guide to the history and literature of exploration, travel, and colonization from the earliest times to the year 1800
+ |publisher= Hordern House
+ |location= Potts Point, N.S.W.
+ |edition= 1st
+ |hdl= 2027/mdp.49015002827245
+ |oclc=52377840
+}}
+# {{Cite ODNB
+|doi=10.1093/ref:odnb/8022
+|title=Drake, Sir Francis
+|last=Kelsey
+|first=Harry
+|url=https://doi-org.ezp-prod1.hul.harvard.edu/10.1093/ref:odnb/8022
+|url-access=subscription
+|date=23 September 2004
+}}
+# {{cite book
+ |last1= Marley
+ |first1= David F.
+ |title= Wars of the Americas : a chronology of armed conflict in the New World, 1492 to the present
+ |date= 1998
+ |volume=
+ |publisher= ABC-CLIO
+ |location= Santa Barbara, CA
+ |edition= 1st
+ |url=
+ |oclc= 39024726
+ |hdl= 2027/mdp.49015002845379
+}}
+# {{cite book
+ |last1= Marley
+ |first1= David F.
+ |title= 1650-1685
+ |series= Pirates of the Americas
+ |date= 2010
+ |volume= 1
+ |publisher= ABC-CLIO
+ |location= Santa Barbara, CA
+ |edition= 1st
+ |url=
+ |oclc= 436030697
+ |hdl=
+}}
+# {{cite book
+ |last1= Marley
+ |first1= David F.
+ |title= 1686-1725
+ |series= Pirates of the Americas
+ |date= 2010
+ |volume= 2
+ |publisher= ABC-CLIO
+ |location= Santa Barbara, CA
+ |edition= 1st
+ |url=
+ |oclc= 436030697
+ |hdl=
+}}
+# {{Cite ODNB
+|doi=10.1093/ref:odnb/21057
+|title=Oxenham, John
+|last=McDermott
+|first=James
+|url=https://doi-org.ezp-prod1.hul.harvard.edu/10.1093/ref:odnb/21057
+|url-access=subscription
+|date=23 September 2004
+}}
+# {{cite book
+ |last1= Williamson
+ |first1= James A.
+ |title= Sir John Hawkins : the time and the man
+ |date= 1927
+ |volume=
+ |publisher= Clarendon Press
+ |location= Oxford
+ |edition= 1st
+ |url=
+ |oclc= 3075296
+ |hdl= 2027/mdp.39015027905218
+}}
+# {{cite book
+ |last1= Williamson
+ |first1= James A.
+ |title= The age of Drake
+ |date= 1938
+ |volume=
+ |publisher= Adam and Charles Black
+ |location= London
+ |edition= 1st
+ |url=
+ |oclc= 1421005
+ |hdl= 2027/mdp.39015014588183
+}}
+# {{cite book
+|last1= Winzerling
+|first1= E. O.
+|title= Beginning of British Honduras, 1506-1765
+|date= 1946
+|publisher= North River Press
+|location= New York
+|edition= 1st
+|url= https://dloc.com/UF00099216/00001
+|oclc= 1892890
+}}
+# {{cite book
+ |editor-last1= Wright
+ |editor-first1= Irene A.
+ |title= Spanish documents concerning English voyages to the Caribbean, 1527-1568
+ |date= 1929
+ |volume=
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 62
+ |publisher= Printed for the Hakluyt Society
+ |location= London
+ |edition= 1st
+ |url=
+ |oclc= 2092435
+}}
+# {{cite book
+ |editor-last1= Wright
+ |editor-first1= Irene A.
+ |title= Documents concerning English voyages to the Spanish main, 1569-1580
+ |date= 1932
+ |volume=
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 71
+ |publisher= Printed for the Hakluyt Society
+ |location= London
+ |edition= 1st
+ |url= https://archive.org/details/dli.ministry.01751/
+ |oclc= 1476408
+ |hdl= 2027/mdp.39015012306133
+}}
+# {{cite book
+ |editor-last1= Wright
+ |editor-first1= Irene A.
+ |title= Further English voyages to Spanish America, 1583-1594 : documents from the Archives of the Indies at Seville illustrating English voyages to the Caribbean, the Spanish Main, Florida, and Virginia
+ |date= 1951
+ |volume=
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 99
+ |publisher= Printed for the Hakluyt Society
+ |location= London
+ |edition= 1st
+ |hdl= 2027/mdp.39015026881790
+ |oclc= 1476734
+}}
+
+{{refend}}
+
+{{Pirates}}
+{{Authority control}}
+
+[[Category:Francis Drake]]
+[[Category:Caribbean Sea]]
+[[Category:Piracy]]</text>
+      <sha1>in8w0xqs39hcw67xzard7axlxk5okfe</sha1>
+    </revision>
+  </page>
+</mediawiki>

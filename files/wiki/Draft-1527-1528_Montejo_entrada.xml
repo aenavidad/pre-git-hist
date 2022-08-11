@@ -1,0 +1,214 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Draft:1527–1528 Montejo entrada</title>
+    <ns>118</ns>
+    <id>70662039</id>
+    <revision>
+      <id>1088419482</id>
+      <parentid>1085410094</parentid>
+      <timestamp>2022-05-17T22:18:34Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Alter: pages, url. URLs might have been anonymized. Formatted [[WP:ENDASH|dashes]]. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_CommandLine 151/2973</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9884" xml:space="preserve">{{short description|xxx}}
+{{use dmy dates|date=April 2022}}
+{{use British English|date=April 2022}}
+{{Infobox military conflict
+| conflict    = 1527{{nbnd}}1528 Montejo ''entrada''
+| width       =
+| partof      = the [[Spanish conquest of Yucatan]]
+| image       = La conquista 2 detail.png
+| image_size  = 350px
+| alt         =
+| caption     = ''Conquest'' (mural 1971{{nbnd}}1979 by F. Castro Pacheco / photo 2004 by Cuilomerto)
+| date        = {{start and end dates|1527|9|15|1528|9|22|df=y}}
+| place       = [[Ah Kin Chel]], [[Ceh Pech]], [[Chetumal Province|Chetumal]], [[Chikinchel]], [[Ekab]], [[Uaymil|Waymil]] provinces {{small|(present-day [[Belize]], [[Quintana Roo]], [[Yucatan]])}}
+| coordinates = 
+| map_type    = 
+| map_relief  = 
+| map_size    = 
+| map_marksize = 
+| map_caption =
+| map_label   =
+| territory   = 
+| result      = Spanish victory
+| status      = 
+| combatants_header = 
+| combatant1  = {{unbulleted list|{{spaces|17|thin}}[[Ah Kin Chel]]|{{spaces|17|thin}}[[Ceh Pech]]|{{flagicon image|Lamanai.png}} [[Chetumal Province|Chetumal]]|{{spaces|17|thin}}[[Chikinchel]]|{{spaces|17|thin}}[[Ekab]]|{{spaces|17|thin}}[[Uaymil|Waymil]]|}}
+| combatant2  = {{flagicon image|Flag of Cross of Burgundy.svg}} [[Captaincy General of Yucatan|Spanish Yucatan]]
+| combatant3  = 
+| commander1  = {{unbulleted list|{{flagicon image|Lamanai.png}} ''[[Halach Uinik|halach winik]]'' of Chetumal|{{flagicon image|Lamanai.png}} ''[[Nakom (Mayan commanding officer)|nakomo'ob]]'' of Chetumal|{{spaces|5|thin}}{{flagicon image|Caracol-glif.png}} ''[[Halach Uinik|halach winik]]'' of Dzuluinicob|{{spaces|5|thin}}{{flagicon image|Caracol-glif.png}} ''[[Nakom (Mayan commanding officer)|nakomo'ob]]'' of Dzuluinicob|{{spaces|17|thin}}''[[Nakom (Mayan commanding officer)|nakomo'ob]]'' of Waymil}}
+| commander2  = {{unbulleted list|{{flagicon image|Flag of Cross of Burgundy.svg}} [[Francisco de Montejo]]|{{flagicon image|Flag of Cross of Burgundy.svg}} Alonso Dávila}}
+| commander3  = 
+| units1      = 
+| units2      = 
+| units3      = 
+| strength1   = {{unbulleted list|archers unknown|infantrymen unknown}}
+| strength2   = 250 men
+| strength3   = 
+| casualties1 = {{unbulleted list|10s{{snds}}100s killed|10s{{snds}}1000s starved to death|missing unknown|wounded unknown|ill unknown|1000s displaced|10s{{snds}}100s settlements damaged}}
+| casualties2 = {{unbulleted list|&lt; 10 killed|0 starved to death|0 missing|wounded unknown|1 ill|0 displaced|0 settlements damaged}}
+| casualties3 = 
+| notes       = ''halach winik'' = [[commander-in-chief]]; ''nakomo'ob'' = [[Commanding officer|commanding officers or commanding generals]]; the ''halach winik'' of Chetumal was also the commander-in-chief of Waymil
+| campaignbox = 
+}}
+
+xxx
+
+== Prelude ==
+
+== ''Entrada'' ==
+
+=== Northern prong ===
+
+=== Southern prong ===
+
+== Aftermath ==
+
+== Legacy ==
+
+== Notes ==
+{{notefoot}}
+
+== Citations ==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+
+# {{cite book |editor-last1=Barrera Vásquez |editor-first1=Alfredo |editor-last2=Bastarrachea Manzano |editor-first2=Juan Ramón |editor-last3=Brito Sansores |editor-first3=William |editor-last4=Vermont Salas |editor-first4=Refugio |editor-last5=Dzul Góngora |editor-first5=David |editor-last6=Dzul Poot |editor-first6=Domingo |title=Diccionario maya Cordemex : maya-español, español-maya |date=1980 |publisher=Ediciones Cordemex |location=Merida |edition=1st |oclc= 7550928
+}}
+# {{cite journal |last=Chamberlain |first=Robert Stoner |title=Spanish Methods of Conquest and Colonization in Yucatan, 1527-1550. I |date=September 1939a |journal=Scientific Monthly |volume=49 |issue=3 |pages=227–244 |url-access=subscription |url=http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/17057 |jstor= 17057
+}}
+# {{cite journal |last=Chamberlain |first=Robert Stoner |title=Spanish Methods of Conquest and Colonization in Yucatan, 1527-1550. II |date=October 1939b |journal=Scientific Monthly |volume=49 |issue=4 |pages=351–359 |url-access=subscription |url=http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/16999 |jstor= 16999
+}}
+# {{cite book |last1=Chamberlain |first1=Robert Stoner |title=The conquest and colonization of Yucatan, 1517–1550 |date=1948 |publisher=Carnegie Institution of Washington |location=Washington, DC |url=https://hdl.handle.net/2027/txu.059173008409431 |url-access=limited |series=Carnegie Institution of Washington Publication |volume=582 |hdl=2027/txu.059173008409431 |edition=1st |oclc= 1843427
+}}
+# {{cite book |last1=Chamberlain |first1=Robert Stoner |title=The conquest and colonization of Honduras : 1502-1550 |date=1953 |publisher=Carnegie Institution of Washington |location=Washington, DC |url=https://hdl.handle.net/2027/txu.059173002179226 |url-access=limited |series=Carnegie Institution of Washington Publication |volume=598 |hdl=2027/txu.059173002179226 |edition=1st |oclc= 1847435
+}}
+# {{cite book |last1=Fancourt |first1=Charles St. John |date=1854 |edition=1st |series= |title=The history of Yucatan, from its discovery to the close of the seventeenth century |place=London |publisher=J. Murray |oclc= 1908914 |url-access=subscription |url=https://link.gale.com/apps/doc/CY0100004060/SABN?u=camb55135&amp;sid=bookmark-SABN&amp;xid=783b6f0e&amp;pg=1
+}}
+# {{cite web |last=García Bernal |first=Manuela Cristina |date=2018 |url=https://dbe.rah.es/biografias/13067/francisco-de-montejo |title=Francisco de Montejo |website=Diccionario Biográfico electrónico |publisher=Real Academia de la Historia |access-date=10 August 2021
+}}
+# {{cite thesis
+|last=González Cicero
+|first=Stella María
+|date=1976
+|title=Yucatan, los Franciscanos y el primer obispo fray Francisco de Toral (1517 - 1571)
+|type=PhD
+|publisher=Colegio de Mexico
+|place=Mexico City
+|url=https://www.proquest.com/docview/2627562843
+|url-access=subscription
+}}
+# {{cite book |last1=Graham |first1=Elizabeth A. |title=Maya Christians and Their Churches in Sixteenth-Century Belize |date=2011 |publisher=University Press of Florida |location=Gainesville, FL |edition=1st |series=Maya Studies |url-access=subscription |url=https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/17957 |oclc= 751694131
+}}
+# {{cite book |last1=Herrera y Tordesillas |first1=Antonio de |date=1730 |edition=1st |title=Decada Quarta |series=Historia general de los hechos de los castellanos en las islas i tierra firme del mar oceano |place=Madrid |publisher=En la Imprenta real de Nicolas Rodiguez Franco |oclc= 15339062 |url-access=subscription |url=https://link.gale.com/apps/doc/CY0111568415/SABN?u=camb55135&amp;sid=bookmark-SABN&amp;xid=b3b40552&amp;pg=1 |volume=4
+}}
+# {{cite book |last1=Jones |first1=Grant D. |title=Maya resistance to Spanish rule : time and history on a colonial frontier |date=1989 |publisher=University of New Mexico Press |location=Albuquerque, NM |edition=1st |oclc= 20012099 |hdl=2027/mdp.39015015491791
+}}
+# {{cite book |last1=Landa |first1=Diego de |title=Relación de las cosas de Yucatán |date=2011 |publisher=Linkgua |location=Barcelona |edition=Reprint of 1566 manuscript |oclc= 960748072 |url-access=subscription |url=https://www-digitaliapublishing-com.ezp-prod1.hul.harvard.edu/a/16451
+}}
+# {{cite web |last1=Lehmann |first1=Christian |title=Ortografía |url=https://www.christianlehmann.eu/ling/sprachen/maya/sistema_expres/ort/ |website=La lengua maya de Yucatán |publisher=Christian Lehmann |access-date=5 August 2021 |date=16 December 2018
+}}
+# {{cite book |last1=López de Cogolludo |first1=Diego |date=1688 |edition=1st |series= |title=Historia de Yucathan |place=Madrid |publisher=Jvan Garcia Infanzen |oclc= 12175609 |url-access=subscription |url=https://link.gale.com/apps/doc/CY0102936949/SABN?u=camb55135&amp;sid=bookmark-SABN&amp;xid=fbdf1b13&amp;pg=1
+}}
+# {{cite thesis
+|last=Mayfield
+|first=Tracie D.
+|date=2015
+|title=The Nineteenth-Century British Plantation Settlement at Lamanai, Belize (1837 – 1868)
+|type=PhD
+|publisher=University of Arizona
+|place=Tucson, Ariz.
+|url=https://repository.arizona.edu/handle/10150/581410
+}}
+# {{cite book |editor-last=Ministerio de Fomento |date=1877 |title=Cartas de Indias |publisher=Impr. de M. G. Hernandez |place=Madrid |hdl=2027/miun.adq6885.0001.001 |oclc= 1862540 |edition=1st
+}}
+# {{cite thesis
+|last=Morandi
+|first=Steven J.
+|date=2010
+|title=Xibun Maya: The archaeology of an early Spanish colonial frontier in southeastern Yucatán
+|type=PhD
+|publisher=Boston University
+|place=Boston, MA
+|url=https://www.proquest.com/docview/305184024
+|url-access=subscription
+}}
+# {{cite journal
+|last=Pendergast
+|first=David M.
+|date=1993
+|title=Worlds in Collision: The Maya/Spanish Encounter in Sixteenth and Seventeenth Century Belize
+|journal=Proceedings of the British Academy
+|volume=81
+|issue=sn
+|pages=105–143
+|url=http://publications.thebritishacademy.ac.uk/pubs/proc/volumes/pba81.html
+}}
+# {{cite thesis 
+|last= Rushton
+|first= Elizabeth A. C.
+|date= 2014
+|title= 'Under the shade I flourish' : an environmental history of northern Belize over the last three thousand five hundred years
+|type= PhD
+|publisher= University of Nottingham
+|place= Nottingham, Eng.
+|oclc=
+|url= http://eprints.nottingham.ac.uk/27615/
+|url-access=
+}}
+# {{cite thesis |last1=Vazquez Barke |first1=Gabriela |date=August 2012 |type=MA |title=BACALAR EN EL SIGLO XVII: colonización y resistencia |publisher=Centro de Investigaciones y Estudios Superiores en Antropología Social |place=Mexico City |url=http://ciesas.repositorioinstitucional.mx/jspui/handle/1015/761
+}}
+# {{cite journal |last=Zamora Castellanos |first=Pedro |title=Monografías departamentales : Izabal : Extracto de un estudio, por el socio, General e Ingeniero Pedro Zamora Castellanos |date=September 1941 |journal=Anales de la Sociedad de Geografía e Historia |volume=17 |issue=3 |pages=168–187 |url-access=|url=https://archive.org/details/AnalesAGHGTomoXVIIAnyoXVIINo3Septiembre1941 |jstor=
+}}
+
+{{refend}}</text>
+      <sha1>cplr56v6csc0nwuiwn1od6m3g697y7q</sha1>
+    </revision>
+  </page>
+</mediawiki>

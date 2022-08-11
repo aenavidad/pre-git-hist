@@ -1,0 +1,460 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Gilbert Horseley</title>
+    <ns>0</ns>
+    <id>70701737</id>
+    <revision>
+      <id>1088445681</id>
+      <parentid>1086380654</parentid>
+      <timestamp>2022-05-18T01:54:18Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Alter: url. URLs might have been anonymized. Add: s2cid. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_CommandLine 14/2341</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17157" xml:space="preserve">{{short description|English privateer fl. 1574–1575}}
+{{Orphan|date=May 2022}}
+
+{{Use dmy dates|date=April 2022}}
+{{Use British English|date=April 2022}}
+{{Infobox pirate
+| honorific_prefix = Captain
+| name = Gilbert Horseley
+| honorific_suffix = 
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| native_name = 
+| native_name_lang = 
+| birth_name = 
+| birth_date = 
+| birth_place = 
+| baptised = 
+| disappeared_date = 
+| disappeared_place = 
+| disappeared_status = 
+| death_date = 
+| death_place = 
+| death_cause = 
+| body_discovered = 
+| resting_place = 
+| resting_place_coordinates = 
+| monuments = 
+| residence = 
+| nationality = &lt;!-- use only when necessary per [[WP:INFONAT]] --&gt;
+| other_names = Gilbert Horsley
+| citizenship = &lt;!-- use only when necessary per [[WP:INFONAT]] --&gt;
+| education = 
+| alma_mater = 
+| occupation = 
+| years_active = 
+| era = [[Elizabethan era|Elizabethan]]
+| employer = 
+| organization = 
+| agent = 
+| known_for = raids in Veraguas and Honduras
+| notable_works =
+| style = 
+| home_town = 
+| salary = 
+| net_worth = 
+| height = 
+| weight = 
+| television = 
+| title = 
+| term = 
+| predecessor = 
+| successor = 
+| party = 
+| movement = 
+| opponents = {{unbulleted list|Diego de Herrera {{small|/ [[List of governors of Spanish Honduras|Gov.]]}}|Diego López {{small|/ Lt.}}}}
+| boards = 
+| criminal_charge = 
+| criminal_penalty = 
+| criminal_status = 
+| spouse = 
+| partner = [[Sylvester (French corsair)|Sylvester]] {{small|/ [[French corsair]]}}
+| children = 
+| parents = 
+| relatives = 
+| callsign = 
+| awards = 
+| website = 
+| nickname = 
+| alias = 
+| type = [[Sea Dogs|Privateer]]
+| allegiance = [[Kingdom of England|England]]
+| serviceyears = 1574{{nbnd}}1575
+| base of operations = {{hlist|[[Bay of Honduras]]|[[West Indies]]}}
+| rank = Captain
+| commands = ''John''
+| battles = 
+| wealth = 
+| laterwork = 
+| signature = 
+| signature_alt = 
+| signature_size = 
+| footnotes = 
+}}
+
+'''Gilbert Horseley''' ({{floruit|1574{{nbnd}}1575}}) was an [[Sea Dogs|Elizabethan privateer]] who lead raids in [[Nuevo Cartago y Costa Rica Province|Veragua]] and [[History of Honduras#Colonial Honduras|colonial Honduras]].
+
+== Career ==
+===Departure===
+Sylvester, a French corsair, is thought to have cleared from [[Port of Le Havre|Havre]] in September 1574, aboard a ship 'carrying a hundred fighting men.' They set upon [[Nuevo Cartago y Costa Rica Province|Veragua]] that December, where it is thought that African slaves informed them of Spanish merchant-ships off the northern coast of the province. Consequently, in the first quarter of 1575, 'the said corsairs [...] divided their forces [...] endeavouring to join with the ''cimarrones'' [and so went] to the Desaguadero ([[San Juan River (Nicaragua)|San Juan River]]) [...] to take the frigates come from there [...].'{{sfn|Wright|1932|pp=xlvi-xlvii}}
+
+Horseley is thought to have cleared from Plymouth in November 1574, with a crew of 25, aboard the ''John'', a 25-tonne pinnace, and to have come upon Sylvester just before that captain's northward journey to Desaguadero.{{sfn|Wright|1932|pp=xlvii, 98}}{{sfn|Bradley|1999|p=9|loc=footnote no. 6}}{{sfn|Bradley|1999|p=75}}{{sfn|Williamson|1938|pp=129-130}}{{notetag|Horseley's ''[[zabra]]'' would later be described as 'a fast vessel [of] medium size [...] with 22 ''harquebuses'', and seven pieces of artillery, large and small; an immense supply of arrows, much war material, and all in very good order' {{harv|Wright|1932|p=98|loc=footnotes nos. 4, 7}}.}}{{notetag|Eight of Horseley's men died while the ''John'' engaged a 50-tonne Spanish vessel off the Barbary coast {{harv|Bradley|1999|pp=75–76}}.}}
+
+===Expedition===
+====Southern leg ====
+Upon arriving at Veragua, the English crew (like the French) 'got into touch with the "Sem Rownes."{{hairspace}}' Now in consort, and with a Portuguese pilot (Luis Marquês), Horseley and Sylvester ascended the San Juan River, intending to sack [[Granada, Nicaragua|Granada]]. Before reaching said city, however, the crew came upon certain Spanish frigates, in which ''[[vecinos]]'' from [[Olancho Department|Olancho]] were transporting African slaves to Veragua. This treasure having satisfied both parties, Horseley and Sylvester desisted from their enterprise and returned to open sea.{{sfn|Wright|1932|p=xlvii, 96}}{{sfn|Bradley|1999|p=76}}{{sfn|Marley|1998|pp=104}}{{notetag|The ''vecinos'' and slaves made their escape, ostensibly unharmed {{harv|Wright|1932|p=96}}.}}
+
+Their treasure secured in the Desaguadero, Horseley and Sylvester sailed back to Veragua, where 'acts of exceptional and cowardly cruelty were committed.' The crews are thought to have killed 'many people, cutting their throats,' and to further have 'committed great robberies and insults.' Thereafter, the parties parted ways, with Horseley sailing back to the Bay of Honduras.{{sfn|Wright|1932|pp=xlviii, 99}}
+
+====Northern leg ====
+[[File:A view of Truxillo, a city belonging to the Spaniards in the Bay of Honduras LCCN2003666724.png|thumb|upright=1.3|''A view of Truxillo Bay and city on the coast of Honduras'' {{small|/ 1796 lithograph by Thomas Bowen / via LC}}]]
+Horseley entered the Bay of Honduras on 2 April 1575, making landfall at Cape Honduras (near [[Puerto Castilla, Honduras|Puerto Castilla]] under cover of night. At the break of midnight, the crew, packed into a [[Launch (boat)|launch]], surreptitiously stole towards [[Trujillo, Honduras|Trujillo]] (three ''[[Spanish customary units|leguas]]'' distant), but were immediately sighted by a keen-eyed sentinel at the [[Santa Bárbara fortress|Fortress of Santa Barbara]]. The city's military and ''vecinos'' rushed to organise a defence, which proved formidable enough to convince Horseley to desist. The crew were fired upon by the Fort, to ensure their retreat, but this did was not sufficient to stop Horseley from seizing a Spanish frigate at port.{{sfn|Wright|1932|p=97}}{{sfn|Marley|1998|pp=104}}
+
+At the break of day, on 3 April 1575, Fort sentinels spotted Horseley (now in their frigate) making for [[Puerto Cortés|Puerto Caballos]], likely 'to pillage the port and the ships which were there.' A warning shallop was forthwith despatched from the Fort, but being spotted by the English, was seized some 20 leagues into its trip (off present-day [[Atlántida Department|Atlantida]]). That afternoon, Horseley seized another Spanish prize (Juan Antonio owner), laden with treasure worth over 3,000 [[Spanish escudo|ducats]]. These latter are thought to have been cruelly treated, being tortured by Horseley's crew for gold and sailing directions.{{sfn|Wright|1932|pp=97-98}}{{notetag|The Fort's messenger to Puerto Caballos was dealt 'two arrow-wounds' upon his shallops seizure.  {{harv|Wright|1932|p=98}}.}}{{notetag|Spanish prisoners later reported that Horseley 'charted the whole of this [Honduras] coast from Point Manavique to Golfo Dulce [...]' {{harv|Wright|1932|p=98|loc=footnote no. 7}}. The escapees further reported that Horseley had been piloted by a Portuguese sailor, 'a man not known here [Trujillo]' {{harv|Wright|1932|p=98}}.}}
+
+This accomplished, Hershey continued towards Puerto Caballos (aboard his ship and the launch). Upon reaching El Triunfo de la Cruz, they met two Spanish merchant-ships (Martín Monte and Vicencio Garullo captains). These the English attempted to board, but were heavily bombarded with artillery, the merchants forcing the former to desist.
+
+Horseley now made for [[Cabo Camarón (Honduras)|Cape Camaron]] (20 leagues due east of Trujillo), reaching it the night of 5 April 1575. The crew watered at this cape, during which time two of their Spanish prisoners made their escape. They reported that Horseley had warned he 'would return another year with a greater force.'{{sfn|Wright|1932|p=99}}{{sfn|Marley|1998|pp=104}}
+
+===Return===
+Horseley 'now passably rich [...] arrived at Plymouth with fifteen of this men in June 1575,' from where he immediately continued to [[Arundel]] to unload his treasure 'without causing unwelcome interest.'{{sfn|Wright|1932|p=xlviii}}{{sfn|Bradley|1999|p=76}}{{sfn|Williamson|1938|pp=131}}{{notetag|Horseley reached Veragua with 17 men {{harv|Bradley|1999|p=76}}. However, Honduran prisoners, who had been detained by Horseley from 3{{nbnd}}5 April, reported that his crew numbered 32 {{harv|Wright|1932|p=98|loc=footnote no. 7}}.}}
+
+==Aftermath==
+Diego López reported the degradation to the Spanish Crown, writing{{nbnd}}
+{{block quote
+|text=This city has felt these robberies keenly, and is cast down because it lacked means to offend any enemy. [...] since your majesty has ordered me to serve in this port and to guard and defend it, I humbly entreat your majesty to order me to be provided with the means, and forces for the task [...] This miserable city [...] so afflicted, and frequently attacked by enemies, is now without resources, and what is accomplished, is done by main strength [...].
+|author=Truxillo, 20 May 1575, López to Crown, trans. Wright.{{sfn|Wright|1932|p=99}}
+}}
+The Crown thanked López for his service, and gave instructions to the presiding officer of the [[Real Audiencia of Guatemala]] 'concerning money,' and to authorities at [[Seville]] 'concerning artillery' for Trujillo's defence.{{sfn|Wright|1932|p=99}}
+
+== Legacy ==
+Horseley and Sylvester's ascent of the San Juan River has been described as 'daring' and 'comparable to Drake's most daring exploits,' given that said river, 'unlike the sea, kept no safe retreat upen for [the captains],' and that the expedition was completed with a small crew and pinnace.{{sfn|Wright|1932|p=xlvii}}{{sfn|Bradley|1999|p=79}}
+
+== Notes ==
+{{notefoot}}
+
+== Citations ==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+
+# {{cite book 
+ |editor-last1= Andrews
+ |editor-first1= Kenneth R.
+ |title= English privateering voyages to the West Indies, 1588-1595 : documents relating to English voyages to the West Indies from the defeat of the armada to the last voyage of Sir Francis Drake
+ |date= 1958
+ |volume= 
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 111
+ |publisher= Published for the Hakluyt Society at the University Press
+ |location= Cambridge
+ |edition= 1st
+ |hdl= 2027/mdp.39015026881832
+ |oclc= 504851
+}}
+# {{cite book 
+ |last1= Bradley
+ |first1= Peter T.
+ |title= British maritime enterprise in the New World : from the late fifteenth to the mid-eighteenth century
+ |date= 1999
+ |volume= 
+ |series=Studies in British history ; v. 57
+ |publisher= Edwin Mellen Press
+ |location= Lewiston, NY
+ |edition= 1st
+ |hdl= 2027/mdp.39015054149409
+ |oclc= 42290563
+}}
+# {{cite thesis
+ |last=De la O Torres
+ |first=Rodrigo Alejandro
+ |title=DE CORSARIOS, MARES Y COSTAS: EL CORSO EN LA CONSTRUCCIÓN DEL ESPACIO GOLFO-CARIBE. 1527-1620
+ |date=November 2014
+ |type=PhD
+ |publisher=Centro de Investigaciones y Estudios Superiores en Antropología Social
+ |place=Mérida, Yuc.
+ |url=http://ciesas.repositorioinstitucional.mx/jspui/handle/1015/1044
+}}
+# {{cite journal
+ |last1= De la O Torres
+ |first1= Rodrigo Alejandro
+ |date= January–June 2016
+ |title= La presencia de corsarios franceses en el Golfo-Caribe entre 1536-1566 : una propuesta de análisis espacial
+ |jstor=
+ |url= https://dialnet.unirioja.es/servlet/articulo?codigo=5589881
+ |journal= Historia 2.0: Conocimiento Histórico en Clave Digital
+ |series=
+ |issn= 2027-9035
+ |doi=
+ |volume= 6
+ |issue= 11
+ |pages= 36–56
+}}
+# {{cite journal
+ |last1= De la O Torres
+ |first1= Rodrigo Alejandro
+ |date= July–December 2019
+ |title= Miedos y fenómeno de la piratería en el Golfo-Caribe durante el siglo XVI. Un ensayo de aproximación
+ |jstor=
+ |url= http://ref.scielo.org/23mwfc
+ |journal= Historelo revista de historia regional y local
+ |series=
+ |issn= 2145-132X
+ |doi=10.15446/historelo.v11n22.73263 
+ |volume= 11
+ |issue= 2
+ |pages= 267–300
+|s2cid= 198778698
+ }}
+# {{cite book 
+ |last1= De la O Torres
+ |first1= Rodrigo Alejandro
+ |title= DE CORSARIOS, MARES Y COSTAS : El corso en la construcción del espacio y experiencias marítimas en el Golfo-Caribe, 1527-1620
+ |date= 2020
+ |volume= 
+ |publisher= Universidad Autónoma de Aguascalientes
+ |location= Ciudad Universitaria, Aguascalientes
+ |edition= 1st
+ |url= 
+ |oclc= 1280054563
+}}
+# {{cite book 
+ |last1= Gasteazoro
+ |first1= Carlos Manuel
+ |last2= Araúz
+ |first2= Calestino Andrés
+ |last3= Muñoz Pinzón
+ |first3= Armando
+ |title= Tabla cronológica : (de hechos históricos, políticos, sociales, económicos, culturales y científicos)
+ |date= 1980
+ |volume= 
+ |series=
+ |publisher= Lotería Nacional de Beneficencia
+ |location= Panamá
+ |edition= 1st
+ |hdl= 
+ |oclc= 12830207
+}}
+# {{cite book 
+ |editor-last1= Figueroa
+ |editor-first1= Alejandro J.
+ |editor-last2= Johnson
+ |editor-first2= Erlend
+ |editor-last3= Goodwin
+ |editor-first3= Whitney A.
+ |title= Southeastern Mesoamerica : indigenous interaction, resilience, and change
+ |date= 2021
+ |volume= 
+ |series=
+ |publisher= University Press of Colorado
+ |location= Louisville, Colorado
+ |edition= 1st
+ |url= https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/82605
+ |url-access=subscription
+ |oclc= 1226797442
+}}
+# {{cite book
+|editor-last1=Hakluyt
+|editor-first1=Richard
+|date= 1600
+|publisher= George Bishop, Ralfe Newberie, &amp; Robert Barker
+|location= London
+|title= The principal nauigations, voiages, traffiques and discoueries of the English nation made by sea or ouer-land, to the remote and farthest distant quarters of the earth, at any time within the compasse of these 1500. yeeres: deuided into three seuerall volumes, according to the positions of the regions, whereunto they were directed
+|volume= 3
+|oclc= 252871354
+|edition=2nd expanded
+|url=https://www.proquest.com/docview/2248550788
+|url-access=subscription
+}}
+# {{cite book 
+ |last1= Howgego
+ |first1= Raymond John
+ |series= Encyclopedia of exploration to 1800 : a comprehensive reference guide to the history and literature of exploration, travel, and colonization from the earliest times to the year 1800
+ |date= 1958
+ |volume= 
+ |title=To 1800: a comprehensive reference guide to the history and literature of exploration, travel, and colonization from the earliest times to the year 1800
+ |publisher= Hordern House
+ |location= Potts Point, N.S.W.
+ |edition= 1st
+ |hdl= 2027/mdp.49015002827245
+ |oclc=52377840
+}}
+# {{cite book 
+ |last1= Marley
+ |first1= David F.
+ |title= Wars of the Americas : a chronology of armed conflict in the New World, 1492 to the present
+ |date= 1998
+ |volume= 
+ |publisher= ABC-CLIO
+ |location= Santa Barbara, CA
+ |edition= 1st
+ |url=
+ |oclc= 39024726
+ |hdl= 2027/mdp.49015002845379
+}}
+# {{cite book 
+ |last1= Marley
+ |first1= David F.
+ |title= 1650-1685
+ |series= Pirates of the Americas
+ |date= 2010
+ |volume= 1
+ |publisher= ABC-CLIO
+ |location= Santa Barbara, CA
+ |edition= 1st
+ |url=
+ |oclc= 436030697
+ |hdl= 
+}}
+# {{cite book 
+ |last1= Marley
+ |first1= David F.
+ |title= 1686-1725
+ |series= Pirates of the Americas
+ |date= 2010
+ |volume= 2
+ |publisher= ABC-CLIO
+ |location= Santa Barbara, CA
+ |edition= 1st
+ |url=
+ |oclc= 436030697
+ |hdl= 
+}}
+# {{cite book 
+ |last1= Williamson
+ |first1= James A.
+ |title= Sir John Hawkins : the time and the man
+ |date= 1927
+ |volume= 
+ |publisher= Clarendon Press
+ |location= Oxford
+ |edition= 1st
+ |url=
+ |oclc= 3075296
+ |hdl= 2027/mdp.39015027905218
+}}
+# {{cite book 
+ |last1= Williamson
+ |first1= James A.
+ |title= The age of Drake
+ |date= 1938
+ |volume= 
+ |publisher= Adam and Charles Black
+ |location= London
+ |edition= 1st
+ |url=
+ |oclc= 1421005
+ |hdl= 2027/mdp.39015014588183
+}}
+# {{cite book 
+|last1= Winzerling
+|first1= E. O.
+|title= Beginning of British Honduras, 1506-1765
+|date= 1946
+|publisher= North River Press
+|location= New York
+|edition= 1st
+|url= https://dloc.com/UF00099216/00001
+|oclc= 1892890
+}}
+# {{cite book 
+ |editor-last1= Wright
+ |editor-first1= Irene A.
+ |title= Spanish documents concerning English voyages to the Caribbean, 1527-1568
+ |date= 1929
+ |volume= 
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 62
+ |publisher= Printed for the Hakluyt Society
+ |location= London
+ |edition= 1st
+ |url= 
+ |oclc= 2092435
+}}
+# {{cite book 
+ |editor-last1= Wright
+ |editor-first1= Irene A.
+ |title= Documents concerning English voyages to the Spanish main, 1569-1580
+ |date= 1932
+ |volume= 
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 71
+ |publisher= Printed for the Hakluyt Society
+ |location= London
+ |edition= 1st
+ |url= https://archive.org/details/dli.ministry.01751/
+ |oclc= 1476408
+ |hdl= 2027/mdp.39015012306133
+}}
+# {{cite book 
+ |editor-last1= Wright
+ |editor-first1= Irene A.
+ |title= Further English voyages to Spanish America, 1583-1594 : documents from the Archives of the Indies at Seville illustrating English voyages to the Caribbean, the Spanish Main, Florida, and Virginia
+ |date= 1951
+ |volume= 
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 99
+ |publisher= Printed for the Hakluyt Society
+ |location= London
+ |edition= 1st
+ |hdl= 2027/mdp.39015026881790
+ |oclc= 1476734
+}}
+{{refend}}
+
+{{Spanish Empire}}
+{{Pirates}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Horseley, Gilbert}}
+[[Category:English privateers]]
+[[Category:16th-century English people]]</text>
+      <sha1>9o2ghzhd5yy6owpbbeae6074a97xbh9</sha1>
+    </revision>
+  </page>
+</mediawiki>

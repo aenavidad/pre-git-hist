@@ -1,0 +1,109 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Draft:Lowe points</title>
+    <ns>118</ns>
+    <id>71168401</id>
+    <revision>
+      <id>1095361120</id>
+      <parentid>1095360278</parentid>
+      <timestamp>2022-06-27T22:47:05Z</timestamp>
+      <contributor>
+        <username>Asdfjrjjj</username>
+        <id>41985887</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1524" xml:space="preserve">{{AfC submission|t||ts=20220627223923|u=Asdfjrjjj|ns=118|demo=}}&lt;!-- Important, do not remove this line before article has been created. --&gt;
+{{short description|Pre-Columbian period in Mesoamerican history}}
+{{use dmy dates|date=June 2022}}
+{{use British English|date=June 2022}}
+{{Infobox artifact
+| name              = Lowe points
+| native_name       = 
+| native_name_lang  = 
+| image             = 
+| image_size        = 
+| alt               = 
+| image2            = 
+| image2_size       = 
+| alt2              = 
+| image_caption     = 
+| type              = Stemmed projectile point
+| material          = Chert
+| size              = 
+| height            = {{convert|83.5|mm|in|abbr=on}}&lt;!-- {{convert|}} --&gt;
+| width             = {{convert|55.6|mm|in|abbr=on}}&lt;!-- {{convert|}} --&gt;
+| weight            = &lt;!-- {{convert|}} --&gt;
+| long              = &lt;!-- {{convert|}} --&gt;
+| writing           = 
+| symbols           = 
+| created           = [[Preceramic Period in Belize|Preceramic]]
+| discovered        = &lt;!-- Deprecated; use the following, separate, parameters --&gt;
+| discovered_place  = 
+| discovered_coords = 
+| discovered_date   = 
+| discovered_by     = 
+| location          = 
+| classification    = 
+| culture           = [[Palaeoindian]]
+| id                = 
+| map               = 
+| website           = 
+}}
+'''Lowe points''' xxx
+== Description ==
+== Distribution ==
+== Study ==
+== Notes ==
+{{notefoot}}
+== Citations ==
+{{reflist}}
+== References ==
+{{refbegin}}
+{{refend}}
+== External links ==
+{{authority control}}</text>
+      <sha1>g856hv7v775vrv7tildcbnvscj735uw</sha1>
+    </revision>
+  </page>
+</mediawiki>

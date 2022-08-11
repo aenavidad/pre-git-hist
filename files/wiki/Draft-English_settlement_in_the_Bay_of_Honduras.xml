@@ -1,0 +1,279 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Draft:English settlement in the Bay of Honduras</title>
+    <ns>118</ns>
+    <id>70635023</id>
+    <revision>
+      <id>1085447227</id>
+      <parentid>1084839298</parentid>
+      <timestamp>2022-04-30T16:12:40Z</timestamp>
+      <contributor>
+        <username>EN-Jungwon</username>
+        <id>40218375</id>
+      </contributor>
+      <minor/>
+      <comment>Disable the categories on this page while it is still a draft, per [[WP:DRAFTNOCAT]]/[[WP:USERNOCAT]] (using [[User:DannyS712/Draft no cat|Draft no cat]] v1.8). The easiest way to do this is by converting them to links, by adding a colon: "[[Category:" → "[[:Category:"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8690" xml:space="preserve">{{short description|English settlement in Yucatan from 1638 to 1862}}
+{{Use dmy dates|date=April 2022}}
+{{Use British English|date=April 2022}}
+{{Infobox former country
+|native_name            = 
+|conventional_long_name = English settlement in the Bay of Honduras
+|common_name            = Honduras
+|iso3166code = omit
+|era                    = [[British colonization of the Americas|British colonisation]] to [[Victorian era]]
+|status                 = Empire
+|status_text            = Dissolved
+|empire                 = British
+|government_type        = Self-governing settlement of a [[constitutional monarchy]]
+&lt;!-- Rise and fall, events, years and dates --&gt;
+&lt;!-- only fill in the start/end event entry if a specific article exists. Don't just say "abolition" or "declaration" --&gt;
+|event_start            = Settling of Belize
+|date_start             = &lt;!-- Optional: Date of establishment, in format 1 January (no year) --&gt;
+|year_start             = 1638
+|event_end              = Founding of British Honduras
+|date_end               = 12 February
+|year_end               = 1862
+|year_exile_start       = &lt;!-- Year of start of exile (if dealing with exiled government: status="Exile") --&gt;
+|year_exile_end         = &lt;!-- Year of end of exile (leave blank if still in exile) --&gt;
+|event1                 = Logwood cutting begins
+|date_event1            = {{circa|1650s}}
+|event2                 = Mahogany cutting begins
+|date_event2            = 1763
+|event3                 = 
+|date_event3            = 
+|event4                 = 
+|date_event4            = 
+|event5                 = 
+|date_event5            = 
+|event6                 = 
+|date_event6            = 
+|event_pre              = &lt;!-- Optional: A crucial event that took place before "event_start" --&gt;
+|date_pre               = 
+|event_post             = &lt;!-- Optional: A crucial event that took place after "event_end" --&gt;
+|date_post              = 
+&lt;!-- Flag navigation: Preceding and succeeding entities p1 to p5 and s1 to s5 --&gt;
+|p1                     = Bacalar
+|flag_p1                = Flag of Cross of Burgundy.svg
+|image_p1               = &lt;!-- Use: [[File:Sin escudo.svg|20px|Image missing]] --&gt;
+|p2                     = Verapaz
+|flag_p2                = Flag of Cross of Burgundy.svg
+|p3                     = 
+|flag_p3                = 
+|p4                     = 
+|flag_p4                = 
+|p5                     = 
+|flag_p5                = 
+|s1                     = British Honduras
+|flag_s1                = Flag of British Honduras (1919–1981).svg
+|image_s1               = 
+|s2                     = 
+|flag_s2                = 
+|s3                     = 
+|flag_s3                = 
+|s4                     = 
+|flag_s4                = 
+|s5                     = 
+|flag_s5                = 
+|image_flag             = English Red Ensign 1620.svg
+|flag_alt               = &lt;!-- Alt text for flag --&gt;
+|image_flag2            = Calico Jack Jolly Roger.svg
+|flag_alt2              = &lt;!-- Alt text for second flag --&gt;
+|flag                   = 
+|flag2                  =
+|flag_type              = {{unbulleted list|[[Red Ensign]] (''above'')|[[Jolly Roger]] (''below'')}}
+|flag2_type             = 
+|image_coat             = Royal Arms of England (1603-1707).svg
+|coa_size               = 
+|coat_alt               = 
+|symbol_type            = Royal Arms
+|symbol_type_article    = Royal coat of arms of the United Kingdom
+|image_map              = [[File:Yucatan-Peninsula-1822 Map.jpg|Yucatan-Peninsula-1822 Map|200px]]
+|image_map_alt          = Map of the Yucatan Peninsula in 1822
+|image_map_caption      = Spanish Yucatan and Guatemala in the early 18th cent.
+|image_map2             = &lt;!-- If second map is needed; does not appear by default --&gt;
+|image_map2_alt         = 
+|image_map2_caption     = 
+|capital                = {{hlist|[[Belize City|Belize]]|[[Barcadares]]|[[St. George's Caye|St. George's]]}}
+|capital_exile          = &lt;!-- If status="Exile" --&gt;
+|national_motto         = ''[[Dieu et mon droit]]''
+|national_anthem        = [[God Save the King]]&lt;div style="display:inline-block;margin-top:0.4em;"&gt;[[File:United States Navy Band - God Save the Queen.ogg]]&lt;/div&gt;
+|common_languages       = {{hlist|[[English language|English]]|[[Belizean Kriol English|Kriol]]}}
+|religion               = [[Anglicanism]]
+|demonym                = 
+|currency               = {{hlist|[[Logwood]]|[[Spanish dollars]]}}
+&lt;!-- Titles and names of the first and last leaders and their deputies --&gt;
+|leader1                = [[Charles I]] (''first'')
+|leader2                = [[Queen Victoria|Victoria]] (''last'')
+|leader3                = 
+|leader4                = 
+|leader21               = 
+|year_leader1           = 1638-1649
+|year_leader2           = 1837-1862
+|year_leader3           = 
+|year_leader4           =
+|year_leader21          = 
+|title_leader           = Monarch
+|representative1        = [[William Penn (Royal Navy officer)|William Penn]] (''first non-resident'')
+|representative2        = [[Edward Marcus Despard|Edward Despard]] (''first resident'')
+|representative3        = [[Charles Henry Darling]] (''last non-resident'')
+|representative4        = [[Frederick Seymour]] (''last resident'')
+|representative5        = 
+|year_representative1   = 1655-1655
+|year_representative2   = 1786-1790
+|year_representative3   = 1857-1862
+|year_representative4   = 1857-1862
+|year_representative5   = 
+|title_representative   = Viceroy
+|deputy1                = [[Peter Wallace]] (''first'')
+|deputy2                = 
+|deputy3                = 
+|deputy4                = 
+|year_deputy1           = {{fl.|1638}}
+|year_deputy2           = 
+|year_deputy3           = 
+|year_deputy4           = 
+|title_deputy           = Magistrate
+&lt;!-- Legislature --&gt;
+|legislature            = {{hlist|Public Meeting|Legislative Assembly}}
+|house1                 = &lt;!-- Name of first chamber --&gt;
+|type_house1            = &lt;!-- Default: "Upper house" --&gt;
+|house2                 = &lt;!-- Name of second chamber --&gt;
+|type_house2            = &lt;!-- Default: "Lower house" --&gt;
+&lt;!-- Area and population of a given year --&gt;
+|stat_year1             = 1638
+|stat_area1             = 1
+|stat_pop1              = 80
+|stat_year2             = 1862
+|stat_area2             = 22966
+|stat_pop2              = 13870
+|stat_year3             = 
+|stat_area3             = 
+|stat_pop3              = 
+|stat_year4             = 
+|stat_area4             = 
+|stat_pop4              = 
+|stat_year5             = 
+|stat_area5             = 
+|stat_pop5              = 
+|today                  = [[Belize]]
+|footnote_a             = &lt;!-- Accepts wikilinks --&gt;
+|footnote_b             = &lt;!-- Accepts wikilinks --&gt;
+|footnote_h             = &lt;!-- Accepts wikilinks --&gt;
+|footnotes              = &lt;!-- Accepts wikilinks --&gt;
+}}
+
+The '''English settlement in the Bay of Honduras''', or '''Honduras''', was an unauthorised, illicit settlement of English [[buccaneers]], or [[Baymen]], in the [[Yucatan Peninsula]] from its founding in 1638 to its gaining colonial status in 1862.
+
+== Geography ==
+
+=== Physical ===
+
+=== Political ===
+
+==== ''de jure'' ====
+
+The sites of [[Belize City|Belize]], [[Barcadares]], and [[St. George's Caye|St. George's]] were part of the district or ''municipio'' of [[Bacalar]], in [[Captaincy General of Yucatan|Spanish Yucatan]], in [[New Spain]], since 1544. They were transferred to the district or ''municipio'' of [[Cobán|Verapaz]], in [[Captaincy General of Guatemala|Spanish Guatemala]], in [[New Spain]], in 1658. 
+
+==== ''de facto'' ====
+
+Bacalar (likely) never established ''reducción'' settlements at the sites of Belize, Barcadares, and St. George's. During 1610s–1630s, English and Dutch pirates, privateers, and buccaneers began using the district's waters as a safe haven. During 1638–1642, a widespread revolt from [[Tipu, Belize|Tipu]] resulted in the ''villa'''s loss of control over its district, and the relocation of the district's Mayan residents towards Tipu.
+
+== History ==
+
+=== Prelude ===
+
+=== Settlement ===
+
+In 1638, a crew of shipwrecked English [[buccaneers]] settled [[Belize City|Belize]].
+
+== Government ==
+
+== Economy ==
+
+== Demographics ==
+
+== Society ==
+
+=== Religion ===
+
+== Legacy ==
+
+=== Social ===
+
+=== Scholarly ===
+
+== Notes ==
+{{reflist|group=note}}
+
+== Citations ==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+
+=== Serials ===
+
+=== Theses ===
+
+=== Journals ===
+
+=== Print ===
+{{refend}}
+
+{{British overseas territories}}
+{{Spanish Empire}}
+{{Pirates}}
+{{Authority control}}
+
+[[:Category:Piracy in the Caribbean]]
+[[:Category:History of Belize]]
+[[:Category:17th-century pirates]]
+[[:Category:18th-century pirates]]
+[[:Category:Caribbean pirates]]
+[[:Category:English pirates]]</text>
+      <sha1>g73mvvlogqbalgj8jbkef7qhturj01v</sha1>
+    </revision>
+  </page>
+</mediawiki>

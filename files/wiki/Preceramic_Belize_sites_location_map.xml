@@ -1,0 +1,97 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Template:Preceramic Belize sites location map</title>
+    <ns>10</ns>
+    <id>71179400</id>
+    <revision>
+      <id>1095564252</id>
+      <parentid>1095559618</parentid>
+      <timestamp>2022-06-29T03:16:42Z</timestamp>
+      <contributor>
+        <username>Asdfjrjjj</username>
+        <id>41985887</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6036" xml:space="preserve">{{Location map+|Belize|width=375|AlternativeMap=|alt=xxx|float=right|caption=Preceramic sites in Belize and surrounding Lowlands &lt;small&gt;/ very large Classic sites outside of Belize displayed / Uxmal+ = Uxmal, Tiho / Caye Coco+ = Caye Coco, Betz Landing, Fred Smith / via 2010 Witschey &amp; Brown, 2021 Stemp ''et al.''&lt;/small&gt;|places=
+  {{Location map~|Belize|label=Actun Halal|label_size=70|label_width=6|position=right|lat=16.99|long=-89.11|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=August Pine Ridge|label_size=70|label_width=6|position=left|lat=17.97727542205401|long=-88.72732308038752|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Basil Jones|label_size=70|label_width=6|position=right|lat=18.089678343706865|long=-87.88857906717806|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Blackman Eddy|label_size=70|label_width=6|position=top|lat=17.193954729703297|long=-88.98811444617388|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Blue Creek|label_size=70|label_width=6|position=bottom|lat=17.88370292791497|long=-88.86704147568692|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Cahal Pech|label_size=70|label_width=6|position=right|lat=17.14611606834572|long=-89.07353379206245|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Calakmul|label_size=70|label_width=6|position=right|lat=18.09026|long=-89.67|mark=Reverse icon 2283510.svg|marksize=8}}
+  {{Location map~|Belize|label=Callar Creek|label_size=70|label_width=5|position=left|lat=17.12583158846257|long=-89.13410787594626|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Caye Coco+|label_size=70|label_width=6|position=right|lat=18.211513626371634|long=-88.4183514759327|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Cayo Frances Lagoon|label_size=70|label_width=6|position=right|lat=18.026888347174726|long=-87.93489168234505|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Chichen Itza|label_size=70|label_width=6|position=right|lat=18.85|long=-88.57717|mark=Black triangle2.svg|marksize=8}}
+  {{Location map~|Belize|label=Coba|label_size=70|label_width=6|position=right|lat=18.85|long=-87.70925|mark=Black triangle2.svg|marksize=8}}
+  {{Location map~|Belize|label=Cob Swamp|label_size=70|label_width=6|position=right|lat=18.372736910733927|long=-88.54054708442065|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Cobweb Swamp|label_size=70|label_width=6|position=right|lat=17.838817592501627|long=-88.38522862857378|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Colha|label_size=70|label_width=6|position=left|lat=17.80580606776465|long=-88.43672704211025|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Copan|label_size=70|label_width=6|position=right|lat=15.64|long=-89.14022|mark=TriangleArrow-Down.svg|marksize=8}}
+  {{Location map~|Belize|label=Cuello|label_size=70|label_width=6|position=left|lat=18.06196671277291|long=-88.61662208589667|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=El Mirador|label_size=70|label_width=6|position=right|lat=17.75576|long=-89.67|mark=Reverse icon 2283510.svg|marksize=8}}
+  {{Location map~|Belize|label=Honey Camp Lagoon|label_size=70|label_width=6|position=right|lat=18.044824895494333|long=-88.43805464353231|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Izamal|label_size=70|label_width=6|position=right|lat=18.85|long=-89.00564|mark=Black triangle2.svg|marksize=8}}
+  {{Location map~|Belize|label=Ladyville|label_size=70|label_width=6|position=right|lat=17.55513261516358|long=-88.31473663272395|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Lowe Ranch|label_size=70|label_width=6|position=left|lat=17.642554313264696|long=-88.38875358885085|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Mayahak Cab Pek|label_size=70|label_width=6|position=right|lat=16.47986679890531|long=-88.97211800763637|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Nakbe|label_size=70|label_width=6|position=right|lat=17.67466|long=-89.67|mark=Reverse icon 2283510.svg|marksize=8}}
+  {{Location map~|Belize|label=Palenque|label_size=70|label_width=6|position=right|lat=17.48876|long=-89.67|mark=Reverse icon 2283510.svg|marksize=8}}
+  {{Location map~|Belize|label=Piedras Negras|label_size=70|label_width=6|position=right|lat=17.15314|long=-89.67|mark=Reverse icon 2283510.svg|marksize=8}}
+  {{Location map~|Belize|label=Pulltrouser Swamp|label_size=70|label_width=6|position=top|lat=18.1679704399198|long=-88.56666690518915|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Saki Tzul|label_size=70|label_width=6|position=left|lat=16.501100253866078|long=-88.990485774027|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Sand Hill|label_size=70|label_width=6|position=right|lat=17.633958656593364|long=-88.36603091989615|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Tikal|label_size=70|label_width=6|position=right|lat=17.20824|long=-89.63014|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Tzibte Yux|label_size=70|label_width=6|position=right|lat=16.21914088157894|long=-89.05543619793102|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Uxmal+|label_size=70|label_width=6|position=right|lat=18.85|long=-89.67|mark=Black triangle2.svg|marksize=8}}
+  {{Location map~|Belize|label=Xunantunich|label_size=70|label_width=6|position=right|lat=17.07242|long=-89.12752|mark=Map symbol archaeology.svg|marksize=8}}
+  {{Location map~|Belize|label=Yaxchilan|label_size=70|label_width=6|position=right|lat=16.85897|long=-89.67|mark=Reverse icon 2283510.svg|marksize=8}}
+}}
+&lt;noinclude&gt;
+[[Category:Belize templates]]
+&lt;/noinclude&gt;</text>
+      <sha1>417o3ohlp2mehyvyp1js3kkol87jgnl</sha1>
+    </revision>
+  </page>
+</mediawiki>

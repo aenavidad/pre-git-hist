@@ -1,0 +1,91 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Template:Belizean History Pre-Columbian graphical timeline 1</title>
+    <ns>10</ns>
+    <id>71187575</id>
+    <revision>
+      <id>1095865652</id>
+      <parentid>1095663770</parentid>
+      <timestamp>2022-06-30T21:39:03Z</timestamp>
+      <contributor>
+        <username>Jonesey95</username>
+        <id>9755426</id>
+      </contributor>
+      <comment>doc</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="557" xml:space="preserve">{{Graphical timeline|
+|from=-13000
+|to=1492
+|instance-id=pre-columbian_1
+|title=Pre-Columbian
+|title-colour=lightgray
+|plot-colour=lightgray
+|height=30
+|width=7
+|bar8-from=900
+|bar8-to=1492
+|bar8-colour=burlywood
+|bar8-text=Postclassic
+|bar7-from=250
+|bar7-to=900
+|bar7-colour=wheat
+|bar7-text=Classic
+|bar6-from=-2000
+|bar6-to=250
+|bar6-colour=burlywood
+|bar6-text=Preclassic
+|bar5-from=-13000
+|bar5-to=-2000
+|bar5-colour=wheat
+|bar5-text=Preceramic
+}}
+&lt;noinclude&gt;
+{{documentation|content=
+{{no documentation}}
+[[Category:Belize templates]]
+}}
+&lt;/noinclude&gt;</text>
+      <sha1>bdhmug2m0o9u31zt3zavwupfuq8r443</sha1>
+    </revision>
+  </page>
+</mediawiki>

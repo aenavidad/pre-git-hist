@@ -1,0 +1,83 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Template:Periods in Mesoamerican history</title>
+    <ns>10</ns>
+    <id>71080979</id>
+    <revision>
+      <id>1094054050</id>
+      <parentid>1094048610</parentid>
+      <timestamp>2022-06-20T13:18:36Z</timestamp>
+      <contributor>
+        <username>Asdfjrjjj</username>
+        <id>41985887</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1150" xml:space="preserve">{{Sidebar with collapsible lists
+|name = Periods in Mesoamerican history
+|title = [[List of archaeological periods (Mesoamerica)|Periods]] in [[Mesoamerican chronology|Mesoamerican history]]
+|image = {{#invoke:InfoboxImage|InfoboxImage |image={{{image|IaIx8p01.svg}}} |size={{{imagesize|250px}}} }}
+|contentstyle = text-align:left; padding-bottom:0;
+|liststyle = text-align:left; padding-bottom:0;
+|listclass = plainlist
+|expanded = {{{expanded|all}}}
+|list1name = Periods
+|list1title = &amp;nbsp;
+|list1 =
+ {{aligned table|fullwidth=y|leftright=y|cols=2|nowrap2=y
+  |[[Lithic Period in Mesoamerica|Lithic Period]]| before 8000 BCE
+  |[[Archaic Period in Mesoamerica|Archaic Period]]| 8000 BCE&amp;ndash; 2000 BCE
+  |[[Preclassic Period in Mesoamerica|Preclassic Period]]| 2000 BCE&amp;ndash; 250 CE
+  |[[Classic Period in Mesoamerica|Classic Period]]| 250 CE&amp;ndash; 900 CE
+  |[[Postclassic Period in Mesoamerica|Postclassic Period]]|900 CE–1500 CE
+  |[[Columbian Era in Mesoamerica|Columbian Era]]| after 1500 CE
+}}
+{{center|'''See also'''}}
+*[[List of archaeological periods (North America)]]
+|below = 
+}}&lt;noinclude&gt;
+&lt;!-- add categories here --&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>0ersawdeycoyr131gdeay4ormbfi5ub</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,574 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Maya Block</title>
+    <ns>0</ns>
+    <id>71061349</id>
+    <revision>
+      <id>1099319439</id>
+      <parentid>1096707094</parentid>
+      <timestamp>2022-07-20T04:18:34Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Add: isbn. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Headbomb | #UCB_toolbar</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21893" xml:space="preserve">{{Short description|Tectonic block near the Yucatan Peninsula}}
+{{use dmy dates|date=June 2022}}
+{{use British English|date=June 2022}}&lt;!-- strong national ties to Belize --&gt;
+{{Infobox landform &lt;!-- used in absence of an infobox for continental fragments or microcontinents ie sub-divisions of tectonic plates --&gt;
+| water             = 
+| name              = Maya Block
+| other_name        = {{hlist|Maya Terrane|Yucatan Block|Yucatan{{nbnd}}Chiapas Block}}
+| photo             = Maya Block USGS OF-97-470-L 1-2.tif
+| photo_width       = 
+| photo_alt         = 
+| photo_caption     = Maya Block {{small|/ detail of 2006 map by French &amp; Schenk / via USGS}}
+| map               = North America
+| map_width         = 
+| map_caption       = 
+| map_alt           = 
+| relief            = 1
+| label             = Maya Block
+| label_position    = top
+| mark              = 
+| marker_size       = 
+| location          = [[Belize]], northern [[Guatemala]], southeastern [[Mexico]]
+| grid_ref          = 
+| grid_ref_UK       = 
+| grid_ref_Ireland  = 
+| coordinates       = {{coord|20.445647077397183|-89.58898720418905|type:country_region:XA_dim:1500km|display=inline,title}}&lt;!-- {{Coord|LAT|LON|type:landmark|display=inline,title}} --&gt;
+| coordinates_ref   = 
+| range             = 
+| part_of           = [[North American Plate]]
+| water_bodies      = 
+| elevation_ft      = &lt;!-- or |elevation_m = --&gt;
+| elevation_ref     = 
+| surface_elevation_ft = &lt;!-- or |surface_elevation_m = --&gt;
+| surface_elevation_ref =
+| highest_point     = 
+| highest_elevation = 
+| highest_coords    = 
+| length            = {{convert|760|mi|km|abbr=on}}
+| width             = {{convert|450|mi|km|abbr=on}}
+| area              = {{convert|233130|mi2|km2|abbr=on}}&lt;!-- {{Convert|NN|ha|acres}} --&gt;
+| depth             = 
+| drop              = 
+| formed_by         = 
+| geology           = [[Tectonic block|tectonic or crustal block]]
+| age               = 
+| orogeny           = 
+| volcanic_arc/belt = 
+| volcanic_arc      = 
+| volcanic_belt     = 
+| volcanic_field    = 
+| eruption          = 
+| last_eruption     = 
+| topo              = 
+| operator          = 
+| designation       = 
+| free_label_1      =
+| free_data_1       =
+| free_label_2      = 
+| free_data_2       = 
+| free_label_3      = 
+| free_data_3       = 
+| website           = &lt;!-- {{URL|example.com}} --&gt;
+| embedded          = 
+}}
+The '''Maya Block''', also known as the '''Maya Terrane''', '''Yucatan Block''', or '''Yucatan{{nbnd}}Chiapas Block''', is a [[Physiographic regions of the world|physiographic or geomorphic region]] and [[Tectonic block|tectonic or crustal block]] in the southernmost portion of the [[North American Plate]].
+
+== Extent ==
+The terrestrial limits of the Block are commonly given as the Vista Hermosa and [[Motagua Fault|Motagua Fault Systems]] (ie East Mexican Transform and Motagua{{nbnd}}Polochic Fault Zone), with submarine limits commonly given as the edges of the [[Campeche Bank]].{{sfn|Bundschuh|Alvarado|2012|p=3|loc=fig. 1.1}}{{sfn|Dengo|1969|p=312}}{{sfn|Ross|Stockli|Rasmussen|Gulick|2021|p=243|loc=fig. 1}} The first fault divides the Block from the Oaxaquia Block (ie Juarez, Cuicateco, or Oaxaquia Block, Terrane, or microcontinent), while the latter fault divides it from the [[Chortis Block]].{{sfn|Martens|2009|pp=6-9}}{{sfn|Ross|Stockli|Rasmussen|Gulick|2021|p=243|loc=fig. 1}}{{notetag|The Maya Block was first defined as 'the area [of Central America ie of that land and continental shelf which extends from the Isthmus of Tehuantepec in Mexico to the Atrato lowland in Colombia] north of the Motagua fault zone [...] [ie] northern Guatemala, Belice [Belize], the states of Chiapas, Tabasco, Campeche, Yucatán and Quintana Roo in Mexico, and the Campeche Bank in the Gulf of Mexico' {{harv|Dengo|1969|p=312}}.}}
+
+It has been recently suggested that the Block's terrestrial limits extend further along the Gulf of Mexico, past the Vista Hermosa Fault, into Louisiana.{{sfn|Zhao|Xiao|Gulick|Morgan|2020|p=129|loc=fig. 1}}{{sfn|Ortega-Gutierrez|Elias-Herrera|Moran-Zenteno|Solari|2018|p=3|loc=fig. 1}}
+
+== Geography ==
+=== Political ===
+The terrestrial portion of the Block encompasses all six [[districts of Belize]], five northerly [[departments of Guatemala]] (ie Huehuetenango, Quiche, Alta Verapaz, Izabal, Peten), and five southeasterly [[List of states of Mexico|states of Mexico]] (ie Chiapas, Tabasco, Campeche, Yucatan, and Quintana Roo). Its submarine portion encompasses the continental shelf which abuts the coastal districts.
+
+=== Basement ===
+The Block sits on a crystalline, igneous-metamorphic basement, which is exposed in at least five formations, ie the Mixtequita Massif, Chiapas Massif, Cuchumatanes Dome, Tucuru{{nbnd}}Teleman, and the [[Maya Mountains]].{{sfn|Martens|2009|p=18}}
+
+=== Provinces ===
+[[File:Maya Block USGS OF-97-470-L 1-2.tif|thumb|upright=1.7|Maya Block {{small|/ detail of 2006 map by French &amp; Schenk / via USGS}}]]
+The Block fully encompasses four geologic provinces (ie [[Yucatan Platform]], [[Maya Mountains]], Macuspana Basin, and Villahermosa Uplift), and partially encompasses a further six (ie Sierra Madre de Chiapas{{nbnd}}Peten Foldbelt, Chiapas Massif{{nbnd}}Nuclear Central America, Pacific Offshore Basin, Saline{{nbnd}}Comalcalco Basin, Campeche{{nbnd}}Sigsbee Salt Basin, and Greater Antilles Deformed Belt).{{sfn|French|Schenk|2004}}{{sfn|French|Schenk|2006}}
+
+=== Basins ===
+The block fully encompasses three sedimentary basins (ie Campeche, Yucatan, and Peten{{nbnd}}Corozal), and partially encompasses a further one (ie Sureste).{{sfn|Evenick|2021|p=6|loc=fig. 4}}
+
+=== Faults ===
+The Block encompasses a number of faults.{{citation needed|date=June 2022}} It is further delimited by two faults (ie Vista Hermosa and Motagua).{{sfn|Martens|2009|p=9}}
+
+==== Motagua ====
+{{main|Motagua Fault}}
+The [[Motagua Fault|Motagua Fault System]] is composed of six subparallel [[Fault (geology)|faults]], all of which contribute to the sinistral [[Cenozoic]] slip between the [[Caribbean Plate|Caribbean]] and [[North American Plate|North American plates]].{{sfn|Martens|2009|p=9}} Its constituent faults are the [[Chixoy-Polochic Fault|Polochic or Chixoy{{nbnd}}Polochic]], Panima, Baja Verapaz, San Agustin, Cabañas or Cabañas{{nbnd}}Jubuco or Motagua, and Jocotan{{nbnd}}Chamelecon.{{sfn|Martens|2009|pp=9-11}}{{notetag|There is no widespread agreement regarding which constituent fault of the Motagua Fault System divides the Maya and Chortis Blocks {{harv|Martens|2009|p=12}}.}}
+
+== Geology ==
+=== Formation ===
+The Block is thought to have formed before or during the opening of the [[Iapetus Ocean]].{{sfn|Ross|Stockli|Rasmussen|Gulick|2021|p=243}} It, together with the Oaxaquia, Suwannee, and Carolina blocks, constituted a peri-Gondwanan terrane on that continent's western, northwestern, or eastern edge during the Appalachian{{nbnd}}Caledonian or Ouachita{{nbnd}}Marathon{{nbnd}}Appalachian orogeny (ie during the formation of [[Pangaea]] from the collision of [[Gondwana]] and [[Laurentia]]).{{sfn|Zhao|Xiao|Gulick|Morgan|2020|p=129}}{{sfn|Guzman-Hidalgo|Grajales-Nishimura|Eberli|Aguayo-Camargo|2021|p=15}}{{sfn|Ross|Stockli|Rasmussen|Gulick|2021|pp=242-243}} It is thought to have been displaced away from the Laurentian craton by clockwise rotation, translation, or anticlockwise rotation, during the [[Middle Jurassic]] opening of the [[Gulf of Mexico]].{{sfn|Guzman-Hidalgo|Grajales-Nishimura|Eberli|Aguayo-Camargo|2021|p=15}}{{sfn|Ross|Stockli|Rasmussen|Gulick|2021|p=254}}{{notetag|The palaeogeographic positions and tectonic interactions of pre-[[Mesozoic]] crustal blocks in present-day [[Mexico]], [[Central America]], and the [[Caribbean]] are still debated {{harv|Ross|Stockli|Rasmussen|Gulick|2021|p=242}}. Fixing the pre-Mesozoic position of the Maya Black with respect to the southwestern margin of [[Laurentia]] is an important step in plate reconstructions of the assembly of [[Pangaea]] and the rotation-induced rifting and opening of the [[Gulf of Mexico]] {{harv|Ross|Stockli|Rasmussen|Gulick|2021|p=242}}.}}
+
+=== Movement ===
+The Block is thought to experience significant counterclockwise rotation and a north-northwest down tilt, which gradually lowers the northern portion of the [[Yucatan Peninsula]], thereby lifting its southern extreme in the [[Maya Mountains]].{{sfn|Monroy-Rios|2020|pp=34-35, 90}} It is nonetheless tectonically rigid or stable.{{sfn|Monroy-Rios|2020|pp=34-35}}
+
+== Scholarship ==
+The Block was discovered in 1969 by Gabriel Dengo, a Guatemalan geographer.{{sfn|Dengo|1969|p=312}}{{sfn|Martens|2009|p=6}} It was quickly adopted in scholarship, and remains 'accepted by many as a valid subdivision of Central America's geology, especially of its crystalline basement.'{{sfn|Martens|2009|p=6}}
+
+== Notes ==
+{{notefoot}}
+
+== Citations ==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+# {{cite journal
+|last1         = Authemayou
+|first1        = C.
+|last2         = Brocard
+|first2        = G.
+|last3         = Teyssier
+|first3        = C.
+|last4         = Simon-Labric
+|first4        = T.
+|last5         = Guttierrez
+|first5        = A.
+|last6         = Chiquin
+|first6        = E. N.
+|last7         = Moran
+|first7        = S.
+|date          = 2011
+|title         = The Caribbean-North America-Cocos Triple Junction and the dynamics of the Polochic-Motagua fault systems: Pull-up and zipper models
+|journal       = Tectonics
+|volume        = 30
+|issue         = 3
+|series        = article no. TC3010
+|pages         = 1–23
+|doi           = 10.1029/2010TC002814
+|bibcode = 2011Tecto..30.3010A
+|s2cid = 128524307
+|url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1029/2010TC002814
+|url-access    = subscription
+}}
+# {{cite book
+|editor-last1    = Bundschuh
+|editor-first1   = J.
+|editor-last2    = Alvarado
+|editor-first2   = G. E.
+|date            = 2012
+|orig-date       = First published 2007
+|edition         = Reprint of 1st
+|title           = Central America: Geology, Resources and Hazards
+|series          = 
+|publisher       = Taylor &amp; Francis
+|location        = London
+|url             = 
+|url-access      =
+|isbn            =9780429074370
+|doi             = 10.1201/9780203947043
+|oclc            = 905983675
+}}
+# {{cite journal
+|last1         = Dengo
+|first1        = G.
+|date          = 1969
+|title         = Problems of tectonic relations between Central America and the Caribbean
+|journal       = Transactions of the Gulf Coast Association of Geological Societies
+|volume        = 19
+|issue         = sn
+|series        = 
+|pages         = 311–320
+|issn          = 0533-6562
+|url           = https://archives-datapages-com.ezp-prod1.hul.harvard.edu/data/gcags/data/019/019001/0311.htm
+|url-access    = subscription
+}}
+# {{cite book
+|editor-last1  = Dengo
+|editor-first1 = G.
+|editor-last2  = Case
+|editor-first2 = J. H.
+|date          = 1990
+|title         = The Caribbean Region
+|series        = The Geology of North America ; v. H
+|publisher     = Geological Society of America
+|place         = Boulder, Colo.
+|hdl           = 2027/mdp.39015018862931
+|isbn = 9780813752129
+|oclc          = 21909394
+|url           =
+|url-access    =
+}}
+# {{cite journal
+|last1         = Evenick
+|first1        = J. C.
+|date          = 2021
+|title         = Glimpses into Earth's history using a revised global sedimentary basin map
+|journal       = Earth-Science Reviews
+|volume        = 215
+|issue         = sn
+|series        = article no. 103564
+|page = 103564
+|doi           = 10.1016/j.earscirev.2021.103564
+|bibcode = 2021ESRv..21503564E
+|s2cid = 233950439
+|url           = 
+|url-access    =
+}}
+# {{cite report
+|last1         = French
+|first1        = C. D.
+|last2         = Schenk
+|first2        = C. J. 
+|title = Open-File Report
+|date          = 2004
+|chapter         = Map showing geology, oil and gas fields, and geologic provinces of the Caribbean Region
+|chapter-url           =
+|chapter-url-access    =
+|doi           = 10.3133/ofr97470K
+|series        = Open-File Report 97-470-K
+|publisher     = U.S. Geological Survey
+|location      = Reston, Virg.
+}}
+# {{cite report
+|last1         = French
+|first1        = C. D.
+|last2         = Schenk
+|first2        = C. J. 
+|editor-first1 = Christopher D
+|editor-first2 = Christopher J
+|editor-last1 = French
+|editor-last2 = Schenk
+|title = Open-File Report
+|date          = 2006
+|chapter         = Map showing geology, oil and gas fields, and geologic provinces of the Gulf of Mexico region
+|chapter-url           =
+|chapter-url-access    =
+|doi           = 10.3133/ofr97470L
+|series        = Open-File Report 97-470-L
+|publisher     = U.S. Geological Survey
+|location      = Reston, Virg.
+}}
+# {{cite journal
+|last1         = Guzman-Hidalgo
+|first1        = E.
+|last2         = Grajales-Nishimura
+|first2        = J. M.
+|last3         = Eberli
+|first3        = G. P.
+|last4         = Aguayo-Camargo
+|first4        = J. E.
+|last5         = Urrutia-Fucugauchi
+|first5        = J.
+|last6         = Perez-Cruz
+|first6        = L.
+|date          = 2021
+|title         = Seismic stratigraphic evidence of a pre-impact basin in the Yucatan Platform; morphology of the Chicxulub Crater and K/Pg boundary deposits
+|journal       = Marine Geology
+|volume        = 441
+|issue         = sn
+|series        = article no. 106594
+|page = 106594
+|doi           = 10.1016/j.margeo.2021.106594
+|bibcode = 2021MGeol.441j6594G
+|url           = https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_webofscience_primary_000697734600001
+|url-access    = subscription
+}}
+# {{cite journal
+|last1         = Iturralde-Vinent
+|first1        = M. A.
+|last2         = MacPhee
+|first2        = R. D. E.
+|date          = 1999
+|title         = Paleogeography of the Caribbean region; implications for Cenozoic biogeography
+|journal       = Bulletin of the American Museum of Natural History
+|volume        = sn
+|issue         = 238
+|series        = 
+|pages         = 1–95
+|hdl           = 2246/1642
+|url           = 
+|url-access    =
+}}
+# {{cite book
+|editor-last1    = Mann
+|editor-first1   = P.
+|date            = 1999
+|title           = Caribbean Basins
+|series          = Sedimentary Basins of the World
+|volume          = 4
+|publisher       = Elsevier
+|location        = Amsterdam
+|url             = https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/bookseries/sedimentary-basins-of-the-world/vol/4/
+|url-access      = subscription
+|oclc            = 43540498
+|isbn            = 0444826491
+}}
+# {{cite thesis
+|last          = Martens
+|first         = Uwe
+|date          = 2009
+|title         = Geologic evolution of the Maya Block (southern edge of the North American plate): An example of terrane transferral and crustal recycling
+|type          = PhD
+|publisher     = Stanford University
+|url           = https://www.proquest.com/docview/304999167
+|id = {{ProQuest|304999167}}
+|url-access    = subscription
+}}
+# {{cite thesis
+|last          = Monroy-Rios
+|first         = Emiliano
+|date          = 2020
+|title         = Advancements in Our Understanding of the Yucatán Platform: Sedimentary Geology and Geochemistry, Speleogenesis, Chicxulub Ring of Cenotes, and Tectonic Stability
+|type          = PhD
+|publisher     = Northwestern University
+|url           = https://www.proquest.com/docview/2469739315
+|id = {{ProQuest|2469739315}}
+|url-access    = subscription
+}}
+# {{cite journal
+|last1         = Ortega-Gutierrez
+|first1        = F.
+|last2         = Solari
+|first2        = L. A.
+|last3         = Ortega-Obregon
+|first3        = C.
+|last4         = Elias-Herrera
+|first4        = M.
+|last5         = Martens
+|first5        = U.
+|last6         = Moran-Ical
+|first6        = S.
+|last7         = Chiquin
+|first7        = M.
+|date          = 2007
+|title         = The Maya-Chortis boundary; a tectonostratigraphic approach
+|journal       = International Geology Review
+|volume        = 49
+|issue         = 11
+|pages         = 996–1024
+|doi           = 10.2747/0020-6814.49.11.996
+|bibcode = 2007IGRv...49..996O
+|s2cid = 140702379
+|url           = https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_crossref_primary_10_2747_0020_6814_49_11_996
+|url-access    = subscription
+}}
+# {{cite journal
+|last1         = Ortega-Gutierrez
+|first1        = F.
+|last2         = Elias-Herrera
+|first2        = M.
+|last3         = Moran-Zenteno
+|first3        = D. J.
+|last4         = Solari
+|first4        = L.
+|last5         = Weber
+|first5        = B.
+|last6         = Luna-Gonzalez
+|first6        = L.
+|date          = 2018
+|title         = The pre-Mesozoic metamorphic basement of Mexico, 1.5 billion years of crustal evolution
+|journal       = Earth-Science Reviews
+|volume        = 183
+|issue         = sn
+|series        = 
+|pages         = 2–37
+|doi           = 10.1016/j.earscirev.2018.03.006
+|bibcode = 2018ESRv..183....2O
+|s2cid = 134436220
+|url           = https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/science/article/pii/S0012825217304683#f0005
+|url-access    = subscription
+}}
+# {{cite journal
+|last1         = Pindell
+|first1        = J.
+|last2         = Maresch
+|first2        = W. V.
+|last3         = Martens
+|first3        = U.
+|last4         = Stanek
+|first4        = K.
+|date          = 2012
+|title         = The Greater Antillean Arc: Early Cretaceous origin and proposed relationship to Central American subduction mélanges: implications for models of Caribbean evolution
+|journal       = International Geology Review
+|volume        = 54
+|issue         = 2
+|series        = 
+|pages         = 131–143
+|doi           = 10.1080/00206814.2010.510008
+|bibcode = 2012IGRv...54..131P
+|s2cid = 67762780
+|url           = https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_proquest_journals_1030255777
+|url-access    = subscription
+}}
+# {{cite journal
+|last1         = Ratschbacher
+|first1        = L.
+|last2         = Franz
+|first2        = L.
+|last3         = Min
+|first3        = M.
+|last4         = Bachmann
+|first4        = R.
+|last5         = Martens
+|first5        = U.
+|last6         = Stanek
+|first6        = K.
+|last7         = Stuebner
+|first7        = K.
+|date          = 2009
+|title         = The North American-Caribbean Plate boundary in Mexico-Guatemala-Honduras
+|journal       = Geological Society Special Publication
+|volume        = 328
+|issue         = 1
+|pages         = 219–293
+|doi           = 10.1144/SP328.11
+|bibcode = 2009GSLSP.328..219R
+|s2cid = 140582699
+|url           = https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_crossref_primary_10_1144_SP328_11
+|url-access    = subscription
+}}
+# {{cite journal
+|last1         = Ross
+|first1        = C. H.
+|last2         = Stockli
+|first2        = D. F.
+|last3         = Rasmussen
+|first3        = C.
+|last4         = Gulick
+|first4        = S. P. S.
+|last5         = Graaff
+|first5        = S. J.
+|last6         = Claeys
+|first6        = P.
+|last7         = Zhao
+|first7        = J.
+|date          = 2021
+|title         = Evidence of Carboniferous arc magmatism preserved in the Chicxulub impact structure
+|journal       = Geological Society of America Bulletin
+|volume        = 134
+|issue         = 1–2
+|series        = 
+|pages         = 241–260
+|doi           = 10.1130/B35831.1
+|s2cid = 238043996
+|url           = https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_proquest_journals_2619486666
+|url-access    = subscription
+}}
+# {{cite journal
+|last1         = Villeneuve
+|first1        = M.
+|last2         = Marcaillou
+|first2        = B.
+|date          = 2013
+|title         = Pre-Mesozoic origin and paleogeography of blocks in the Caribbean, South Appalachian and West African domains and their impact on the post "Variscan" evolution
+|journal       = Bulletin de la Société Géologique de France
+|volume        = 184
+|issue         = 1–2
+|pages         = 5–20
+|doi           = 10.2113/gssgfbull.184.1-2.5
+|url           = https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_webofscience_primary_000318747200002
+|url-access    = subscription
+}}
+# {{cite journal
+|last1         = Weber
+|first1        = B.
+|last2         = Iriondo
+|first2        = A.
+|last3         = Premo
+|first3        = W. R.
+|last4         = Hecht
+|first4        = L.
+|last5         = Schaaf
+|first5        = P.
+|date          = 2007
+|title         = New insights into the history and origin of the southern Maya block, SE México: U–Pb–SHRIMP zircon geochronology from metamorphic rocks of the Chiapas massif
+|journal       = International journal of earth sciences : Geologische Rundschau
+|volume        = 96
+|issue         = 2
+|pages         = 253–269
+|doi           = 10.1007/s00531-006-0093-7
+|bibcode = 2007IJEaS..96..253W
+|s2cid = 55983939
+|url           = https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_proquest_journals_734373617
+|url-access    = subscription
+}}
+# {{cite journal
+|last1         = Zhao
+|first1        = J.
+|last2         = Xiao
+|first2        = L.
+|last3         = Gulick
+|first3        = S. P. S.
+|last4         = Morgan
+|first4        = J. V.
+|last5         = Kring
+|first5        = D.
+|last6         = Urrutia-Fucugauchi
+|first6        = J.
+|date          = 2020
+|title         = Geochemistry, geochronology and petrogenesis of Maya Block granitoids and dykes from the Chicxulub Impact Crater, Gulf of México: Implications for the assembly of Pangea
+|journal       = Gondwana Research
+|volume        = 82
+|issue         = sn
+|pages         = 128–150
+|doi           = 10.1016/j.gr.2019.12.003
+|bibcode = 2020GondR..82..128Z
+|s2cid = 214359672
+|url           = https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/science/article/pii/S1342937X2030006X
+|url-access    = subscription
+}}
+{{refend}}
+{{Physiographic regions}}
+{{authority control}}
+
+[[Category:Geology of North America]]
+[[Category:Geology of the Atlantic Ocean]]
+[[Category:Geology of Belize]]
+[[Category:Geology of Guatemala]]
+[[Category:Geology of Mexico]]
+[[Category:Geomorphology#Physiographic divisions]]
+[[Category:Physiographic divisions]]</text>
+      <sha1>tn9jwcrzaabw1yaytpeb7vs96fd6det</sha1>
+    </revision>
+  </page>
+</mediawiki>

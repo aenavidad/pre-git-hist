@@ -1,0 +1,14 @@
+Table 1
+Sovereign ratings	Data reliability	81	82	83	84	85	86	87	88	89	90	91	92	93	94	95	96	97	98	99	00	01	02	03	04	05	06	07	08	09	10	11	12	13	14	15	16	17	18	19	20
+Moody’s																				Ba2	Ba2	Ba2	Ba2	Ba3	B2	Caa3	Caa3	Caa1	Caa1	B3	B3	B3	Ca	Caa2	Caa2	Caa2	Caa2	B3	B3	B3	Caa1
+= investment grade?																				0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+S&P																					BB	BB-	B+	B+	B-	CCC-	SD	B	B	B	B	B-	SD	B-	B-	B-	CC	B-	B-	B-	CCC+
+SD instance?																					0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	1
+= investment grade?																					0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+																																									
+																																									
+																																									
+																																									
+note	Descriptive category from Moody’s and S&P																																								
+cf	"Moody’s, S&P"																																								
+note	end-of-year ratings of long-term foreign and local currency unsecured debt																																								

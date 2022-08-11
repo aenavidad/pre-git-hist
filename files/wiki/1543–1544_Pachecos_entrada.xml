@@ -1,0 +1,353 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>1543–1544 Pachecos entrada</title>
+    <ns>0</ns>
+    <id>70652741</id>
+    <revision>
+      <id>1102679263</id>
+      <parentid>1088340467</parentid>
+      <timestamp>2022-08-06T09:14:46Z</timestamp>
+      <contributor>
+        <username>Marcocapelle</username>
+        <id>14965160</id>
+      </contributor>
+      <comment>/* References */More specific categorization</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33879" xml:space="preserve">{{DISPLAYTITLE:{{NAMESPACE}}1543–1544 Pachecos ''entrada''}}
+{{short description|1543-1544 Spanish military campaign in southeastern Yucatan}}
+{{use dmy dates|date=April 2022}}
+{{use British English|date=April 2022}}
+{{Infobox military conflict
+| conflict    = 1543{{nbnd}}1544 Pachecos ''entrada''
+| width       =
+| partof      = the [[Spanish conquest of Yucatan]]
+| image       = La conquista 2 detail.png
+| image_size  = 350px
+| alt         =
+| caption     = ''Conquest'' (mural 1971{{nbnd}}1979 by F. Castro Pacheco / photo 2004 by Cuilomerto)
+| date        = {{start and end dates|1543|4|1|1544|3|14|df=y}}
+| place       = [[Chetumal Province|Chetumal]], [[Dzuluinicob]], [[Uaymil]] provinces, [[Manche Ch'ol]] and [[Mopan people|Mopan]] territory {{small|(present-day [[Belize]], [[Izabal Department|Izabal]], [[Quintana Roo]])}}
+| coordinates = {{coord|17.718513981249362|-88.53437744564955|dim:650km_region:BZ_type:country|display=t}}
+| map_type    = 
+| map_relief  = 
+| map_size    = 
+| map_marksize = 
+| map_caption =
+| map_label   =
+| territory   = 
+| result      = Spanish victory
+| status      = 
+| combatants_header = 
+| combatant1  = {{unbulleted list|{{flagicon image|XJYms101.svg|border=}} [[Chetumal Province|Chetumal]]|{{flagicon image|PcbbF401.svg|border=}} [[Dzuluinicob]]|[[Uaymil]]|[[Manche Ch'ol]] hamlets|[[Mopan people|Mopan]] hamlets}}
+| combatant2  = {{flagicon image|Flag of Cross of Burgundy.svg}} [[Captaincy General of Yucatan|Spanish Yucatan]]
+| combatant3  = 
+| commander1  = {{unbulleted list|{{flagicon image|XJYms101.svg|border=}} ''[[Halach Uinik|halach winik]]'' of Chetumal|{{flagicon image|XJYms101.svg|border=}} ''[[Nakom (Mayan commanding officer)|nakomo'ob]]'' of Chetumal|{{flagicon image|PcbbF401.svg|border=}} ''[[Halach Uinik|halach winik]]'' of Dzuluinicob|{{flagicon image|PcbbF401.svg|border=}} ''[[Nakom (Mayan commanding officer)|nakomo'ob]]'' of Dzuluinicob|''[[Nakom (Mayan commanding officer)|nakomo'ob]]'' of Uaymil}}
+| commander2  = {{unbulleted list|{{flagicon image|Flag of Cross of Burgundy.svg}} Gaspar Pacheco|{{flagicon image|Flag of Cross of Burgundy.svg}} Melchor Pacheco|{{flagicon image|Flag of Cross of Burgundy.svg}} Alonso Pacheco|{{flagicon image|Flag of Cross of Burgundy.svg}} Rodrigo Álvarez|{{flagicon image|Flag of Cross of Burgundy.svg}} Juan Gómez de la Camasa}}
+| commander3  = 
+| units1      = 
+| units2      = 
+| units3      = 
+| strength1   = {{unbulleted list|archers unknown|infantrymen unknown}}
+| strength2   = 25 to 30 infantrymen
+| strength3   = 
+| casualties1 = {{unbulleted list|10s{{snds}}100s killed|10s{{snds}}1000s starved to death|missing unknown|wounded unknown|ill unknown|10000s displaced|10s{{snds}}100s settlements damaged}}
+| casualties2 = {{unbulleted list|&lt; 10 killed|0 starved to death|0 missing|wounded unknown|1 ill|0 displaced|0 settlements damaged}}
+| casualties3 = 
+| notes       = ''halach winik'' = [[commander-in-chief]]; ''nakomo'ob'' = [[Commanding officer|commanding officers or commanding generals]]; the ''halach winik'' of Chetumal was also the commander-in-chief of Uaymil
+| campaignbox = 
+}}
+
+The '''1543{{nbnd}}1544 Pachecos ''entrada''''' was the final military campaign in the [[Spanish conquest of Yucatan]], which brought three [[kuchkabal|Postclassic Mayan states]] and several Amerindian settlements in the southeastern quarter of the [[Yucatan peninsula]] under the jurisdiction of [[Bacalar|Salamanca de Bacalar]], a ''villa'' of [[Captaincy General of Yucatan|colonial Yucatan]], in [[New Spain]]. It is commonly deemed one of (if not ''the'') bloodiest and cruelest ''entradas'' in the peninsula's conquest, resulting in the deaths of hundreds or thousands, and the displacement of tens of thousands, of Mayan residents.{{notetag
+|The [[Yucatec Maya language|Yucatecan Mayan]] orthography in this article follows that of {{harvnb|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|Dzul Góngora|Dzul Poot|1980|pp=41a–44a
+}}. At least two other orthographic systems exist {{harv|Lehmann|2018|loc=sec. 2.1, 3
+}}, neither of which is used in this article. (Though Mayan toponyms with established English variants, eg Uaymil, which is properly ''Waymil'' {{harv|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|Dzul Góngora|Dzul Poot|1980|pp=917|loc=pt. 1}}, are left unchanged.)
+}}{{notetag
+|Alternatively, the following have been proposed as the ''final'' campaign in the conquest of Yucatan–
+* the quelling of the 1546{{nbnd}}1547 Mayan revolts ({{harvnb|Graham|2011|p=132}}, {{harvnb|Chamberlain|1948|p=236}}, {{sfn|Quezada|2014|p=36}}),
+* the [[Spanish conquest of Petén#Conquest of the central lakes|1697 Fall of Nojpeten]].
+}}
+
+== Prelude ==
+
+The settlers of [[History of Cuba#Spanish conquest and early colonization (1492 - 1800)|colonial Cuba]] were the first Spaniards to turn their attention to the conquest of [[Kuchkabal|Mayan states in the Yucatan peninsula]]. They were enticed to conquer these after the [[Francisco Hernández de Córdoba (Yucatán conquistador)#1517 Expedition|1517 Hernández de Córdoba expedition]] brought news of splendid (and presumably gold-rich) pre-Columbian cities. The Cubans were soon engrossed in the [[Spanish conquest of the Aztec Empire|conquest of the Aztec Empire]], however, leaving the peninsula's subjugation for later.{{sfn|Chamberlain|1948|pp=11-16}}
+
+Conquest began in earnest upon [[Francisco de Montejo|Francisco de Montejo's]] naming as ''[[adelantado]]'' on 8 November 1526. Montejo's first [[Spanish conquest of Yucatán#Francisco de Montejo, 1527–28|entrada of 1527{{nbnd}}1528]] focussed on the eastern provinces, including [[Uaymil]] and [[Chetumal Province|Chetumal]]. This campaign did not result in Spanish victory, though, requiring a further [[Spanish conquest of Yucatán#Francisco de Montejo and Alonso d' Ávila, 1531–35|1531{{nbnd}}1533 entrada]], which was similarly unsuccessful.{{sfn|Chamberlain|1948|pp=19-22, 35-65, 97-124}}{{sfn|Jones|1989|pp=30-39}}{{sfn|González Ochoa|2018|loc=para. 7}}{{sfn|García Bernal|2018|loc=para. 13-19}}
+
+By early 1544, the western, northern, and northeastern Mayan provinces had been defeated, and replaced with the ''[[municipios]]'' or districts of [[Campeche]], [[Mérida, Yucatán|Merida]], and [[Valladolid, Yucatán|Valladolid]]. This left only the southeastern provinces (Uaymil, Chetumal, and Dzuluinicob) up for conquest.{{sfn|Chamberlain|1948|pp=226}}{{sfn|Quezada|2014|p=35}}
+
+== ''Entrada'' ==
+
+=== Northern prong ===
+[[File:Valboa throws some Indians, who had committed the terrible sin of sodomy, to the dogs to be torn apart.png|thumb|upright=1.5|Valboa throws some Indians, who had committed the terrible sin of sodomy, to the dogs to be torn apart (1594 by T. de Bry via Univ. Houston)]]
+
+In April 1543, the second ''adelantado'' of Yucatan commissioned Gaspar Pacheco his lieutenant governor, captain general, and ''justicia mayor'' for the conquest of Chetumal, Uaymil, and Amerindian settlements on the Golfo Dulce. Pacheco recruited 25 to 30 ''vecinos'' of Merida for the campaign, naming his son, Melchor, second-in-command, and his nephew, Alonso, third-in-command.{{sfn|Chamberlain|1948|p=232}}{{sfn|López de Cogolludo|1688|p=164}}{{sfn|Chamberlain|1939a|p=240}}{{sfn|Graham|2011|pp=112-113, 132-133}}{{notetag
+|{{harvnb|López de Cogolludo|1688|p=164}} dates Pacheco's commissioning prior to 3 January 1543, and sets his recruitment of infantrymen in Veracruz. {{harvnb|Graham|2011|pp=112, 133}} dates Pacheco's commissioning during the spring [March{{snds}}June] of 1543.
+}}
+
+The party set out of Merida in late 1543 or early 1544. In (recently-conquered) Cochuah, Pacheco compelled war-stricken residents to supply his men with burden-bearers, servants, and provisions, thereby reducing that province to famine. Upon entering Uaymil, Pacheco 'began one of the bloodiest campaigns, and certainly the cruelest, of the entire conquest [of Yucatan].' Here, the lieutenant governor was stricken ill, forcing his retreat to Merida, and transfer of the ''entrada'''s command to his son, Melchor.{{sfn|Chamberlain|1948|p=233}}{{sfn|López de Cogolludo|1688|p=164}}{{notetag
+|Melchor's second-in-command was, naturally, Gaspar Pacheco's nephew and former third-in-command, Alonso {{harv|Chamberlain|1948|p=233}}.
+}}{{notetag
+|{{harvnb|López de Cogolludo|1688|p=164}} dates the Pachecos ''entrada'' start and end in 1544. 
+}}{{notetag
+|It has been suggested that
+* Montejo the Younger and Montejo the Nephew would have put a stop to the entrada's excesses, but had no authority to do so {{harv|Chamberlain|1939b|pp=353-354}},
+* the adelantado would have put a stop to the excesses, but was unaware of these at the time, being too far removed from the peninsula while in Honduras-Higueras {{harv|Chamberlain|1939b|pp=353-354}},
+* friars would have put a stop to the excesses, but were not recruited or did not join the entrada {{harv|Chamberlain|1948|pp=234-235}}.
+It has been further noted that Rodrigo Alvarez, an entrada recruit and former secretary to Montejo the Younger, 'sought to persuade the Indians of Uaymil-Chetumal to accept Spanish dominion peacefully, but without the slightest success [...] his efforts to obtain supplies without the use of force [in Cochuah, likewise had] failed completely' {{harv|Chamberlain|1948|p=233}}.
+}}
+
+The ''entrada'' was not well-received at Uaymil nor Chetumal. Residents, determined on guerilla warfare, had destroyed their farmland, blocked the thoroughfares, and deserted their settlements.{{sfn|Chamberlain|1948|p=233}} The scarcity of food was a strain on both sides, however, as both Spaniards and Mayans were forced to forage for sustenance, quickly leading to a war of attrition.{{sfn|Chamberlain|1948|pp=233-234}} Facing famine, the Pachecos 'deliberately resorted to wanton acts of cruelty of a kind of which the Montejos and their other principal captains were seldom, if ever guilty.'{{sfn|Chamberlain|1948|p=234}} These acts included–
+* killing 'many' or 'numbers' of men and women with the ''garrote'',{{sfn|Chamberlain|1948|p=234}}{{sfn|Ministerio de Fomento|1877|p=80}}
+* drowning them in lakes,{{sfn|Chamberlain|1948|p=234}}
+* sicking dogs of war on non-combatants until they were dead and their corpses mutilated,{{sfn|Chamberlain|1948|p=234}}{{sfn|Graham|2011|p=133}}{{sfn|Ministerio de Fomento|1877|p=80}}
+* severing the hands, ears, and noses of 'many' residents or combatants,{{sfn|Chamberlain|1948|p=234}}{{sfn|Vazquez Barke|2012|pp=26-27}}{{sfn|Graham|2011|p=133}}{{sfn|Ministerio de Fomento|1877|p=80}}
+* severing the breasts of women, tying gourds to their feet, and drowning them in lagoons,{{sfn|Graham|2011|p=133}}{{sfn|Ministerio de Fomento|1877|p=80}}
+* tying prisoners to stakes, then (non-fatally) whipping them and (non-fatally) shooting arrows at them, until they died of 'natural' causes.{{sfn|Vazquez Barke|2012|pp=26-27}}
+
+These tactics, or attrition itself, 'finally brought the Maya of Uaymil-Chetumal to their knees and the Spaniards to mastery of the province' in 1544. At this point, Melchor Pacheco founded [[Bacalar|Salamanca de Bacalar]], appointing its ''cabildo'', designating its twenty ''vecinos'', and allotting settlements of the conquered provinces in ''encomienda''.{{sfn|Chamberlain|1948|p=234}}{{sfn|López de Cogolludo|1688|pp=164-165}}{{sfn|Vazquez Barke|2012|p=27}}{{notetag
+|The villa measured some 47 acres, with one section for the 20 ''vecinos'' and another for some 150 Mayan residents (forcibly resettled in the villa). A plaza and church were built in 1546 {{harv|Vazquez Barke|2012|p=31}}, with the parish (christened ''Nuestra Señora de la Purísima Concepción'') overseen by the villa's first resident priest, a secular friar ({{harvnb|Graham|2011|p=142}}, {{harvnb|Jones|1989|p=85}}).
+}}{{notetag
+|{{harvnb|López de Cogolludo|1688|p=165}} suggests that (''none'', or only some of) the ''conquistadores'' settled in Salamanca, as some (or all surviving ones) returned to Merida, arriving in late 1545.{{block quote
+|text=Fundada aquella poblacion [Salamanca de Bacalar], los Conquistadores, que no quedaron por vezinos, dieron buelta à la Ciudad de Merida, y noticia à su General de lo sucedido, con que se començò à gozar de mas quietud, y esto dize el Bachiller Valencia, fue por fines del año de mil y quinientos y quarenta y cinco.
+|author={{harvnb|López de Cogolludo|1688|p=165}}
+}}
+}}
+
+=== Southern prong ===
+
+In 1544, the Pachecos pushed southwards through Dzuluinicob and Manche Ch'ol and Mopan territory towards the Golfo Dulce.{{sfn|Chamberlain|1948|p=234}}{{sfn|González Cicero|1976|pp=21, 83}}{{notetag
+|It is unclear whether this was before or after the founding of Salamanca (cf previous citation).
+}}{{notetag
+|It is unclear whether Dzuluinicob was conquered during the southern prong of the Pachecos entrada towards the Golfo Dulce. Tipu, capital of Dzuluinicob, 'does not appear on a tribute list for 1544, but is recorded as an already established encomienda town in 1568, which indicates that it had functioned as part of an encomienda for some time [;] [t]his, plus what is now [2011] known about the extent of the Pacheco conquest, suggests strongly that Tipu was brought into the encomienda system not long after the [1543{{nbnd}}1544] Pacheco conquest' ({{harvnb|Graham|2011|p=361|loc=item no. 60}}, {{harvnb|Jones|1989|pp=17, 44, 51}}).
+}}
+
+== Aftermath ==
+=== Population collapse ===
+
+It is generally agreed that the Pachecos' victory soon proved pyrrhic. Uaymil and Chetumal, in particular, were said to be heavily populated, wealthy provinces prior to conquest. The district Salamanca de Bacalar inherited, however, was sparsely settled and poor, and remained so throughout.{{sfn|Chamberlain|1948|pp=235-236}}{{sfn|Vazquez Barke|2012|pp=27-28}}{{sfn|Chamberlain|1939b|p=353}}{{sfn|Landa|2011|p=9}}{{sfn|López de Cogolludo|1688|pp=164-165}}{{sfn|Ministerio de Fomento|1877|p=80}}{{sfn|Morandi|2010|p=39}}{{notetag
+|It has been suggested that 'large numbers' of residents resettled in the [[Peten Itza Kingdom]] 'in an attempt to place themselves beyond Spanish reach forever' ({{harvnb|Chamberlain|1948|p=236}}, {{harvnb|Chamberlain|1939b|p=353}}, {{harv|Graham|2011|p=133}}).
+}}{{notetag
+|During 1544{{nbnd}}1639, the villa's population averaged 75 (including both Spanish vecinos and Mayan naborías or servants) ({{harvnb|Morandi|2010|p=39}}, {{harvnb|Jones|1989|pp=71-74}}).
+}}
+
+{|
+|+ style="text-align: left;"|Estimated population of the district and villa.{{sfn|Morandi|2010|p=40}}
+|-
+! Year !! style="padding-left: .5em;"|Population
+|-
+| 1511 || style="padding-left: .5em;"|150,000
+|-
+| 1549 || style="padding-left: .5em;"|12,500
+|-
+| 1580 || style="padding-left: .5em;"|1,000
+|-
+| 1609 || style="padding-left: .5em;"|750
+|-
+| 1639 || style="padding-left: .5em;"|700
+|-
+| 1700 || style="padding-left: .5em;"|700
+|}
+
+=== Dominican opposition ===
+Shortly after 1544, Dominican friars (including [[Bartolome de las Casas]]), who claimed jurisdiction to the Golfo Dulce (as did the adelantado), protested the Pachecos' southern ''entrada''. Eventually, the Spanish Crown and Real Audiencia de los Confines ruled in favour of the friars, definitively barring non-Dominicans from settling in the gulf. This brought the Pachecos' efforts in the region (and the adelantados wishes to conquer it) to nought.{{sfn|Chamberlain|1948|p=234}}{{sfn|González Cicero|1976|pp=83-85}}
+
+=== Criminal prosecution ===
+
+Upon learning of the Pachecos' 'wanton cruelties', Spanish laymen and Franciscan friars petitioned the Crown for their prosecution (sometime during 1545{{nbnd}}1549).{{sfn|Chamberlain|1948|p=236}}
+
+On 1 June 1549, Villalobos, ''promotor fiscal'' of the Consejo Real de Indias, criminally charged the Pachecos–{{text and translation
+|de robar y matar y maltratar a los indios e indias naturales de aquellas tierras estando en paz y sirviendo a los cristianos españoles por fuerza y contra su voluntad les dieron muchas cuchilladas y les cortaron las manos y narices a los hombres [...] y los ataron a estacas y así atados los asaetaron y flecharon hasta que murieron naturalmente y les hicieron muchas crueldades y robos no visto ni oídos.|of robbing [from] and killing and ill-treating the Indians[,] natives of those lands[, they] being at peace and serving the Christian Spaniards[.] [B]y force [of arms] and against their own wishes they stabbed many and cut off the hands and noses of [native] men [...] and they tied them to stakes and shot arrows at them until they died of natural causes[.] [A]nd they committed many cruelties and robberies not seen nor heard [heretofore].|1 June 1549 ''real cédula'' to Audiencia de los Confines.{{sfn|Vazquez Barke|2012|pp=26-27}}{{notetag
+|Office of ''promotor fiscal'' created in 1546 cf Schafer ''Consejo Indias'' [Madrid, 1947] vol 1 p 84
+}}
+}} Consequently, Villalobos awarded surviving relatives of the Pachecos' victims with 100,000 castellanos de oro in compensation, to be paid by the Pachecos.{{sfn|Biblio Ortiz|2018|p=190}} In addition, the Spanish Crown confiscated Melchor's ''encomienda'' in the Bacalar district.{{sfn|Graham|2011|p=362|loc=item no. 76}}{{sfn|Jones|1989|p=45}}{{sfn|Quezada|2014|pp=43-44, 132, 134}}{{notetag
+|Melchor's Bacalar encomienda was transferred to the Crown prior to or on 1552, but he retained encomiendas in the district of Merida (cf previous citations).
+}}
+
+== Legacy ==
+[[File:Karl von Piloty Nero Róma égését szemléli.jpg|thumb|upright=1.5|''Nero Views the Burning of Rome'' (c. 1861 by C. T. von Piloty via reproArte)]]
+
+The Pachecos ''entrada'' is widely deemed one of (if not ''the'') bloodiest and cruelest campaigns of the Spanish conquest of Yucatan.{{sfn|Chamberlain|1948|p=233}}{{sfn|González Cicero|1976|p=21}}{{sfn|Chamberlain|1939b|pp=353-354}}{{sfn|Graham|2011|pp=132-133}}{{sfn|Ministerio de Fomento|1877|pp=80-81}}{{sfn|Morandi|2010|pp=38-39}}{{sfn|Quezada|2014|pp=35-36}}{{notetag
+|{{block quote
+|text=The only campaign [in the Spanish conquest of Yucatan] which was accompanied by systematic ruthlessness of a wholly wanton nature was that of Gaspar Pacheco, his son Melchor and his nepher Alonso in Uaymil-Chetemal. [...] This conquest was one of extreme excesses. The natives, who resisted stubbornly, were slaughtered without mercy and the province was laid waste. Many of those of the native who succeeded in escaping fled beyond Castilian control. Relatively heavily peopled at the outset, the area became largely depopulated. [...] The reduction of Uaymil-Chetemal as contrasted with that of the remainder of the peninsula makes clear in striking fashion the manner in which differences in the characters and purposes of the ''conquistadores'' could determine the nature and methods of conquest.
+|author={{harvnb|Chamberlain|1939b|pp=353-354}}
+}}
+}}
+
+On 10 February 1548, Lorenzo de Bienvenida, a Franciscan friar, reported to the Spanish Crown–{{block quote
+|text=Your Highness should know that the Adelantado about three years and a half ago assigned a captaincy to Gaspar Pacheco, a citizen of this municipality [of Mérida], to conquer certain provinces of the Golfo Dulce, which lie between Honduras and Guatemala and this land. Because of the poor administration of this captain, [his expedition] halted in a province which was then at peace called Cochuah, the largest of this land, and even the best, which is about thirty leagues distant [from Mérida]. There were many people [in this province] and it was divided in repartimiento among citizens of this city. [The Spaniards] consumed the stores of the natives, plundered [the province], and sought to obtain burden-bearers there. Since the male Indians fled to the bush for fear of the Spaniards, they employed the women as burden-bearers. The majority of the Indians died of hunger, and ... [this captain] was unable to pass forward because fo the lack of burden-bearers. He returned and gave the captaincy to his nephew, named Alonso Pacheco. Nero was nor more cruel than this man. He passed forward and reached a province called Chetumal, which was at peace. Even though the natives did not make war, he robbed the province and consumed the foodstuffs of the natuves, who fled into the bush in fear of the Spaniards, since as soon as [this captain] captured any of them, he set the dogs on them. And the Indians fled form all this and did not sow their crops, and all died of hunger. I say all, because there were pueblos of five hundred and one thousand houses, and now one which has one hundred is large. This province was also rich in cacao. This captain, with his own hands committed outrages: he killed many with the garrote, saying, "This is a good rod with which to punish these people," and, after he had killed them, he said, "Oh how well I finished them off." Tying them to stakes, he cut the breasts off many women and threw them in the lakes to drown merely to amuse himself. He committed other great cruelties which I shall not mention for lack of space. He destroyed the entire province. [Then the Spaniards] founded a town of eight citizens, which is called Salamanca, a haltin town which has neither a cleric nor a church, nor do the Spaniards there confess, since the town is sixty leagues from this city [of Mérida]. If [the province of Chetumal] had not been destroyed it would have supported [a town of] thirty men. And for his cruelties they returned this captain to the province which he destroyed and gave him its best Indians, and in doing this they did not give him something which was of small value. Such is the justice rendered in this land.
+|author=Bienvenida, trans. Chamberlain.{{sfn|Chamberlain|1948|p=235}}{{notetag
+|Originally–{{block quote|text=[''Fray Lorenzo de Bienvenida á S. A. el Príncipe Don Felipe, dandole cuenta de varios asuntos referentes á la provincia de Yucatan''.—10 ''de febrero de'' 1548] [...] Sabrá más V. A., que el adelantado dió vna capitania á Gaspar Pacheco, vezino desta çivdad, agora tres años y medio, para que fuesse á conquistar á vnas provinçias del Golfo Dulçe, entre Honduras i Guatimala y esta tierra, y por mal regimiento del capitan, se detuvo en vna provinçia de paz que llaman Cochua, la mayor desta tierra y ávn la mejor, de treinta leguas, donde avia much agente, y que estavan repartidos en esta çivdad, y comieron los mantenimientos á los naturales, y la ranchearon y dáca tamemes; y desque se huyan los indios, cargavan las mujeres, y los indios se huyan á los montes, de miedio de los españoles; y ansi murieron de hanbre los más de los yndios, y no puedo passar adelante por falta de tamemes. Y de alli se boluió, y dió la capitania á vn su sobrino que llaman Alonsso Pacheco. Nero no fué más cruel que este. Esta passó adelanta, y llegó á vna provinçia que llaman Chetemal, estando en paz; y sin dar guerra los naturales, la robó y les comió los mantenimientos á los naturales, y ellos huyendo á los montes, de miedo de los españoles, porque en tomando alguno luego lo aperreavan. Y desto huyan los indios, y no senbraron, y todos murieron de hanbre: digo todos, porque avia pueblos de á quinientas casas y de á mil, y el que agora tiene çiento, es mucho; provinçia rica de cacao. Este capital por sus propias manos, exerçitava las fuerças: con vn garrote mató muchos, y dezia: «¡o quan bien le di!» Cortó muchos pexhos á mugeres y manos á honbres, y narizes y orejas, y estacó, y á las mugeres atava calabaças á los pies, y las echava en las lagunas ahogar, por su passatienpo; y otras grandes crueldades, que por abreviar las dexo. Y destruyó toda la provinçia, y alli hizieron una villa de ocho vezinos, que llaman Salamanca, y bien manca, que ni tienen clerigo ni yglesia, ni se confiesan, porque está de esta çivdad sesenta leguas, y si no la destruyera, vuiera para dar de comer á treinta onbres. Y á este, por sus crueldades, lo boluieron á la provinçia que que destruyó, y le dieron los mejores indios della, y no le dieron un papote: estas justiçias se hazen en esta tierra.|author={{harv|Ministerio de Fomento|1877|pp=70, 80-81}}}}
+}}
+}}
+
+== Notes ==
+{{notefoot}}
+
+== Citations ==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+
+# {{cite book |editor-last1=Barrera Vásquez |editor-first1=Alfredo |editor-last2=Bastarrachea Manzano |editor-first2=Juan Ramón |editor-last3=Brito Sansores |editor-first3=William |editor-last4=Vermont Salas |editor-first4=Refugio |editor-last5=Dzul Góngora |editor-first5=David |editor-last6=Dzul Poot |editor-first6=Domingo |title=Diccionario maya Cordemex : maya-español, español-maya |date=1980 |publisher=Ediciones Cordemex |location=Merida |edition=1st |oclc= 7550928
+}}
+# {{cite journal |last=Biblio Ortiz |first=Juan Pablo |title=De Adelantado a pedigüeño: juicios contra Francisco de Montejo |date=June–December 2018 |journal=Justicia Electoral |volume=1 |issue=22 |pages=179–215 |url-access=|url=https://revistas-colaboracion.juridicas.unam.mx/index.php/justicia-electoral |jstor= |issn=0188-7998
+}}
+# {{cite journal |last=Chamberlain |first=Robert Stoner |title=Spanish Methods of Conquest and Colonization in Yucatan, 1527-1550. I |date=September 1939a |journal=Scientific Monthly |volume=49 |issue=3 |pages=227–244 |url-access=subscription |url=http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/17057 |jstor= 17057
+}}
+# {{cite journal |last=Chamberlain |first=Robert Stoner |title=Spanish Methods of Conquest and Colonization in Yucatan, 1527-1550. II |date=October 1939b |journal=Scientific Monthly |volume=49 |issue=4 |pages=351–359 |url-access=subscription |url=http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/16999 |jstor= 16999
+}}
+# {{cite book |last1=Chamberlain |first1=Robert Stoner |title=The conquest and colonization of Yucatan, 1517–1550 |date=1948 |publisher=Carnegie Institution of Washington |location=Washington, DC |url=https://hdl.handle.net/2027/txu.059173008409431 |url-access=limited |series=Carnegie Institution of Washington Publication |volume=582 |hdl=2027/txu.059173008409431 |edition=1st |oclc= 1843427
+}}
+# {{cite book |last1=Chamberlain |first1=Robert Stoner |title=The conquest and colonization of Honduras : 1502-1550 |date=1953 |publisher=Carnegie Institution of Washington |location=Washington, DC |url=https://hdl.handle.net/2027/txu.059173002179226 |url-access=limited |series=Carnegie Institution of Washington Publication |volume=598 |hdl=2027/txu.059173002179226 |edition=1st |oclc= 1847435
+}}
+# {{cite book |last1=Díaz del Castillo |first1=Bernal |title=Historia verdadera de la conquista de la Nueva España |date=1632 |publisher=En la Emprenta del Reyno |location=Madrid |edition=1st |oclc=85799759 |url=http://bdh.bne.es/bnesearch/detalle/bdh0000012937
+}}
+# {{cite book |last1=Fancourt |first1=Charles St. John |date=1854 |edition=1st |series= |title=The history of Yucatan, from its discovery to the close of the seventeenth century |place=London |publisher=J. Murray |oclc= 1908914 |url-access=subscription |url=https://link.gale.com/apps/doc/CY0100004060/SABN?u=camb55135&amp;sid=bookmark-SABN&amp;xid=783b6f0e&amp;pg=1
+}}
+# {{cite web |last=García Bernal |first=Manuela Cristina |date=2018 |url=https://dbe.rah.es/biografias/13067/francisco-de-montejo |title=Francisco de Montejo |website=Diccionario Biográfico electrónico |publisher=Real Academia de la Historia |access-date=10 August 2021
+}}
+# {{cite thesis
+|last=González Cicero
+|first=Stella María
+|date=1976
+|title=Yucatan, los Franciscanos y el primer obispo fray Francisco de Toral (1517 - 1571)
+|type=PhD
+|publisher=Colegio de Mexico
+|place=Mexico City
+|url=https://www.proquest.com/docview/2627562843
+|url-access=subscription
+}}
+# {{cite web |last1=González Ochoa |first1=José María |title=Alonso González Dávila |url=https://dbe.rah.es/biografias/11022/alonso-gonzalez-davila |website=Diccionario Biográfico electrónico |publisher=Real Academia de la Historia |access-date=10 August 2021 |date=2018
+}}
+# {{cite book |last1=Graham |first1=Elizabeth A. |title=Maya Christians and Their Churches in Sixteenth-Century Belize |date=2011 |publisher=University Press of Florida |location=Gainesville, FL |edition=1st |series=Maya Studies |url-access=subscription |url=https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/17957 |oclc= 751694131
+}}
+# {{cite book |last1=Herrera y Tordesillas |first1=Antonio de |date=1730 |edition=1st |title=Decada Quarta |series=Historia general de los hechos de los castellanos en las islas i tierra firme del mar oceano |place=Madrid |publisher=En la Imprenta real de Nicolas Rodiguez Franco |oclc= 15339062 |url-access=subscription |url=https://link.gale.com/apps/doc/CY0111568415/SABN?u=camb55135&amp;sid=bookmark-SABN&amp;xid=b3b40552&amp;pg=1 |volume=4
+}}
+# {{cite book |last1=Jones |first1=Grant D. |title=Maya resistance to Spanish rule : time and history on a colonial frontier |date=1989 |publisher=University of New Mexico Press |location=Albuquerque, NM |edition=1st |oclc= 20012099 |hdl=2027/mdp.39015015491791
+}}
+# {{cite book |last1=Landa |first1=Diego de |title=Relación de las cosas de Yucatán |date=2011 |publisher=Linkgua |location=Barcelona |edition=Reprint of 1566 manuscript |oclc= 960748072 |url-access=subscription |url=https://www-digitaliapublishing-com.ezp-prod1.hul.harvard.edu/a/16451
+}}
+# {{cite web |last1=Lehmann |first1=Christian |title=Ortografía |url=https://www.christianlehmann.eu/ling/sprachen/maya/sistema_expres/ort/ |website=La lengua maya de Yucatán |publisher=Christian Lehmann |access-date=5 August 2021 |date=16 December 2018
+}}
+# {{cite book |last1=López de Cogolludo |first1=Diego |date=1688 |edition=1st |series= |title=Historia de Yucathan |place=Madrid |publisher=Jvan Garcia Infanzen |oclc= 12175609 |url-access=subscription |url=https://link.gale.com/apps/doc/CY0102936949/SABN?u=camb55135&amp;sid=bookmark-SABN&amp;xid=fbdf1b13&amp;pg=1
+}}
+# {{cite thesis
+|last=Mayfield
+|first=Tracie D.
+|date=2015
+|title=The Nineteenth-Century British Plantation Settlement at Lamanai, Belize (1837 – 1868)
+|type=PhD
+|publisher=University of Arizona
+|place=Tucson, Ariz.
+|url=https://repository.arizona.edu/handle/10150/581410
+}}
+# {{cite book |last1=Means |first1=Phillip Ainsworth |date=1917 |edition=1st |title=History of the Spanish conquest of Yucatan and of the Itzas |series=Papers of the Peabody Museum of American Archaeology and Ethnology, Harvard University |volume=7 |place=Cambridge, Mass. |publisher=Peabody Museum of American Archaeology and Ethnology |oclc= 681599 |url-access= |url=http://nrs.harvard.edu/urn-3:HUL.FIG:001184641
+}}
+# {{cite book |editor-last=Ministerio de Fomento |date=1877 |title=Cartas de Indias |publisher=Impr. de M. G. Hernandez |place=Madrid |hdl=2027/miun.adq6885.0001.001 |oclc= 1862540 |edition=1st
+}}
+# {{cite thesis
+|last=Morandi
+|first=Steven J.
+|date=2010
+|title=Xibun Maya: The archaeology of an early Spanish colonial frontier in southeastern Yucatán
+|type=PhD
+|publisher=Boston University
+|place=Boston, MA
+|url=https://www.proquest.com/docview/305184024
+|url-access=subscription
+}}
+# {{cite journal
+|last=Pendergast
+|first=David M.
+|date=1993
+|title=Worlds in Collision: The Maya/Spanish Encounter in Sixteenth and Seventeenth Century Belize
+|journal=Proceedings of the British Academy
+|volume=81
+|issue=sn
+|pages=105–143
+|url=http://publications.thebritishacademy.ac.uk/pubs/proc/volumes/pba81.html
+}}
+# {{cite book |last1=Quezada |first1=Sergio |title=Pueblos y caciques yucatecos, 1550-1580 |trans-title=Maya lords and lordship : the formation of colonial society in Yucatán, 1350-1600 |date=2014 |publisher=University of Oklahoma Press |location=Norman, OK |url= |url-access=|series= |volume= |hdl= |edition=Revised translation of 1993 Spanish|oclc= 847529166 |translator-last= Rugeley |translator-first=Terry
+}}
+# {{cite book |editor-last1=Ries |editor-first1=Maurice Ruddell |title=Middle American papers; studies relating to research in Mexico, the Central American Republic, and the West Indies |series=Middle American Research Series |volume=4 |date=1932 |publisher=Dept. of Middle American Research, Tulane University of Louisiana |location=New Orleans, LA |edition=1st |oclc= 736389 |hdl=2027/mdp.39015010905951
+}}
+# {{cite thesis 
+|last= Rushton
+|first= Elizabeth A. C.
+|date= 2014
+|title= 'Under the shade I flourish' : an environmental history of northern Belize over the last three thousand five hundred years
+|type= PhD
+|publisher= University of Nottingham
+|place= Nottingham, Eng.
+|oclc=
+|url= http://eprints.nottingham.ac.uk/27615/
+|url-access=
+}}
+# {{cite thesis |last1=Vazquez Barke |first1=Gabriela |date=August 2012 |type=MA |title=BACALAR EN EL SIGLO XVII: colonización y resistencia |publisher=Centro de Investigaciones y Estudios Superiores en Antropología Social |place=Mexico City |url=http://ciesas.repositorioinstitucional.mx/jspui/handle/1015/761
+}}
+# {{cite journal |last=Zamora Castellanos |first=Pedro |title=Monografías departamentales : Izabal : Extracto de un estudio, por el socio, General e Ingeniero Pedro Zamora Castellanos |date=September 1941 |journal=Anales de la Sociedad de Geografía e Historia |volume=17 |issue=3 |pages=168–187 |url-access=|url=https://archive.org/details/AnalesAGHGTomoXVIIAnyoXVIINo3Septiembre1941 |jstor=
+}}
+
+{{refend}}
+
+{{authority control}}
+{{Spanish colonization of the Americas|footer=yes}}
+{{Spanish Empire}}
+
+{{DEFAULTSORT:1543-1544 Pachecos entrada}}
+[[Category:Spanish conquests in the Americas]]
+[[Category:1540s in New Spain]]
+[[Category:1540s conflicts]]
+[[Category:Wars involving Spain]]
+[[Category:Wars involving Mexico]]
+[[Category:Wars involving Belize]]
+[[Category:Wars involving Guatemala]]
+[[Category:16th century in Belize]]
+[[Category:16th century in Guatemala]]
+[[Category:History of the Yucatán Peninsula]]
+[[Category:16th century in the Maya civilization]]</text>
+      <sha1>j54uwdkk3655lo5znwa7neuc6uay2cj</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1235 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Draft:Classic Period in Belize</title>
+    <ns>118</ns>
+    <id>71133899</id>
+    <revision>
+      <id>1095650558</id>
+      <parentid>1095647207</parentid>
+      <timestamp>2022-06-29T15:13:12Z</timestamp>
+      <contributor>
+        <username>Asdfjrjjj</username>
+        <id>41985887</id>
+      </contributor>
+      <comment>/* Sites */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="41566" xml:space="preserve">{{AfC submission|t||ts=20220624124859|u=Asdfjrjjj|ns=118|demo=}}&lt;!-- Important, do not remove this line before article has been created. --&gt;
+{{short description|Pre-Columbian period in Mesoamerican history}}
+{{use dmy dates|date=June 2022}}
+{{use British English|date=June 2022}}
+{{Infobox historical era
+| name      = Classic Period
+| location  = 
+| start     = 250 AD
+| end       = 900 AD
+| image     = IaIx8p01.svg
+| alt       = 
+| caption   = 
+| before    = [[Preclassic Period in Belize|Preclassic Period]]
+| including = {{hlist|Early {{small|(to 600 AD)}}|Late {{small|(to 800 AD)}}|Terminal {{small|(to 900 AD)}}}}
+| after     = [[Postclassic Period in Belize|Postclassic Period]]
+| monarch   = {{unbulleted list|Te' K'ab Chaak {{small|(first of [[Caracol]])}}|Ruler XIII {{small|(last of [[Caracol]])}}|K'awiil Chan K'inich {{small|(first of [[Pusilha]])}}|K'awiil Chan {{small|(last of [[Pusilha]])}}|[[Foliated Jaguar]] {{small|(second of [[Rulers of Tikal|Tikal]])}}|[[Jasaw Chan Kʼawiil II]] {{small|(last of [[Rulers of Tikal|Tikal]])}}}}
+| leaders   = 
+| presidents = 
+| primeministers = 
+| key_events = {{hlist|demographic, social, artistic, intellectual development|[[Classic Maya collapse|Classic Collapse]]}}
+}}
+The '''Classic Period''' of [[history of Belize|Belizean]], [[History of the Maya civilization|Mayan]], and [[history of Mesoamerica|Mesoamerican]] history began with the advent of [[Maya stelae|Mayan monumental inscriptions]] in 250 AD, and ended with the decline of these inscriptions during the [[Classic Maya collapse|Classic Mayan Collapse]] in 900 AD.{{notetag|Classic Period dated from xxx{{spaces}}AD{{snd}}xxx{{spaces}}AD by {{harvnb|Sharer|Traxler|2006|pp=98, 155}}, 250{{spaces}}AD{{snd}}909{{spaces}}AD by {{harvnb|Martin|Grube|2008|p=8}}, 150{{spaces}}AD{{snd}}900{{spaces}}AD or 300{{spaces}}AD{{snd}}650{{spaces}}AD by {{harvnb|Adams|Macleod|2000a|p=11}}, and 150{{spaces}}AD{{snd}}900{{spaces}}AD by {{harvnb|Martin|2020|p=1}}. However, {{harvnb|Adams|Macleod|2000a|p=205}} later place the period in 250{{spaces}}AD{{snd}}900{{spaces}}AD ie between Long Count dates of 8.10.10.0.0{{snd}}10.4.0.0.0, based on the 'most widely accepted' calendrical correlation which equates the 11.16.0.0.0 Long Count date to {{start date|1539|11|12|df=y}} AD.}}{{notetag|{{harvnb|Martin|Grube|2008|p=13}} use the Goodman{{en dash}}Martinez{{en dash}}Thompson correlation with a two-day addition, ie GMT+2, to convert Mayan Long Count dates into Julian ones, given that said correlation 'best fits [various] diverse criteria, and is now almost universally accepted [in Mayan scholarship].' {{harvnb|Sharer|Traxler|2006|pp=279-284}} follow the GMT correlation with a 584,283 correlation constant. A calculator is available from [http://research.famsi.org/date_mayaLC.php the Foundation for the Advancement of Mesoamerican Studies].}}
+
+== Geography ==
+During the [[pre-Columbian era]], [[Belize]] formed [[Geography of Mesoamerica|part of Mesoamerica]].{{sfn|Sharer|Traxler|2006|p=24|loc=fig. 1.1}}{{sfn|Adams|Macleod|2000a|pp=6-10}} Traditionally, the first-order subdivisions of the latter follow cultural or political boundaries of Preclassic, Classic, or Postclassic civilisations, eg [[Maya civilisation|Mayans]] and [[Aztec civilisation|Aztecs]]. The ''Mayan region'' of Mesoamerica is one such.{{sfn|Adams|Macleod|2000a|pp=197-200}} It, in turn, is further subdivided physiographically into at least three regions, ie the ''Mayan Lowlands'', ''Highlands'', and ''Pacific''.{{sfn|Sharer|Traxler|2006|pp=24, 30-31}} The first of these second-order subdivisions, which fully encompassed Belize, is still further subdivided into northern, central, and southern portions, called the ''Northern'', ''Central'', and ''Southern Lowlands''.{{sfn|Sharer|Traxler|2006|pp=24, 45-53}} Belizean territory north of Indian Creek ie [[Nim Li Punit]] is often included within the Central Lowlands, fully encompassing five of [[Districts of Belize|Belize's districts]], and an upper portion of [[Toledo District|Toledo]].{{sfn|Sharer|Traxler|2006|pp=24, 46-48}} Territory south of Indian Creek, including Nim Li Punit, is often placed within the Southern Lowlands, encompassing the central and lower portions of Toledo.{{sfn|Sharer|Traxler|2006|pp=24, 45-46}}{{notetag|However, alternative first-order subdivisions of the Mayan region (ie second-order subdivisions of Mesoamerica) are sometimes given, eg {{harvnb|Martin|Grube|2008|p=10}} give these as Northern, Central, and Southern Areas, eg {{harvnb|Adams|Macleod|2000a|p=200}} give them as Northern Lowlands, Southern Lowlands, and Highlands (though later, in {{harvnb|Adams|Macleod|2000a|pp=203-204}}, give them as Lowlands and Highlands).}}
+
+== Climate ==
+== History ==
+=== Early ===
+==== Hiatus ====
+The late Early Classic Hiatus was a stretch of sixty years in 534{{snd}}593 ie 9.5.0.0.0{{snd}}9.8.0.0.0 'when few dated monuments were erected' in cities across the Central Lowlands, but most especially in Tikal.{{sfn|Adams|Macleod|2000a|p=220}}
+=== Late ===
+The Late Classic is traditionally deemed the 'apogee' of Mayan civilisation.{{sfn|Adams|Macleod|2000a|p=220}}
+=== Terminal ===
+==== Collapse ====
+
+== Demographics ==
+== Technology ==
+== Economy ==
+== Society ==
+== Government ==
+=== State ===
+The size and nature of Classic states remain uncertain, with proposals ranging from a few regional-scale entities administered by centralised governments, to a multitude of small city-states with local government.{{sfn|Martin|2020|pp=3-4}}{{sfn|Martin|Grube|2008|pp=17-18}}
+
+The head of state and government of Classic city-states was the ''[[Ajaw|k'uhul ajaw]]'' or [[Sacred king|divine king]], though these were sometimes beholden to foreign ''overkings'' ie patron kings in a patron{{en dash}}client relationship.{{sfn|Martin|Grube|2008|pp=17, 19-21}}{{notetag|Classic divine kings were styled ''k'uhul k'antumaak'' in Caracol, rather than ''k'uuhul ajaw'' {{harv|Martin|Grube|2008|p=87}}.}}
+=== Local ===
+
+== Sites ==
+{{Classic Belize sites location map}}
+xxx
+{{Static row numbers}}
+{| class="sortable static-row-numbers" style="text-align:left;"
+|+ Prominent excavated sites in Belize with Classic artefacts, material, or structures.{{sfn|Witschey|Brown|2010}}{{sfn|Martin|Grube|2008|p=19}}{{sfn|Adams|Macleod|2000a|pp=217, 223, 225-227}}{{sfn|Tiesler|2022|pp=169, 444-446}}{{sfn|Martin|2020|pp=2, 6}}{{notetag|Not including various unnamed or minor Classic sites.}}
+|- 
+! class=unsortable style="text-align:center;"| Emblem
+! Name
+! Location
+! Size
+|-
+| style="text-align:center;"| –
+| Actuncan
+| Cayo
+| Large
+|-
+| [[File:XJYms101.svg|25px|center]]
+| [[Altun Ha]]
+| Belize
+| Large
+|-
+| style="text-align:center;"| –
+| Arenal
+| Cayo
+| Large
+|-
+| style="text-align:center;"| –
+| [[Baking Pot]]
+| Cayo
+| Small
+|-
+| style="text-align:center;"| –
+| Barton Ramie
+| Cayo
+| Small
+|-
+| style="text-align:center;"| –
+| Bajo Hill
+| xxx
+| Small
+|-
+| style="text-align:center;"| –
+| Buenavista
+| Cayo
+| Large
+|-
+| style="text-align:center;"| xxx
+| [[Cahal Pech]]
+| Cayo
+| Large
+|-
+| style="text-align:center;"| –
+| Caledonia
+| Corozal
+| Small
+|-
+| style="text-align:center;"| –
+| Camelote
+| Cayo
+| Large
+|-
+| [[File:PcbbF401.svg|45px|center]]
+| [[Caracol]]
+| Cayo
+| Very large
+|-
+| style="text-align:center;"| –
+| Chac Balam
+| Ambergris Caye
+| Small
+|-
+| style="text-align:center;"| –
+| Chau Hiix
+| Belize
+| Small
+|-
+| style="text-align:center;"| –
+| [[Cuello]]
+| Orange Walk
+| Small
+|-
+| style="text-align:center;"| –
+| Dos Hombres
+| Orange Walk
+| Large
+|-
+| style="text-align:center;"| –
+| [[El Pilar]]
+| Cayo
+| Small
+|-
+| style="text-align:center;"| –
+| Guaycamayo
+| Cayo
+| Large
+|-
+| style="text-align:center;"| ???
+| [[La Milpa]]
+| Orange Walk
+| Large
+|-
+| style="text-align:center;"| xxx
+| [[Lamanai]]
+| Orange Walk
+| Large
+|-
+| style="text-align:center;"| –
+| [[Lubaantun]]
+| xxx
+| Small
+|-
+| style="text-align:center;"| –
+| Maax Na
+| Orange Walk
+| Large
+|-
+| style="text-align:center;"| –
+| [[Minanha]]
+| Cayo
+| Small
+|-
+| style="text-align:center;"| xxx
+| [[Nim Li Punit]]
+| Toledo
+| Small
+|-
+| style="text-align:center;"| –
+| [[Nohmul]]
+| Orange Walk
+| Small
+|-
+| style="text-align:center;"| –
+| Pacbitun
+| Cayo
+| Large
+|-
+| style="text-align:center;"| –
+| [[Pulltrouser Swamp]]
+| Corozal
+| Small
+|-
+| style="text-align:center;"| xxx
+| [[Pusilha]]
+| Toledo
+| Small
+|-
+| style="text-align:center;"| –
+| [[San Estevan (Maya site)|San Estevan]]
+| Orange Walk
+| Small
+|-
+| style="text-align:center;"| xxx
+| [[Xunantunich]]
+| Cayo
+| Large
+|}
+
+== Timeline ==
+{{Static row numbers}}
+{| class="sortable static-row-numbers" style="text-align:left;"
+|+ Prominent Classic events in Belize or the Mayan Lowlands.{{notetag|Dates correlated using the GMT correlation and a 584283 constant as per the [http://research.famsi.org/date_mayaLC.php FAMSI online calculator], unless otherwise noted.}}
+|-
+! Date {{small|Gregorian}}
+! Date {{small|Julian}}
+! Date {{small|Long Count}}
+! class=unsortable| Event
+! class=unsortable| Notes
+|-
+| {{start date|292|7|6|df=y}}
+| {{start date|292|7|6|df=y}}
+| 8.12.14.8.15
+| Earliest Long Count date in the Lowlands
+| ie on Tikal Stela 29; cf{{thinspace}}{{sfn|Adams|Macleod|2000a|p=205}}{{sfn|Martin|Grube|2008|p=13}}
+|-
+| {{start date|331|1|2|df=y}}{{snd}}{{end date|350|1|1|df=y}}
+| {{start date|331|1|1|df=y}}{{snd}}{{end date|349|12|31|df=y}}
+| 8.14.13.9.13{{snd}}8.15.12.14.12
+| Reign of [[Te' K'ab Chaak]] of Caracol
+| ie earliest ''known'' king in Belize; cf{{thinspace}}{{sfn|Martin|Grube|2008|p=86}}{{notetag|Upper and lower temporal bounds provided, as precise dates not available {{harv|Martin|Grube|2008|p=86}}.}}
+|-
+| {{start date|378|1|14|df=y}}
+| {{start date|378|1|13|df=y}}
+| 8.17.1.4.12
+| Arrival of ''entrada'' of [[Sihyaj K'ahk']] and [[Spearthrower Owl]] of Teotihuacan to Tikal
+| ie death of [[Chak Tok Ich'aak I]] of Tikal; cf{{thinspace}}{{sfn|Martin|Grube|2008|pp=28-30}}
+|-
+| {{start date|379|9|11|df=y}}
+| {{start date|379|9|10|df=y}}
+| 8.17.2.16.17
+| Accession of [[Yax Nuun Ahiin I]] of Tikal
+| cf{{thinspace}}{{sfn|Martin|Grube|2008|p=32}}
+|-
+| {{start date|484|4|11|df=y}}
+| {{start date|484|4|10|df=y}}
+| 9.2.9.0.16
+| Accession of [[Yajaw Te' K'inich I]] of Caracol
+| ie earliest ''known'' accession in Belize; cf{{thinspace}}{{sfn|Martin|Grube|2008|p=86}}
+|-
+| {{start date|495|1|28|df=y}}
+| {{start date|495|1|27|df=y}}
+| 9.3.0.0.0
+| Earliest dedication of a ''Great Ajaw'' altar in Belize
+| ie a Caracol altar; cf{{thinspace}}{{sfn|Martin|Grube|2008|p=89}}
+|-
+| {{start date|531|4|13|df=y}}
+| {{start date|531|4|11|df=y}}
+| 9.4.16.13.3
+| Accession of [[K'an I]] of Caracol
+| ie earliest ''known'' accession in Belize presided by a foreign ''overlord''; cf{{thinspace}}{{sfn|Martin|Grube|2008|p=87}}
+|-
+| {{start date|553|4|16|df=y}}
+| {{start date|553|4|14|df=y}}
+| 9.5.19.1.2
+| Caracol{{en dash}}Tikal axe war
+| ie defeat of Caracol; cf{{thinspace}}{{sfn|Martin|Grube|2008|p=89}}
+|-
+| {{start date|562|4|29|df=y}}
+| {{start date|562|4|27|df=y}}
+| 9.6.8.4.2
+| Caracol{{en dash}}Tikal star war
+| ie defeat of Tikal and onset of the Tikal Hiatus; cf{{thinspace}}{{sfn|Martin|Grube|2008|pp=89-90}}{{notetag|The identity of the victor is uncertain, though Caracol, Calakmul ie the Snake kingdom ie the Snake polity, or both, have been suggested {{harv|Martin|Grube|2008|pp=89-90}}.}}
+|-
+| xxx
+| {{start date|584|9|1|df=y}}{{snd}}{{end date|584|9|30|df=y}}
+| xxx
+| Arrival of Lady Batz' Ek' to Caracol
+| ie earliest ''politically active'' queen mother in Belize; cf{{thinspace}}{{sfn|Martin|Grube|2008|p=91}}
+|-
+| xxx
+| {{start date|680|2|1|df=y}}{{snd}}{{start date|680|2|29|df=y}}
+| xxx
+| Caracol{{en dash}}Naranjo star war
+| ie defeat of Caracol and onset of Caracol Hiatus; cf{{thinspace}}{{sfn|Martin|Grube|2008|pp=94-95}}
+|-
+| {{start date|830|3|13|df=y}}
+| {{start date|830|3|9|df=y}}
+| 10.0.0.0.0
+| Latest dedication of a ''Great Ajaw'' altar in Belize
+| ie a Caracol altar; cf{{thinspace}}{{sfn|Martin|Grube|2008|p=89}}
+|-
+| {{start date|859|10|7|df=y}}
+| {{start date|859|10|3|df=y}}
+| 10.1.10.0.0
+| Latest Long Count date in Caracol
+| ie on Caracol Stela 10; cf{{thinspace}}{{sfn|Martin|Grube|2008|p=99}}
+|-
+| {{start date|909|1|18|df=y}}
+| {{start date|909|1|13|df=y}}
+| 10.4.0.0.0
+| Latest Long Count date in the Lowlands
+| ie on Tonina Monument 101; cf{{thinspace}}{{sfn|Adams|Macleod|2000a|p=205}}
+|}
+
+== Scholarship ==
+The earliest ''amateur'' work on Mayan sites in Belize, possibly Preclassic ones, is attributed to George Henderson, a [[Baymen|Bayman]], who in 1809 published 'a tantalisingly short description of mounds along the Belize River.'{{sfn|Pendergast|1993|pp=3-4}}{{sfn|Henderson|1809|pp=52-53}} Site-focussed excavations were begun by [[Thomas Gann]] in 1894, and presented to the [[Society of Antiquaries of London]] on 16 May 1895.{{sfn|Pendergast|1993|p=4}}{{sfn|Gann|1895|p=430}} However, 'the rudimentary beginnings of archaeological research were not followed by similar efforts in Belize for a good many years,' ie until 1925{{en dash}}1939 work by the [[British Museum]], the [[Carnegie Institution]], [[Field Museum]], and [[J. Eric S. Thompson|J. E. S. Thompson]], among others.{{sfn|Pendergast|1993|pp=4-6}}{{notetag|It has been suggested that Gann's work prompted the first legislative protections for antiquities in colonial Belize in 1894, and their subsequent strengthening in 1897, 1924, and 1927.({{harvnb|Wallace|2011|p=25}}, {{harvnb|Hammond|1983|p=22}}). His 1894{{en dash}}1936 career has been described as 'more destructive than protective of evidence from beginning to end' {{harv|Pendergast|1993|p=4}}. However, it has also been pointed out that his work, if judged by archaeological standards of his time, rather than by modern ones, would not be so harshly judged{{en dash}}though it would still be found wanting {{harv|Wallace|2011|pp=24–26}}.}}
+== See also ==
+* [[Pre-Columbian Belize]]
+* [[Classic Maya collapse|Classic Mayan Collapse]]
+* [[Classic Maya|Classic Period in the Mayan region of Mesoamerica]]
+* [[Classic Period in Mesoamerica|Classic Period in Mesoamerica]]
+* [[Classic stage|Classic stage in the Americas]]
+
+== Notes ==
+{{notefoot}}
+== Citations ==
+{{reflist}}
+== References ==
+=== Journals ===
+{{refbegin}}
+# {{cite journal
+| last1         = Akers
+| first1        = Pete D.
+| last2         = Brook
+| first2        = George A.
+| last3         = Railsback
+| first3        = L. Bruce
+| last4         = Liang
+| first4        = Fuyuan
+| last5         = Iannone
+| first5        = Gyles
+| last6         = Webster
+| first6        = James W.
+| last7         = Reeder
+| first7        = Philip P.
+| last8         = Cheng
+| first8        = Hai
+| last9         = Edwards
+| first9        = R. Lawrence
+| date          = 1 October 2016
+| title         = An extended and higher-resolution record of climate and land use from stalagmite MC01 from Macal Chasm, Belize, revealing connections between major dry events, overall climate variability, and Maya sociopolitical changes
+| journal       = Palaeogeography, Palaeoclimatology, Palaeoecology
+| volume        = 459
+| issue         = 
+| pages         = 268–288
+| doi           = 10.1016/j.palaeo.2016.07.007
+| pmid          = 
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1016/j.palaeo.2016.07.007
+| url-access    = subscription
+}}
+# {{cite journal
+| last1         = Awe
+| first1        = Jaime J.
+| last2         = Ebert
+| first2        = Claire E.
+| last3         = Stemp
+| first3        = W. James
+| last4         = Brown
+| first4        = M. Kathryn
+| last5         = Sullivan
+| first5        = Lauren A.
+| last6         = Garber
+| first6        = James F.
+| date          = 2021
+| title         = Lowland Maya Genesis: The Late Archaic to Late Early Formative Transition in the Upper Belize River Valley
+| journal       = Ancient Mesoamerica
+| volume        = 32
+| issue         = 3
+| pages         = 519–544
+| doi           = 10.1017/S0956536121000420
+| pmid          = 
+| s2cid = 245125325
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1017/S0956536121000420
+| url-access    = subscription
+}}
+# {{cite journal
+|last=Fox
+|first=A. H. Lane
+|date=1871 
+|title=Flint Implement from Honduras
+|journal=Proceedings of the Society of Antiquaries of London 
+|url=
+|url-access=
+|series=Second Series
+|volume=5 
+|issue=2
+|pages=93–95
+|doi=10.1017/S0950797300011616
+|hdl=2027/hvd.hw2a3c?urlappend=%3Bseq=109 
+}}
+# {{cite journal 
+|last=Franks 
+|first=A. W. 
+|title=Remarks on Stone Implements from Honduras 
+|pages=37–40 
+|url=
+|url-access=
+|journal=Journal of the Anthropological Institute of Great Britain and Ireland 
+|volume=6 
+|date=1877
+|doi=10.2307/2841243 
+|jstor=2841243 
+|hdl=2027/hvd.32044042253526?urlappend=%3Bseq=51 
+}}
+# {{cite journal
+|last=Gann
+|first=Thomas
+|date=1895
+|title=On exploration of two mounds in British Honduras
+|journal=Proceedings of the Society of Antiquaries of London 
+|url=
+|url-access=
+|series=Second Series
+|volume=15 
+|issue=
+|pages=430–434
+|doi=
+|hdl= 2027/uiug.30112118719803?urlappend=%3Bseq=458%3Bownerid=13510798903948353-462
+}}
+# {{cite journal 
+|last1=Hammond 
+|first1=Norman 
+|title=The development of Belizean archaeology 
+|journal=Antiquity 
+|date=March 1983 
+|volume=57 
+|issue=219 
+|pages=19–27 
+|doi=10.1017/S0003598X00054946
+|s2cid=163374681 
+}}
+# {{cite journal
+| last1         = Hoggarth
+| first1        = Julie A.
+| last2         = Ebert
+| first2        = Claire E.
+| last3         = Castelazo-Calva, Victor E
+| first3        = Victor E.
+| date          = 2021
+| title         = MesoRAD: A New Radiocarbon Data Set for Archaeological Research in Mesoamerica
+| journal       = Journal of Open Archaeology Data
+| volume        = 9
+| issue         = 10
+| pages         = 1–9
+| doi           = 10.5334/joad.83
+| pmid          = 
+| s2cid = 245401909
+| url           = 
+| url-access    =
+}}
+# {{cite journal
+| last1         = Inomata
+| first1        = Takeshi
+| last2         = MacLellan
+| first2        = Jessica
+| last3         = Burham
+| first3        = Melissa
+| date          = 2015
+| title         = The Construction of Public and Domestic Spheres in the Preclassic Maya Lowlands
+| journal       = American Anthropologist
+| volume        = 117
+| issue         = 3
+| pages         = 519–534
+| doi           = 10.1111/aman.12285
+| jstor         =
+| url           = https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_proquest_miscellaneous_1721357710
+| url-access    = subscription
+}}
+# {{cite journal
+| last1         = Inomata
+| first1        = Takeshi
+| last2         = Triadan
+| first2        = Daniela
+| last3         = Lopez
+| first3        = Veronica A. Vazquez
+| last4         = Fernandez-Diaz
+| first4        = Juan Carlos
+| last5         = Omori
+| first5        = Takayuki
+| last6         = Bauer
+| first6        = Maria Belen Mendez
+| last7         = Hernandez
+| first7        = Melina Garcia
+| last8         = Beach
+| first8        = Timothy
+| last9         = Cagnato
+| first9        = Clarissa
+| last10        = Aoyama
+| first10       = Kazuo
+| last11        = Nasu
+| first11       = Hiroo
+| date          = 25 June 2020
+| title         = Monumental architecture at Aguada Fenix and the rise of Maya civilization
+| journal       = Nature
+| volume        = 582
+| issue         = 7813
+| pages         = 530–533
+| doi           = 10.1038/s41586-020-2343-4
+| pmid          = 32494009
+| s2cid = 219281856
+| url           = https://www-nature-com.ezp-prod1.hul.harvard.edu/articles/s41586-020-2343-4
+| url-access    = subscription
+}}
+# {{cite journal
+| last1         = Kennett
+| first1        = Douglas J.
+| last2         = Lipson
+| first2        = Mark
+| last3         = Prufer
+| first3        = Keith M.
+| last4         = Mora-Marin
+| first4        = David
+| last5         = George
+| first5        = Richard J.
+| last6         = Rohland
+| first6        = Nadin
+| last7         = Robinson
+| first7        = Mark
+| last8         = Trask
+| first8        = Willa R.
+| last9         = Edgar
+| first9        = Heather H. J.
+| last10        = Hill
+| first10       = Ethan C.
+| last11        = Ray
+| first11       = Erin E.
+| last12        = Lynch
+| first12       = Paige
+| date          = 22 March 2022
+| title         = South-to-north migration preceded the advent of intensive farming in the Maya region
+| journal       = Nature Communications
+| volume        = 13
+| issue         = 1
+| page          = 1530
+| doi           = 10.1038/s41467-022-29158-y
+| pmid          = 35318319
+| pmc = 8940966
+| url           =
+| url-access    =
+}}
+# {{cite journal
+| last1         = Lesure
+| first1        = Richard G.
+| last2         = Sinensky
+| first2        = R. J.
+| last3         = Schachner
+| first3        = Gregson
+| last4         = Wake
+| first4        = Thomas A.
+| last5         = Bishop
+| first5        = Katelyn J.
+| date          = 2021
+| title         = Large-Scale Patterns in the Agricultural Demographic Transition of Mesoamerica and Southwestern North America
+| journal       = American Antiquity, 2021-07, Vol.86 (3), P.593-612
+| volume        = 86
+| issue         = 3
+| pages         = 593–612
+| doi           = 10.1017/aaq.2021.23
+| jstor         =
+| s2cid = 235538513
+| url           = https://www-cambridge-org.ezp-prod1.hul.harvard.edu/core/journals/american-antiquity/article/largescale-patterns-in-the-agricultural-demographic-transition-of-mesoamerica-and-southwestern-north-america/31DD609E9D81DC72BFC9CB28D72E0F27
+| url-access    = subscription
+}}
+# {{cite journal
+| last1         = Lohse
+| first1        = John C.
+| last2         = Awe
+| first2        = Jaime J.
+| last3         = Griffith
+| first3        = Cameron
+| last4         = Rosenswig
+| first4        = Robert M.
+| last5         = Valdez
+| first5        = Fred
+| date          = 2006
+| title         = Preceramic Occupations in Belize: Updating the Paleoindian and Archaic Record
+| journal       = Latin American Antiquity
+| volume        = 17
+| issue         = 2
+| pages         = 209–226
+| doi           = 10.2307/25063047
+| jstor         = 25063047
+| s2cid = 163373104
+| url           = http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/25063047
+| url-access    = subscription
+}}
+# {{cite journal
+| last1         = Metcalfe
+| first1        = Sarah E.
+| last2         = Holmes
+| first2        = Jonathan A.
+| last3         = Jones
+| first3        = Matthew D.
+| last4         = Gonzalez
+| first4        = Roger Medina
+| last5         = Primmer
+| first5        = Nicholas J.
+| last6         = Dyrzo
+| first6        = Haydar Martinez
+| last7         = Davies
+| first7        = Sarah J.
+| last8         = Leng
+| first8        = Melanie J.
+| date          = 15 April 2022
+| title         = Response of a low elevation carbonate lake in the Yucatan Peninsula (Mexico) to climatic and human forcings
+| journal       = Quaternary Science Reviews
+| volume        = 282
+| issue         = 
+| pages         = 1-17 of article no. 107445
+| doi           = 10.1016/j.quascirev.2022.107445
+| pmid          = 
+| s2cid = 247514101
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1016/j.quascirev.2022.107445
+| url-access    = subscription
+}}
+# {{cite journal 
+|last1=Nielsen 
+|first1=Jasper 
+|last2=Andersen 
+|first2=Bente Jul 
+|title=Collecting in Corozal : late Postclassic Maya Effigy Censers from Belize in the Danish National Museum (1860-1865) 
+|journal=Mayab 
+|date=2004 
+|issue=17 
+|pages=84–98
+|url=https://dialnet.unirioja.es/servlet/articulo?codigo=2775068 
+|issn=1130-6157
+}}
+# {{cite journal
+| last1         = Pearson
+| first1        = Georges A.
+| date          = 3 July 2017
+| title         = Bridging the Gap: An Updated Overview of Clovis across Middle America and its Techno-Cultural Relation with Fluted Point Assemblages from South America
+| journal       = PaleoAmerica
+| volume        = 3
+| issue         = 3
+| pages         = 203–230
+| doi           = 10.1080/20555563.2017.1328953
+| pmid          = 
+| s2cid = 135101506
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1080/20555563.2017.1328953
+| url-access    = subscription
+}}
+# {{cite journal 
+| last1         = Pendergast 
+| first1        = David M. 
+| title         = The Center and the Edge: Archaeology in Belize, 1809–1992 
+| journal       = Journal of World Prehistory 
+| date          = March 1993 
+| volume        = 7 
+| issue         = 1 
+| pages         = 1–33 
+| doi           = 10.1007/BF00978219 
+| jstor         = 25800626
+| s2cid         = 161362847
+| url           = http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/25800626
+| url-access    = subscription
+}}
+# {{cite journal
+| last1         = Pollock
+| first1        = A. L.
+| last2         = Beynen
+| first2        = P. E. van
+| last3         = DeLong
+| first3        = K. L.
+| last4         = Polyak
+| first4        = V.
+| last5         = Asmerom
+| first5        = Y.
+| last6         = Reeder
+| first6        = P. P.
+| date          = 1 December 2016
+| title         = A mid-Holocene paleoprecipitation record from Belize
+| journal       = Palaeogeography, Palaeoclimatology, Palaeoecology
+| volume        = 463
+| issue         = 
+| pages         = 103–111
+| doi           = 10.1016/j.palaeo.2016.09.021
+| pmid          = 
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1016/j.palaeo.2016.09.021
+| url-access    = subscription
+}}
+# {{cite journal
+| last1         = Prufer
+| first1        = Keith M.
+| last2         = Alsgaard
+| first2        = Asia V.
+| last3         = Robinson
+| first3        = Mark
+| last4         = Meredith
+| first4        = Clayton R.
+| last5         = Culleton
+| first5        = Brendan J.
+| last6         = Dennehy
+| first6        = Timothy
+| last7         = Magee
+| first7        = Shelby
+| last8         = Huckell
+| first8        = Bruce B.
+| last9         = Stemp
+| first9        = W. James
+| last10        = Awe
+| first10       = Jaime J.
+| last11        = Capriles
+| first11       = Jose M.
+| last12        = Kennett
+| first12       = Douglas J.
+| date          = 18 July 2019
+| title         = Linking late paleoindian stone tool technologies and populations in North, Central and South America
+| journal       = PLOS ONE
+| volume        = 14
+| issue         = 7
+| pages         = 1-20 of article no. e0219812
+| doi           = 10.1371/journal.pone.0219812
+| pmid          = 31318917
+| pmc = 6638942
+| url           =
+| url-access    =
+| doi-access = free
+}}
+# {{cite journal
+| last1         = Prufer
+| first1        = Keith M.
+| last2         = Robinson
+| first2        = Mark
+| last3         = Kennett
+| first3        = Douglas J.
+| date          = 2021
+| title         = Terminal Pleistocene Through Middle Holocene Occupations in Southeastern Mesoamerica: Linking Ecology and Culture in the Context of Neotropical Foragers and Early Farmers
+| journal       = Ancient Mesoamerica
+| volume        = 32
+| issue         = 3
+| pages         = 439–460
+| doi           = 10.1017/S0956536121000195
+| pmid          = 
+| s2cid = 245125309
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1017/S0956536121000195
+| url-access    = subscription
+}}
+# {{cite journal 
+| last1         = Rice 
+| first1        = Prudence M. 
+| title         = In Search of Middle Preclassic Lowland Maya Ideologies
+| journal       = Journal of Archaeological Research
+| date          = 24 March 2020
+| volume        = 29
+| issue         = 1 
+| pages         = 1–46 
+| doi           = 10.1007/s10814-020-09144-y
+| jstor         =
+| s2cid         =216517189
+| url           = https://link-springer-com.ezp-prod1.hul.harvard.edu/article/10.1007/s10814-020-09144-y
+| url-access    = subscription
+}}
+# {{cite journal
+| last1         = Schmitt
+| first1        = Dominik
+| last2         = Gischler
+| first2        = Eberhard
+| last3         = Anselmetti
+| first3        = Flavio S.
+| last4         = Vogel
+| first4        = Hendrik
+| date          = 2020
+| title         = Caribbean cyclone activity: an annually-resolved Common Era record
+| journal       = Scientific Reports
+| volume        = 10
+| issue         = 1
+| pages         = 1-17 of article no. 11780
+| doi           = 10.1038/s41598-020-68633-8
+| pmid = 32678192
+| pmc = 7367345
+}}
+# {{cite journal
+| last1         = Stemp
+| first1        = W. James
+| last2         = Awe
+| first2        = Jaime J.
+| last3         = Marcus
+| first3        = Joyce
+| last4         = Helmke
+| first4        = Christophe
+| last5         = Sullivan
+| first5        = Lauren A.
+| date          = 2021
+| title         = The Preceramic and Early Ceramic Periods in Belize and the Central Maya Lowlands
+| journal       = Ancient Mesoamerica
+| volume        = 32
+| issue         = 3
+| pages         = 416–438
+| doi           = 10.1017/S0956536121000444
+| pmid          = 
+| s2cid = 245125311
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1017/S0956536121000444
+| url-access    = subscription
+}}
+# {{cite journal
+| last1         = Valdez, Fred ; Sullivan, Lauren A ; Buttles, Palma J ; Aebersold, Luisa
+| first1        = Fred
+| last2         = Sullivan
+| first2        = Lauren A.
+| last3         = Buttles
+| first3        = Palma J.
+| last4         = Aebersold
+| first4        = Luisa
+| date          = 2021
+| title         = The Origins and Identification of the Early Maya from Colha and Northern Belize
+| journal       = Ancient Mesoamerica
+| volume        = 32
+| issue         = 3
+| pages         = 502–518
+| doi           = 10.1017/S0956536121000468
+| pmid          = 
+| s2cid = 245125274
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1017/S0956536121000468
+| url-access    = subscription
+}}
+# {{cite journal 
+|last1=Wallace 
+|first1=Colin 
+|title=Reconnecting Thomas Gann with British Interest in the Archaeology of Mesoamerica: An Aspect of the Development of Archaeology as a University Subject 
+|journal=Bulletin of the History of Archaeology 
+|date=May 2011 
+|volume=21 
+|issue=1 
+|page=23 
+|doi=10.5334/bha.2113 
+|doi-access=free
+}}
+{{refend}}
+=== Theses ===
+{{refbegin}}
+# {{cite thesis
+| last1         = Awe
+| first1        = Jaime Jose
+| date          = 1992
+| type          = PhD
+| title         = Dawn in the land between the rivers : formative occupation at Cahal Pech, Belize and its implications for Preclassic development in the Maya lowlands
+| publisher     = University College London
+| url           = https://ethos.bl.uk/OrderDetails.do?did=2&amp;uin=uk.bl.ethos.339260
+| url-access    = limited
+}}
+# {{cite thesis
+| last1         = Bermingham
+| first1        = Adam
+| date          = 2020
+| type          = PhD
+| title         = Land Use Strategies of the Ancient Maya in Seasonally Dry Tropical Forest Ecosystems of the Yucatan Peninsula
+| publisher     = University of Northumbria
+| url           = http://nrl.northumbria.ac.uk/id/eprint/45358/
+| url-access    =
+}}
+# {{cite thesis
+| last1         = Burns
+| first1        = Jeffrey M.
+| date          = 2018
+| type          = MA
+| title         = Preceramic Cave Use in Belize
+| publisher     = Northern Arizona University
+| url           = https://www.proquest.com/docview/2050579408
+| id = {{ProQuest|2050579408}}
+| url-access    = subscription
+}}
+# {{cite thesis
+| last1         = Duncan
+| first1        = Lindsay May
+| date          = 2019
+| type          = PhD
+| title         = Archaeological deposits, environmental impact and local soil formation at Marco Gonzalez, Belize
+| publisher     = University College London
+| url           = https://discovery.ucl.ac.uk/id/eprint/10069157/
+| url-access    = 
+}}
+# {{cite thesis
+| last1         = Ebert
+| first1        = Claire Elizabeth Camilli
+| date          = 2017
+| type          = PhD
+| title         = Preclassic Maya Social Complexity and Origins of Inequality at Cahal Pech, Belize
+| publisher     = Pennsylvania State University
+| url           = https://www.proquest.com/docview/2448339130
+| id = {{ProQuest|2448339130}}
+| url-access    = subscription
+}}
+# {{cite thesis
+| last1         = Hoffmeister
+| first1        = Kristen Keir
+| date          = 2019
+| type          = PhD
+| title         = The Relationship between Sociopolitical Transitions and Mortuary Behavior among the Maya in Northern Belize
+| publisher     = Texas A&amp;M University
+| url           = 
+| url-access    = 
+| isbn          = 9798438733836
+}}
+# {{cite thesis
+| last1         = McLellan
+| first1        = Alec
+| date          = 2020
+| type          = PhD
+| title         = From Lamanai to Ka'kabish : human and environment interaction, settlement change, and urbanism in northern Belize
+| publisher     = University College London
+| url           = https://discovery.ucl.ac.uk/id/eprint/10089565/
+| url-access    = 
+}}
+# {{cite thesis
+| last1         = Moore
+| first1        = Tamara
+| date          = 2021
+| type          = MA
+| title         = Creation During Abandonment: Researching the Hingston Group at Ka'Kabish, Belize
+| publisher     = Trent University
+| url           = https://www.proquest.com/docview/2477999560
+| id = {{ProQuest|2477999560}}
+| url-access    = subscription
+}}
+# {{cite thesis
+| last1         = Orsini
+| first1        = Stephanie R.
+| date          = 2016
+| type          = MA
+| title         = From turkeys to tamales: Paleoindian to Preclassic period faunal use at Maya Hak Cab Pek rockshelter in southern Belize
+| publisher     = University of Mississippi
+| url           = https://www.proquest.com/docview/1809807534
+| id = {{ProQuest|1809807534}}
+| url-access    = subscription
+}}
+# {{cite thesis
+| last1         = Plumer
+| first1        = Hannah
+| date          = 2017
+| type          = PhD
+| title         = Health among the Maya : comparisons across sites in the northern Three Rivers Region, Belize
+| publisher     = University of Sheffield
+| url           = https://etheses.whiterose.ac.uk/17969/
+| url-access    =
+}}
+# {{cite thesis
+| last1         = Pring
+| first1        = D. C.
+| date          = 1978
+| type          = PhD
+| title         = The Preclassic Ceramics of Northern Belize
+| publisher     = University College London
+| url           = 
+| url-access    = 
+| id            = EThOS ID uk.bl.ethos.469518
+}}
+# {{cite thesis
+| last1         = Porter
+| first1        = Mark Lawrence Bennefield
+| date          = 2020
+| type          = MA
+| title         = Caching Aggrandizers: Ritual Caching Practices, Competitive Generosity, and the Rise of Inequality in the Preclassic Maya Lowlands
+| publisher     = Northern Arizona University
+| url           = https://www.proquest.com/docview/2415270983
+| id = {{ProQuest|2415270983}}
+| url-access    = subscription
+}}
+# {{cite thesis
+| last1         = Rawski
+| first1        = Zeo J.
+| date          = 2020
+| type          = PhD
+| title         = Constructing Power in the Preclassic: Monumental Architecture and Sociopolitical Inequality at Early Xunantunich, Belize
+| publisher     = University of Texas
+| url           = https://www.proquest.com/docview/2415765388
+| id = {{ProQuest|2415765388}}
+| url-access    = subscription
+}}
+# {{cite thesis
+| last1         = Rushton
+| first1        = Elizabeth A. C.
+| date          = 2014
+| type          = PhD
+| title         = 'Under the shade I flourish' : an environmental history of northern Belize over the last three thousand five hundred years
+| publisher     = University of Nottingham
+| url           = http://eprints.nottingham.ac.uk/id/eprint/27615
+| url-access    = 
+}}
+# {{cite thesis
+| last1         = Sparks-Stokes
+| first1        = Dominique
+| date          = 2019
+| type          = PhD
+| title         = The Impact of Ceramic Raw Materials on the Development of Hopewell and Preclassic Maya Pottery
+| publisher     = University of Cincinnati
+| url           = https://www.proquest.com/docview/2272840805
+| url-access    = subscription
+| isbn          =
+| id = {{ProQuest|2272840805}}
+}}
+{{refend}}
+=== Print ===
+{{refbegin}}
+# {{cite book
+| editor-last1  = Adams
+| editor-first1 = Richard E. W.
+| editor-last2  = Macleod
+| editor-first2 = Murdo J.
+| title         = Mesoamerica, Part 1
+| series        = The Cambridge history of the native peoples of the Americas
+| volume        = 2
+| date          = 2000a
+| edition       = 
+| publisher     = Cambridge University Press
+| location      = Cambridge
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1017/CHOL9780521351652
+| url-access    = subscription
+| doi           = 10.1017/CHOL9780521351652
+| oclc          =
+| hdl           = 
+| isbn = 9781139053778
+| s2cid = 163512332
+}}
+# {{cite book
+| editor-last1  = Adams
+| editor-first1 = Richard E. W.
+| editor-last2  = Macleod
+| editor-first2 = Murdo J.
+| title         = Mesoamerica, Part 2
+| series        = The Cambridge history of the native peoples of the Americas
+| volume        = 2
+| date          = 2000b
+| edition       = 
+| publisher     = Cambridge University Press
+| location      = Cambridge
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1017/CHOL9780521652049
+| url-access    = subscription
+| doi           = 10.1017/CHOL9780521652049
+| oclc          =
+| hdl           = 
+| isbn = 9781139053464
+}}
+# {{cite book
+ |last          = Henderson
+ |first         = George
+ |date          = 1809
+ |orig-date     = 
+ |title         = An account of the British settlement of Honduras; being a view of its commercial and agricultural resources, soil, climate, natural history, &amp;c.
+ |series        = 
+ |volume        = 
+ |edition       =
+ |publisher     = Printed by and for C. and R. Baldwin, New Bridge-Street
+ |location      = London
+ |hdl           = 2027/uc1.31175035187452
+ |oclc          = 
+ |url-access    =
+}}
+# {{cite book
+ |last          = Henderson
+ |first         = George
+ |date          = 1811
+ |orig-date     = First published 1809
+ |title         = An account of the British settlement of Honduras; being a view of its commercial and agricultural resources, soil, climate, natural history, &amp;c.
+ |series        = 
+ |volume        = 
+ |edition       =
+ |publisher     = Printed for R. Baldwin, Paternoster Row
+ |location      = London
+ |url           = https://link.gale.com/apps/doc/U0104973779/MOME?u=camb55135&amp;sid=bookmark-MOME&amp;xid=b5fc0d6f&amp;pg=1
+ |oclc          = 
+ |url-access    = subscription
+}}
+# {{cite book
+| last1         = Martin
+| first1        = Simon
+| last2         =
+| first2        =
+| title         = Ancient Maya politics :a political anthropology of the classic period 150-900 CE
+| series        = 
+| date          = 2020
+| orig-date     = 
+| edition       = 
+| publisher     = Cambridge University Press
+| location      = Cambridge
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1017/9781108676694
+| url-access    = subscription
+| doi           = 10.1017/9781108676694
+| oclc          = 1104073524
+| hdl           = 
+}}
+# {{cite book
+| last1         = Martin
+| first1        = Simon
+| last2         = Grube
+| first2        = Nikolai
+| title         = Chronicle of the Maya kings and queens : deciphering the dynasties of the ancient Maya
+| series        = 
+| date          = 2008
+| orig-date     = First published 2000
+| edition       = 2nd
+| publisher     = Thames &amp; Hudson
+| location      = London &amp; New York
+| url           = 
+| url-access    =
+| doi           = 
+| oclc          = 47358325
+| hdl           = 2027/uc1.32106019910212
+}}
+# {{cite book
+| editor-last1  = Pearsall
+| editor-first1 = Deborah M.
+| title         = Encyclopedia of Archaeology
+| series        = 
+| volume        = 
+| date          = 2008
+| edition       = 
+| publisher     = Elsevier
+| location      = San Diego, Calif.
+| url           = https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/referencework/9780123739629/encyclopedia-of-archaeology
+| url-access    = subscription
+| doi           = 
+| oclc          = 714030453
+| hdl           = 
+}}
+# {{cite book
+| editor-last1  = Sharer
+| editor-first1 = Robert J.
+| editor-last2  = Traxler
+| editor-first2 = Loa P.
+| title         = The Ancient Maya
+| date          = 2006
+| edition       = 6th
+| publisher     = Stanford University Press
+| location      = Stanford, Calif.
+| url           = 
+| url-access    =
+| oclc          = 57577446
+| hdl           = 2027/mdp.39015062626216
+}}
+# {{cite book
+| editor-last1  = Tiesler
+| editor-first1 = Vera
+| editor-last2  =
+| editor-first2 = 
+| title         = The Routledge Handbook of Mesoamerican Bioarchaeology
+| series        = 
+| volume        = 
+| date          = 2022
+| edition       = 
+| publisher     = Routledge
+| location      = London
+| url           = 
+| url-access    = 
+| doi           = 10.4324/9780429341618
+| oclc          =
+| hdl           = 
+| isbn = 9780429341618
+}}
+{{refend}}
+
+=== Other ===
+{{refbegin}}
+# {{cite map
+| last1         = Witschey
+| first1        = Walter R. T.
+| last2         = Brown
+| first2        = Clifford T.
+| date          = 2010
+| scale         = [vars. scales]
+| title         = The Electronic Atlas of Ancient Maya Sites
+| url           = https://databasin.org/datasets/3aa6b24c882144d6a4197bd277ae753d/
+| publisher     = Heidi Hausman &amp; Conservation Biology Institute
+| place         = Corvallis, Oreg.
+}}
+{{refend}}
+== External links ==
+* [https://www.maya-3d.com Maya 3D]
+* [https://artsandculture.google.com/project/exploring-the-maya-world Exploring the Maya World]
+* [https://www.mayadatabase.org Maya Hieroglyphic Database]
+* [http://www.famsi.org Foundation for the Advancement of Mesoamerican Studies]
+* [https://www.precolumbia.org/pari/ Pre-Columbian Art Research Institute]
+* [https://www.science.org/content/article/what-did-ancient-maya-see-in-stars-their-descendants-team-with-scientists-find-out The Stargazers]
+{{authority control}}
+{{Belize topics}}
+{{Maya}}
+{{Pre-Columbian}}
+&lt;!-- categories --&gt;</text>
+      <sha1>kadpjcl4nwsgmi0mdilyk2og7hw51uw</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,54 @@
+E1—48 / Disasters.
+ID	No	ALT ID	NAME	BEG	END	FT	FT	DESCRIPTION	PRESS	CF	VIA	NOTE	
+E 		Crs 1	Alien Logging	1 Jan 1765	30 Dec 1770	 	Du Fr	Alien loggers saturate Settlement					
+E 		Crs 2	Zayas Asylum	1 Jan 1766	30 Dec 1771	Sp	 	Yucatan offers asylum to Settlement slaves					
+E 		Crs 3	Spanish Panic	1 Feb 1785		Sp	 	Baymen panic.					
+E 		Crs 4	Despard Affair	1 Jun 1787	30 May 1791	Sp		Shoremen evacuated to Settlement / Civil unrest / Constitutional crisis / Market destabilised	"Independent Journal NYC NY 295 p2
+Independent Journal NYC NY 311 p2
+New-York Journal 2091 p2"				
+E 		Crs 5	Logging Prohibition	23 Dec 1763	5 Mar 1765	Sp	 	Yucatan prohibits logging along northern rivers					
+E 		Fin 1	Logwood Exhaustion	1 Jun 1765	30 Nov 1766	 	 	Logwood becomes significantly scarce					
+E 		Hos 1	Soberanis y Centeno Offensives	1 Jan 1694	30 Dec 1710	Sp	Ai	"Guatemala launch 2 military campaigns against Settlement / Yucatan launch 4 paramilitary campaigns against Settlement / Baymen, possibly with Amerindian allies, raid Spanish and Amerindian settlements in Guatemala or Yucatan"					
+E 		Hos 10	Arms Raids	1 Sep 1773	30 Nov 1773	 	Ai	Amerindian assault or raid Settlement					
+E 		Hos 11		1 Nov 1793	30 Nov 1793	 	Ai	Amerindian assault or raid Settlement / Baymen engage					
+E 		Hos 12	Naismith Raid	25 Jul 1767	25 Jul 1767	 	Ai	Amerindian assault or raid Settlement					
+E 		Hos 13	Providence Raids	1 Apr 1636	30 Aug 1677	 	Ai Bu Du	"Buccaneers or privateers, at times with non-English and Amerindian allies, raid Spanish and Amerindian settlements along Bay of Hon coast"					
+E 		Hos 14	Figueroa y Silva Siege	1 Aug 1722	21 Feb 1733	Sp	 	"Yucatan lay siege on Settlement / Yucatan launch 8 military campaigns against Settlement /  Royal Navy, Fleet and Baymen engage"					
+E 		Hos 16	Jamaica Slavery	1 Jan 1722	1 Jul 1838	 	Af Du Fr Po	"Jamaicans and others, with Baymen’s aid, enslave Africans"					
+E 		Hos 19	Tortuga Slavery	1 Jan 1638			Ai Bu	Buccaneers or privateers impress or enslave Amerindians					
+E 		Hos 2	Golden Age of Piracy	10 Jan 1718	28 Feb 1725		Bu	Buccaneers surprise Fleet					
+E 		Hos 20	Mosquito Slavery	1 Jan 1702			Ai	"Miskito and possibly other Amerindians, at times with Baymen’s aid, enslave Amerindians"					
+E 		Hos 3	Salcedo Siege	10 Mar 1734	30 Jun 1741	Sp	 	"Yucatan lay siege on Settlement / Yucatan launch 1 military campaign against Settlement / Royal Navy, Fleet, and Baymen, at times with Amerindian allies, engage"	Read’s Weekly Journal or British Gazetteer 375 p3				
+E 		Hos 4	Bazán y Molina Siege	1 Mar 1744	30 Jun 1761	Sp	 	"Yucatan lay siege to Settlement / Cuba, Guatemala and Yucatan launch xxx military campaigns against Settlement / Fleet and Baymen, possibly with Amerindian allies, engage"					
+E 		Hos 8	Zayas Siege	1 Mar 1767	23 Aug 1773	Sp	 	Yucatan lay siege to Settlement / Yucatan launch at least 2 military or paramilitary campaigns against Settlement / Fleet and Baymen engage				Yucatan is assumed.	
+E 		Ill 1	Diphtheria	1 Jun 1737	30 Dec 1737	 	 	Epidemic among Baymen and Fleet					
+E 		Ill 2	Malaria	7 Mar 1750	30 Sep 1750	 	 	Epidemic among Baymen					
+E 		Ill 3	Measles	1 Nov 1751	30 May 1752	 	 	Epidemic among Baymen and Fleet					
+E 		Ill 4	Measles	1 Feb 1788	30 Aug 1788	 	 	Epidemic among Baymen					
+E 		Ill 5	Yellow fever	29 Sep 1797	30 Dec 1797	 	 	Epidemic among Irish Brigade					
+E 		Nat 1	Great Famine	1 Jun 1771	30 Apr 1772	 	 	Amerindians seek refuge in Settlement / Provisions become significantly scarce					
+E 		Nat 2		1 Dec 1784	30 Nov 1785	 	 	Severe wet season / Epidemic among Baymen					
+E 		Nat 3		1 Nov 1792	30 Nov 1792	 	 	Severe wet season / Severe flooding of Belize Town					
+E 		Rev 1	Cook’s	1 Aug 1765	30 Sep 1765	 	 	"Mr. Cook’s slaves lead revolt / Revolters lay siege to New River / British Army, Fleet and Baymen engage"					
+E 		Rev 2	Davidson’s	28 May 1773	30 Sep 1773	Sp	 	"Mr. Davidson’s slaves, with Spanish allies, lead revolt / Royal Navy, Fleet and Baymen engage"					
+E 		Rev 3	Old River	1 Jun 1786	30 Jul 1786	 	 	Slaves lead revolt / xxx					
+E 		Rev 4	New River	1 Jan 1813		 	 	Slaves lead revolt / xxx					
+E 		Rev 5	Will & Sharper’s	1 Apr 1820		 	 	Messrs. Will and Shaper lead revolt / xxx					
+E 		War 1	Spanish Succession	1 Jul 1701	11 Sep 1714	Sp	Fr	England declares war on Spain					
+E 		War 10	Cromwell’s	15 Dec 1654	23 May 1667	Sp	Bu Fr	England declares war on Spain					
+E 		War 11	Spanish-American Revolution	25 Sep 1808	29 Sep 1833	Sp	 	Civil unrest / xxx					
+E 		War 2	Quadruple Alliance	2 Aug 1718	17 Feb 1720	Sp	 	Great Britain declares war on Spain					
+E 		War 3		1 Mar 1726	9 Nov 1729	Sp	 	Great Britain declares war on Spain					
+E 		War 4	Jenkins' Ear	22 Oct 1739	18 Oct 1748	Sp	 	Great Britain declares war on Spain					
+E 		War 5	Seven Years’	5 May 1762	10 Feb 1763	Sp	Fr	Great Britain declares war on Spain					
+E 		War 6	American Revolution	19 Apr 1775	3 Sep 1783	Sp	Am Fr	"America, Spain declare war on Great Britain / American Royalists seek refuge in Settlement / Americans sack Settlement / Yucatan launch 1 military campaign against Settlement / Royal Navy, British Army, Baymen, Shoremen and Amerindian allies engage"					
+E 		War 7	French Revolution	20 Apr 1792	27 Mar 1802	Sp	Fr	"Great Britain declares war on Spain / Yucatan launch 1 military campaign against Settlement / Royal Navy, Fleet and Baymen engage"				Great Britain = UK on 1801.	
+E 		War 8	Napoleonic	18 May 1803	20 Nov 1815	Sp	Fr	"UK declares war on France, Spain"					
+E 		War 9		18 Jun 1812	17 Feb 1815	 	Am	UK declares war on US					
+E 													
+E 													
+E 													
+E 													
+E 													
+E 													
+E 													

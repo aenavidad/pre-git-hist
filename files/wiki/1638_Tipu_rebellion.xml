@@ -1,0 +1,653 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>1638 Tipu rebellion</title>
+    <ns>0</ns>
+    <id>70639350</id>
+    <revision>
+      <id>1102679419</id>
+      <parentid>1090969469</parentid>
+      <timestamp>2022-08-06T09:16:01Z</timestamp>
+      <contributor>
+        <username>Marcocapelle</username>
+        <id>14965160</id>
+      </contributor>
+      <comment>/* References */More specific categorization</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="38602" xml:space="preserve">{{short description|1638 Mayan revolt in colonial Yucatan}}
+{{Use dmy dates|date=April 2022}}
+{{Use British English|date=April 2022}}
+{{Infobox civil conflict
+| title            = 1638 Tipu rebellion
+| subtitle         = 1638 revolt of Mayan ''reducción'' settlements in the Bacalar district
+| partof           = 
+| image            = Francisco Goya - Night Scene from the Inquisition - Google Art Project.jpg
+| caption          = ''Night Scene from the Inquisition'' {{small|/ 1810 oil on canvas by F. Goya / via Google}}
+| date             = {{start date|1638|6}}{{snds}}{{end date|1638|12}}
+| place            = [[Tipu, Belize|Tipu]]
+| coordinates      = {{coord|17.07967653461554|-89.07995945199652|region:BZ_type:city}}
+| causes           = {{hlist|Mayan prophecies regarding the start of ''k'atun 1 ahaw''|discontent regarding civil and religious requirements under ''encomienda''|Anglo-Dutch piratical raids|}}
+| goals            = {{hlist|expulsion of Spanish friars and ''encomenderos''|freedom of movement|freedom of conscience}}
+| methods          = {{hlist|desertion of ''reducción'' or ''encomienda'' settlements|threats of force}}
+| status           = 
+| result           = {{hlist|collapse of Spanish control over the district of Bacalar|relocation of Bacalar}}
+| side1            = {{unbulleted list|[[Tipu, Belize|Tipu]]|[[Peten Itza Kingdom|Peten Itza]]|8 ''reducción'' hamlets}}
+| side2            = {{unbulleted list|[[Bacalar]]|[[Captaincy General of Yucatan|Colonial Yucatan]]|6 ''reducción'' hamlets}}
+| side3            = 
+| side4            = 
+| leadfigures1     = {{unbulleted list|''[[Batab]]'' of Tipu|''[[Kan Ek']]'' of Peten Itza|Pedro Noh {{small|(''a batab'')}}|Francisco Yam {{small|(''batab'')}}|Luis Kinil {{small|(''batab'')}}|Pedro Noh {{small|(''batab'')}}|Gaspar Chuc {{small|(''captain'')}}|Gaspar Puc {{small|(''alcalde'')}}|Andrés Uxul}}
+| leadfigures2     = {{unbulleted list|Diego Zapata de Cárdenas {{small|([[Governor of Yucatán|governor]])}}|Luis Sánchez de Aguilar {{small|(''alcalde'')}}|Gregorio Marín de Aguilar {{small|(friar)}}|Francisco Sánchez de la Seña {{small|(''alférez mayor'')}}|Cristóbal Delgado {{small|(''regidor'')}}|Bartolomé Gómez de Santoyo {{small|(''regidor'')}}|Juan Martín de los Cedros {{small|(scribe)}}}}
+| leadfigures3     = 
+| leadfigures4     = 
+| howmany1         = c. 300 families {{small|(Mayan)}}
+| howmany2         = {{unbulleted list|c. 50 ''vecinos'' {{small|(Spanish)}}|&lt; 150 families {{small|(Mayan)}}}}
+| howmany3         = 
+| howmany4         = 
+| casualties1      = 
+| casualties2      = 
+| casualties3      = 
+| casualties4      = 
+| fatalities       = 1 friar {{small|(of illness)}}
+| injuries         = {{unbulleted list|9 to 10 Mayans {{small|(tortured)}}|&gt; 80 Mayan children and adults {{small|(whipped)}}}}
+| arrests          = 9 to 10 Mayans
+| damage           = 3 to 8 hamlets burnt {{small|(by residents)}}
+| buildings        =
+| detentions       = {{unbulleted list|&gt; 80 Mayan children and adults|2 Franciscan friars + 1 Mayan guide}}
+| charged          =
+| fined            =
+| effect           =
+| effect_label     =
+| casualties_label = Casualties and losses
+| notes            = 
+| sidebox          = 
+}}
+
+The '''1638 Tipu rebellion''' was a widespread revolt of Mayan residents in the ''[[municipio]]'' or district of [[Bacalar]] in the second half of 1638. Led by [[Tipu, Belize|Tipu]], a pre-Columbian town and the most significant ''[[Reductions|reducción]]'' or ''[[encomienda]]'' settlement in the district, it resulted in the removal of Bacalar and subsequent collapse of Spanish power in the region, leading to a 57-year revival of the [[Kuchkabal|Postclassic state]] of [[Dzuluinicob]], of which Tipu had been capital.&lt;ref 
+group=note&gt;
+
+The [[Yucatec Maya language|Yucatecan Mayan]] orthography in this article follows that of {{harvnb|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|Dzul Góngora|Dzul Poot|1980|pp=41a–44a}}. At least two other orthographic systems exist {{harv|Lehmann|2018|loc=sec. 2.1, 3}}, neither of which is used in this article. Accordingly, ''k'atun'' and ''ahaw'' are preferred over several variations thereof, per {{harvnb|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|Dzul Góngora|Dzul Poot|1980|pp=4, 385–386|sec=pt. 1}}.
+
+&lt;/ref&gt;&lt;ref
+
+group=note&gt;
+
+Details of the rebellion and its aftermath remain unclear, as extant records are poor, and no records regarding Bacalar during {{start and end dates|1638|11|6|1643|3|4}} have survived (or been discovered) {{harv|Jones|1989|p=191}}.
+
+&lt;/ref&gt;
+
+== Prelude ==
+=== Prophecy ===
+[[File:Chilam Balam of Chumayel via Princeton p50.jpg|thumb|upright=1.5|Prophecy for ''k'atun 1 ahaw'' by ''chilam'' Balam of Chumayel (via Princeton)]]
+
+''K'atun 1 ahaw'', the sixth ''[[k'atun]]'' of the [[Maya calendar#Short count|short round]] of 1539{{nbnd}}1796 (spanning thirteen ''k'atuno'ob''), began on 6 June 1638.{{sfn|Sharer|Traxler|2006|pp=779-783}} Mayan ''chilamo'ob'' (priests) prophesied the ''k'atun'' would usher in natural disaster and rebellion.{{sfn|Jones|1989|p=190}}&lt;ref
+
+group=note&gt;
+
+The short round's ''k'atuno'ob'' were–
+{|
+|+ 
+|-
+! No. !! ''k'atun'' !! style="padding-left: .5em;"|Start !! style="padding-left: .5em;"|End
+|-style="vertical-align: top;"
+| 1 ||''k'atun{{figure space}}11{{figure space}}ahaw'' || style="padding-left: .5em;"|{{start date|1539|11|13|df=y}} || style="padding-left: .5em;"|{{end date|1559|7|30|df=y}}
+|-style="vertical-align: top;"
+| 2 || ''k'atun 9 ahaw'' || style="padding-left: .5em;"|{{start date|1559|7|31|df=y}} || style="padding-left: .5em;"|{{end date|1579|4|17|df=y}} 
+|-style="vertical-align: top;"
+| 3 || ''k'atun 7 ahaw'' || style="padding-left: .5em;"|{{start date|1579|4|18|df=y}} || style="padding-left: .5em;"|{{end date|1599|1|1|df=y}} 
+|-style="vertical-align: top;"
+| 4 || ''k'atun 5 ahaw'' || style="padding-left: .5em;"|{{start date|1599|1|2|df=y}} || style="padding-left: .5em;"|{{end date|1618|9|18|df=y}}
+|-style="vertical-align: top;"
+| 5 || ''k'atun 3 ahaw'' || style="padding-left: .5em;"|{{start date|1618|9|19|df=y}} || style="padding-left: .5em;"|{{end date|1638|6|5|df=y}}
+|-style="vertical-align: top;"
+| 6 || ''k'atun 1 ahaw'' || style="padding-left: .5em;"|{{start date|1638|6|6|df=y}} || style="padding-left: .5em;"|{{end date|1658|2|20|df=y}} 
+|-style="vertical-align: top;"
+| 7 || ''k'atun{{figure space}}12{{figure space}}ahaw'' || style="padding-left: .5em;"|{{start date|1658|2|21|df=y}} || style="padding-left: .5em;"|{{end date|1677|11|7|df=y}} 
+|-style="vertical-align: top;"
+| 8 || ''k'atun 10 ahaw'' || style="padding-left: .5em;"|{{start date|1677|11|8|df=y}} || style="padding-left: .5em;"|{{end date|1697|7|25|df=y}} 
+|-style="vertical-align: top;"
+| 9 || ''k'atun 8 ahaw'' || style="padding-left: .5em;"|{{start date|1697|7|26|df=y}} || style="padding-left: .5em;"|{{end date|1717|4|12|df=y}} 
+|-style="vertical-align: top;"
+| 10 || ''k'atun 6 ahaw'' || style="padding-left: .5em;"|{{start date|1717|4|13|df=y}} || style="padding-left: .5em;"|{{end date|1736|12|28|df=y}} 
+|-style="vertical-align: top;"
+| 11 || ''k'atun 4 ahaw'' || style="padding-left: .5em;"|{{start date|1736|12|29|df=y}} || style="padding-left: .5em;"|{{end date|1756|10|14|df=y}} 
+|-style="vertical-align: top;"
+| 12 || ''k'atun 2 ahaw'' || style="padding-left: .5em;"|{{start date|1756|10|15|df=y}} || style="padding-left: .5em;"|{{end date|1776|6|1|df=y}} 
+|-style="vertical-align: top;"
+| 13 || ''k'atun 13 ahaw'' || style="padding-left: .5em;"|{{start date|1776|6|2|df=y}} || style="padding-left: .5em;"|{{end date|1796|2|17|df=y}} 
+|}
+{{harv|Sharer|Traxler|2006|pp=779–784}}.
+
+&lt;/ref&gt;
+
+The prophecy included–
+{{Text and translation| Hun ahaw katun / [...] / He ix bin tz'occebal u thanil e / Noh katun / Likom chan / Y etel ho tzuc chakan / Ti bateel / U chan katun / Hun ahau / Katun / Kakal / Moçon chac u cuch katun| ''Katun'' 1 Ahau / [...] / And that will be the ending of words: / The great war. / Risen will be the Chan / And the Tihosuco plain, / Who will fight / The Chan War / Of the 1 Ahau / ''Katun''. / Fires / And hurricane rains are the burden of the ''katun''.|by ''[[chilam Balam]]'' of [[Chumayel Municipality|Chumayel]], compiled by J. J. Hoíl, translated by M. S. Edmonson.{{sfn|Edmonson|Hoíl|1986|pp=208, 213}}{{sfn|Jones|1989|pp=189, 319}}&lt;ref
+
+group=note&gt;
+This passage may be alternatively translated as–
+{{Text and translation| Hun ahaw katun [...] he ix bin tz'occebal u thanil e noh katun likom chan y etel ho tzuc chakan ti bateel u chan katun hun ahau katun kakal moçon chac u cuch katun| Katun 1 Ahau [...] This shall be the end of its prophecy: there is a great war. The Chan[s] shall rise up in war with the five divisions of Chakan, an army of Chan[s] in Katun 1 Ahau. A parching whirlwind storm is the charge of the katun.|by ''[[chilam Balam]]'' of [[Chumayel Municipality|Chumayel]], compiled by J. J. Hoíl, translated by R. L. Roys ({{harvnb|Roys|Hoíl|1967|pp=xxx, 157}}, {{harvnb|Jones|1989|p=319|loc=item no. 2}}).}}
+&lt;/ref&gt;&lt;ref
+
+group=note&gt;
+It has been suggested that–
+* the prophesied ''Chan War'' was to be centred near [[Tihosuco]] {{harv|Edmonson|Hoíl|1986|pp=208|loc=footnote no. 4789}},
+* ''Chakan'' is meant as ''plain'' {{harv|Edmonson|Hoíl|1986|pp=213|loc=footnote no. 4944}},
+* ''Chakan'' is meant as a reference to the eponymous ''ch'ibal'' or noble house in the Peten Itza kingdom {{harv|Jones|1989|p=319|loc=item no. 2}},
+* ''Chan'' is meant as a reference to the eponymous ''ch'ibal'' or noble house in the Peten Itza kingdom {{harv|Jones|1989|p=319|loc=item no. 2}}.
+&lt;/ref&gt;
+}}
+
+=== 'Idolatry' ===
+
+During a 1619 ''[[Spanish missions in the Americas|misión]]'' to Peten Itza, Franciscan friars Juan de Orbita and Bartolomé de Fuensalida found Tipuans had reverted to [[Maya religion|pre-Columbian polytheism]], which they swiftly punished, destroying the residents' religious artefacts.{{sfn|Jones|1989|pp=18–19, 148–149}}
+
+=== Hostilities ===
+
+The district's ''encomiendas'' were reconsolidated in 1622, leading to significantly heavier taxation of its Mayan residents.{{sfn|Jones|1989|p=191}}
+
+Hispano-Mayan hostilities in the 17th century began in 1623, with massacres of Spanish soldiers, friars, and their Mayan servants and guides, at [[Nojpetén|Nojpeten]] and [[Sacalum Municipality|Sacalum]].This has been characterised as a sharp departure from Mayan practice, as '[n]ot since 1546 had execution as a tool of [Mayan] rebellion on such a large scale been seen in Yucatan.'{{sfn|Jones|1989|p=187}}
+
+In 1637, Tipu sent an embassy to the ''defensor de naturales'' in Mérida to report their 'mistreatment' by their resident secular priest (Gregorio Marín de Aguilar) and the ''vecinos'' of Bacalar. The ''defensor'' informed the governor, who relieved Tipu's resident priest, and reprimanded the ''cabildo'' of Bacalar.{{sfn|Jones|1989|p=205}}&lt;ref
+group=note&gt;
+
+Marín de Aguilar had served as the district's secular priest since 1632 {{harv|Jones|1989|p=321|loc=item no. 30}}.
+
+&lt;/ref&gt;
+
+Sometime during {{start and end dates|1636|5|17|1638|7|10|df=yes}}, Diego Zapata de Cárdenas, governor of colonial Yucatan, on the request of the ''defensor de naturales'', sent two ''investigadores'' to Bacalar to investigate allegations of extortion (brought against the villa's ''vecinos'' of by the district's Mayan residents) and to punish offenders. The ''investigadores'' were unable to proceed, however, as the ''vecinos'' seized and attempted to hang them in impromptu gallows set up in the villa's plaza. The ''investigadores'' fled before they could be hanged, bringing to an end any possible ''investigación'' of the villa by the provincial governor.{{sfn|Jones|1989|p=205}}
+
+In 1637, nearly all residents of Tipu, the largest ''reducción'' settlement in the district, (illicitly) deserted their town, (purportedly) fearing an oncoming aggressive campaign from Bacalar.{{sfn|Jones|1989|pp=205-206}}&lt;ref
+
+group=note&gt;
+
+In 1637, the governor was informed by Bacalar that residents of Tipu had rebelled, disclaiming their obedience to the Spanish crown. As there was a Tipuan embassy in Merida at the time, the governor send them to Tipu with advice to the ''batab'' and principal inhabitants regarding the grave consequences of such rebellion. Tipu responded [in 1637 or 1638] 'with great submission,' informing the governor that residents had fled for fear of agression from Bacalar, but that the ''batab'', his lieutenant, and an ''alcalde'', had remained in town, and that they would endeavour to entice the deserters back to town {{harv|Jones|1989|pp=205–206}}.
+
+&lt;/ref&gt;
+
+=== Piracy ===
+{{see also|Timeline of piracy in the Bay of Honduras}}
+
+It has been suggested that Anglo-Dutch raids in the district of Bacalar likely encouraged the (illicit) desertion of coastal ''reducción'' settlements in favour of safer sites inland.{{sfn|Jones|1989|pp=191-192}}&lt;ref
+
+group=note&gt;
+
+{{block quote
+|text= Complicating our understanding of the period [1638{{nbnd}}1642] are the poorly understood effects of increasing depredations of foreign pirates along the eastern coasts [of the Yucatan peninsula, including the district of Bacalar], which certainly would have stimulated coastal Mayas to seek refuge in interior locations around Tipu. These depredations, in combination with independence movements at Tipu, had devastating implications for the villa of Bacalar [...].
+|author={{harvnb|Jones|1989|pp=191–192}}
+}}
+
+&lt;/ref&gt;
+
+Pirates are first thought to have entered the district in 1617, when an English crew raided Bacalar, abducting or impressing four ''[[vecinos]]''.{{sfn|Jones|1989|p=320|loc=item no. 19}} In the 1630s, residents of [[History of Honduras (to 1838)#Colonial Honduras|colonial Honduras]] began (illicitly) trading with Dutch and English ships in earnest, and pirates began impressing or enslaving Amerindian residents of the [[Yucatan peninsula]] and the [[Bay of Honduras]].{{sfn|MacLeod|1973|pp=358-359, 462}}{{sfn|Zahedieh|1986|pp=216-217}}{{sfn|Obando Andrade|2016|pp=12-16}}{{sfn|García Paláez|1852|pp=122-126}}{{sfn|Bialuschewski|2017|pp=41-63}}{{sfn|Bialuschewski|2020|p=239}} In 1637 and 1638, various Anglo-Dutch pirates were sighted cruising the Bay of Honduras, possibly reaching the district's waters.{{sfn|Cardona Amaya|2020|pp=31-33, 45-48, 112-114}}{{sfn|Newton|1914|p=263}}{{sfn|Jones|1989|p=289|loc=footnote no. 59}}
+
+== Incident ==
+[[File:Lamanai - High Temple 02.JPG|thumb|upright=1.5|Ruins of Lamanai, a pre-Columbian ''reducción'' hamlet deserted and burnt during the 1638 Tipu rebellion (2016 by M. Falbisoner via Wikimedia)]]
+
+=== 1638 ===
+In the third quarter of 1638, Mayan authorities at Tipu encouraged (or threatened) residents of various ''reducción'' or ''encomienda'' hamlets in the district of Bacalar to (illicitly) desert their settlements to join a (possibly armed) resistance to Bacalar-based from Tipu.{{sfn|Jones|1989|pp=189, 210}}&lt;ref
+
+group=note&gt;
+On 10 July 1638, Diego Zapata de Cárdenas, [[Marquis of Santo Floro]] and [[Governor of Yucatán|Governor of colonial Yucatan]], informed [[Philip IV of Spain]] 'that ever since he had been in office [17 May 1636] he had received petitions from the ''defensor de naturales'' on behalf of the Indians of the [district of the] villa of Bacalar complaining about its Spaniards, mulattos, and mestizos [who often] extorted the Indians.' {{harv|Jones|1989|p=205}}.
+
+On 20 September 1638, Luís Sánchez de Aguilar, member of the ''[[Cabildo (council)|cabildo]]'' of Salamanca de Bacalar, reported intelligence of these events to Diego Zapata de Cárdenas, [[Governor of Yucatán|Governor of colonial Yucatan]], saying,
+
+{{block quote
+|text= [Tipuan authorities advised residents of ''reducción'' or ''encomienda'' settlements in the district of Bacalar that] [t]hey were to give obedience to their king and wished them to abandon their town, saying that if they did not do so all would die and be finished, because at such a time the Itzas [military of the [[Peten Itza kingdom]]] would come to kill them and there would be many deaths, and hurricanes would flood the land.
+|author= 20 September 1638, ''cabildo'' to governor, translated by Grant D. Jones.
+}}
+{{harv|Jones|1989|pp=189, 319}}
+
+&lt;/ref&gt; Tipu's advise (or threats) proved effective, as a quarter of the Mayan residents in hamlets near Tipu had (illicitly) fled by 20 September 1638.{{sfn|Jones|1989|p=206}} By 5 November 1638, a little under 200 of the district's circa 300 tributaries were allied with Tipu (having likewise fled there).{{sfn|Jones|1989|pp=206, 321}}
+
+In the third week of September 1638, Luis Sánchez de Aguilar, ''alcalde'', with the ''procurador'', and 16 ''vecinos'', discovered that Chinam, Manan, and Zacatan, coastal ''reducción'' settlements, had been deserted. They captured four runaways from Chinam, and all runaways from Manan. These were detained (and whipped, despite promises to the contrary) at Bacalar. All were (forcibly) resettled in Tamalcab, a ''reducción'' settlement (nearer to Bacalar than Manan).{{sfn|Jones|1989|pp=208-209}}
+
+By the fourth week of September 1638, the ''cabildo'' and ''vecinos'' of Bacalar, with the help of Mayan residents of San Juan de Extramuros, were attempting to resettle Pacha, Yumpeten, Soite, Manan, and Xibun, all of which had likewise been deserted.{{sfn|Jones|1989|p=209}}
+
+In the fourth quarter of 1638, the governor supplied Bacalar with powder and ammunition, but not with troops, despite the ''cabildo'''s request for these. In addition, he requested Franciscan officials send three or four friars to the district to (peaceably) quell the rebellion. However, the Franciscan ''misión'' did not set out until 1642, and met with no success.{{sfn|Jones|1989|p=206}}&lt;ref
+
+group=note&gt;
+
+It has been suggested that the governor did not wish to provide a military solution to what the Spanish Crown deemed a problem properly solved by (peaceful) religious persuasion {{harv|Jones|1989|p=213}}.
+
+&lt;/ref&gt;
+
+On 5 November 1638, Luis Sánchez de Aguilar reported that their efforts had not met with much success, adding that 'right now the Indians are very bellicose.'{{sfn|Jones|1989|p=209}}
+
+== Aftermath ==
+
+=== 1639 ===
+
+Prior to 15 February 1639, Francisco de Cárdenas Valencia, a secular friar, bishop's vicar, and ''benefice'' in [[Sotuta]], reported–
+{{block quote
+|text=[N]ews has come from Bacalar that those few towns which we have described [''reducción'' settlements in the villa's district] had been going to the forests, encouraged and deceived by those barbarous infidels of the Tah Itzeas, becoming one with them, as a result of which [the district of] Bacalar will become more deserted and short of people.
+|author=Cárdenas Valencia, translated by G. D. Jones.{{sfn|Cárdenas Valencia|1937|p=97}}{{sfn|Jones|1989|pp=209-210, 214}}{{sfn|Adams|1945|pp=21, 26-27}}&lt;ref
+
+group=note&gt;
+
+The Cárdenas Valencia manuscript (in {{harvnb|Cárdenas Valencia|1937}}) was written during {{start and end dates|1638|2|8|1639|2|15}} {{harv|Adams|1945|pp=26–27}}.
+
+&lt;/ref&gt;
+}}
+That same year, the governor and the ecclesiastical ''cabildo'' of Mérida sent Ambrosio de Figueroa, a secular friar, to the district of Bacalar, to entice Mayan residents to drop their resistance and resettle in their allotted ''reducción'' towns. Figueroa sent word to Tipu and its allies regarding his upcoming visit (and peaceful intentions), 'but the rebels made fun of [Figueroa's messengers] and threatened to kill them if they came back,' precluding the friar from reaching the district. However, Tipu indicated that they would meet with ''Franciscan'' friars, on the condition that the secular priest of Bacalar be replaced with a Franciscan one.{{sfn|Jones|1989|pp=214-215}}
+
+=== 1641 ===
+On 24 April 1641, the governor and bishop sent Bartolomé de Fuensalida, Juan de Estrada, Bartolomé de Becerril, and Martín Tejero (all Franciscans), with 500 pesos for a six-month (peaceful) ''reducción'', and instructions to relieve Bacalar's secular priest of his post. At Bacalar, it was determined that Fuensalida and Estrada continue on to Tipu, that Becerril focus on coastal settlements, and that Tejero remain in the villa.{{sfn|Jones|1989|pp=214-215}}
+
+Fuensalida and Estrada, with 21 Mayan servants and guides, never made it to Tipu, despite their earnest endeavours. In May or June 1641, the friars reached the former site of Zaczuz (a ''reducción'' settlement near Tipu, which had been deserted), where they (unsuccessfully) negotiated for their reception at Tipu. On 2 July 1641, they were lead to Hubelna (an unauthorised hamlet of former Zaczuz residents). On 3 July 1641, the friars were met by a Tipuan–Itzaen war party, who made it clear that the friars were not welcome in Tipu, whereupon the friars were (forcibly) escorted back towards Bacalar.{{sfn|Jones|1989|pp=216-222}}&lt;ref
+
+group=note&gt;
+
+The party first reached 'the hamlet where Chantome had been' (a cacao orchard on the [[Belize River]], southwest of the [[New River Lagoon]]). Here, the Fuensalida–Estrada party were met by Pedro Noh (''batab'' of Holpatin, a Tipuan ally), his sons, and six other former residents of Holpatin, all of whom 'were painted and had allowed their hair to grow long as a sign of their rebel state.' These gifted the friars a wild fowl, which the friars' Mayan guides informed them was a portent of war. The Noh party guided (or escorted) the friars' party to Zaczuz. Here, the former taunted (or threatened) the latter's Mayan guides, causing 17 of them to retreat. The friars and their remaining four companions were hosted by Francisco Yam, ‘’batab’’ of Zaczuz, while the Noh party negotiated the friars’ reception with Tipuan authorities. A Tipuan party of a dozen, led by Gaspar Chuc, a military captain, met the friars at Zaczuz, informing them they were not welcome in Tipu. The friars, however, convinced Chuc to entice the Tipuan authorities to receive them. Chuc seemed to oblige them, but apparently reneged on his promise, as the friars were left stranded in Zaczuz. 
+&lt;br&gt;
+On 2 July 1642, the friars' party were lead to Hubelna (an unauthorised settlement of former Zaczuz residents, three leagues distant, on a creek known as Yaxteel Ahau [possibly [[Roaring Creek, Belize|Roaring Creek]]]) by their host, Francisco Yam. The friars and their four Mayan companions spent the night at Hubelna. Tipuan guests (whom Yam had prior invited), and at least some of Hubelna's residents, spent that night 'dancing and drunkenly worshipping their idols.' On discovering this 'idolatry,' Fuensalida asked that Yam gather all residents to hear the governor's and bishop's letters (promising them amnesty and a sizeable tax break,  though requiring submission 'to the authority of the church and the governor'). Yam complied, and an audience gathered to hear Fuensalida, but the friar's message was not well-received, and residents silently trickled out towards the end. 
+&lt;br&gt;
+The dawn of 3 July 1642, a war party (including Itzaen soldiers) awoke the friars, announcing 'May God protect you. Your time has come, grandfather.' The friars and one of their companions (three were elsewhere) were detained at this point. The military captain announced, 'Let the governor come. Let the king come. Let the Spanish come. We are ready to fight them. Now go and tell them.' Some Itzaen soldiers further threaten to kill Fuensalida 'because he and Father Orbita had [during a prior ''misión''] destroyed the Itzas' idol Tzimin Chac ... and thereby killed their god.' Upon hearing these threats, the friars' companion asked to be killed in Fuensalida's stead, but was rebutted by the captain, who said, 'Don't fear. We don't have to kill you, but we must kill your companion [Fuensalida] because he killed our god.' During the friars' detention, the party searched their belongings, destroying all religious artefacts they found, 'saying a thousand blasphemies that are too horrible to mention as they broke [a crucifix].' This done, the friars and their companions were escorted to Zaczuz, from where they retreated to Bacalar.
+&lt;br&gt;
+{{harv|Jones|1989|pp=217–222}}
+
+&lt;/ref&gt; Fuensalida promptly reported their failure, advising the governor that a militarised ''reducción'' was the only viable option to quell the revolt. The governor recalled the friars, however, citing his lack of authority from the Spanish Crown for a military campaign.{{sfn|Jones|1989|pp=223-223}}&lt;ref
+
+group=note&gt;
+
+Both Bartolomé de Fuensalida and Juan de Estrada fell ill during their ''misión'' to Tipu. Estrada never recovered, and died in Merida in 1646 (cf previous citation).
+
+&lt;/ref&gt;
+
+Bartolomé de Becerril had better luck in the coastal ''reducción'' settlements of the district, as he and Martín Tejero resettled four settlements on the [[Sittee River]], the [[Monkey River]], and a [[List of islands of Belize|caye]] called ''Zula''. Their luck proved fleeting, however, as piratical raids of the resettled hamlets in 1641 and 1642 convinced residents to, again, (illicitly) relocate further inland.{{sfn|Jones|1989|pp=224-226}}&lt;ref
+
+group=note&gt;
+
+In 1641, Becerril baptised, catechised, and settled (some) runaways from Campin in Soite and Cehake (''reducción'' settlements on the [[Sittee River]]). Tejero settled runaways from Manan in Zula (a caye which the runaways chose, given that Manan had prior been flooded by a storm). Soite and Cehake were raided by Dutch pirates during Tejero's ''misión'' (who further detained the friar and a ''vecino'' accompanying him).
+&lt;br&gt;
+In 1642, Tejero baptised, catechised, married, and settled 73 runaways from Campin in Campin itself (a ''reducción'' settlement, possibly on the [[Monkey River]]). Campin was likewise sacked by pirates shortly after Tejero's departure.
+&lt;br&gt;
+{{harv|Jones|1989|pp=224–226}}
+&lt;/ref&gt;&lt;ref
+
+group=note&gt;
+
+It has been suggested that this was due to (i) Manche Ch'ol settlements being outside Tipu's sphere of influence (as some of the coastal ''reducción'' settlements in the district were majority Manche Ch'ol, as opposed to the Yucatecan–Mopan majority in Tipu), (ii) coastal settlements being too far removed from Tipu to mount any significant resistance {{harv|Jones|1989|p=224}}.
+
+&lt;/ref&gt;
+
+=== 1643 ===
+
+On 5 March 1643, the bishop reported that eight ''reducción'' settlements (totalling some 300 Mayan families) had resettled in Tipu, leaving only six ''reducción'' settlements (totalling under 150 families) loyal to the Spanish Crown.{{sfn|Jones|1989|p=210}}&lt;ref
+
+group=note&gt;
+
+Intelligence attributed to the governor in {{harvnb|Jones|1989|p=210}}, but attributed to the bishop in {{harvnb|Jones|1989|p=226}} and {{harvnb|Jones|1989|p=321|loc=item no. 36}}.
+
+&lt;/ref&gt;
+
+== Legacy ==
+
+=== Social ===
+
+Shortly after 29 May 1652, Bacalar and the Mayan families still loyal to the villa were removed to Pacha, and in the 1660s still further inland to [[Chunhuhub]].{{sfn|Gerhard|1979|p=70}}{{sfn|Jones|1989|p=334|loc=item no. 10}} The villa's original site (on [[Lake Bacalar]]) was not resettled until the second quarter of 1727.{{sfn|Gerhard|1979|pp=15, 71}}{{sfn|Vazquez Barke|2016|p=188}}{{sfn|Reichert|2017|p=29}} Tipu and its allies did not assent to Spanish authority until the second or third quarter of 1695.{{sfn|Graham|2011|pp=251–252}}{{sfn|Jones|1989|pp=259–267}}{{sfn|Molina Solís|1910|p=350}}
+
+=== Scholarly ===
+[[File:Historia de Yucathan page 640 Cogolludo 1688.png|thumb|upright=1.5|Detail of page 640 of ''Historia de Yucathàn'' (1688 by D. López d Cogolludo via Google)]]
+
+[[Diego López de Cogolludo]] first brought the rebellion to light in 1688.{{sfn|López de Cogolludo|1688|loc=lib. 11 cap. 12}}{{sfn|Jones|1989|p=204}}
+{{Text and translation|Qvietos auian estado los Indios desta tierra, hasta los tiempos en que voy refiriendo, en que por nuestros pecados, ò por lo que la diuina Magestad sabe, permitiò el alçamiento de los Indios de BaKhalàl, y toda su jurisdicion, que hasta oy año de cinquenta y seis estàn sin auer buelto à la obediencia de la Iglasia, y de el Rey, como deben hazerlo. Por el año de treinta y seis començaron à conmouerse aquellos Indios, huyendose algunos de sus pueblos, y otros que con ellos estaban en los de esta Prouincia à los montes de Tepù, que (como se ha dicho) son los mas cercanos à los gentiles Ytzaex. Fuesse esto continuando, hasta que el año de treinta y nueue negaron de el todo la obediencia à Dios, y al Rey, y apostatando miserablemente de nuestra Santa Fè Catolica, bolvieron al bomito de la idolatrias, y abominaciones de sus antepassados, ultrajando las imagenes, y quemando los Templos à la Magestad Diuina consagrados, y despues sus Pueblos, huyendose à los montes retirados.|The Indians of this area had been quiet up until the period that I am going to describe, in which, because of our sins or some other reason that only God knows, He permitted the uprising of the Indians of Bacalar and all the areas under its jurisdiction. Even today, in 1656, they have not returned to the obedience that they owe the church and the king. By 1636 they began to cause problems, with some of them leaving their towns, along with some of this province, going to the forests of Tipu, which ... are the closest to the gentile Itzas. This continued until 1638, when they completely refused to obey God and the king, horribly rejecting our holy faith.|D. López de Cogolludo, translated by G. D. Jones.{{sfn|López de Cogolludo|1688|p=640}}{{sfn|Jones|1989|p=204}}
+}}
+
+It was noted in the 1639 manuscript by Francisco de Cárdenas Valencia, first published in 1937, and rigorously explored by Grant D. Jones's archival work, published in 1989.{{sfn|Adams|1945|p=21}}{{sfn|Jones|1989|pp=204, 209-210}}
+
+== Notes ==
+{{reflist|group=note}}
+
+== Citations ==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+# {{cite journal
+|last=Adams
+|first=Eleanor B.
+|date=July 1945
+|title=Note on the Life of Francisco de Cárdenas Valencia
+|journal=The Americas
+|volume=2
+|issue=1
+|pages=21–29
+|jstor=978539
+|url=http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/978539
+|url-access=subscription
+}}
+# {{cite book |editor-last1=Barrera Vásquez |editor-first1=Alfredo |editor-last2=Bastarrachea Manzano |editor-first2=Juan Ramón |editor-last3=Brito Sansores |editor-first3=William |editor-last4=Vermont Salas |editor-first4=Refugio |editor-last5=Dzul Góngora |editor-first5=David |editor-last6=Dzul Poot |editor-first6=Domingo |title=Diccionario maya Cordemex : maya-español, español-maya |date=1980 |publisher=Ediciones Cordemex |location=Mérida, Yuc. |edition=1st |oclc= 7550928
+}}
+# {{cite journal
+|last1= Bialuschewski
+|first1= Arne
+|date= 2017
+|title= Slaves of the Buccaneers: Mayas in Captivity in the Second Half of the Seventeenth Century
+|url= 
+|doi= 10.1215/00141801-3688359
+|journal= Ethnohistory
+|series= 
+|volume= 64
+|issue= 1
+|pages= 41–63
+}}
+# {{cite journal
+|last1= Bialuschewski
+|first1= Arne
+|date= 2020
+|title= Juan Gallardo: A Native American Buccaneer
+|url= 
+|doi= 10.1215/00182168-8178200
+|journal= Hispanic American Historical Review
+|series= 
+|volume= 100
+|issue= 2
+|pages= 233–256
+}}
+# {{cite book 
+|last= Cárdenas Valencia
+|first=Francisco de
+|title= Relación historial eclesiástica de la provincia de Yucatán de la Nueva España, escrita el año de 1639
+|date= 1937
+|publisher= Antigua Librería Robredo, J. Porrúa e Hijos
+|location= México, Dist. Fed.
+|edition=1st
+|hdl= 2027/txu.059173018271330
+|series= Biblioteca histórica mexicana de obras inéditas
+|volume= 3
+|oclc= 4660610
+}}
+# {{cite book 
+|last1= Cardona Amaya
+|first1= José Manuel
+|title= Invasiones de corsarios a la Honduras de Felipe IV (1633-1643)
+|date= 2020
+|publisher= Universidad Nacional Autónoma de Honduras
+|location= Tegucigalpa
+|edition= 1st
+|url= https://halshs.archives-ouvertes.fr/halshs-02540842
+|isbn= 9789992612620
+}}
+# {{cite book 
+|editor-last1= Edmonson
+|editor-first1=Munro S.
+|editor-last2=Hoíl
+|editor-first2=Juan José
+|title= Heaven born Merida and its destiny : the Book of Chilam Balam of Chumayel
+|date= 1986
+|publisher= University of Texas Press
+|location= Austin, Tex.
+|edition=1st
+|hdl= 2027/mdp.39015037288761
+|series= The Texas Pan American series
+|volume= 
+|oclc= 12421934
+}}
+# {{cite book 
+|last1= García Paláez 
+|first1= Francisco de Paula
+|title=Memorias para la historia del antiguo reyno de Guatemala 
+|date=1852
+|orig-date= 
+|series= 
+|volume= 2
+|publisher=Establecimiento tip. de L. Luna 
+|location=Guatemala City
+|url= https://archive.org/details/memoriasparalahi02drfr
+|url-access=
+|hdl= 
+|edition=1st
+|oclc=
+|ol= 
+&lt;!-- https://bibliotecadigital.aecid.es/bibliodig/es/consulta/registro.cmd?id=518 --&gt;
+}}
+# {{cite book 
+|last= Gerhard
+|first= Peter
+|title= The Southeast Frontier of New Spain
+|date= 1979
+|publisher= Princeton University Press
+|location= Princeton, New Jers.
+|edition= 1st
+|url= 
+|hdl= 2027/uc1.b4906135
+|oclc= 4529742
+}}
+# {{cite book
+| last1         = Graham
+| first1        = Elizabeth A.
+| title         = Maya Christians and Their Churches in Sixteenth-Century Belize
+| series        = Maya studies
+| date          = 2011
+| publisher     = University Press of Florida
+| location      = Gainesville, Florida
+| url           = https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/17957
+| url-access    = subscription
+| oclc          = 751694131
+}}
+# {{cite book 
+|last1=Jones 
+|first1=Grant D. 
+|title= Anthropology and History in Yucatán
+|date=1977 
+|publisher=University of Texas Press
+|location= Austin, Tex.
+|isbn=
+|oclc=232171745
+|edition=1st
+|series=Texas Pan American series
+|url=https://hdl-handle-net.ezp-prod1.hul.harvard.edu/2027/heb.03643
+|url-access=subscription
+|hdl=2027/heb.03643
+}}
+# {{cite book 
+|last1=Jones 
+|first1=Grant D. 
+|title=Maya resistance to Spanish rule: time and history on a colonial frontier 
+|date=1989 
+|publisher=University of New Mexico Press 
+|location=Albuquerque, New Mex. 
+|isbn=082631161X 
+|oclc=20012099
+|edition=1st
+}}
+# {{cite book 
+|last1=Jones 
+|first1=Grant D. 
+|title=Conquest of the Last Maya Kingdom 
+|date=1998 
+|publisher=Stanford University Press 
+|location=Stanford, Calif.
+|oclc= 38747674 
+|isbn=
+|edition=1st
+|hdl=2027/heb.03515
+|url=https://hdl-handle-net.ezp-prod1.hul.harvard.edu/2027/heb.03515
+|url-access=subscription
+}}
+# {{cite web |last1=Lehmann |first1=Christian |title=Ortografía |url=https://www.christianlehmann.eu/ling/sprachen/maya/sistema_expres/ort/ |website=La lengua maya de Yucatán |publisher=Christian Lehmann |access-date=5 August 2021 |date=16 December 2018
+}}
+# {{cite book 
+|last1=López de Cogolludo 
+|first1=Diego 
+|title=Historia de Yucathan
+|series=
+|volume=
+|edition=1st 
+|publisher=Por Jvan Garcia Infanzen
+|date=1688 
+|place=Madrid 
+|oclc=85799316
+|url= https://gallica.bnf.fr/ark:/12148/bpt6k829446
+}}
+# {{cite book 
+|last1=MacLeod 
+|first1=Murdo J. 
+|title=Spanish Central America: A Socioeconomic History, 1520–1720 
+|date=1973
+|orig-date=
+|publisher=University of California Press 
+|location=Berkeley, CA 
+|series= Campus
+|volume=119
+|hdl=
+|edition=1st
+|oclc= 762163
+|isbn= 0520021371
+|url= https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/45035
+|url-access=subscription &lt;!-- https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/45035 --&gt;
+}}
+# {{cite book 
+|last= Molina Solís
+|first= Juan Francisco
+|title= Historia de Yucatán durante la dominación española
+|date= 1910
+|publisher= Impr. de la Loteria del estado
+|location= Merida, Yuc.
+|volume= 2
+|edition= 1st
+|url= http://simurg.bibliotecas.csic.es/viewer/image/990002353440204201_V02/1/
+|oclc= 13381125
+}}
+# {{cite book 
+|last1=Newton 
+|first1=Arthur Percival 
+|title=The colonising activities of the English Puritans: the last phase of the Elizabethan struggle with Spain 
+|date=1914
+|orig-date= 
+|publisher= Yale University Press 
+|location=New Haven, CT 
+|series= Yale Historical Publications: Miscellany
+|volume= 1
+|url=
+|url-access=
+|hdl= 2027/hvd.32044014678932
+|edition=1st
+|oclc= 2993127 &lt;!-- http://www.llmcdigital.org.ezp-prod1.hul.harvard.edu/default.aspx?redir=31970 --&gt;
+}}
+# {{cite journal
+|last1= Obando Andrade
+|first1= Rafael
+|date= 2016
+|title= Zambos y negros de La Taguzgalpa: actores claves en el contrabando centroamericano. 1642-1715
+|jstor=
+|url= https://repositorio.unal.edu.co/handle/unal/66081
+|journal= Revista cuadernos del Caribe
+|series=
+|volume= 13
+|issue= 21
+|pages= 7–20
+}}
+# {{cite journal 
+|last1=Reichert 
+|first1=Rafal 
+|title=El golfo de Honduras: estrategias geopolíticas y militares de una frontera imperial, siglos XVI-XVIII
+|journal=Tzintzun 
+|date=January–June 2017 
+|volume=65
+|issue=
+|pages=9–40 
+|doi=
+|s2cid=
+|url=http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S1870-719X2017000100009&amp;lang=es
+}}
+# {{cite book 
+|editor-last1= Roys
+|editor-first1=Ralph L.
+|editor-last2=Hoíl
+|editor-first2=Juan José
+|title=The book of Chilam Balam of Chumayel
+|series=Civilization of the American Indian series
+|volume=87
+|edition=New 
+|publisher=University of Oklahoma Press
+|date=1967
+|place=Norma, Okl. 
+|oclc= 224990
+|hdl= 2027/mdp.39015064833323
+}}
+# {{cite web |last1=Scofield |first1=Bruce |title=The Maya Katun Prophecies |url=https://www.onereed.com/articles/katun.html |website=One Reed Publications |publisher=Bruce Scofield and Barry C. Orr |access-date=27 April 2022 |date=2002
+}}
+# {{cite book |editor-last1=Sharer |editor-first1=Robert J. |editor-last2=Traxler |editor-first2=Loa P. |title=The ancient Maya |date=2006 |publisher=Stanford University Press |location=Stanford, Calif. |isbn=0804748160 |edition=6th |oclc= 57577446 |hdl=2027/mdp.39015062626216
+}}
+# {{cite thesis 
+|last1=Vazquez Barke 
+|first1=Gabriela 
+|date=August 2012 
+|type=MA 
+|title=BACALAR EN EL SIGLO XVII: colonización y resistencia 
+|publisher=Centro de Investigaciones y Estudios Superiores en Antropología Social 
+|place=Mérida, Yuc. 
+|url=http://ciesas.repositorioinstitucional.mx/jspui/handle/1015/761
+}}
+# {{cite thesis 
+|last1=Vazquez Barke 
+|first1=Gabriela 
+|date=2016 
+|type=PhD 
+|title=Los poderes y los hombres 
+|publisher=Centro de Investigaciones y Estudios Superiores en Antropología Social 
+|place=Mérida, Yuc. 
+|url=http://ciesas.repositorioinstitucional.mx/jspui/handle/1015/336
+}}
+# {{cite journal
+|last1= Zahedieh
+|first1= Nuala
+|date= 1986
+|title= Trade, Plunder, and Economic Development in Early English Jamaica, 1655-89
+|jstor= 2596150
+|journal= Economic History Review
+|series=
+|volume= 39
+|issue= 2
+|pages= 205–222
+}}
+
+{{refend}}
+
+{{Authority control}}
+
+[[Category:17th century in Belize]]
+[[Category:1638 in North America]]</text>
+      <sha1>afz9b118rdf2arxwxgvpkcdliztpjpr</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,367 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Honduras Gazette</title>
+    <ns>0</ns>
+    <id>70887366</id>
+    <revision>
+      <id>1102689500</id>
+      <parentid>1091032648</parentid>
+      <timestamp>2022-08-06T10:40:56Z</timestamp>
+      <contributor>
+        <username>Marcocapelle</username>
+        <id>14965160</id>
+      </contributor>
+      <comment>/* References */More specific categorization</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18441" xml:space="preserve">{{Citation style|date=May 2022}}
+{{short description|First newspaper in colonial Belize}}
+{{use dmy dates|date=May 2022}}           &lt;!-- Note article has *strong national ties* to Belize --&gt;
+{{use British English|date=May 2022}}     &lt;!-- Note article has *strong national ties* to Belize --&gt;
+{{Infobox newspaper
+| name                 = Honduras Gazette
+| logo                 = 
+| logo_size            = 
+| logo_border          = 
+| logo_alt             = 
+| image                = Honduras Gazette and Commercial Advertiser July 1 1826.png
+| image_size           = 250px
+| image_border         = 
+| image_alt            = 
+| caption              = ''Honduras Gazette'' {{small|/ front page of vol. 1 no. 1 of 1 July 1826 / via Readex}}
+| motto                = 
+| type                 = Weekly newspaper
+| format               = [[Tabloid (newspaper format)|Tabloid]]
+| school               = 
+| owner                = &lt;!-- or |owners= --&gt;
+| founder              = Magistrates of [[British Honduras]]
+| publisher            = {{unbulleted list|James Cruickshank {{small|/ to vol. 2 no. 88}}|Henry Whitney {{small|/ from vol. 2 no. 89}}}}
+| president            = 
+| generalmanager       = 
+| chiefeditor          = 
+| editor               = {{unbulleted list|Magistrates {{small|/ to vol. 1 no. 37}}|Cruickshank {{small|/ to vol. 2 no. 88}}|Parliamentary committee {{small|/ from vol. 2 no. 89}}}}
+| depeditor            = 
+| assoceditor          = 
+| maneditor            = &lt;!-- or |maneditors= --&gt;
+| newseditor           = 
+| managingeditordesign = 
+| dirinteractive       = 
+| campuseditor         = 
+| campuschief          = 
+| metroeditor          = 
+| metrochief           = 
+| opeditor             = 
+| sportseditor         = 
+| photoeditor          = 
+| staff                = 
+| custom_label         = 
+| custom               = 
+| foundation           = {{start date and age|1826|7|1|df=y}}&lt;!-- or |launched= --&gt;&lt;!-- Use: {{start date and age|YYYY|MM|DD}} or {{start date|...}}, if ceased --&gt;
+| political            = 
+| language             = English
+| ceased publication   = ''in'' 1829{{nbnd}}1838&lt;!-- Use: {{end date|YYYY|MM|DD}} --&gt;
+| relaunched           = {{start date|1838|9|29|df=y}} {{small|as ''Belize Advertiser''}}
+| headquarters         = 
+| publishing_city      = [[Belize City|Belize]]
+| publishing_country   = [[Belize]]
+| circulation          = 
+| circulation_date     =
+| circulation_ref      = 
+| readership           = 
+| sister newspapers    = 
+| ISSN                 = 
+| eISSN                = 
+| oclc                 = 28171403
+| RNI                  = 
+| website              = 
+| free                 = [https://solo.bodleian.ox.ac.uk/permalink/f/89vilt/oxfaleph012661268 vol. 1 no. 1 to vol. 2 no. 88]
+}}
+
+The '''''Honduras Gazette''''', published as '''''The Honduras Gazette and Commercial Advertiser''''', was the first newspaper and [[government gazette]] in [[British Honduras|colonial Belize]]. It ran from 1 July 1826 until sometime during 1829{{nbnd}}1838, being succeeded on 29 September 1838 by the ''Belize Advertiser''.
+
+== History ==
+
+=== Prelude ===
+
+The first printing press in British colonies of the New World was set up by Joseph Glover in Cambridge, Massachusetts, in 1638, nearly a century after the press's introduction to the Spanish Americas. This was repeated in 1718 in Port Royal, Jamaica, by Robert Baldwin, said establishment being the first one in the West Indies.{{sfn|Cave|1976|p=22}}{{sfn|Cave|1975|pp=12-13}}
+
+''[[Publick Occurrences Both Forreign and Domestick|Publick Occurrences]]'', the first newspaper in the colonies, came out on 25 September 1690. It was followed by the ''[[The Boston News-Letter|Boston News-Letter]]'' on 24 April 1704, and the ''[[Weekly Jamaica Courant]]'' on or before 28 May 1718.{{sfn|Cave|1975|pp=12, 14}}{{sfn|Cave|1978|p=163}}
+
+In the 17th, 18th, and early 19th centuries, the Baymen's printing needs are thought to have been met by overseas presses and papers.{{sfn|Cave|1978|pp=166-167}} On 6 December 1825, the settlement's Magistrates resolved to procure a press 'for the purpose of printing and preserving the records and laws of the Settlement.'{{sfn|Cave|1976|p=22}}{{sfn|Burdon|1933|p=288}} Consequently, an iron letterpress was set up by James Cruickshank, whose first substantive work is thought to have been an almanac, published 'by authority of the Magistrates' on 9 March 1826.{{sfn|Cave|1976|pp=22-24}}
+
+=== Establishment ===
+
+The first issue of the ''Gazette'' was published on 1 July 1826.{{sfn|''anon.''|1826|p=1}}{{sfn|Cave|1976|p=25}} It contained an introductory notice to the public, shipping, overseas, foreign, and local intelligence, government notices, and various commercial advertisements.{{sfn|''anon.''|1826|pp=1-4}}{{sfn|Cave|1976|pp=25-26}}
+
+In their notice to the public, the ''Gazette'' editors committed themselves to rendering the paper 'useful, convenient, and amusing to the community.'{{sfn|''anon.''|1826|p=1}}{{sfn|Cave|1976|p=25}} The editors expounded on the advantages of an impartial press, noting{{nbnd}}
+{{blockquote
+|text=[W]e feel satisfied that our present endeavour, humble as it may be, will raise us in the scale of the {{smallcaps|British Colonies}}. It will preserve our rights, encrease our Commerce, and improve our rising generation. Let us, therefore, ever remember, that the {{smallcaps|liberty of the press}}, is the {{smallcaps|palladium}} of all the rights{{em dash}}Civil, Religious and Political{{em dash}}which Nations, or Communities enjoy.
+|author=''Gazette'' editors, in first issue, 1826.{{sfn|''anon.''|1826|p=1}}{{sfn|Cave|1976|p=26}}
+}}
+
+===Run===
+====Editorship====
+The ''Gazette'' is thought to have been edited by the Magistrates until 17 March 1827 (vol. 1 no. 38), by Cruickshank until 5 November 1827 (vol. 2 no. 88), 'when, on that day, the Legislative Assembly at their Meeting, in their Wisdom, took it out of his hands, by reason of his intemperence, and very properly appointed a Committee, for its better Government.'{{sfn|Cave|1976|p=23}}{{sfn|''anon.''|1827|loc=p. 3 of supplement}}{{notetag|The first resolution, brought to Assembly by Westby, seconded by Maskall, and carried unanimously, read{{nbnd}}{{blockquote|text=Resolved, that the Public will not from this time be liable to any further charge of, or expence arising from, the Printing Establishment of this Settlement (except the contracts already entered into) but that the present Printer shall be allowed the use of the Printing Press during the pleasure of the Public.|author=Proceedings of Assembly of 5 March 1827, in ''Gazette'' ({{harvnb|''anon.''|1827|loc=p. 3 of supplement}}, {{harvnb|Cave|1976|p=27}}).}}}} It has been noted that the ''Gazette'''s editorials were usually quite sharp, strident, or belligerent, especially in contradistinction with editorials in contemporary newspapers of neighbouring Hispanic republics.{{sfn|Roché|2021|loc=para. 11}}{{notetag|For instance, editors of the first 31 issues often questioned the existence and viability of Belize's Hispanic neighbour-states, implying a negative answer to these queries {{harv|Roché|2021|loc=paras. 22-23}}.}}
+
+====Coverage====
+The ''Gazette'' covered local occurrences and legislative and judicial proceedings.{{sfn|Cave|1976|p=26}} Like other West Indian newspapers, it published government notices, shipping intelligence, and overseas and foreign occurrences gleaned from British, American, and West Indian papers.{{sfn|Cave|1976|p=26}}{{sfn|Roché|2021|loc=para. 13}} Especial attention was paid to reports received from neighbouring Hispanic republics, as the paper's audience were taken by the 'decidedly unsettled affairs' in these states.{{sfn|Cave|1976|p=26}}{{notetag|Affairs in these states are covered (at least) in each of the ''Gazette''{{spaces|hair}}'s first 88 issues. Coverage in the first 31 issues (to 27 January 1827) has been described as 'very critical' of the existence or viability of the Hispanic republics, with later coverage becoming more factual and analytic {{harv|Roché|2021|loc=paras. 22-23}}.}} It has been noted that the ''Gazette'', in contrast to contemporary newspapers of Hispanic Central America, focussed much more on mercantile affairs, as opposed to political ones.{{sfn|Roché|2021|loc=para. 11}}{{notetag|Some of the paper's commercial advertisements were even published in Spanish, with copy written or translated by a fluent slave or indentured labourer {{harv|Roché|2021|loc=para. 15}}.}}
+
+Normal issues were usually four pages of 12{{spaces|thin}}{{frac|1|4}} by 9{{spaces|thin}}{{frac|5|8}} inches, with copy laid out in two columns. Issues were sometimes supplemented.{{sfn|Cave|1976|p=26}}
+
+====Circulation====
+The ''Gazette'' is thought to have had limited circulation, given its small audience (under 4,000), and relatively high cost of subscription ($8 per annum). This shortfall is believed to have been made up for by advertising revenue, which is similarly thought to have been sufficient, given the relatively high cost of advertising in the paper. Despite its small run, at least some issues circulated in nearby British settlements in the Bay Islands and the Mosquito Shore, and further overseas in the West Indies, England, and the United States.{{sfn|Cave|1976|pp=22, 26-27}}{{notetag|The Settlement's population in 1826 was 2,787 white and free Coloured residents and 2,410 slaves; in 1829, 2,516 white and free Coloured residents and 2,127 slaves {{harv|Martin|1834|p=410}}. ''Gazette'' annual subscriptions cost $8, while standard ads cost 15s per instance. In comparison, subscriptions to contemporary West Indian weeklies averaged $6{{snds}}$8, while subscriptions to Jamaican dailies averaged £5.{{spaces}}6s.{{spaces}}8d. Standard ads in Jamaican papers averaged 6d{{snds}}9d per instance {{harv|Cave|1976|pp=26-27}}.}}
+
+===Disestablishment===
+
+It is not certain when exactly the ''Gazette'' ceased publication, though its run is thought to have ended sometime during 1829{{nbnd}}1838. A copy of the issue for 27 June 1829 is the latest extant copy known.{{sfn|Cave|1976|p=28}}{{notetag|The ''Gazette'' issue for 16 May 1829 seems to be the latest one cited in overseas British and American papers (eg {{harvnb|''anon.''|1829a|p=2}} and {{harvnb|''anon.''|1829b|p=2}}). Copies of the first 157 issues are held by the Bodleian Library (from vol. 1 no. 1, ie 1 July 1826 to 27 June 1829), and of the first 53 by the British Library (vol. 1 no. 1 to vol. 1 no. 53, ie 1 July 1826 to 30 June 1827) {{harv|Cave|1976|p=34}}. A portion of the first set has been digitised by the library (vol. 1 no. 1 to vol. 2 no. 88; cf the [https://solo.bodleian.ox.ac.uk/permalink/f/89vilt/oxfaleph012661268 online catalogue]). All of the latter set has been microfilmed by the library (British Museum Newspaper Library reel 458), and digitised by Readex (cf the [https://www.readex.com/products/latin-american-newspapers-series-1-and-2-1805-1922 Latin American Newspapers series]).}} The paper was succeeded on 29 September 1838 by the ''Belize Advertiser''.{{sfn|Cave|1976|p=29}}
+
+== Legacy ==
+
+The ''Gazette''{{spaces|hair}}'s keen coverage of affairs in Hispanic Central America continued in later 19th century newspapers of colonial Belize.{{sfn|Cave|1976|p=26}} The paper is thought to have brought colonial Belize to greater attention in neighbouring Hispanic republics, as 19th century newspapers of the latter had largely ignored the settlement until after the ''Gazette''{{spaces|hair}}'s founding.{{sfn|Roché|2021|loc=paras. 17-18, 21}}
+
+== Notes ==
+{{notefoot}}
+
+== Citations ==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+# {{cite news
+ |last              = anon.
+ |date              = 1 July 1826
+ |title             = vol 1 no 1
+ |work              = Honduras Gazette
+ |location          = Belize
+ |publisher         = James Cruickshank
+ |url               = https://infoweb-newsbank-com.ezp-prod1.hul.harvard.edu/apps/readex/doc?p=WHNPLAN2&amp;docref=image/v2%3A144DE1E40A96BF2D%40WHNPLAN2-144E3DC03306ED60%402388174-144E31B2D0FC28E8%400
+ |url-access        = subscription
+ |pages             = 1–4
+}}
+# {{cite news
+ |last              = anon.
+ |date              = 17 March 1827
+ |title             = vol 1 no 38
+ |work              = Honduras Gazette
+ |location          = Belize
+ |publisher         = James Cruickshank
+ |url               = https://infoweb-newsbank-com.ezp-prod1.hul.harvard.edu/apps/readex/doc?p=WHNPLAN2&amp;docref=image/v2%3A144DE1E40A96BF2D%40WHNPLAN2-144E3DE2CEC24648%402388433-144E3D5A18356728%406
+ |url-access        = subscription
+ |pages             = 1-4, with supplement pp. 1-4
+}}
+# {{cite news
+ |last              = anon.
+ |date              = 11 July 1829a
+ |title             = Guatemala
+ |work              = Newbern Sentinel
+ |volume            = XII
+ |issue             = 587
+ |location          = New Bern, N. Car.
+ |publisher         = Thomas Watson
+ |url               = https://infoweb-newsbank-com.ezp-prod1.hul.harvard.edu/apps/readex/doc?p=EANX&amp;docref=image/v2%3A125B73D37B7AC212%40EANX-11BB061C12E5CC90%402389280-11BB061C22DE8380%401-11BB061C62AEE418%40Guatemala
+ |url-access        = subscription
+ |page              = 2
+}}
+# {{cite news
+ |last              = anon.
+ |date              = 6 August 1829b
+ |title             = London Mails
+ |work              = Cheltenham Chronicle
+ |volume            = 20
+ |issue             = 1041
+ |location          = Cheltenham, Glos., Eng.
+ |publisher         = S. Y. Griffith &amp; G. Cunningham
+ |url               = https://link-gale-com.ezp-prod1.hul.harvard.edu/apps/doc/CL3245149758/BNCN?u=camb55135&amp;sid=bookmark-BNCN&amp;xid=7f635517
+ |url-access        = subscription
+ |page              = 2
+}}
+# {{cite book
+ |editor-first      = John Alder
+ |editor-last       = Burdon
+ |date              = 1933
+ |title             = From 1801-1840
+ |series            = Archives of British Honduras
+ |volume            = 2
+ |location          = London
+ |publisher         = Sifton, Praed &amp; Co.
+ |hdl               = 2027/mdp.39015028737016
+ |oclc              = 3046003
+}}
+# {{cite magazine
+ |first             = Roderick
+ |last              = Cave
+ |date              = 1975
+ |title             = Printing comes to Jamaica
+ |magazine              = Jamaica Journal
+ |location          = Kingston
+ |pages             = 11–18
+ |volume            = 9
+ |issue             = 2–3
+ |publisher         = Institute of Jamaica
+ |url               = https://www.dloc.com/UF00090030/00027
+ |url-access        =
+}}
+# {{cite journal
+ |last              = Cave
+ |first             = Roderick
+ |date              = 1976
+ |title             = Printing in Nineteenth-Century Belize
+ |journal           = Library Quarterly
+ |volume            = 46
+ |issue             = 1
+ |pages             = 20–37
+ |url               = http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/4306599
+ |url-access        = subscription
+ |doi               = 10.1086/620464
+ |jstor             = 4306599
+|s2cid = 144005676
+ }}
+# {{cite journal
+ |last              = Cave
+ |first             = Roderick
+ |date              = 1977
+ |title             = American Bibliographical Notes : The Printing of the Honduras Almanack
+ |journal           = Proceedings of the American Antiquarian Society
+ |volume            = 87
+ |issue             = 1
+ |pages             = 195–199
+ |url               = https://www.proquest.com/docview/1305089289
+ |url-access        = subscription
+ |doi               = 
+ |jstor             = 
+|id = {{ProQuest|1305089289}}
+ }}
+# {{cite journal
+ |last              = Cave
+ |first             = Roderick
+ |date              = 1978
+ |title             = Early Printing and the Book Trade in the West Indies
+ |journal           = Library Quarterly
+ |volume            = 48
+ |issue             = 2
+ |pages             = 163–192
+ |url               = http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/4306937
+ |url-access        = subscription
+ |doi               = 10.1086/630053
+ |jstor             = 4306937
+|s2cid = 143968810
+ }}
+# {{cite book
+ |first             = Frank
+ |last              = Cundall
+ |date              = 1916
+ |title             = The press and printers of Jamaica prior to 1820
+ |series            = 
+ |volume            = 
+ |location          = Worcester, Mass.
+ |publisher         = American Antiquarian Society
+ |hdl               = 2027/hvd.32044024430100
+ |oclc              = 621457
+}}
+# {{cite journal
+ |last              = Everitt
+ |first             = John C.
+ |date              = 1986
+ |title             = The Growth and Development of Belize City
+ |journal           = Journal of Latin American Studies
+ |volume            = 18
+ |issue             = 1
+ |pages             = 75–111
+ |url               = http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/157205
+ |url-access        = subscription
+ |doi               = 10.1017/S0022216X00011172
+ |jstor             = 157205
+}}
+# {{cite journal
+ |last              = Landarech
+ |first             = Alfonso María
+ |date              = 1967
+ |title             = Historia del periodismo de Guatemala
+ |journal           = Revista conservadora del pensamiento centroamericano
+ |volume            = 16
+ |issue             = 76
+ |pages             = 14–28
+ |url               = https://www.enriquebolanos.org/revistaxfecha
+ |url-access        = subscription
+ |doi               = 
+ |oclc              = 6141951
+}}
+# {{cite book
+ |first             = Robert Montgomery
+ |last              = Martin
+ |date              = 1834
+ |title             = Possessions in the West Indies
+ |series            = History of the British colonies
+ |volume            = 2
+ |location          = London
+ |publisher         = Cochrane &amp; McCrone
+ |hdl               = 2027/hvd.32044009927740
+ |oclc              = 1155228020
+ |url               = 
+ |url-access        =
+}}
+# {{cite journal
+ |last              = Roché
+ |first             = Raphaël
+ |date              = 2021
+ |title             = Mur de papier, barrière de la langue
+ |journal           = HispanismeS
+ |volume            = 17
+ |issue             = sn
+ |pages             = sn-sn
+ |url               = 
+ |url-access        = 
+ |doi               = 10.4000/hispanismes.13470
+ |jstor             =
+|s2cid = 246336963
+ }}
+{{refend}}
+
+{{authority control}}
+
+[[Category:19th century in Belize]]
+[[Category:Newspapers published in Belize]]
+[[Category:Weekly newspapers published in Belize]]</text>
+      <sha1>djuy4j2rhgyy791zzogkrtyfrcjrxuy</sha1>
+    </revision>
+  </page>
+</mediawiki>

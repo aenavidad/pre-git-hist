@@ -1,0 +1,537 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Yucatán Platform</title>
+    <ns>0</ns>
+    <id>71063873</id>
+    <revision>
+      <id>1096578758</id>
+      <parentid>1096505015</parentid>
+      <timestamp>2022-07-05T10:39:08Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Add: bibcode. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Headbomb | Linked from Wikipedia:WikiProject_Academic_Journals/Journals_cited_by_Wikipedia/Sandbox | #UCB_webform_linked 470/471</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18741" xml:space="preserve">{{Short description|Yucatán Peninsula and its continental shelf}}
+&lt;!-- Important, do not remove this line before article has been created. --&gt;
+{{use dmy dates|date=June 2022}}
+{{use British English|date=June 2022}}&lt;!-- strong national ties to Belize --&gt;
+{{Infobox landform &lt;!-- used in absence of an infobox for continental fragments or microcontinents, i.e., sub-divisions of tectonic plates --&gt;
+| water             = 
+| name              = Yucatán Platform
+| other_name        = Yucatán Shelf
+| photo             = Maya Block USGS OF-97-470-L 1-2.tif
+| photo_width       = 
+| photo_alt         = 
+| photo_caption     = Yucatán Platform {{small|/ in 2006 map by French &amp; Schenk / via USGS}}
+| map               = North America
+| map_width         = 
+| map_caption       = 
+| map_alt           = 
+| relief            = 1
+| label             = Yucatán Platform
+| label_position    = top
+| mark              = 
+| marker_size       = 
+| location          = [[Belize]], northern [[Guatemala]], southeastern [[Mexico]]
+| grid_ref          = 
+| grid_ref_UK       = 
+| grid_ref_Ireland  = 
+| coordinates       = {{coord|20.445647|-89.588987|type:country_region:XA_dim:1500km|display=inline,title}}&lt;!-- {{Coord|LAT|LON|type:landmark|display=inline,title}} --&gt;
+| coordinates_ref   = 
+| range             = 
+| part_of           = [[Maya Block]]
+| water_bodies      = 
+| elevation_ft      = &lt;!-- or |elevation_m = --&gt;
+| elevation_ref     = 
+| surface_elevation_ft = &lt;!-- or |surface_elevation_m = --&gt;
+| surface_elevation_ref =
+| highest_point     = 
+| highest_elevation = 
+| highest_coords    = 
+| length            = {{convert|563|mi|km|abbr=on}}
+| width             = {{convert|381|mi|km|abbr=on}}
+| area              = {{convert|163730|mi2|km2|abbr=on}}&lt;!-- {{Convert|NN|ha|acres}} --&gt;
+| depth             = 
+| drop              = 
+| formed_by         = 
+| geology           = {{hlist|[[geologic province|geologic]] or [[Physiographic province|physiographic]] province|[[Platform (geology)|continental platform]]|[[carbonate platform]]}}
+| age               = 
+| orogeny           = 
+| volcanic_arc/belt = 
+| volcanic_arc      = 
+| volcanic_belt     = 
+| volcanic_field    = 
+| eruption          = 
+| last_eruption     = 
+| topo              = 
+| operator          = 
+| designation       = 
+| free_label_1      = [[US Geological Survey|USGS]] geologic province number
+| free_data_1       = 5308
+| free_label_2      = 
+| free_data_2       = 
+| free_label_3      = 
+| free_data_3       = 
+| website           = &lt;!-- {{URL|example.com}} --&gt;
+| embedded          = 
+}}
+The '''Yucatán Platform''' or '''Yucatán Shelf''' is a [[geologic province|geologic]] or [[Physiographic province|physiographic]] province, and a [[Platform (geology)|continental]] and [[carbonate platform]], in the [[Maya Block]] of the southernmost portion of the [[North American Plate]]. It comprises the [[Yucatán Peninsula]] and its [[continental shelf]], located between the [[Gulf of Mexico]] and the [[Caribbean Sea]].{{notetag|The terms ''Yucatán Platform'' and ''Yucatán Shelf'' are sometimes used as a synonyms for the Yucatán Peninsula, i.e., the exposed portion of the Yucatán Platform (e.g., in {{harvnb|Nairn|Stehli|1975|pp=257–258}} and {{harvnb|Bundschuh|Alvarado|2012|p=77|loc=fig. 3.1}}). This article does not employ said usage.}}
+
+== Extent ==
+The Yucatán Platform is commonly defined as the [[platform (geology)|continental platform]] constituted by the [[Yucatán Peninsula]] and its continental shelf.{{sfn|Miranda-Madrigal|Chavez-Cabello|2020|pp=187-189}}{{sfn|Monroy-Rios|2020|pp=43-44}} As such, the margins of the continental shelf, or, more particularly, their {{convert|650|ft|m}} isobaths or depth contours, are often taken as the platform's submarine limits.{{sfn|Monroy-Rios|2020|pp=43-44}} Its subaerial limits (on the Yucatán Peninsula) are less precisely fixed.{{citation needed|date=June 2022}}
+
+The [[US Geological Survey]] have demarcated the limits of the Yucatán Platform.{{sfn|French|Schenk|2004|loc=doc. map}}{{sfn|French|Schenk|2006|loc=doc. map}} Their [[British Geological Survey|British]], [[Geology and Petroleum Department (Belize)|Belizean]], and [[Mexican Geological Survey|Mexican]] counterparts have not defined an equivalent geologic, physiographic, or geomorphic province or region.{{citation needed|date=June 2022}}
+
+== Geography ==
+=== Political ===
+The exposed or peninsular portion of the Yucatán Platform encompasses four [[districts of Belize]] (i.e., Corozal, Orange Walk, Belize, and Cayo), one [[Departments of Guatemala|department of Guatemala]] (i.e., Peten), and four [[states of Mexico]] (i.e., Quintana Roo, Yucatán, Campeche, and Tabasco).{{sfn|French|Schenk|2006|loc=doc. map}}{{sfn|French|Schenk|2004|loc=doc. map}} Its submarine portion encompasses the continental shelf which abuts those of the aforementioned districts with a coast.{{sfn|French|Schenk|2006|loc=doc. map}}{{sfn|French|Schenk|2004|loc=doc. map}}
+
+=== Basins ===
+At least three sedimentary basins have been identified in the Yucatán Platform, namely, the Campeche, Yucatán, and Peten{{nbnd}}Corozal.{{sfn|Evenick|2021|p=6|loc=fig. 4}}
+
+=== Faults ===
+At least six fault systems or zones have been identified in the Yucatán Platform, namely, the Holbox, Hondo, Ticul, Ring of Cenotes, Chemax{{nbnd}}Catoche, and La Libertad, with the first four of these considered prominent.{{sfn|Monroy-Rios|2020|pp=32, 76}}
+
+== Geology ==
+=== Formation ===
+The Gulf of Mexico formed during a 70{{nbnd}}90 million year rifting of [[Pangaea]], which began some 240 [[million years ago]], during the [[Middle Triassic]], and ended some 170{{nbnd}}150 million years ago, during the [[Middle Jurassic|Middle]] or [[Late Jurassic]].{{sfn|Davidson|Pindell|Hull|2020|pp=3, 6}}{{sfn|Miranda-Madrigal|Chavez-Cabello|2020|p=183}} The subaerially exposed (i.e., peninsular) portion of the platform is thought to have been fully submarine up to some 30{{nbnd}}10 million years ago.{{sfn|Monroy-Rios|2020|p=43}}
+
+=== Layers ===
+==== Basement ====
+The platform's [[Basement (geology)|crystalline basement]] is composed mainly of [[Precambrian]] to [[Palaeozoic]] granodiorite rocks.{{sfn|Davidson|Pindell|Hull|2020|p=3}}{{sfn|Monroy-Rios|2020|pp=43-45}} It starts at a depth of some {{convert|2.3|mi|km}} in the centre-point of the platform's exposed or peninsular portion, but steeps down towards the platform's eastern and northwestern extremes, starting at a depth of {{convert|3.4|-|3.7|mi|km}} in the latter point.{{sfn|Miranda-Madrigal|Chavez-Cabello|2020|p=189}}{{sfn|Monroy-Rios|2020|p=43}}
+
+==== Cover ====
+The platform's sedimentary cover is composed mainly of carbonates and evaporites formed during or after the [[Early Cretaceous]].{{sfn|Miranda-Madrigal|Chavez-Cabello|2020|pp=187-189}} It forms one of the largest deposits of carbonate minerals on Earth, with a depth range of {{convert|2.3|-|3.7|mi|km}} .{{sfn|Monroy-Rios|2020|pp=26, 43}}
+
+== Notes ==
+{{notefoot}}
+
+== Citations ==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+# {{cite book
+|editor-last1    = Bundschuh
+|editor-first1   = J.
+|editor-last2    = Alvarado
+|editor-first2   = G. E.
+|date            = 2012
+|orig-date       = First published 2007
+|edition         = Reprint of 1st
+|title           = Central America: Geology, Resources and Hazards
+|series          = 
+|publisher       = Taylor &amp; Francis
+|location        = London
+|url             = 
+|url-access      =
+|isbn            =9780429074370
+|doi             = 10.1201/9780203947043
+|oclc            = 905983675
+}}
+# {{cite journal
+|last1         = Canales-Garcia
+|first1        = I.
+|last2         = Urrutia-Fucugauchi
+|first2        = J.
+|last3         = Aguayo-Camargo
+|first3        = E.
+|date          = 2018
+|title         = Seismic imaging and attribute analysis of Chicxulub Crater central sector, Yucatán Platform, Gulf of Mexico
+|journal       = Geologica Acta
+|volume        = 16
+|issue         = 2
+|series        = 
+|pages         = 215–235
+|doi           = 10.1344/GeologicaActa2018.16.2.6
+|url           = https://ddd.uab.cat/record/191730
+|url-access    =
+}}
+# {{cite journal
+|last1         = Davidson
+|first1        = I.
+|last2         = Pindell
+|first2        = J.
+|last3         = Hull
+|first3        = J.
+|date          = 2020
+|title         = The basins, orogens and evolution of the southern Gulf of Mexico and Northern Caribbean
+|journal       = Special Publications of the Geological Society of London
+|volume        = 504
+|issue         = sn
+|series        = 
+|pages         = 1–27
+|doi           = 10.1144/SP504-2020-218
+|s2cid = 231884613
+|url           = 
+|url-access    = 
+}}
+# {{cite book
+|editor-last1  = Dengo
+|editor-first1 = G.
+|editor-last2  = Case
+|editor-first2 = J. H.
+|date          = 1990
+|title         = The Caribbean Region
+|series        = The Geology of North America ; v. H
+|publisher     = Geological Society of America
+|place         = Boulder, Colo.
+|hdl           = 2027/mdp.39015018862931
+|oclc          = 21909394
+|url           =
+|url-access    =
+}}
+# {{cite journal
+|last1         = Evenick
+|first1        = J. C.
+|date          = 2021
+|title         = Glimpses into Earth's history using a revised global sedimentary basin map
+|journal       = Earth-Science Reviews
+|volume        = 215
+|issue         = sn
+|series        = article no. 103564
+|page = 103564
+|doi           = 10.1016/j.earscirev.2021.103564
+|bibcode = 2021ESRv..21503564E
+|s2cid = 233950439
+|url           = 
+|url-access    =
+}}
+# {{cite map
+|last1         = French
+|first1        = C. D.
+|last2         = Schenk
+|first2        = C. J. 
+|date          = 2004
+|title         = Map showing geology, oil and gas fields, and geologic provinces of the Caribbean Region
+|url           =
+|url-access    =
+|scale         = 1:2,500,000
+|doi           = 10.3133/ofr97470K
+|series        = Open-File Report 97-470-K
+|publisher     = U.S. Geological Survey
+|location      = Reston, Virg.
+}}
+# {{cite map
+|last1         = French
+|first1        = C. D.
+|last2         = Schenk
+|first2        = C. J. 
+|date          = 2006
+|title         = Map showing geology, oil and gas fields, and geologic provinces of the Gulf of Mexico region
+|url           =
+|url-access    =
+|scale         = 1:2,500,000
+|doi           = 10.3133/ofr97470L
+|series        = Open-File Report 97-470-L
+|publisher     = U.S. Geological Survey
+|location      = Reston, Virg.
+}}
+# {{cite journal
+|last1         = Goldscheider
+|first1        = N.
+|last2         = Chen
+|first2        = Z.
+|last3         = Auler
+|first3        = A. S.
+|last4         = Bakalowicz
+|first4        = M.
+|last5         = Broda
+|first5        = S.
+|last6         = Drew
+|first6        = D.
+|last7         = Hartmann
+|first7        = J.
+|date          = 2020
+|title         = Global distribution of carbonate rocks and karst water resources
+|journal       = Hydrogeology Journal
+|volume        = 28
+|issue         = sn
+|series        = 
+|pages         = 1661–1677
+|doi           = 10.1007/s10040-020-02139-5
+|bibcode = 2020HydJ...28.1661G
+|s2cid = 216032707
+|url           = 
+|url-access    =
+}}
+# {{cite journal
+|last1         = Guzman-Hidalgo
+|first1        = E.
+|last2         = Grajales-Nishimura
+|first2        = J. M.
+|last3         = Eberli
+|first3        = G. P.
+|last4         = Aguayo-Camargo
+|first4        = J. E.
+|last5         = Urrutia-Fucugauchi
+|first5        = J.
+|last6         = Perez-Cruz
+|first6        = L.
+|date          = 2021
+|title         = Seismic stratigraphic evidence of a pre-impact basin in the Yucatán Platform; morphology of the Chicxulub Crater and K/Pg boundary deposits
+|journal       = Marine Geology
+|volume        = 441
+|issue         = sn
+|series        = article no. 106594
+|page = 106594
+|doi           = 10.1016/j.margeo.2021.106594
+|bibcode = 2021MGeol.441j6594G
+|url           = https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_webofscience_primary_000697734600001
+|url-access    = subscription
+}}
+# {{cite book
+|editor-last1    = Mann
+|editor-first1   = P.
+|date            = 1999
+|title           = Caribbean Basins
+|series          = Sedimentary Basins of the World
+|volume          = 4
+|publisher       = Elsevier
+|location        = Amsterdam
+|url             = 
+|url-access      = 
+|oclc            = 43540498
+|isbn            = 0444826491
+}}
+# {{cite thesis
+|last          = Martens
+|first         = Uwe
+|date          = 2009
+|title         = Geologic evolution of the Maya Block (southern edge of the North American plate): An example of terrane transferral and crustal recycling
+|type          = PhD
+|publisher     = Stanford University
+|url           = 
+|url-access    = 
+}}
+# {{cite journal
+|last1         = Miranda-Madrigal
+|first1        = E.
+|last2         = Chavez-Cabello
+|first2        = G.
+|date          = 2020
+|title         = Regional geological analysis of the southern deep Gulf of Mexico and northern Yucatán Shelf
+|journal       = Special Publications of the Geological Society of London
+|volume        = 504
+|issue         = sn
+|series        = 
+|pages         = 183–204
+|doi           = 10.1144/SP504-2020-1
+|s2cid = 225750222
+|url           = 
+|url-access    = 
+}}
+# {{cite thesis
+|last          = Monroy-Rios
+|first         = Emiliano
+|date          = 2020
+|title         = Advancements in Our Understanding of the Yucatán Platform: Sedimentary Geology and Geochemistry, Speleogenesis, Chicxulub Ring of Cenotes, and Tectonic Stability
+|type          = PhD
+|publisher     = Northwestern University
+|url           = https://www.proquest.com/docview/2469739315
+|id = {{ProQuest|2469739315}}
+|url-access    = subscription
+}}
+# {{cite book
+|editor-last1    = Nairn
+|editor-first1   = A. E. M.
+|editor-last2    = Stehli
+|editor-first2   = F. G.
+|date            = 1975
+|orig-date       = 
+|edition         = 
+|title           = The Gulf of Mexico and the Caribbean
+|series          = The Ocean Basins and Margins
+|volume          = 3
+|publisher       = Plenum Press
+|location        = New York and London
+|url             = 
+|url-access      =
+|isbn            =978-1-4684-8537-0
+|doi             = 10.1007/978-1-4684-8535-6
+|oclc            = 1255226320
+}}
+# {{cite book
+|last1         = Sapper
+|first1        = K.
+|date          = 1896
+|title         = Sobre la geografía física y la geología de la península de Yucatán
+|series        = Instituto geológico de México ; boletín núm. 3
+|publisher     = Oficina Tip. de la Secretaría de Fomento
+|place         = México
+|hdl           = 2027/hvd.tz1rcx
+|oclc          = 4688830
+|url           = https://www.google.com/books/edition/Sobre_la_geograf%C3%ADa_f%C3%ADsica_y_la_geolog/FZcsAAAAYAAJ
+|url-access    =
+}}
+# {{cite map
+|last1         = Steel
+|first1        = I.
+|last2         = Davidson
+|first2        = I. 
+|date          = 2020a
+|title         = The basins and orogens of the Southern Gulf of Mexico map
+|url           = 
+|url-access    = 
+|scale         = 1:4,000,000
+|doi           = 10.1144/SP504-2020-2
+|series        = Special Publications ; v. 504 ; pp. 557-558
+|publisher     = Geological Society of London
+|location      = London
+}}
+# {{cite map
+|last1         = Steel
+|first1        = I.
+|last2         = Davidson
+|first2        = I. 
+|date          = 2020b
+|title         = Map of the geology of the Northern Caribbean and the Greater Antillean Arc
+|url           = 
+|url-access    = 
+|scale         = 1:4,000,000
+|doi           = 10.1144/SP504-2020-3
+|series        = Special Publications ; v. 504 ; pp. 559-560
+|publisher     = Geological Society of London
+|location      = London
+}}
+# {{cite journal
+|last1         = Villeneuve
+|first1        = M.
+|last2         = Marcaillou
+|first2        = B.
+|date          = 2013
+|title         = Pre-Mesozoic origin and paleogeography of blocks in the Caribbean, South Appalachian and West African domains and their impact on the post "Variscan" evolution
+|journal       = Bulletin de la Société Géologique de France
+|volume        = 184
+|issue         = 1–2
+|pages         = 5–20
+|doi           = 10.2113/gssgfbull.184.1-2.5
+|url           = https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_webofscience_primary_000318747200002
+|url-access    = subscription
+}}
+# {{cite journal
+|last1         = Weber
+|first1        = B.
+|last2         = Iriondo
+|first2        = A.
+|last3         = Premo
+|first3        = W. R.
+|last4         = Hecht
+|first4        = L.
+|last5         = Schaaf
+|first5        = P.
+|date          = 2007
+|title         = New insights into the history and origin of the southern Maya block, SE México: U–Pb–SHRIMP zircon geochronology from metamorphic rocks of the Chiapas massif
+|journal       = International journal of earth sciences : Geologische Rundschau
+|volume        = 96
+|issue         = 2
+|pages         = 253–269
+|doi           = 10.1007/s00531-006-0093-7
+|bibcode = 2007IJEaS..96..253W
+|s2cid = 55983939
+|url           = https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_proquest_journals_734373617
+|url-access    = subscription
+}}
+# {{cite book
+|editor-last1    = Weidie
+|editor-first1   = A. E.
+|editor-last2    = Murray
+|editor-first2   = G. E.
+|date            = 1967
+|orig-date       = 
+|edition         = 
+|title           = Yucatán field trip guide book
+|series          = 
+|publisher       = New Orleans Geological Society
+|location        = New Orleans, La.
+|url             = https://archives.datapages.com/data/browse/new-orleans-geological-society/guide-book-field-trip-to-peninsula-of-yucatan-february-15-1962/
+|url-access      = limited
+|isbn            =
+|doi             = 
+|oclc            = 00636646
+|lccn            = 72196658
+}}
+# {{cite journal
+|last1         = Zhao
+|first1        = J.
+|last2         = Xiao
+|first2        = L.
+|last3         = Gulick
+|first3        = S. P. S.
+|last4         = Morgan
+|first4        = J. V.
+|last5         = Kring
+|first5        = D.
+|last6         = Urrutia-Fucugauchi
+|first6        = J.
+|date          = 2020
+|title         = Geochemistry, geochronology and petrogenesis of Maya Block granitoids and dykes from the Chicxulub Impact Crater, Gulf of México: Implications for the assembly of Pangea
+|journal       = Gondwana Research
+|volume        = 82
+|issue         = sn
+|pages         = 128–150
+|doi           = 10.1016/j.gr.2019.12.003
+|bibcode = 2020GondR..82..128Z
+|s2cid = 214359672
+|url           = https://biblio.vub.ac.be/vubirfiles/78237141/Zhao_etal_accepted.pdf
+|url-access    = 
+}}
+{{refend}}
+
+{{authority control}}
+{{Physiographic regions}}
+{{authority control}}
+
+[[Category:Geology of North America]]
+[[Category:Geology of the Atlantic Ocean]]
+[[Category:Geology of Belize]]
+[[Category:Geology of Guatemala]]
+[[Category:Geology of Mexico]]
+[[Category:Geomorphology#Physiographic divisions]]
+[[Category:Physiographic divisions]]</text>
+      <sha1>dh4wgfnl70m56co7rycqovfx863zr47</sha1>
+    </revision>
+  </page>
+</mediawiki>

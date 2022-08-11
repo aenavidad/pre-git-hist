@@ -1,0 +1,1529 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Draft:English settlement in the Bay Islands</title>
+    <ns>118</ns>
+    <id>70711742</id>
+    <revision>
+      <id>1088515994</id>
+      <parentid>1088423222</parentid>
+      <timestamp>2022-05-18T13:44:28Z</timestamp>
+      <contributor>
+        <username>AManWithNoPlan</username>
+        <id>12416903</id>
+      </contributor>
+      <comment>fix doi</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="51046" xml:space="preserve">{{AfC submission|t||ts=20220505212938|u=Asdfjrjjj|ns=118|demo=}}&lt;!-- Important, do not remove this line before article has been created. --&gt;
+{{short description|xxxx}}
+{{use dmy dates|date=May 2022}}
+{{use British English|date=May 2022}}
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+{{Infobox former country
+|native_name            = &lt;!-- Name in a modern syntax of native language(s). Leave blank if name is only in English.
+                               Separate with line breaks&lt;br/&gt; or use Template:Plainlist. If language uses Latin characters, place name(s) in italics. --&gt;
+|conventional_long_name = English settlement in the Bay Islands
+|common_name            = &lt;!-- Name to be used in constructing links and category names; not for display --&gt;
+|iso3166code = omit       &lt;!-- For a country or geopolitical version of a country that ceased to exist prior to the introduction of iso3166--&gt;
+|era                    = &lt;!-- Use: "Napoleonic Wars", "Cold War", etc. --&gt;
+|status                 = Colony
+|status_text            = Dissolved
+|empire                 = United Kingdom
+|government_type        = Self-governing colony of a [[constitutional monarchy]]
+&lt;!-- Rise and fall, events, years and dates --&gt;
+&lt;!-- only fill in the start/end event entry if a specific article exists. Don't just say "abolition" or "declaration" --&gt;
+|event_start            = Chartered
+|date_start             = 6 June
+|year_start             = 1638
+|event_end              = Reorganised
+|date_end               = 19 March
+|year_end               = 1852
+|year_exile_start       = &lt;!-- Year of start of exile (if dealing with exiled government: status="Exile") --&gt;
+|year_exile_end         = &lt;!-- Year of end of exile (leave blank if still in exile) --&gt;
+|event1                 = &lt;!-- Optional: other events between "start" and "end" --&gt;
+|date_event1            = 
+|event2                 = 
+|date_event2            = 
+|event3                 = 
+|date_event3            = 
+|event4                 = 
+|date_event4            = 
+|event5                 = 
+|date_event5            = 
+|event6                 = 
+|date_event6            = 
+|event_pre              = &lt;!-- Optional: A crucial event that took place before "event_start" --&gt;
+|date_pre               = 
+|event_post             = &lt;!-- Optional: A crucial event that took place after "event_end" --&gt;
+|date_post              = 
+&lt;!-- Flag navigation: Preceding and succeeding entities p1 to p5 and s1 to s5 --&gt;
+|p1                     = Province of Comayagua-Honduras
+|flag_p1                = Flag of Cross of Burgundy.svg
+|image_p1               = &lt;!-- Use: [[File:Sin escudo.svg|20px|Image missing]] --&gt;
+|p2                     = 
+|flag_p2                = 
+|p3                     = 
+|flag_p3                = 
+|p4                     = 
+|flag_p4                = 
+|p5                     = 
+|flag_p5                = 
+|s1                     = Colony of the Bay Islands&lt;!-- Name of the article for succeeding entity, numbered 1-5 --&gt;
+|flag_s1                = Flag of the United Kingdom.svg
+|image_s1               = &lt;!-- Use: [[File:Sin escudo.svg|20px|Image missing]] --&gt;
+|s2                     = 
+|flag_s2                = 
+|s3                     = 
+|flag_s3                = 
+|s4                     = 
+|flag_s4                = 
+|s5                     = 
+|flag_s5                = 
+|image_flag             = Flag of England.svg
+|flag_alt               = &lt;!-- Alt text for flag --&gt;
+|image_flag2            = &lt;!-- Second flag --&gt;
+|flag_alt2              = &lt;!-- Alt text for second flag --&gt;
+|flag                   = &lt;!-- Link target under flag image. Default: Flag of {{{common_name}}} --&gt;
+|flag2                  = &lt;!-- Link target under flag2 image. Default: Flag of {{{common_name}}} --&gt;
+|flag_type              = Saint George's Cross
+|flag2_type             = &lt;!-- Displayed text for link under flag2. Default "Flag" --&gt;
+|image_coat             = &lt;!-- Default: Coat of arms of {{{common_name}}}.svg --&gt;
+|coa_size               = &lt;!-- Size of coat of arms --&gt;
+|coat_alt               = &lt;!-- Alt text for coat of arms --&gt;
+|symbol_type            = &lt;!-- Displayed text for link under symbol. Default "Coat of arms" --&gt;
+|symbol_type_article    = &lt;!-- Link target under symbol image. Default: Coat of arms of {{{common_name}}} --&gt;
+|image_map              = 
+|image_map_alt          = 
+|image_map_caption      = 
+|image_map2             = &lt;!-- If second map is needed; does not appear by default --&gt;
+|image_map2_alt         = 
+|image_map2_caption     = 
+|capital                = {{hlist|Old Port Royal|[[Coxen Hole]]}}
+|capital_exile          = &lt;!-- If status="Exile" --&gt;
+|national_motto         = 
+|national_anthem        = [[God Save the Queen]]&lt;br&gt;&lt;div style="display:inline-block;margin-top:0.4em;"&gt;[[File:God-Save-The-Queen.ogg]]&lt;/div&gt;
+|common_languages       = 
+|religion               = {{hlist|[[Puritan]]|[[Anglican]]|[[Pech people|Payan poletheistic]]}}
+|demonym                = [[Bay Islander]]
+|currency               = 
+&lt;!-- Titles and names of the first and last leaders and their deputies --&gt;
+|leader1                = [[Charles I of England|Charles I]] {{small|/ first}}
+|leader2                = [[Queen Victoria|Victoria]] {{small|/ last}}
+|leader3                = 
+|leader4                = 
+|leader21               =      &lt;!--(up to 21 distinct leaders may be included)--&gt;
+|year_leader1           = 1638{{nbnd}}1649&lt;!-- Years served --&gt;
+|year_leader2           = 1837{{nbnd}}1852
+|year_leader3           = 
+|year_leader4           =
+|year_leader21          = 
+|title_leader           = Sovereign
+|representative1        = [[William Claiborne]]
+|representative2        = [[John James Hall]]
+|representative3        = 
+|representative4        = 
+|representative5        = 
+|year_representative1   = 1638{{nbnd}}1642&lt;!-- Years served --&gt;
+|year_representative2   = 1850{{nbnd}}1852
+|year_representative3   = 
+|year_representative4   = 
+|year_representative5   = 
+|title_representative   = Governor
+|deputy1                = &lt;!-- Name of prime minister --&gt;
+|deputy2                = 
+|deputy3                = 
+|deputy4                = 
+|year_deputy1           = &lt;!-- Years served --&gt;
+|year_deputy2           = 
+|year_deputy3           = 
+|year_deputy4           = 
+|title_deputy           = &lt;!-- Default: "Prime minister" --&gt;
+&lt;!-- Legislature --&gt;
+|legislature            = &lt;!-- Name of legislature --&gt;
+|house1                 = &lt;!-- Name of first chamber --&gt;
+|type_house1            = &lt;!-- Default: "Upper house" --&gt;
+|house2                 = &lt;!-- Name of second chamber --&gt;
+|type_house2            = &lt;!-- Default: "Lower house" --&gt;
+&lt;!-- Area and population of a given year --&gt;
+|stat_year1             = &lt;!-- year of the statistic, specify either area, population or both --&gt;
+|stat_area1             = &lt;!-- area in square kílometres (w/o commas or spaces), area in square miles is calculated --&gt;
+|stat_pop1              = &lt;!-- population (w/o commas or spaces), population density is calculated if area is also given --&gt;
+|stat_year2             = 
+|stat_area2             = 
+|stat_pop2              = 
+|stat_year3             = 
+|stat_area3             = 
+|stat_pop3              = 
+|stat_year4             = 
+|stat_area4             = 
+|stat_pop4              = 
+|stat_year5             = 
+|stat_area5             = 
+|stat_pop5              = 
+|today                  = [[Bay Islands Department|Honduras]]&lt;!-- Do NOT add flags, per MOS:INFOBOXFLAG --&gt;
+|footnote_a             = &lt;!-- Accepts wikilinks --&gt;
+|footnote_b             = &lt;!-- Accepts wikilinks --&gt;
+|footnote_h             = &lt;!-- Accepts wikilinks --&gt;
+|footnotes              = &lt;!-- Accepts wikilinks --&gt;
+}}
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+The '''English settlement in the Bay Islands''' were xxx
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+== History ==
+[[File:De Eylanden en Vastelanden van Westindien LOC 2003623398.tif|thumb|upright=1.7|''De Eylanden en Vastelanden van Westindien'' {{small|/ 1631 draught by Hessel Gerritsz / via LC}}]]
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+=== Prelude ===
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+==== Spanish ''reducciones'' ====
+Through enslavement to Cuba and resettle- ment to Guatemala, the Bay Islands were reported to be depopulated of “natives” by 1650 (Conzemius 1928:59–66; see also Newson 1986). Captain Nathaniel Uring’s (1727:341–361) description of his visit to the islands in 1719 makes no mention of native peoples, only the English logwood cutters who had occupied Port Royal since the mid-1600s.{{sfn|Figueroa|Johnson|Goodwin|2021|p=180}}
+
+As demand for slaves increased after the settlement of Cuba, many of the Bay Islands were targeted by slave-hunting parties and drained of their populations.{{sfn|Figueroa|Johnson|Goodwin|2021|p=183}}
+
+Our research indicates that the Pech might not have been completely removed from the Bay Islands in the seventeenth century, as Spanish records suggest, and that Miskitu groups were settled on Roatán for a short period during the eighteenth century to aid English military efforts.{{sfn|Figueroa|Johnson|Goodwin|2021|p=181}}
+
+Spanish activities in the region largely avoided confrontation with Pech groups, except for the Bay Islands, which they reported to have com- pletely depopulated in 1650. After a series of colonial incursions into their territory, today the Pech occupy two small settlements zones: one in Colón and one in northeastern Olancho.{{sfn|Figueroa|Johnson|Goodwin|2021|p=185}}
+
+In his report to the president of Guatemala in 1639, Don Francisco de Avila y Lugo, governor and captain general of Honduras described “four towns of Indians in the Guanaja Islands, namely, Guanaja, Masa, Roata, and Utila” (Squier 1858:609). He described the towns of Masa and Roata as separated by “a narrow canal not admitting navigation, even by vessels of the lightest draft, so that the two parts are considered as one island” (Squier 1858:609). Governor Avila also described the inhabitants of Roata. He states that “the Indians, though few, are good, less easily reduced than those of Guanaja, especially those of Roata, who are laborious and faithful. In both towns the inhabitants suffer much from musquitoes, and are greatly reduced in consequence, notwithstanding the island is as fertile as Guanaja, yielding the same fruits and dye-woods” (Squier 1858:611).{{sfn|Figueroa|Johnson|Goodwin|2021|p=186}}
+
+The Spanish considered removing the inhabitants as early as 1639 “in order to deprive the buccaneers of this asylum where it was so easy for them to obtain food and guides” (Conzemius 1928:5). Squier (1858:607) reports that a decision was made “to withdraw them [aboriginal inhabitants] to the main land, and, by destroying the towns and plantations, deprive the corsairs of an asylum, and of the means of prosecuting their lawless enter- prises on the adjacent coasts.” After launching the steps for removal in the 1640s, the Spanish claimed in 1650, to have removed the Pech—the indig- enous population of the Bay Islands—possibly to the vicinity of Livingston or Puerto Barrios, Guatemala (Wells 2008).{{sfn|Figueroa|Johnson|Goodwin|2021|p=187}}
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+==== Anglo-Dutch piracy ====
+
+Elizabethan
+1633 Capture of Trujillo
+xxx
+
+==== Anglo-Dutch settlement ====
+===== Bluefields =====
+[[Bluefields]] is thought to have become a haven for [[Sea Dogs|Elizabethan sea dogs]] in the late 1580s.{{sfn|Breuer|1993|p=25}}/Haring|1910|p=???{{notetag|On 14 June 1637, Albertus Blauvelt 'ye Master Mate of ye ''Expectation'' infromed the company [while in London] that at Monkey bay there is a good harbour and ground ... That he was two mile up in the Mayne and found ye Country all overgrowne with silke grasse, and that a river in it of about 8 or 10 foot deep, and 30 feet broad' {{harv|Offen|2011|p=29}}.}}
+
+A estos lobos de mar les gustaba un lugar especial, una bahía bien protegida, con mucha y buena madera, que hoy en día se llama Bluefields y, según diferentes relatos, su nombre se debe a un holandés llamado Bleeveldt o Blauveldt, quien en 1602 escogió esa ensenada como punto estratégico para sus operaciones piráticas. Muy pronto la bahía se convirtió en lugar de intercambio comercial entre europeos no hispanos y mosquitos (Bovalius 1977:185; Aytón 1956:69)./v Reichert 2016 131 /// Bovalius, C. 1977. Viaje por Centroamérica. 1881-1883. Managua: Banco de América / Ayón, T. 1956. Historia de Nicaragua. Madrid: Escuela Profesional de Artes Gráficas.
+
+===== Old Providence =====
+The [[Providence Island Company]] was granted a charter for a colony on Providence Island on 28 September 1629. Their letters patent were put to use immediately, with the first batch of Puritan settlers landing that Christmas. Within the year, on 4 December 1630, the Company's charter was greatly expanded to 'between 10 and 20 degrees of North Latitude and 290 and 310 degrees of longitude,' ie to some 720,000 square miles. By 1631, on Company instructions, Daniel Elfrith was reconnoitring the Mosquito Shore. His findings convinced the Company to instruct, on 16 August 1634, Sussex Cammock to settle near Cape Gracias a Dios, so as to carry on a trade with Mosquitian settlements.{{sfn|Breuer|1993|pp=29-33}}{{sfn|Offen|2020|pp=412-413, 416-417}}{{sfn|Offen|2011|p=21}}
+
+===== Cape Gracias a Dios =====
+Daniel Elfrith explored the Mosquito Cayes, the mainland near Cape Gracias a Dios, and part of the Honduras coast in 1629, and further established friendly contact with the Mosquitos. On 10 May 1632, Elfrith was instructed to deepen trade links with the Mosquitos, especially for annatto and silk grass. On 1 July 1633, the Company commissioned Sussex Cammock to establish a settleemnt near 'Cape Muskeetoe,' instructing him to build a defensive fort.{{sfn|Offen|2011|p=29-31}}{{sfn|Pargellis|Butler|1944|pp=276, 312-316}}{{notetag|Meaning rather 'a large region straddling both sides of Cape Gracias.' For instance, on 7 March 1638, Samuel Axe reported that the Mosquito were settled 'about 300 in 300 myles' around the Cape {{harvnb|Offen|2011|p=28}}.}}{{notetag|On 20 April 1635, Cammock was named 'Chief Commander of all Agents ffactors ... of ye Main Continent of America at Cape Gratia de Dios and ... [land] adjoining' {{harv|Offen|2011|p=34}}.}}
+
+=== Pirate's haven ===
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+Free from an immediate threat of attack, buccaneers estab- lished temporary settlements on the islands and took advantage of the plenti- ful resources by either buying or stealing food from indigenous inhabitants (Conzemius 1928; McBride 2006).{{sfn|Figueroa|Johnson|Goodwin|2021|p=183}}
+Conzemius, Eduard. 1928. “On the Aborigines of the Bay Islands (Honduras).” Atti
+del XXII Congresso Internazionale degli Americanisti 2:57–68.
+McBride, J. David. 2006. “Contraband Traders, Lawless Vagabonds, and the Brit- ish Settlement and Occupation of Roatan, Bay Islands, Honduras.” In X Marks the Spot, ed. R. K. Skowronek and C. R. Ewen, 44–63. Gainesville: University of Florida Press.
+
+In 1577 English Captain Francisco de Acles arrived with two ships on the island of Guanaja and overtook an indigenous community to use as a short- term base for supplies and ship repair. Upon hearing about the English occu- pation, Spanish Captain Diego López and his men sailed from Trujillo to attack the camp and drive out the invaders. During the battle the English cap- tain was killed but several English sailors escaped. In a letter to the Spanish Crown from 1578, Captain López wrote that one of his soldiers had found an English frigate that had “looted the neighboring island of Ruatan, and took a bark from its natives, and captured them.” Captain López sent the letter to request the Crown’s compassion for failing to “put an end to the damage these people are inflicting” (Wright 1932:196–198).{{sfn|Figueroa|Johnson|Goodwin|2021|pp=186-187}}
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+=== Settlement ===
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+The investors of the Providence Island Company received a royal patent from the King in 1629 to search for profitable tropical commodities and to participate in privateering efforts aginst Spain (Kupperman 1993:25). Proprietary colonies became more common during the seventeenth century as the Crown gave out land grants as a way to repay debts to loyal supporters. The King issued proprietary grants to individuals in the “nature of feudatory principalities” (Blackstone 1766:108). Referred to as proprietary governors, these individuals were given land and the right to oversee the property as they wished. The grants were made to “well- connected patron proprieters” who held strong connections to the King and the ability to assemble the capital and settlers necessary for the growth of the colony (Elliott 2006:118). The earliest proprietary colony founded in the Bay Islands was established on Roatán in 1638 by William Claiborne, a planter from Virginia, through a patent from the Providence Company (Naylor 1989:33).The company renamed the island Rich Island in honor of Henry Rich, the Earl of Holland and the brother of Robert Rich, the Earl of Warwick (Newton 1966:267). According to Davidson (1974:49), the location of the Puritan settlement may have been just north of Old Port Royal on the eastern end of the island near the Pech village of Roata, which would have allowed colonists to “farm and trade with the Indians” (Davidson 1974:50). These colonists appear to have had only a few years at the site because civil-war conditions in England damaged the country’s connections to its colonists in the Caribbean and left the Puritan settlement without protection from England. The settlers remained on Rich Island until 1642, when Spanish forces drove them away from the region and destroyed the settlement (Kupperman 1993; Newton 1967; Sorsby 1997).{{sfn|Figueroa|Johnson|Goodwin|2021|pp=183-184}}
+Elliott, John H. 2006. Empires of the Atlantic World: Britain and Spain in America 1492–1830. New Haven, CT: Yale University Press.
+Newton, Arthur P. 1966. The Colonising Activities of the English Puritans: The Last Phase of the Elizabethan Struggle with Spain. Port Washington, NY: Kennikat Press.
+Newton, Arthur P. 1967. The European Nations in the West Indies 1493–1688. New York: Barnes and Noble.
+Davidson, William V. 1974. Historical Geography of the Bay Islands, Honduras: Anglo- Hispanic Conflict in the Western Caribbean. Birmingham, AL: Southern University Press.
+Davidson, William V. 1991. “Geographical Perspectives on Spanish-Pech (Paya) Indian Relationships in Sixteenth Century Northeast Honduras.” In Columbian Consequences, Volume 3, ed. David Hurst Thomas, 205–226. Washington, DC: Smithsonian Institution Press.
+Sorsby, Karen R. 1997. The Puritans of Providence Island, the Cape-Continent
+and the Mosquito-Jamaica Connection. Paper presented at the 29th Annual Conference of the Association of Caribbean Historians (ACH), Fort-de-France, Martinique.
+
+Despite the destruction of the Providence Company settlement at Old Port Royal and the removal of the indigenous populations from the island, the Spanish continued to experience problems with English pirates in the Caribbean well into the seventeenth century. Both large and small groups of pirates were attracted to the Bay Islands “as a secluded place to careen and refit ships, to cut logwood, to hunt the feral hogs, and to catch turtles” (Davidson 1974:51). The cays along the coastlines of Guanaja, Utila, and Roatán provided pirate fleets with shelter and escape routes if attacked while at anchor. After the expulsion of the Puritan settlers from Old Port Royal, buccaneer activity in the Bay Islands prevented the establishment of permanent settlements until the early eighteenth century.{{sfn|Figueroa|Johnson|Goodwin|2021|p=187}}
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+=== Colony ===
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/article/772508?ref=rc
+
+== Geography ==
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+== Government ==
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+== Society ==
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+== Demographics ==
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+== Legacy ==
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+== Notes ==
+{{notefoot}}
+
+== Citations ==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+
+=== Serials ===
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+
+=== Journals ===
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+# {{cite journal
+ |last1= Brenes Castillo
+ |first1= María Eugenia
+ |date= 1978
+ |title= Matina, bastión del contrabando en Costa Rica
+ |jstor=
+ |url= http://ref.scielo.org/23mwfc
+ |journal= Historelo revista de historia regional y local
+ |series=
+ |issn=
+ |doi= 10.15446/historelo.v11n22.73263 
+ |volume= 4
+ |issue= 1
+ |pages= 393–450
+ }}
+# {{cite journal
+ |last1= Davidson
+ |first1= William V.
+ |date= 2008
+ |title= La Costa Caribe de Honduras: Su geografía, historia y etnología
+ |jstor=
+ |url= http://www.tzibalnaah.unah.edu.hn/handle/123456789/12657
+ |journal= Yaxkin
+ |series=
+ |issn=
+ |doi= 
+ |volume= 24
+ |issue= 1
+ |pages= 15–66
+}}
+# {{cite journal
+ |last1= De la O Torres
+ |first1= Rodrigo Alejandro
+ |date= January–June 2016
+ |title= La presencia de corsarios franceses en el Golfo-Caribe entre 1536-1566 : una propuesta de análisis espacial
+ |jstor=
+ |url= https://dialnet.unirioja.es/servlet/articulo?codigo=5589881
+ |journal= Historia 2.0: Conocimiento Histórico en Clave Digital
+ |series=
+ |issn= 2027-9035
+ |doi=
+ |volume= 6
+ |issue= 11
+ |pages= 36–56
+}}
+# {{cite journal
+ |last1= De la O Torres
+ |first1= Rodrigo Alejandro
+ |date= July–December 2019
+ |title= Miedos y fenómeno de la piratería en el Golfo-Caribe durante el siglo XVI. Un ensayo de aproximación
+ |jstor=
+ |url= http://ref.scielo.org/23mwfc
+ |journal= Historelo revista de historia regional y local
+ |series=
+ |issn= 2145-132X
+ |doi=10.15446/historelo.v11n22.73263 
+ |volume= 11
+ |issue= 2
+ |pages= 267–300
+|s2cid= 198778698
+ }}
+# {{cite journal
+ |last1= Díaz-Polanco
+ |first1= Hector
+ |last2= Sánchez
+ |first2= Consuelo
+ |date= July 1991
+ |title= Cronología de los hechos históricos de la costa atlántica de Nicaragua (primera parte)
+ |jstor= 40977938
+ |url= http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/40977938
+ |url-access= subscription
+ |journal= Boletín de Antropología Americana
+ |series=
+ |issn=
+ |doi= 
+ |volume= sn
+ |issue= 23
+ |pages= 171–184
+}}
+# {{cite journal
+ |last1= Harlow
+ |first1= Vincent T.
+ |date= December 1924
+ |title= The voyages of Captain William Jackson, 1642-5
+ |jstor=
+ |url= 
+ |journal= Camden Third Series
+ |series=
+ |issn= 2027-9035
+ |doi= 10.1017/S2042171000006920
+ |volume= 34
+ |issue= sn
+ |pages= 1–39
+}}
+# {{cite journal
+ |last1= Lokken
+ |first1= Paul
+ |date= 2004
+ |title= Useful Enemies: Seventeenth-Century Piracy and the Rise of Pardo Militias in Spanish Central America
+ |jstor=
+ |url= https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/article/173268
+ |url-access= subscription
+ |journal= Journal of Colonialism &amp; Colonial History
+ |series=
+ |issn=
+ |doi= 10.1353/cch.2004.0053
+ |volume= 5
+ |issue= 2
+ |pages= sn-sn
+|s2cid= 161628165
+ }}
+# {{cite journal
+ |last1= Offen
+ |first1= Karl H.
+ |date= 2000
+ |title= British Logwood Extraction from the Mosquitia: The Origin of a Myth
+ |jstor=
+ |url= https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/issue/708
+ |url-access= subscription
+ |journal= Hispanic American Historical Review
+ |series=
+ |issn=
+ |doi= 10.1215/00182168-80-1-113
+ |volume= 80
+ |issue= 1
+ |pages= 113–136
+|s2cid= 143655576
+ }}
+# {{cite journal
+ |last1= Offen
+ |first1= Karl H.
+ |date= 2002
+ |title= The Sambo and Tawira Miskitu: The Colonial Origins and Geography of Intra-Miskitu Differentiation in Eastern Nicaragua and Honduras
+ |jstor=
+ |url= https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/article/11812
+ |url-access= subscription
+ |journal= Ethnohistory
+ |series=
+ |issn=
+ |doi= 10.1215/00141801-49-2-319
+ |volume= 49
+ |issue= 2
+ |pages= 319–372
+|s2cid= 162255599
+ }}
+# {{cite journal
+ |last1= Offen
+ |first1= Karl H.
+ |date= 2011
+ |title= Puritan Bioprospecting in Central America and the West Indies
+ |jstor=
+ |url= https://www-cambridge-org.ezp-prod1.hul.harvard.edu/core/journals/itinerario/article/puritan-bioprospecting-in-central-america-and-the-west-indies/78C4583A60E2B2FCD07E22E4E842FE2A
+ |url-access= subscription
+ |journal= Itinerario
+ |series=
+ |issn=
+ |doi= 10.1017/S0165115311000040
+ |volume= 35
+ |issue= 1
+ |pages= 15–48
+|s2cid= 164165627
+ }}
+# {{cite journal
+ |last1= Offen
+ |first1= Karl H.
+ |date= 2020
+ |title= English Designs on Central America: Geographic Knowledge and Imaginative Geographies in the Seventeenth Century
+ |jstor=
+ |url= https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/article/772508
+ |url-access= subscription
+ |journal= Early American Studies
+ |series=
+ |issn=
+ |doi= 10.1353/eam.2020.0015
+ |volume= 18
+ |issue= 4
+ |pages= 399–460
+|s2cid= 229216190
+ }}
+# {{cite journal
+ |last1= Pargellis
+ |first1= Stanley
+ |last2= Butler
+ |first2= Ruth L.
+ |date= 1944
+ |title= Daniell Ellffryth's Guide to the Caribbean, 1631
+ |jstor= 1923731
+ |url= http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/1923731
+ |url-access= subscription
+ |journal= William and Mary Quarterly
+ |series=
+ |issn=
+ |doi= 10.2307/1923731
+ |volume= 1
+ |issue= 3
+ |pages= 273–316
+}}
+# {{cite journal
+ |last1= Payne Iglesias
+ |first1= Elizet
+ |date=
+ |title= Puerto, frontera y defensa en Trujillo (Honduras), 1502-1642
+ |jstor=
+ |url= https://estudiosmaritimossociales.org/archivo/n2/
+ |journal= Revista de Estudios Marítimos y Sociales
+ |series=
+ |issn= 2545-6237
+ |doi= 
+ |volume= 2
+ |issue= 2
+ |pages= 21–33
+}}
+# {{cite journal
+ |last1= Reichert
+ |first1= Rafal B.
+ |date= 2016
+ |title= El Caribe centroamericano en la estrategia defensivomilitar de la Casa de los Austrias, siglos XVI y XVII
+ |jstor=
+ |url= https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/article/663208
+ |url-access=subscription
+ |journal= Caribbean Studies
+ |series=
+ |issn=
+ |doi= 10.1353/crb.2016.0004
+ |volume= 44
+ |issue= 1–2
+ |pages= 111–140
+|s2cid= 201774040
+ }}
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+
+=== Theses ===
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+# {{cite thesis
+ |last= Breuer
+ |first= Kimberley H.
+ |title= Colonies of happenstance: The English settlements in Central America, 1525-1787
+ |date= 1993
+ |type=PhD
+ |publisher= University of Texas
+ |place= Arlington, Tex.
+ |url= https://www.proquest.com/docview/230667983
+ |url-access=subscription
+}}
+# {{cite thesis
+ |last=De la O Torres
+ |first=Rodrigo Alejandro
+ |title=DE CORSARIOS, MARES Y COSTAS: EL CORSO EN LA CONSTRUCCIÓN DEL ESPACIO GOLFO-CARIBE. 1527-1620
+ |date=November 2014
+ |type=PhD
+ |publisher=Centro de Investigaciones y Estudios Superiores en Antropología Social
+ |place=Mérida, Yuc.
+ |url=http://ciesas.repositorioinstitucional.mx/jspui/handle/1015/1044
+}}
+# {{cite thesis 
+|last= Finamore
+|first= Daniel
+|date= 1994
+|title= Sailors and slaves on the wood-cutting frontier : archaeology of the British Bay settlement, Belize
+|type= PhD
+|publisher= University of Boston
+|location= Boston, Mass.
+|oclc= 33382653
+|url=https://www.proquest.com/docview/304114781
+|url-access=subscription
+}}
+# {{cite thesis
+ |last=Galvin
+ |first=Peter Robert
+ |title=The Pirates' Wake: A Geography of Piracy and Pirates as Geographers in Colonial Spanish America, 1536-1718. (Volumes I and II).
+ |date=1991
+ |type=PhD
+ |publisher=Louisiana State University
+ |place=Baton Rouge, Louis.
+ |url=https://digitalcommons.lsu.edu/gradschool_disstheses/5233
+}}
+# {{cite thesis
+ |last= Graham
+ |first= Ross
+ |title= Bay Islands English : Linguistic Contact and Convergence in the Western Caribbean
+ |date=1997
+ |type=PhD
+ |publisher=University of Florida
+ |place= Gainesville, Fl.
+ |url= https://ufdc.ufl.edu/AA00031823/00001
+}}
+# {{cite thesis
+ |last= Lord
+ |first= David G.
+ |title= MONEY ORDER ECONOMY: REMITTANCES IN THE ISLAND OF UTILA
+ |date= 1975
+ |type=PhD
+ |publisher= University of California
+ |place= Riverside, Calif.
+ |url= https://www.proquest.com/docview/302777409
+ |url-access=subscription
+}}
+# {{cite thesis
+ |last= Mack
+ |first= Taylor E.
+ |title=Ephemeral Hinterlands and the Historical Geography of Trujillo, Honduras, 1525-1950
+ |date=1997
+ |type=PhD
+ |publisher=Louisiana State University
+ |place=Baton Rouge, Louis.
+ |url= https://digitalcommons.lsu.edu/gradschool_disstheses/6433
+}}
+# {{cite thesis 
+|last= Marcus
+|first= Linda C.
+|date= 1990
+|title= English influence on Belize and the Peten region of northern Guatemala, 1630 to 1763
+|type= PhD
+|publisher= Southern Methodist University
+|location=Dallas, Tex.
+|oclc= 48275365
+|url=https://www.proquest.com/docview/303887067
+|url-access=subscription
+}}
+# {{cite thesis
+ |last= McDonald
+ |first= Kevin P.
+ |title= Pirates, merchants, settlers, and slaves: Making an Indo -Atlantic trade world, 1640–1730
+ |date= 2008
+ |type=PhD
+ |publisher= University of California, Santa Cruz
+ |place= Santa Cruz, Calif.
+ |url= https://www.proquest.com/docview/304660891
+ |url-access=subscription
+}}
+# {{cite thesis 
+|last= McJunkin
+|first= David Morgan
+|date= 1991
+|title= Logwood : An inquiry into the historical biogeography of ''Haematoxylum campechianum'' L. and related dyewoods of the neotropics
+|type= PhD
+|publisher= University of California
+|place= Los Angeles, Calif.
+|oclc= 24057056
+|url=https://www.proquest.com/docview/303932948
+|url-access=subscription
+}}
+# {{cite thesis
+ |last=Mihok
+ |first=Lorena D.
+ |title=Unearthing Augusta: Landscapes of Royalization on Roatan Island, Honduras
+ |date=2013
+ |type=PhD
+ |publisher=University of South Florida
+ |place=Tampa, Fl.
+ |url=https://digitalcommons.usf.edu/etd/4920
+}}
+# {{cite thesis 
+|last= Rushton
+|first= Elizabeth Anne Cecilia
+|date= December 2014
+|title= 'Under the shade I flourish' : An environmental history of northern Belize over the last three thousand five hundred years
+|type= PhD
+|publisher= University of Nottingham
+|location=Nottingham, Eng.
+|url= http://eprints.nottingham.ac.uk/id/eprint/27615
+|access-date=
+}}
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+
+=== Print ===
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+# {{Cite ODNB
+|doi= 10.1093/ref:odnb/53260
+|title=Claiborne, William
+|last=Appleby
+|first=John C.
+|url=https://doi-org.ezp-prod1.hul.harvard.edu/10.1093/ref:odnb/53260
+|url-access=subscription
+|date=23 September 2004
+}}
+# {{cite book 
+ |editor-last1= Andrews
+ |editor-first1= Kenneth R.
+ |title= English privateering voyages to the West Indies, 1588-1595 : documents relating to English voyages to the West Indies from the defeat of the armada to the last voyage of Sir Francis Drake
+ |date= 1958
+ |volume= 
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 111
+ |publisher= Published for the Hakluyt Society at the University Press
+ |location= Cambridge
+ |edition= 1st
+ |hdl= 2027/mdp.39015026881832
+ |oclc= 504851
+}}
+# {{cite book 
+ |last1= Andrews
+ |first1= Kenneth R.
+ |title= Drake's voyages: a re-assessment of their place in Elizabethan maritime expansion
+ |date= 1968
+ |orig-date=First published 1967 by Weidenfeld &amp; Nicolson
+ |volume= 
+ |series=
+ |publisher= Charles Scribner's Sons
+ |location= New York
+ |edition= 
+ |hdl= 2027/mdp.39015026881832
+ |oclc=250607
+ |url=https://archive.org/details/drakesvoyagesrea00andr/
+}}
+# {{cite web
+ |url=https://dbe.rah.es/biografias/33575/diego-de-villalba-y-toledo
+ |title=Diego de Villalba y Toledo
+ |last= Barrientos Grandon
+ |first=Javier
+ |date= 3 May 2018
+ |website=Diccionario biográfico electrónico
+ |publisher=Real Academia de la Historia
+ |access-date=5 May 2022
+ |quote=
+}}
+# {{cite book 
+ |last1= Bergreen
+ |first1= Laurence
+ |title= In search of a kingdom : Francis Drake, Elizabeth I, and the perilous birth of the British Empire
+ |date= 2021
+ |orig-date=
+ |volume= 
+ |series=
+ |publisher= Custom House
+ |location= New York
+ |edition= 1st
+ |hdl= 
+ |oclc=1193560224
+ |url=
+}}
+# {{cite book 
+ |last1= Best
+ |first1= Brian
+ |title= Elizabeth's sea dogs and their war against Spain
+ |date= 2021
+ |orig-date=
+ |volume= 
+ |series=
+ |publisher= Frontline Books
+ |location= Barnsley
+ |edition= 1st
+ |hdl= 
+ |oclc=1241107573
+ |url=http://ezp-prod1.hul.harvard.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=nlebk&amp;AN=2804205&amp;site=ehost-live&amp;scope=site
+ |url-access=subscription
+}}
+# {{cite book 
+ |last1= Bonilla
+ |first1= Conrado
+ |title= Piraterías en Honduras
+ |date= 1955
+ |orig-date=
+ |volume= 
+ |series=
+ |publisher= Imprenta Renovación
+ |location= San Pedro Sula, Hond.
+ |edition= 1st
+ |hdl= 2027/txu.059173022920346
+ |oclc= 1121515718
+ |url=
+}}
+# {{Cite ODNB
+|doi= 10.1093/ref:odnb/10274
+|title= Gage, Thomas [name in religion Tomás de Santa María]
+|last= Boyer
+|first= Allen D.
+|url= https://doi-org.ezp-prod1.hul.harvard.edu/10.1093/ref:odnb/10274
+|url-access=subscription
+|date=23 September 2004
+}}
+# {{cite book 
+|last1= Cardona Amaya
+|first1= José Manuel
+|title= Invasiones de corsarios a la Honduras de Felipe IV (1633-1643)
+|date= 2020
+|publisher= Universidad Nacional Autónoma de Honduras
+|location= Tegucigalpa
+|edition= 1st
+|url= https://halshs.archives-ouvertes.fr/halshs-02540842
+|oclc= 1192967317
+}}
+# {{cite book 
+ |last1= Davidson
+ |first1= William V.
+ |title= Historical geography of the Bay Islands, Honduras : Anglo-Hispanic conflict in the western Caribbean
+ |date= 1974
+ |orig-date=
+ |volume= 
+ |series=
+ |publisher= Southern University Press
+ |location= Birmingham, Ala.
+ |edition= 
+ |hdl= 2027/txu.059173001361450
+ |oclc= 1177197
+ |url= 
+}}
+# {{cite book 
+ |last1= Davidson
+ |first1= William V.
+ |series= Honduras indigena
+ |date= 2019
+ |orig-date= First published 2016 by Acad. Hond. Geo. Hist.
+ |volume= 1
+ |title= Diccionario geografico-histórico de topónimos y lugares indígenas : Historical gazetteer of indigenous places and place names
+ |publisher= Academia Hondureña de Geografía e Historia
+ |location= Tegucigalpa, Hond.
+ |edition= Updated October 2019
+ |hdl= 
+ |oclc= 956552600
+ |url= http://williamvdavidson.com/publications
+}}
+# {{cite book 
+ |last1= De la O Torres
+ |first1= Rodrigo Alejandro
+ |title= DE CORSARIOS, MARES Y COSTAS : El corso en la construcción del espacio y experiencias marítimas en el Golfo-Caribe, 1527-1620
+ |date= 2020
+ |volume= 
+ |publisher= Universidad Autónoma de Aguascalientes
+ |location= Ciudad Universitaria, Aguascalientes
+ |edition= 1st
+ |url= 
+ |oclc= 1280054563
+}}
+# {{cite book 
+ |last1= Elliott
+ |first1= John H.
+ |title= Empires of the Atlantic world : Britain and Spain in America, 1492-1830
+ |date= 2006
+ |orig-date= 
+ |volume= 
+ |series=
+ |publisher= Yale University Press
+ |location= New Haven
+ |edition= 
+ |hdl= 
+ |oclc= 62421207
+ |url=
+}}
+# {{cite book 
+ |editor-last1= Figueroa
+ |editor-first1= Alejandro J.
+ |editor-last2= Johnson
+ |editor-first2= Erlend
+ |editor-last3= Goodwin
+ |editor-first3= Whitney A.
+ |title= Southeastern Mesoamerica : indigenous interaction, resilience, and change
+ |date= 2021
+ |volume= 
+ |series=
+ |publisher= University Press of Colorado
+ |location= Louisville, Colorado
+ |edition= 1st
+ |url= https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/82605
+ |url-access=subscription
+ |oclc= 1226797442
+}}
+# {{cite book 
+ |editor-last1= Flemming
+ |editor-first1= Gregory N.
+ |title= At the point of a cutlass : the pirate capture, bold escape, and lonely exile of Philip Ashton
+ |date= 2014
+ |volume= 
+ |series=
+ |publisher= ForeEdge
+ |location= Lebanon, New Hamp.
+ |edition= 1st
+ |url= https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/36175
+ |url-access=subscription
+ |oclc= 890575626
+}}
+# {{cite book 
+ |last1= García
+ |first1= Claudio
+ |title= Etnogénesis, hibridación y consolidación de la identidad del pueblo miskitu
+ |date= 2007
+ |orig-date=
+ |volume= 
+ |series=Colección América ; 6
+ |publisher= Consejo Superior de Investigaciones Científicas
+ |location= Madrid
+ |edition= 
+ |hdl= 2027/mdp.39015026881832
+ |oclc= 227192774
+ |url= https://www-digitaliapublishing-com.ezp-prod1.hul.harvard.edu/a/13302
+ |url-access=subscription
+}}
+# {{cite book 
+ |last1= Gasteazoro
+ |first1= Carlos Manuel
+ |last2= Araúz
+ |first2= Calestino Andrés
+ |last3= Muñoz Pinzón
+ |first3= Armando
+ |title= Tabla cronológica : (de hechos históricos, políticos, sociales, económicos, culturales y científicos)
+ |date= 1980
+ |volume= 
+ |series=
+ |publisher= Lotería Nacional de Beneficencia
+ |location= Panamá
+ |edition= 1st
+ |hdl= 
+ |oclc= 12830207
+}}
+# {{cite book
+|editor-last1=Hakluyt
+|editor-first1=Richard
+|date= 1600
+|publisher= George Bishop, Ralfe Newberie, &amp; Robert Barker
+|location= London
+|title= The principal nauigations, voiages, traffiques and discoueries of the English nation made by sea or ouer-land, to the remote and farthest distant quarters of the earth, at any time within the compasse of these 1500. yeeres: deuided into three seuerall volumes, according to the positions of the regions, whereunto they were directed
+|volume= 3
+|oclc= 252871354
+|edition=2nd expanded
+|url=https://www.proquest.com/docview/2248550788
+|url-access=subscription
+}}
+# {{cite book 
+ |last1= Howgego
+ |first1= Raymond John
+ |series= Encyclopedia of exploration to 1800 : a comprehensive reference guide to the history and literature of exploration, travel, and colonization from the earliest times to the year 1800
+ |date= 1958
+ |volume= 
+ |title=To 1800: a comprehensive reference guide to the history and literature of exploration, travel, and colonization from the earliest times to the year 1800
+ |publisher= Hordern House
+ |location= Potts Point, N.S.W.
+ |edition= 1st
+ |hdl= 2027/mdp.49015002827245
+ |oclc=52377840
+}}
+# {{Cite ODNB
+|doi=10.1093/ref:odnb/8022
+|title= Drake, Sir Francis
+|last= Kelsey
+|first= Harry
+|url=https://doi-org.ezp-prod1.hul.harvard.edu/10.1093/ref:odnb/8022
+|url-access=subscription
+|date=23 September 2004
+}}
+# {{cite book 
+ |last1= Kupperman
+ |first1= Karen O.
+ |title= Providence Island, 1630-1641 :the other Puritan colony
+ |date= 1993
+ |orig-date=
+ |volume= 
+ |series=
+ |publisher= Cambridge University Press
+ |location= Cambridge
+ |edition= 
+ |hdl= 2027/heb.00270
+ |oclc= 958556236
+ |url= https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_proquest_ebookcentral_EBC4638466
+ |url-access=subscription
+}}
+# {{Cite ODNB
+|doi= 10.1093/ref:odnb/1387
+|title= Barker, Andrew
+|last= Laughton
+|first=J. K.
+|url= https://doi-org.ezp-prod1.hul.harvard.edu/10.1093/ref:odnb/1387
+|url-access=subscription
+|date=23 September 2004
+}}
+# {{cite book 
+ |editor-last1= Leyva
+ |editor-first1= Hector M.
+ |title= Documentos coloniales de Honduras
+ |date= 1991
+ |volume= 
+ |series= Colección Padre Manuel Subirana ; 3
+ |publisher= Centro de Publicaciones Obispado de Choluteca : Centro de Estudios Históricos y Sociales para el Desarrollo de Honduras
+ |location= Tegucigalpa, Honduras
+ |edition= 1st
+ |hdl= 2027/txu.059172118124095
+ |oclc= 26944467
+}}
+# {{Cite ODNB
+|doi= 10.1093/ref:odnb/21344
+|title= Parker, William
+|last= Makepeace
+|first= Margaret
+|url= https://doi-org.ezp-prod1.hul.harvard.edu/10.1093/ref:odnb/21344
+|url-access=subscription
+|date=23 September 2004
+}}
+# {{cite book 
+ |last1= Marley
+ |first1= David F.
+ |title= Wars of the Americas : a chronology of armed conflict in the New World, 1492 to the present
+ |date= 1998
+ |volume= 
+ |publisher= ABC-CLIO
+ |location= Santa Barbara, CA
+ |edition= 1st
+ |url=
+ |oclc= 39024726
+ |hdl= 2027/mdp.49015002845379
+}}
+# {{cite book 
+ |last1= Marley
+ |first1= David F.
+ |title= 1650-1685
+ |series= Pirates of the Americas
+ |date= 2010a
+ |volume= 1
+ |publisher= ABC-CLIO
+ |location= Santa Barbara, CA
+ |edition= 1st
+ |url=
+ |oclc= 436030697
+ |hdl= 
+}}
+# {{cite book 
+ |last1= Marley
+ |first1= David F.
+ |title= 1686-1725
+ |series= Pirates of the Americas
+ |date= 2010b
+ |volume= 2
+ |publisher= ABC-CLIO
+ |location= Santa Barbara, CA
+ |edition= 1st
+ |url=
+ |oclc= 436030697
+ |hdl= 
+}}
+# {{cite book 
+ |last1= Mayr
+ |first1= Renate J.
+ |title= Belize : tracking the path of its history : from the heart of the Maya Empire to a retreat for buccaneers, a safe-haven for ex-pirates and pioneers, a crown colony and a modern nation
+ |date= 2014
+ |orig-date=
+ |volume= 
+ |series=
+ |publisher= Münster
+ |location= Zürich
+ |edition= 
+ |hdl= 
+ |oclc= 870978569
+ |url=
+}}
+# {{Cite ODNB
+|doi=10.1093/ref:odnb/21057
+|title=Oxenham, John
+|last= McDermott
+|first=James
+|url=https://doi-org.ezp-prod1.hul.harvard.edu/10.1093/ref:odnb/21057
+|url-access=subscription
+|date=23 September 2004
+}}
+# {{cite book 
+ |last1= McDonald
+ |first1= Kevin P.
+ |title= Pirates, Merchants, Settlers, and Slaves: Colonial America and the Indo-Atlantic World
+ |date= 2015
+ |orig-date=First published 1967 by Weidenfeld &amp; Nicolson
+ |volume= 
+ |series= California World History Library
+ |publisher= University of California Press
+ |location= Berkeley, Calif.
+ |edition= 
+ |hdl= 
+ |oclc= 903014524
+ |url= https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/41220
+ |url-access= subscription
+}}
+# {{cite journal
+ |last1= Mihok
+ |first1= Lorena D.
+ |date= 2014
+ |title= Miskitu Labor and English Royalization at Augusta, Roatán Island, Honduras
+ |jstor=
+ |url= https://link-springer-com.ezp-prod1.hul.harvard.edu/article/10.1007/s10761-013-0248-8
+ |url-access=subscription
+ |journal= International Journal of Historical Archaeology
+ |series=
+ |issn=
+ |doi= 10.1007/s10761-013-0248-8
+ |volume= 18
+ |issue= sn
+ |pages= 100–121
+|s2cid= 162261348
+ }}
+# {{cite book 
+ |last1= Naylor
+ |first1= Robert A.
+ |title= Penny ante imperialism : the Mosquito Shore and the Bay of Honduras, 1600-1914 : a case study in British informal empire
+ |date= 1989
+ |orig-date=
+ |volume= 
+ |series=
+ |publisher= Fairleigh Dickinson University Press : Associated University Presses
+ |location= Rutherford, NY, &amp; London
+ |edition= 
+ |hdl= 2027/txu.059173018680090
+ |oclc= 17505939
+ |url= 
+}}
+# {{cite book 
+ |last1= Newson
+ |first1= Linda A.
+ |title= The cost of conquest : Indian decline in Honduras under Spanish rule
+ |date= 1986
+ |orig-date=
+ |volume= 
+ |series= Dellplain Latin American studies ; no. 20
+ |publisher= Westview Press
+ |location= Boulder, Col.
+ |edition= 
+ |doi= 10.4324/9780429309816
+ |isbn= 9780429309816
+ |s2cid= 246498390
+ |oclc= 14943017
+ |url= https://revistas.ucr.ac.cr/index.php/anuario/article/view/2860
+ |url-access=
+}}
+# {{cite book 
+ |last1= Newton
+ |first1= Arthur P.
+ |title= The colonising activities of the English Puritans : the last phase of the Elizabethan struggle with Spain
+ |date= 1914
+ |orig-date= 
+ |volume= 
+ |series= Yale historical publications. Miscellany ; 1
+ |publisher= Yale University Press
+ |location= New Haven, Conn.
+ |edition= New
+ |hdl= 2027/hvd.32044014678932
+ |oclc= 576326640
+ |ol= 7197762M
+ |url=http://www.llmcdigital.org.ezp-prod1.hul.harvard.edu/default.aspx?redir=31970
+ |url-access=subscription
+}}
+# {{cite book 
+ |last1= Newton
+ |first1= Arthur P.
+ |title= The colonising activities of the English Puritans : the last phase of the Elizabethan struggle with Spain
+ |date= 1966
+ |orig-date= First published 1914 by Yale
+ |volume= 
+ |series=
+ |publisher= Kennikat Press
+ |location= Port Washington, New York
+ |edition= New
+ |hdl= 2027/mdp.39015050958951
+ |oclc= 503412
+ |url=
+}}
+# {{cite book 
+ |last1= Panton
+ |first1= Kenneth J.
+ |title= Historical dictionary of the British Empire
+ |date= 2015
+ |orig-date= 
+ |volume= 
+ |series= Historical dictionaries of ancient civilizations and historical eras
+ |publisher= Rowman &amp; Littlefield
+ |location= Lanham [Maryland], Boulder [Col.], New York, London
+ |edition= 1st
+ |hdl= 
+ |oclc= 896601190
+ |url=
+}}
+# {{cite book 
+ |last1= RAH
+ |title= Tomo 1
+ |date= 1954
+ |volume= 1
+ |series=Catálogo de la colección de don Juan Bautista Muñoz
+ |publisher= Real Academia de la Historia
+ |location= Madrid
+ |edition= 1st
+ |url= https://www.google.com/books/edition/Catálogo_de_la_colección_de_D_Juan_Bau/P3EC_J_obAEC
+ |oclc= 2192702
+}}
+# {{cite book 
+ |editor-last1= Reyes Mazzoni
+ |editor-first1= Roberto
+ |editor-last2= Sevilla Sacasa
+ |editor-first2= Marcela
+ |title= Colón y la Costa Caribe de Centroamérica : V centenario, 1502-2002
+ |date= 2002
+ |volume= 
+ |series= Colección cultural de Centro América ; Serie histórica ; 14
+ |publisher= Fundación Vida
+ |location= Managua, Nic.
+ |edition= 1st
+ |url= http://williamvdavidson.com/publications
+ |oclc= 645669088
+ |hdl= 2027/txu.059173011635326
+}}
+# {{cite book 
+ |last1= Roper
+ |first1= Louis H.
+ |title= Advancing empire : English interests and overseas expansion, 1613-1688
+ |date= 2017
+ |orig-date=
+ |volume= 
+ |series=
+ |publisher= Cambridge University Press
+ |location= New York
+ |edition= 
+ |doi= 10.1017/9781316340493
+ |isbn= 9781316340493
+ |oclc= 982092002
+ |url= 
+}}
+# {{cite book 
+ |last1= Rubio Sánchez
+ |first1= Manuel
+ |title= Tomo I
+ |date= 1975a
+ |orig-date=
+ |volume= 1
+ |series= Historia del puerto de Trujillo
+ |publisher= Banco Central de Honduras
+ |location= Tegucigalpa, Hond.
+ |edition= 
+ |hdl= 2027/txu.059173017257425
+ |oclc= 2086667
+ |url= 
+}}
+# {{cite book 
+ |last1= Rubio Sánchez
+ |first1= Manuel
+ |title= Tomo II
+ |date= 1975b
+ |orig-date=
+ |volume= 2
+ |series= Historia del puerto de Trujillo
+ |publisher= Banco Central de Honduras
+ |location= Tegucigalpa, Hond.
+ |edition= 
+ |hdl= 2027/txu.059173017257447
+ |oclc= 2086667
+ |url= 
+}}
+# {{cite book 
+ |last1= Rubio Sánchez
+ |first1= Manuel
+ |title= Tomo III
+ |date= 1975c
+ |orig-date=
+ |volume= 3
+ |series= Historia del puerto de Trujillo
+ |publisher= Banco Central de Honduras
+ |location= Tegucigalpa, Hond.
+ |edition= 
+ |hdl= 2027/txu.059173017257414
+ |oclc= 2086667
+ |url= 
+}}
+# {{cite book 
+|editor-last1=Sainsbury 
+|editor-first1=W. Noel
+|title=1574-1660
+|series= Calendar of State Papers Colonial, America and West Indies
+|date= 1860
+|orig-date=
+|volume= 1
+|publisher=Her Majesty's Stationery Office
+|location=London
+|url= https://www.british-history.ac.uk/cal-state-papers/colonial/america-west-indies/vol1
+|url-access=
+|hdl=
+|edition=1st
+|oclc= 456586992
+|isbn=
+}}
+# {{cite web
+ |url= http://hdl.handle.net/10261/52937
+ |title= Cronología general del Caribe (hasta 1899)
+ |last= Santamaría García
+ |first= Antonio
+ |date= 2012
+ |website= Artículos de la Escuela de Estudios Hispano-Americanos
+ |publisher= Consejo Superior de Investigaciones Científicas
+ |hdl= 10261/52937
+ |access-date= 11 May 2022
+ |quote=
+}}
+# {{cite book 
+ |editor-last1= Sevilla Sacasa
+ |editor-first1= Marcela
+ |editor-last2= Incer Barquero
+ |editor-first2= Jaime
+ |title= Colón y la costa Caribe de Centroamérica
+ |date= 2002
+ |volume= 
+ |series= Colección cultural de Centroamérica. Serie Histórica ; no. 14
+ |publisher= Fundación Vida
+ |location= Managua, Nicaragua
+ |edition= 1st
+ |hdl= 2027/txu.059173011635326
+ |url-access=
+ |oclc= 51907197
+}}
+# {{cite book 
+ |editor-last1= Skowronek
+ |editor-first1= Russell K.
+ |editor-last2= Ewen
+ |editor-first2= Charles R.
+ |title= X marks the spot : the archaeology of piracy
+ |date= 2006
+ |volume= 
+ |series= New perspectives on maritime history and nautical archaeology
+ |publisher= University Press of Florida
+ |location= Gainesville, Fl.
+ |edition= 1st
+ |hdl= 2027/uc1.31822035209816
+ |oclc= 61821886
+}}
+# {{Cite ODNB
+|doi= 10.1093/ref:odnb/2958
+|title= Butler [Boteler], Nathaniel
+|last= Thrush
+|first= Andrew
+|url= https://doi-org.ezp-prod1.hul.harvard.edu/10.1093/ref:odnb/2958
+|url-access=subscription
+|date=23 September 2004
+}}
+# {{cite book 
+|last1= Uring
+|first1= Nathaniel
+|title= A history of the voyages and travels of Capt. Nathaniel Uring. With new draughts of the Bay of Honduras and the Caribbee Islands; and particularly of St. Lucia, and the Harbour of Petite Carenage; into which Ships may run in bad Weather, and be safe from all Winds and Storms. Very useful for Masters of Ships that use the Leeward Island Trade, or Jamaica
+|date= 1726
+|publisher= Printed by W. Wilkins, for J. Peele
+|location= London
+|edition= 1st
+|url= https://link.gale.com/apps/doc/CW0100827679/ECCO?u=camb55135&amp;sid=bookmark-ECCO&amp;xid=93c13f09&amp;pg=1
+|url-access= subscription
+|oclc= 85795208
+}}
+# {{cite book 
+ |last1= Williamson
+ |first1= James A.
+ |title= Sir John Hawkins : the time and the man
+ |date= 1927
+ |volume= 
+ |publisher= Clarendon Press
+ |location= Oxford
+ |edition= 1st
+ |url=
+ |oclc= 3075296
+ |hdl= 2027/mdp.39015027905218
+}}
+# {{cite book 
+ |last1= Williamson
+ |first1= James A.
+ |title= The age of Drake
+ |date= 1938
+ |volume= 
+ |publisher= Adam and Charles Black
+ |location= London
+ |edition= 1st
+ |url=
+ |oclc= 1421005
+ |hdl= 2027/mdp.39015014588183
+}}
+# {{cite book 
+|last1= Winzerling
+|first1= E. O.
+|title= Beginning of British Honduras, 1506-1765
+|date= 1946
+|publisher= North River Press
+|location= New York
+|edition= 1st
+|url= https://dloc.com/UF00099216/00001
+|oclc= 1892890
+}}
+# {{cite book 
+ |editor-last1= Wright
+ |editor-first1= Irene A.
+ |title= Spanish documents concerning English voyages to the Caribbean, 1527-1568
+ |date= 1929
+ |volume= 
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 62
+ |publisher= Printed for the Hakluyt Society
+ |location= London
+ |edition= 1st
+ |url= 
+ |oclc= 2092435
+}}
+# {{cite book 
+ |editor-last1= Wright
+ |editor-first1= Irene A.
+ |title= Documents concerning English voyages to the Spanish main, 1569-1580
+ |date= 1932
+ |volume= 
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 71
+ |publisher= Printed for the Hakluyt Society
+ |location= London
+ |edition= 1st
+ |url= https://archive.org/details/dli.ministry.01751/
+ |oclc= 1476408
+ |hdl= 2027/mdp.39015012306133
+}}
+# {{cite book 
+ |editor-last1= Wright
+ |editor-first1= Irene A.
+ |title= Further English voyages to Spanish America, 1583-1594 : documents from the Archives of the Indies at Seville illustrating English voyages to the Caribbean, the Spanish Main, Florida, and Virginia
+ |date= 1951
+ |volume= 
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 99
+ |publisher= Printed for the Hakluyt Society
+ |location= London
+ |edition= 1st
+ |hdl= 2027/mdp.39015026881790
+ |oclc= 1476734
+}}
+{{refend}}
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+{{authority control}}</text>
+      <sha1>99q89em1spk38zmnk6m6pyiyuf1ici9</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,151 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Draft:Template:History of Belize</title>
+    <ns>118</ns>
+    <id>71083237</id>
+    <revision>
+      <id>1094072201</id>
+      <parentid>1094071088</parentid>
+      <timestamp>2022-06-20T15:36:28Z</timestamp>
+      <contributor>
+        <username>Asdfjrjjj</username>
+        <id>41985887</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3608" xml:space="preserve">{{AfC submission|t||ts=20220620152050|u=Asdfjrjjj|ns=118|demo=}}&lt;!-- Important, do not remove this line before article has been created. --&gt;
+{{{{#if:{{{bar|}}}|Navbox|Sidebar with collapsible lists}}
+|name  = History of Belize
+|bodyclass = vcard
+|wraplinks = true
+|title = {{#if:{{{bar|}}}
+ |&lt;!-- if bar --&gt;[[History of Belize]]
+ |&lt;!-- else --&gt;{{region history sidebar title
+   | country   = Belize
+   | image     = [[File:Map of British Honduras - NARA - 131043710.jpg|170px]]}}
+ }}&lt;!-- end if --&gt;
+
+| image     = {{#if:{{{bar|}}}|[[File:Royal Arms of England (1198-1340).svg|75px|Coat of Arms of England]]}}
+
+| listtitlestyle = background:#eee; text-align:center;
+| state = {{{state&lt;includeonly&gt;|collapsed&lt;/includeonly&gt;}}}
+
+|{{#if:{{{bar|}}}|group1|list1title}} = [[Timeline of Belizean history|Timeline]]
+|list1 = &lt;div {{#if:{{{bar|}}}|class="hlist"|style="text-align:left"}}&gt;
+* [[Prehistoric Britain]]
+* [[Roman Britain]]
+* [[Sub-Roman Britain]]
+* [[England in the Middle Ages|Medieval period]]
+** [[Economy of England in the Middle Ages|Economy in the Middle Ages]]
+** [[History of Anglo-Saxon England|Anglo-Saxon period]]
+***[[History of Anglo-Saxon England#English_unification_.2810th_century.29|English unification]]
+** [[England in the High Middle Ages|High Middle Ages]]
+***[[Norman Conquest]]
+*** [[History of England#Norman England|Norman period]]
+** [[England in the Late Middle Ages|Late Middle Ages]]
+*** [[Black Death in England]]
+* [[Tudor period]]
+**[[House of Tudor]]
+**[[Elizabethan era]]
+**[[English Renaissance]]
+* [[Stuart period]]
+** [[English Civil War]]
+** [[Commonwealth of England|Commonwealth]]
+** [[The Protectorate|Protectorate]]
+** [[Stuart Restoration|Restoration]]
+** [[Glorious Revolution]]
+*[[Georgian era]]
+**[[Regency era]]
+* [[Victorian era]]
+* [[Edwardian era]]
+* [[History of the United Kingdom during the First World War|First World War]]
+* [[History_of_the_United_Kingdom#Interwar_era_1918–1939|Interwar period]]
+* [[History_of_the_United_Kingdom#Second_World_War_1939–1945|Second World War]]
+* [[Social history of Postwar Britain (1945–1979)]]
+* [[Political history of the United Kingdom (1979–present)]]
+&lt;/div&gt;
+|{{#if:{{{bar|}}}|group2|list2title}} = Topics
+|list2=&lt;div {{#if:{{{bar|}}}|class="hlist"|class="plainlist"}}&gt;
+* [[English overseas possessions]]
+* [[English society]]
+* [[History of education in England]]
+* [[History of English]]
+* [[History of monarchy in the United Kingdom]]
+* [[Economy_of_England#History|History of the economy of England]]
+* [[Politics_of_England#Political_history|History of the politics of England]]
+&lt;/div&gt;
+|{{#if:{{{bar|}}}|group3|list3title}} = Polities
+|list3=&lt;div {{#if:{{{bar|}}}|class="hlist"|class="plainlist"}}&gt;
+* [[Bacalar District|Bacalar]]
+* Settlement
+* Colony
+&lt;/div&gt;
+|{{#if:{{{bar|}}}|group4|list4title}} = [[Districts of Belize|By district]]
+|list4 = {{flatlist|
+* [[History of Corozal|Corozal]]
+* [[History of Orange Walk|Orange Walk]]
+* [[History of Cayo|Cayo]]
+* [[History of Belize|Belize]]
+* [[History of Stann Creek|Stann Creek]]
+* [[History of Toledo|Toledo]]
+}}
+|{{#if:{{{bar|}}}|group5|list5title}} =[[List of municipalities in Belize|By city or town]]
+|list5  = {{flatlist|
+* [[History of Belize|Belize]]
+* [[History of Belmopan|Belmopan]]
+* [[History of Corozal|Corozal]]
+* [[History of San Pedro|San Pedro]]
+* [[History of Orange Walk|Orange Walk]]
+* [[History of Cayo|Cayo]]
+* [[History of Dangriga|Dangriga]]
+* [[History of Punta Gorda|Punta Gorda]]
+}}
+|belowstyle = {{#if:{{{bar|}}}|font-weight:bold}}
+|below = {{portal-inline|Belize|size=tiny}}
+
+}}&lt;noinclude&gt;
+{{documentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>j18k4lr0gry4jucpurq810ahv6nsyhf</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,109 @@
+Table 1
+Start	Type	Subtype	R Deaths	Multiplier	Multiplier	Multiplier	Adder	E Deaths	
+1701	Anthropological	Raid		0	0	0		0	
+1715	Natural	Famine		180	0.7	0.03		4	
+1716	Anthropological	Raid		0	0	0		0	
+1717	Anthropological	Raid		0	0	0		0	
+1723	Anthropological	Raid		0	0	0		0	
+1723	Technological	Wreck		0	0	0		0	
+1725	Anthropological	Engagement		0	0	0		0	
+1725	Technological	Wreck		0	0	0		0	
+1725	Anthropological	Engagement		3	13	0.8		31	
+1726	Anthropological	Engagement		0	0	0		0	
+1728	Anthropological	Engagement		0	0	0		0	
+1729	Anthropological	Raid		0	0	0		0	
+1730	Anthropological	Engagement		0	0	0		0	
+1731	Anthropological	Engagement	2					2	
+1732	Technological	Wreck		0	0	0		0	
+1733	Technological	Wreck		0	0	0		0	
+1737	Biological	Outbreak		372	0.4	0.03	7.8	12	
+1737	Anthropological	Engagement		0	0	0		0	
+1739	Anthropological	Raid		0	0	0		0	
+1747	Anthropological	Raid		0	0	0		0	
+1751	Anthropological	Raid		0	0	0		0	
+1754	Anthropological	Raid		0	0	0		0	
+1755	Anthropological	Resettlement		0	0	0		0	
+1765	Anthropological	Riot	4				4	8	
+1770	Anthropological	Riot		"1,646"	0.1	0.1		16	
+1771	Natural	Famine	80000					80000	
+1772	Anthropological	Engagement	1					1	
+1773	Anthropological	Engagement		"1,773"	0.7	0.03		37	
+1773	Anthropological	Riot	4					4	
+1775	Anthropological	Engagement		"1,858"	0.7	0.03		39	
+1779	Anthropological	Engagement	2					2	
+1779	Anthropological	Engagement	4					4	
+1780	Anthropological	Engagement		0	0	0		0	
+1784	Natural	Storm		0	0	0		0	
+1785	Biological	Outbreak		"2,123"	0.3	0.03		19	
+1785	Natural	Storm	7					7	
+1787	Anthropological	Riot		0	0	0		0	
+1787	Natural	Storm	143					143	
+1788	Biological	Outbreak	50				100	150	
+1789	Technological	Wreck		13	1	1		13	
+1792	Natural	Flooding			0.7	0.03			
+1794	Anthropological	Engagement	5					5	
+1798	Hostile	Engagement		0	0	0		0	
+1812	Natural	Storm		0	0	0		0	
+1813	Natural	Storm		0	0	0		0	
+1823	Biological	Outbreak	155					155	
+1824		Engagement		15	1	1		15	
+1830	Biological	Outbreak	4					4	
+1831	Natural	Storm	1					1	
+1835	Technological	Wreck	13					13	
+1842	Technological	Wreck	1					1	
+1852	Natural	Flooding	9				3	12	
+1854	Biological	Outbreak	230					230	
+1854	Technological	Fire		0	0	0		0	
+1856	Technological	Fire		0	0	0		0	
+1857	Biological	Outbreak			0.4	0.005			
+1860	Biological	Outbreak			0.8	0.003			
+1863	Anthropological	Riot	2					2	
+1863	Technological	Fire	2					2	
+1864	Natural	Gales		0	0	0		0	
+1864	Natural	Flooding		0	0	0		0	
+1866	Anthropological	Raid	0					0	
+1866	Anthropological	Engagement	5					5	
+1866	Anthropological	Raid	2					2	
+1867	Anthropological	Raid	0					0	
+1867	Anthropological	Raid	0					0	
+1867	Anthropological	Raid	3					3	
+1867	Biological	Outbreak	580					580	
+1868	Anthropological	Raid	0					0	
+1872	Anthropological	Raid	1					1	
+1872	Anthropological	Raid	2					2	
+1886	Biological	Outbreak	68					68	
+1892	Technological	Wreck	9					9	
+1892	Technological	Wreck	21					21	
+1894	Anthropological	Riot	0					0	
+1905	Biological	Outbreak	8					8	
+1914	Anthropological	Engagement	53					53	
+1918	Biological	Outbreak	1014					1014	
+1918	Technological	Fire	1					1	
+1921	Biological	Outbreak	4					4	
+1923	Technological	Wreck	20					20	
+1931	Technological	Fire	0					0	
+1931	Natural	Storm	2500					2500	
+1932	Technological	Fire	0					0	
+1939	Anthropological	Engagement	10					10	
+1950	Anthropological	Riot	0					0	
+1953	Technological	Fire	1					1	
+1955	Natural	Storm	16					16	
+1961	Natural	Storm	307					307	
+1970	Technological	Wreck	4					4	
+1974	Natural	Storm	1					1	
+1978	Natural	Storm	4					4	
+1981	Anthropological	Riot	5					5	
+1986	Biological	Outbreak	1753					1753	
+1997	Technological	Wreck	22					22	
+1998	Natural	Storm	9					9	
+2000	Natural	Storm	19					19	
+2001	Natural	Storm	24					24	
+2005	Natural	Storm	3					3	
+2008	Natural	Flooding	5					5	
+2008	Natural	Storm	5					5	
+2009	Biological	Outbreak	1					1	
+2010	Natural	Storm	1					1	
+2017	Anthropological	Wreck	0					0	
+2017	Technological	Wreck	1					1	
+2019	Technological	Wreck	2					2	
+2019	Biological	Outbreak	277					277	

@@ -1,0 +1,32 @@
+Table 1
+Payscale Number	Minimum	Increments	Maximum	Description				
+30	"65,014"	"1,644"	"91,318"	Chief Justice				
+29	"62,530"	"1,644"	"88,834"	Financial Secretary	Minister Advisor			
+28	"60,021"	"1,644"	"86,325"	Director of Public Prosecutions	Justice of the Supreme Court	Puisne Judge	Solicitor General	
+27	"57,524"	"1,644"	"83,828"	Cabinet Secretary	Deputy Financial Secretary			
+26	"50,133"	"1,644"	"81,369"	Ambassador	Auditor General	Consular	National Emergency Coordinator	Clerk of National Assembly
+25	"47,624"	"1,644"	"78,860"					
+24	"42,000"	"1,644"	"73,236"	Teacher				
+23	"40,615"	"1,644"	"71,851"	MD				
+22	"39,206"	"1,644"	"70,442"					
+21	"38,106"	"1,644"	"69,342"					
+20	"35,770"	"1,644"	"67,006"					
+19	"34,979"	"1,446"	"62,453"					
+18	"32,470"	"1,409"	"59,241"					
+17	"32,186"	"1,360"	"58,026"					
+16	"30,171"	"1,310"	"55,061"	Teacher				
+15	"29,689"	"1,187"	"52,242"					
+14	"27,403"	"1,137"	"49,006"					
+13	"23,670"	"1,063"	"43,867"					
+12	"22,557"	"1,014"	"41,823"					
+11	"21,445"	989	"40,236"					
+10	"20,407"	976	"38,951"					
+9	"20,024"	964	"38,340"					
+8	"19,641"	952	"37,729"					
+7	"17,675"	902	"34,813"					
+6	"15,117"	865	"31,552"					
+5	"13,152"	791	"28,181"					
+4	"11,928"	729	"25,779"	Librarian				
+3	"10,902"	692	"24,050"					
+2	"9,740"	606	"21,254"					
+1	"8,059"	531	"18,148"					

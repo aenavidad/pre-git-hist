@@ -1,0 +1,31 @@
+Table 1
+Sheet	Column	Source	Notes
+Storms	Name	US NOAA National Hurricane Centre. US NOAA National Centres for Environmental Information.	U = “unnamed” or “not named”
+	Start		
+	150 mi		
+	50 mi		
+	0 mi		
+	Max wind		
+	Min press		-1 = missing data
+	Max cat w/in		
+Storms	Parliament	GB / UK War & Colonial Office / Colonial Office / Commonwealth Office / Foreign & Commonwealth Office. GB / UK House of Commons. GB / UK Board of Trade & Plantations / Board of Trade.	Public Meeting counted as first Parliament. Legislative Council counted as one Parliament.
+Storms	EM-DAT	Belgium Université catholique de Louvain Centre for Research on the Epidemiology of Disasters 	1 = yes
+	EM-DAT Loss		Figures in current currency
+	EM-DAT Deaths		
+Storms	Loss	Belgium Université catholique de Louvain Centre for Research on the Epidemiology of Disasters. Belize NEMO. World Bank “Advancing Disaster Risk Finance in Belize” 2018 by Ishizawa & Gunasekera et al. US NOAA National Hurricane Centre.	Figures in current currency
+	Deaths		
+Trade + GDP	Imports	GB / UK War & Colonial Office / Colonial Office / Commonwealth Office / Foreign & Commonwealth Office. GB / UK House of Commons. GB / UK Board of Trade & Plantations / Board of Trade. British Honduras / Belize Government Gazette.	Figures in current currency
+	Import units		
+	Exports		Figures in current currency
+	Export units		
+	GDP	World Bank.	Figures in current currency
+CPI	US	US Bureau of Labour Statistics.	1967 = 100
+	UK	UK Office for National Statistics.	1974 = 100. CPI for 2020 excludes December.
+	Belize	Belize Statistical Institute of Belize.	2011 = 100. CPI for 2020 excludes November and December.
+FX	S$ to Lsd	GB / UK War & Colonial Office / Colonial Office / Commonwealth Office / Foreign & Commonwealth Office. GB / UK House of Commons. GB / UK Board of Trade & Plantations / Board of Trade.	S$ = Spanish dollar
+	G$ to Lsd		G$ = US gold dollar
+	USD to GBP	"EU European Central Bank. US Federal Reserve. UK Bank of England. via FXTOP sarl, France."	
+	Lsd to BHD	"GB / UK War & Colonial Office / Colonial Office / Commonwealth Office / Foreign & Commonwealth Office. GB / UK House of Commons. GB / UK Board of Trade & Plantations / Board of Trade; Sir J.A. Burdon, Archives v 3, p. 318"	BHD = British Honduras dollar
+	USD to BHD		BHD = British Honduras dollar
+Population	Censuses	GB / UK War & Colonial Office / Colonial Office / Commonwealth Office / Foreign & Commonwealth Office. GB / UK House of Commons. GB / UK Board of Trade & Plantations / Board of Trade. 	
+	Estimates	"Author’s estimates from census data prior to 1960. World Bank beginning in 1960. Prior to 1841 = “The Growth and Development of Belize City” J.C. Everitt 2009; “British Honduras: The invention of a colonial territory” Odile Hoffmann 2014; The Diplomatic history of British Honduras, 1638-1901 by Robert Arthur Humphreys ; Belize SIB; Savanna-la-Mar Gazette (Jamaica) 15 Jul 1788 p. 3"	

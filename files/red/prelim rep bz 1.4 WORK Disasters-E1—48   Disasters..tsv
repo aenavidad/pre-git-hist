@@ -1,0 +1,231 @@
+E1—48 / Disasters.
+ID	ALT ID	NAME	BEG	END	FT	FT	DESCRIPTION	NOTE	Lives	Lives +	Assume	£ List	£	Assume	Held	Assume	Cf	Moved	Craft / Cargo	Assume	Cf	Property	Trade	Prov	Cost		
+E27	Crs 1	Alien Logging	Feb 1767	Dec 1770	 	Fr Du	French and Dutch loggers within Settlement.					"8,100 Log"	"J£ 40,500"	"36 m foreign logging
+5 gangs of 15"								? logged by Fr Du loggers					
+E26	Crs 2	Spanish Asylum	Jan 1766		Sp	 	Yucatan offers asylum to slaves who cross the Hondo and convert to Catholicism.		min 1			270 Log	"J£ 1,350"					"c 53 + £ 10,000 Neg refugees exit / Sp return 47"				min 1 house robbed					
+E35	Crs 3	Spanish Panic	Feb 1785		Sp	 	Baymen panic.											"New, Hondo for 1 t 4 m / ? Neg refugees exit"				"New, Hondo houses, stock lost"		Prov scarce for > 5 m			
+E37	Crs 4	Despard	Jun 1787	Apr 1791	 	 	Mosquito Shore evacuees enter Settlement.  Civil unrest.  Government crisis.  Market destabilised.								sev turtlers for ? m							all plantain walks destroyed twice / all fished turtles seized once / much unrest for ? m twice	shipping v scarce for min 24 m / [price crash likely]	Prov v scarce for ? m twice			
+E22	Crs 5	Hondo Prohibition	Dec 1763	Mar 1765	Sp	 	Yucatan prohibits logging along northern rivers.						"£ 27,097.5"					"New, Hondo for 12 m = part of £ 26,794.5"				"part of £ 26,794.5"			£ 303		
+E24	Fin 1	Logwood Exhaustion	Jun 1765		 	 	Significant scarcity of logwood.					"6,750 Log
+225 Log"	"J£ 34,875"										Log v scarce for min 15 m	Prov v scarce for min 6 m			
+E5	Hos 1	First Offensives	Jan 1696	Mar 1701	Sp	 	Yucatan launches 3 military campaigns against Baymen.		sev	3 t 5	"sev = .01 t .02 of population
+250 population"	"13.125 Log
+6,750 Log"	"J£ 33,815.625"	"0.25 m wage = 1 hut
+1 hut per 10 population
+0.75 destruction rate
+9 m total expulsion
+250 pop
+3.75 ton per m per man
+0.2 loss Log per m
+J£ 5 per ton Log"				Hon for < 12 m thrice				c ? huts					
+E31	Hos 10	Arms Raids	Jan 1773	Sep 1773	 	Ma	Maya assault or raid various houses in Settlement.		sev			"2,025 t 2,700 Log"	"J£ 10,125 t 13,500"	"sev = 10
+some = 5
+rob = 0.5 house worth"								some houses burnt / some to sev houses robbed					
+E41	Hos 11		Nov 1793	Nov 1793	 	Ma	Maya assault or raid Baymen. Baymen engage.		4																		
+E29	Hos 12	Naismith Raid	Jul 1767	Jul 1767	 	Ma	Maya assault or raid Capt. Naismith’s house.		1			270 Log	"J£ 1,350"									1 house robbed					
+E1	Hos 13	Tortuga Raids	Jan 1639	Oct 1654	 	Bu Ma	"Buccaneers raid Bacalar and Maya hamlets along our coast, and enslave Maya captives."		1 t 4	77 t 140	"1 in 3 Ma fm Yuc taken fm Hon
+All Ma not found died"	"1,733.33 t 2,888.89 reales
+17,333.33 t 28,888.89 reales
+34,666.67 t 57,777.78 reales
+4,500 t 6,000 ducados
+12,000 t 16,000 pesos
+1,386.67 reales"	"Sp $ 25,093.70 t 35,639.38"	"6 m for 1/3 Ma / 5 yr for 1/3 Ma / 10 for 1/3 Ma
+Ea Ma is head of fam
+0 Ma craft taken
+26 t maize per Ma hamlet
+1 carga = 300 lbs / 1 t = 2000 lbs
+1 real = 1/8 Sp dollar
+1 peso = 1 Sp dollar
+1 ducado = 1.3786 Sp dollar"	300 t 500 Ma fm Yuc [st Sp found 70 t 80 on 9 Feb 1654] for c ? m / c ? fm Bac for c 2 m	"2.6 t maize per yr
+family size = 5
+2 reales per carga maize"	"UW 2020
+WGF 2017"	Bac for c 2 m	3 t 4 Sp / ? Ma	"50 t per craft
+30 ducados per ton"	CWM 2002	"12 t 16,000 pesos fm Bac / ? fm 4 Ma hamlets"					
+E9	Hos 14	Second Offensives	Sep 1722	Apr 1725	Sp	 	Yucatan launches 3 military campaigns against Baymen.  Royal Navy seizes Spanish privateer.					"£ 444.42
+4,500 Log
+£ 2,100 t 3,000
+37.5 Log"	"£ 2,544.42 t 3,444.42
+J£ 22,687.5"	"3 m impression per man
+20 working days per m
+only sailors impressed
+3 m total expulsion
+some = 2 t 5 craft
+0.5 m wage = 1 rancho
+1 rancho per 10 population
+500 population
+"	50 for ? m	"14.814 p per day [crew]
+J£ 5 per ton
+3.75 ton per m per man"	"BOE
+Lon 1700
+CO 5/119 I
+Lon 1809"	Hon for ? m	5 + some			all ranchos burnt twice					
+E10	Hos 16	African Slavery	Jan 1724	Jul 1838	 	Af Du Fr Po	Baymen partake in enslavement of African captives.				"No deaths on journey fm Jam
+No direct importation"	"138,600 Log
+223,300 Log
+250,800 Log
+475,200 Log"	"J£ 3,987,500"	"11 working m per year
+0.7 of pop = slave to 1790
+0.5 women slaves fm 1790 at 1/3 male wage
+0.6 of pop = slave to 1838
+500 pop to 1760
+1,000 pop to 1790
+3,000 pop to 1810
+4,000 pop to 1838
+J£ 5 per t to 1790 / J£ 3 after"	? for c ? m / [st ? died]	"1 ton Log per m per man c 1770s / J£ 40 d Saturday labour < 1800s
+J£ 5 per ton < 1780s / J£ 3 per ton > 1780s ?
+J£ 15 per 1,000 ft c 1780s / J£ 16 to 30 [per 1,000 ft, likely] c 1800s"	"Lon 1700
+Lon 1893
+Lon 1809"										
+E38	Hos 17	Mosquito Slavery	Jun 1787			Mos	Baymen partake in enslavement of Amerindian captives.								? for c ? m												
+E4	Hos 18	Modyford Offensives	Jan 1661	Jul 1670	Sp	Bu	Governor of Jamaica encourages piracy against Spanish.		?														?				
+E7	Hos 2	Golden Age of Piracy	Jan 1718	Feb 1725	Sp	Pir	Various pirates assault merchant or passenger ships in our waters.		60 t 72			"£ 314.24
+£ 15,900 t 21,900"	"£ 16,214.24 t 22,214.24"	"3 m impression per man
+20 working days per m
+15 men per crew"	m 6 men + 2 crews impressed for ? m	14.548 p per day	BOE		53 t 73	"100 t per craft
+£ 30 per ton"	Lon 1742						
+E13	Hos 3	Bacalar Offensives	Nov 1728	Feb 1733	Sp	 	"Yucatan rebuilds, resettles and fortifies Bacalar, launches at least 3 military campaigns against Baymen, and lays siege to our Settlement."		2 + sev	5 t 15	"sev = .01 t .03 of population
+500 population"	"576 Log
+114,750 Log
+£ 294,000 t 300,000
+J£ 28,000
+32 Log
+12,122.5 t 16,122.5 Log"	"J£ 665,402.50 t 685,402.50
+£ 294,000 t 300,000"	"only loggers held
+3 m imprisonment per man
+>> sev = .05 pop
+500 pop
+sev = 3 t 5 craft
+all = 1/3 of 140 flats
+1 Pila = 0.5 t Log
+sev = 0.5 of 32 ranchos"	39 + >> sev for ? m	15.086 p per day	BOE	Hon for 76.5 m	c 95 + sev twice / c 140 flats + all once	"5 t per flat
+J£ 30 per ton"		"32 + sev twice ranchos / 12 t 16,000 ton = 300,000 quintals + 245 Pilas Log"					
+E14	Hos 4	Jenkins’ Offensives	Sep 1734	Oct 1739	Sp	 	Yucatan lays siege to our Settlement.		7			"£ 438.08
+£ 69,000 t 72,000
+1,050 t 2,100 Log
+1,500 Log"	"£ 69,438.08 t 72,438.08
+J£ 12,750 t 15,750"	"only crew held for 3 m
+scarce = 0.5 logging cap
+500 pop
+sev = 1 m Log of 0.7 Hon
+>> sev = 2 m Log output of 0.7 Hon"	3 t 4 + 3 crews imprisoned for ? m	15.211 p per day	BOE		23 t 24			sev t >> sev Log burnt	Log scarce for min 2 m				
+E18	Hos 5	Amphibious Siege	May 1750	Sep 1754	Sp	 	"Yucatan lays siege to our Settlement. Yucatan, Cuba and Guatemala launch at least 6 military campaigns against Baymen.  Baymen and Mosquito allies raid Bacalar."		2			"£ 138.36
+1,845 Log
+J£ 100
+46,500 Log
+£ 303,000 t 306,000
+J£ 2,970 t 4,050
+1,890 Log
+1,035 Log"	"£ 303,138.36 t 306,138.36
+J£ 259,420 t 260,500"	"only 1 crew held
+3 month detention
+all = 50 Neg
+sev = 15 men
+inc Sat labour for Neg
+31 m expulsion
+500 pop
+sev = 7 craft
+all = 15 flats
+house = 6 m Log earnings
+work = 1 m Log earning
+sev = 7
+all = 15 works
+gang of 15 for earnings"	140 + sev + 1 crew + all Neg for ? m	15.373 p per day	BOE	Hon for < 15 m / Hon for < 11 m / Hon for 10 m	94 t 95 + sev / 18 t 30 + all flats in New			sev Log works + all Log works in New + sev houses sacked					
+E20	Hos 6	Seven Years’ Offensives	May 1756	Apr 1761	Sp	Fr	"Yucatan lays siege to our Settlement, and launches at least 2 military campaigns against Baymen."					"810 Log
+12,000 Log
+£ 750
+J£ 1,500 t 3,000
+450 t 900 Log
+2,700 t 5,400 Log
+1,500 Log"	"£ 750
+J£ 88,800 + 106,050"	"3 m detention
+sev = 10 men
+some = 5 men
+pop 500
+sev = 10 works / houses / flats
+>> sev = 20 flats / works / houses"	60 + sev fm New + sev once + some twice for ? m	15.639 p per day	BOE	Hon for c 8 m	2.5 / sev t >> sev flats			sev t >> sev Log works / houses / Log	panic for min 1 m [halt logging likely]				
+E28	Hos 8		Mar 1767	Apr 1767	Sp	 	Yucatan launches at least 1 military campaign against Baymen. /6	Yucatan is assumed.	some	3 t 5	some = 3 t 5	"270 Log
+J£ 60
+315 Log
+7.5 Log"	"J£ 3,022.50"	"3 m detention
+some = 10 Neg
+sev = 20 Neg
+? = 7 works
+? = 15 cattle
+0.5 Log per cattle"	some Neg fm Hondo + sev Neg for ? m							? Log works at Hondo / ? cattle at Hondo / ? property					
+E30	Hos 9		Jul 1770	Mar 1772	Sp	 	Yucatan lays siege to our Settlement. /6	Yucatan is assumed.	sev			"£ 165.88
+9,000 Log
+1.2 million Mah
+£ 300
+60,000 Mah
+225 Log"	"£ 465.88
+J£ 235,125"	"2/3 Log / 1/3 Mah
+900 pop
+only crew impressed
+sev = 5 gangs of 15
+all = 1 m Mah
+1,000 ft Mah per man per m"	1 + 1 crew for ? m	17.279 p per day	BOE	mainland for min 5 m	1			sev houses in Ambergris burnt / all Mah burnt	halt logging for min 5 m				
+E15	Ill 1	Diphtheria	Jun 1737		 	 	Epidemic among Baymen and sailors.		sev t >> sev	5 t 15	"sev = .01 t .03 of population
+500 population"																
+E17	Ill 2	Malaria	Mar 1750		 	 	Epidemic among Baymen.					"1,350 Log"	"J£ 6,750"	"? = 3 m Log of 0.7 Hon
+pop 500"									halt logging for ? m				
+E19	Ill 3	Measles	Nov 1751		 	 	Epidemic among Baymen and sailors.		sev t >> sev	5 t 15	"sev = .01 t .03 of population
+500 population"																
+E39	Ill 4	Measles	Feb 1788		 	 	Epidemic among Baymen.		50 + >> 50																		
+E43	Ill 5	Yellow fever	Sep 1797		 	 	Epidemic among Irish Brigade.		23																		
+E23	Nat 1	Great Famine	Jan 1765	Nov 1773	 	 	Famine in Yucatan. Maya refugees enter Settlement.		"c 40,000 Ma fm Yuc"	"8,000 in Hon"	2/10 deaths in Hon	"25 Log
+187.5 Log"	"J£ 1,062.5"	"15 percent inflation
+3 m rise
+.5 Log on Prov per m normally
+.25 ton Log per refugee
+100 refugees
+500 pop"				? Ma refugees enter						Prov v scarce for ? m			
+E34	Nat 2		Dec 1784	Nov 1785	 	 	Severe wet season and epidemic of distemper among Baymen.		sev at New					"2/3 Log / 1/3 Mah
+900 pop"								? houses / works flooded esp in New	halt logging for min 11 m		 		
+E40	Nat 3		Nov 1792	Oct 1792	 	 	Severe wet season.		sev									Old for c 0.25 m				"c 2,000,000 ft Mah loss / ? tons Log loss / all houses at Old flooded"					
+E2	Nat 4	Famine	Jan 1647	Dec 1653	 	 	Famine in Yucatan.		?																		
+E11	Nat 5	Famine	Jan 1725	Dec 1727	 	 	Famine in Yucatan.																				
+E25	Rev 1	Cook’s	Aug 1765	Sep 1765	 	 	"Mr. Cook’s slaves lead a revolt, and lay siege to New River.  British Army and Baymen engage."		5 + sev twice	6 t 10	sev = 3 t 5 persons	"1,350 Log
+270 Log"	"J£ 8,100"	"2 m expulsion
+15 gangs of 15 moved
+2 m siege"				New for ? m				min 1 house robbed	New sieged for ? m				
+E32	Rev 2	Davidson’s	May 1773	Aug 1773	 	 	Mr. Davidson’s slaves lead a revolt. Baymen engage.		13 t 14 + 1 family + ? of 40			"42 Log
+J£ 2.15
+£ 300
+1,215 Log
+5,400 Log
+720,000 ft Mah"	"£ 300
+J£ 44,087.15"	"only Neg impressed
+3 m logging halt
+900 pop"	min 14 impressed for 0.25 m / ? of 40 taken	17.146 p per day	BOE	c 70 Neg refugees exit	min 1			min 9 houses robbed	halt logging for ? m				
+E36	Rev 3	Old River	Jun 1786	Jun 1786	 	 	Slaves near Belize River lead revolt.		sev																		
+E47	Rev 4	New River	Jan 1813		 	 	Slaves near New River lead revolt.																				
+E48	Rev 5	Will & Sharper’s	Apr 1820		 	 	Messrs. Will and Shaper lead revolt.															sev houses robbed					
+E6	War 1	Spanish Succession	Jul 1701	Sep 1714	Sp	Fr	England declares war on Spain.																				
+E3	War 10	Cromwell’s	Jan 1654	Dec 1660	Sp	Bu Fr	England declares war on Spain.		?																		
+E45	War 11	Spanish-American Revolution	Sep 1808	Sep 1833	Sp	 	Civil unrest around Settlement.																silver scarcity for ? m				
+E8	War 2	Quadruple Alliance	Aug 1718	Feb 1720	Sp	 	Great Britain declares war on Spain.																				
+E12	War 3		Mar 1726	Feb 1728	Sp	 	Great Britain declares war on Spain.  Yucatan launches 1 military campaign against Baymen. Baymen raid Spanish-held hamlets in northeastern Yucatan.					"£ 300
+693.33 reales"	"£ 300
+Sp $ 86.67"						1			? fm 2 Ma hamlets					
+E16	War 4	Jenkins' Ear	Oct 1739	Oct 1748	Sp	 	Great Britain declares war on Spain.  Yucatan lays siege to our Settlement.  Royal Navy patrols our waters.  Mosquito allies sack Spanish-held hamlets near Bacalar.  Spanish Honduras launches 2 military campaigns against Baymen.  Baymen partake in Charge of Panama.		9 t 10 + sev + 1 crew	20 t 30	"sev = .01 t .03 of population
+500 population
+crew = 15 men"	"£ 365.59
+£ 69,000
+J£ 750"	"£ 69,365.59
+J£ 750"	"only crews held
+some = 5 men
+some = 3 craft
+sev = 5 craft or flats"	2 crews + some men twice for ? m	15.233 p per day	BOE		15 + some + sev / sev flats								
+E21	War 5	Seven Years’	Jan 1762	Feb 1763	Sp	Fr	Great Britain declares war on Spain.																				
+E33	War 6	American Revolution	Apr 1775	Sep 1783	Sp	Am Fr	Americans declare war on Great Britain.  Spain declares war on Great Britain. Americans sack St. George’s Caye. Royal Navy patrols our waters.  Yucatan captures St. George’s Caye.  Baymen partake of sieges on Omoa and San Pedro Sula in Spanish Honduras.		11 + sev					lost earnings not inc by Baymen	1 for 0.25 m / ? fm St. George’s for 35 m	c 175 ft Mah per man per m ? / 3.75 t Log per man per m	"Sev 1944
+CO 5/119 I"	Hon for ? m / sev families Am refugees enter thrice or 4 times	"3 / ? flats = part of £ 78,457.20"			"Prov demanded / ? houses St. George’s + ? wood destroyed = part of £ 78,457.20"		Prov v scarce for ? m	£ 300 for 9.5 years for Agent / ? for London printing thrice		
+E42	War 7	French Revolution	Aug 1796	Mar 1802	Sp	Fr	Great Britain declares war on Spain. Battle of St. George’s Caye. /7	Great Britain = UK on 1801.	?									mainland for 12 m				?	halt logging for 8 m		HMS Merlin for c 8 m / redoubts or barriers raised at Old / 300 troops fm Jam for c 8 m / 2 defence craft for c 8 m / 900 civilian men for min 1.5 m		
+E44	War 8	Napoleonic	May 1804	Jul 1808	Sp	Fr	UK declares war on France.																	Prov v scarce for ? m			
+E46	War 9		Jun 1812	Feb 1815	 	Am	UK declares war on US.																				
+E49																											
+E50																											
+E51																											
+E52																											
+E53																											
+E54																											
+E55																											

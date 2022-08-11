@@ -1,0 +1,629 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Draft:1630 Capture of Tortuga</title>
+    <ns>118</ns>
+    <id>70754045</id>
+    <revision>
+      <id>1088419571</id>
+      <parentid>1087283169</parentid>
+      <timestamp>2022-05-17T22:19:26Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Alter: last, pages, issn, issue, url. URLs might have been anonymized. Add: s2cid, doi, isbn. Removed parameters. Formatted [[WP:ENDASH|dashes]]. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_CommandLine 152/2973</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30369" xml:space="preserve">{{AfC submission|t||ts=20220511123647|u=Asdfjrjjj|ns=118|demo=}}&lt;!-- Important, do not remove this line before article has been created. --&gt;
+{{short description|Military campaign against Anglo-French Tortuga}}
+{{use dmy dates|date=May 2022}}
+{{use British English|date=May 2022}}
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+{{Infobox military conflict
+| conflict    = 1630 Capture of Tortuga
+| width       = 
+| partof      = [[Thirty Years' War]]
+| image       = Loutherbourg-Spanish Armada.jpg
+| image_size  = 300px
+| alt         =
+| caption     = ''Defeat of the Spanish Armada'' {{small|/ 1796 oil on canvas by Philip James de Loutherbourg / via Royal Mus. Greenwich}}
+| date        = {{start and end dates|1635|1|21|1635|1|23|df=y}}
+| place       = the southern harbour (ie [[Fort de Rocher]])
+| coordinates = {{coord|20.004602721742035|-72.71191106626894|type:event_region:HT|display=title}}
+| map_type    = 
+| map_relief  = 
+| map_size    = 
+| map_marksize = 
+| map_caption = 
+| map_label   = 
+| territory   = 
+| result      = Spanish victory
+| status      = 
+| combatants_header = 
+| combatant1  = {{unbulleted list|{{flag|England}}|{{flag|Kingdom of France|France}}}}
+| combatant2  = {{flag|Spain|1506}}
+| combatant3  = 
+| commander1  = {{unbulleted list|{{flagicon|England}} [[Philip Bell (colonial administrator)|Philip Bell]] {{small|/ Gov.}}|{{flagicon|England}} Christopher Wormeley {{small|/ Gov.}}}}
+| commander2  = {{unbulleted list|{{flagicon|Spain|1506}} Alonso de Cereceda {{small|/ actg. Gov. Sto. Dom.}}|{{flagicon|Spain|1506}} Enrique Enríquez de Sotomayor {{small|/ [[List of governors of Puerto Rico|Gov. Pto. Rico]]}}|{{flagicon|Spain|1506}} [[Ruy Fernández de Fuenmayor]] {{small|/ Gen.}}|{{flagicon|Spain|1506}} Francisco Turrillo de Yebra&lt;sup&gt;1&lt;/sup&gt; {{small|/ Adm.}}|{{flagicon|Spain|1506}} Gonçalo de Frías {{small|/ Capt.}}|{{flagicon image|Royal Standard of Ireland (1542–1801).svg}} John Murphy&lt;sup&gt;2&lt;/sup&gt; {{small|/ informant}}}}
+| commander3  = 
+| units1      = {{unbulleted list|6 ''urcas''|3 ''pataches''|sev. sm. craft}}
+| units2      = 4 ''bajeles''
+| units3      = 
+| strength1   = {{unbulleted list|150{{nbnd}}600 residents {{small|/ plus slaves, women, children}}|vars. sailors}}
+| strength2   = {{unbulleted list|150 lancers|50 infantry|50 sailors}}
+| strength3   = 
+| casualties1 = {{unbulleted list|196 killed|vars. wounded|39 detained|1 fort seized {{small|/ 6-piece artillery}}|1 settlement burnt {{small|/ inc. logging camps, tobacco farms}}|2 ''urcas'' burnt|1 ''patache'' seized|180 muskets seized}}
+| casualties2 = {{unbulleted list|2 killed|4 wounded|some drowned|0 detained}}
+| casualties3 = 
+| notes       = {{unbulleted list|&lt;sup&gt;1&lt;/sup&gt; ''aka'' Francisco Trujillo|&lt;sup&gt;2&lt;/sup&gt; ''aka'' Juan Morfa Geraldino y Burco, Juan Morf, Juan Morfa, Juan de Morfa Geraldino}}
+| campaignbox = 
+}}
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+The '''1630 Capture of Tortuga''' xxx
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+== Prelude ==
+[[File:Tortuga17thcentury.jpg|thumb|upright=1.7|''Planta de la Isla y fuerza de la Tortuga'' {{small|/ 1653 draught by ''anon.'' / via Mus. Nav. Madrid}}]]
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+English, French, and Dutch buccaneers settled Tortuga (and the northern coast of [[Hispaniola]]) in the 1600s or the 1610s, living off feral game, dye-wood logging, and piracy. In 1630, they were joined by some 150 English tobacco farmers from [[St. Kitts]], who were lead to the southern coast of Tortuga (near that shore's only harbour) by [[Anthony Hilton (colonist)|Anthony Hilton]]. These new settlers quickly formalised their colony by association with Providence Island. On 21 July 1631, Providence established the dependency of ''Association'' (ie Tortuga), providing for its defence and labour needs, and vesting its government in Hilton and his associate, Christopher Wormeley. This latter assumed governorship in 1634, upon Hilton's death.{{sfn|Crouse|1940|p=81}}{{sfn|Galvin|1991|pp=279-280|loc=note no. 18}}{{sfn|Galvin|1991|pp=190, 198-200}}{{sfn|Haring|1910|pp=59-60}}{{sfn|Moreau|2012|loc=cap. 4 sec. 'La isla de Tortuga' para. 4}}{{sfn|Latimer|2009|p=76}}{{sfn|Sainsbury|1860|loc=sec. 'July 1631' items 'July 6' and 'July 21'}}{{notetag|In 1605, all Spanish settlements on the northern coast of Hispaniola were forcibly relocated to a site near [[Santo Domingo]] by the governor, [[Antonio Osorio]], because 'the ''[[Vecino|vecinos]]'' [...] trade with non-Spanish foreigners without licence from His Majesty and without paying / the [required] royal dues' ({{harvnb|''anon.''|1942a|pp=34-35, 44-45}}, {{harvnb|Lane|2016|p=xviii}}). Sometime prior to 20 June 1607, a group of marooned Spaniards encountered 70 white, black, and [[mestizo]] non-Spaniards on Tortuga, these reportedly living off feral game and logging {{harv|Moreau|2012|loc=cap. 4 sec. '{{smallcaps|La isla de Tortuga}}' para. 3}}. Buccaneers' settlement in Tortuga and northern Hispaniola is dated late 1620s by {{harvnb|Lane|2016|p=90}}.}}{{notetag|It has been suggested that a late 1630 or early 1631 attack from Santo Domingo may have prompted the new Tortuga settlers to associate with Providence ({{harvnb|Galvin|1991|pp=196-197}}, {{harvnb|Haring|1910|p=58}}, {{harvnb|Lane|2016|p=xix}}). Hilton and company were refugees of the [[Battle of St. Kitts (1629)|1629 Battle of St. Kitts]] ({{harvnb|Galvin|1991|p=198}}, {{harvnb|Moreau|2012|loc=cap. 4 sec. 'La isla de Tortuga' para. 4}}).}}
+
+Among the indentured servants or ''engagés'' which Providence provided Tortuga were John Murphy and his cousin, Irish Catholics. Upon Wormeley's inauguration as governor, these and many others were required to take [[Oath of Allegiance (United Kingdom)|oaths of allegiance]], whereupon Murphy and his cousin protested, leading to the latter's death and the former's defection to [[Cartagena, Colombia|Cartagena]] (first) and Santo Domingo (later).{{sfn|Block|Shaw|2011|pp=44-45}}
+
+Upon reaching Santo Domingo in 1634, Murphy informed local authorities that{{nbnd}}
+{{text and translation|ay en ella [Tortuga] hasta trecientas personas entre muchachos biejos y gente de servizio y questan poblados y repartidos a modo de valle en sitio de tres leguas prolongadas por la costa de la dicha Ysla con sus labranzas y sementeras y gran comercio de baxeles de todas naciones que llegan a ella, y que tienen un Governador Yngles y estan con descuydo y falta de disciplina militar aunque enel Puerto ay una Plataforma con seis piezas de artillería de fierro, y en casa del Governador algunos mosquetes y arcabuçes y que con ellos estan hasta treinta negros que los ayudan en sus sembrados y qe. pasan a la Tierra firme desta Ysla abastecerse del carnaje y otras cosas de que necesitan.|there are on the island [Tortuga] up to three hundred people, including elderly people, young people, and service people, and they are settled and spread out in a valley measuring three leagues lengthwise along the [southern] coast of the said Island[,] with their farms and crops[,] and a large trade with vessels of all nations that come to the island, and that they have an English Governor and are neglectful [of their defence] and lack military discipline, despite there being in the Port a Platform with six pieces of iron artillery, and in the Governor's house some muskets and arquebuses[,] and that with them there are even thirty African slaves who help them in their crops[,] and that they go to the mainland of this Island [Hispaniola] to stock up on meat and other things they need.|Santo Domingo, 4 January 1635, royal officers to Spanish Crown.{{sfn|''anon.''|1942c|p=396}}}}
+
+Hereupon, Alonso de Cereceda, acting governor, convened a council of war, which resolved to 'dislodge the enemy from the said Island and punish their audacity before their greater expansion and fortification [occurs,] and because of the great [commercial] interest in the [[Paubrasilia|brazilwood]] and tobacco that they harvest and trade[,] and because it is [too] close to the route of the frigates and ships which come and go from this Island [Hispaniola] to that of [[Cuba]][,] [[Cartagena, Colombia|Cartaxena]][,] and other parts[, being so located so as] to steal from these vessels.'{{sfn|''anon.''|1942c|p=396}}
+
+== Capture ==
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+=== Arrival ===
+Turrillo and 50 infantry-men set off from Santo Domingo on 4 January 1635, with four ''baxeles'' in tow, to meet Fuenmayor and his 150 lancers at their rendezvous, [[Fort-Liberté|Port Bayaha]]. The officers coordinated their attack while watering here, and shortly thereafter sailed due northwest, coasting the [[Geography of Haiti|northern shore of Hispaniola]].{{sfn|''anon.''|1942c|p=393}}
+
+=== Capture ===
+On 21 January 1635, under cover of night, Fuenmayor lead his ''armadilla'' or fleet across the Tortuga Channel, towards the island's southern port. The pilot, however, ran the ships aground, causing a ruckus which alerted four merchantmen to their presence. A loud and confused skirmish followed, as sailors rushed to man the fort and sound the alarm, while Spaniards simultaneously prepared their attack, with most taking to the ships' cannons, while a small contingent slipped away in canoes towards the beach. The kerfuffle resulted in the campaign's first casualties, for both sides.{{sfn|''anon.''|1942c|pp=393-394}}{{notetag|{{text and translation|[A]travesaron de noche para no ser sentidos[,] y no pudiendo tomar el Puerto [de Tortuga], donde avia tres urcas y un patache sin prebension y descuydo, al echar en tierra la gente en la parte que tomaron encallo la Almiranta y los barcos y con la confusion, oscuridad de la noche ruido y voces que causa echarse la gente al agua y aogarse algunos y entre ellos el Alferes del Capitan Camacho Po. de Vargas [...].|[T]hey crossed at night so as not to be noticed[,] and not being able to take the port [of Tortuga], where three urcas and a patache were anchored, unaware and unprepared [for a military engagement], when they [Fuenmayor] disembarked the men in the part [of Tortuga] where they sought to land, the flagship and the rest of the ships ran aground, and given this confusion, [the] darkness of the night, [and the] noise and voices caused by the people throwing themselves into the water[,] some drowned, among them the ensign of Captain Camacho [named] P[edr]o de Vargas [...].|Santo Domingo, 16 February 1635, Tajagrano and Nuñez de Peralta to Crown {{harv|''anon.''|1942c|p=393}}.}}}}{{notetag|Murphy purportedly led the Spanish charge on the Anglo-French fort with a shout 'for Santiago,' Castille's warrior patron saint {{harv|Block|Shaw|2011|p=45}}. The Spanish pilot purportedly lead the four ''bajeles'' into a reef off the harbour {{harv|Latimer|2009|p=84}}.}}
+
+Startled awake by the fort's bugles, the settlement was likewise a scene of frenzied chaos as French and English residents collected their valuables to make a hurried escape. At the Governor's residence, Wormeley likewise set upon retreat, managing to scurry away before Fuenmayor arrived. At this point, Fuenmayor, Turrillo, and Frías, with a unit of 24 men, disembarked near the settlement, at once marching towards the Governor's house. An unidentified resident (presumed to be the 'Governor' by Fuenmayor) put up a fight, but was quickly despatched with two well-aimed spear-throws. The 'Governor' now slain, Fuenmayor set about methodically sacking and burning the settlement, killing all whom they encountered. Meanwhile, the ''armadilla'' eventually took the fort, and thereby the port, forcing the merchant vessels to retreat.{{sfn|''anon.''|1942c|p=394}}{{sfn|Crouse|1940|p=83}}{{sfn|Galvin|1991|pp=201-202}}
+
+By daybreak (on 22 January 1635), most or some of the settlers had made their escape, reportedly aboard rickety canoes towards Hispaniola. Fuenmayor's men now ventured further into Tortuga, under instructions 'that all the fields and houses be put to fire.'{{notetag|It has been suggested that English refugees subsequently made their way to Providence Island ({{harvnb|Lane|1998|p=102}}, {{harvnb|Schmitt|2017|p=589}}).}}
+
+The campaign's last engagement came on 23 January 1635. Some 190 of the island's residents had resolved to oppose the Spanish, rather than flee. Consequently, they had determined to march towards Fuenmayor's camp on this day. The Spanish general, however, discovered their plot, and met the musket-armed settlers halfway into their march. The engagement was reportedly quick and bitter, with the Spaniards exacting a substantial toll, themselves suffering only minimal casualties.{{sfn|''anon.''|1942c|pp=394, 397 ''misprinted as'' 497}}{{sfn|Schmitt|2017|pp=588-589}}{{notetag|Though some arriving merchantmen, unaware of the campaign, engaged Fuenmayor's ''armadilla'' at port on 24 January (cf previous citations).}}
+
+== Aftermath ==
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+On 27{{nbnd}}28 January 1635, the Spanish ships finally entered the port. Fuenmayor spent the following three or four days combing Tortuga before departing, with the rest of his men (and prisoners) following not long thereafter. The 39 prisoners were condemned to hard labour, building fortifications in Santo Domingo.{{sfn|''anon.''|1942c|p=395}}{{sfn|Schmitt|2017|p=589}}{{notetag|Some of the prisoners may have subsequently won their freedom. On 14 May 1636, 'the wife of Grimes, the late gunner of Association [Tortuga]' petitioned the proprietors of Providence for 'her husband's release of Slavery at Santo Domingo,' whereupon the proprietors ordered that 'if any [Spanish] man of qualities be hereafter taken by the English[,] notice shall be sent to the Governor of Domingo that he [the Spanish prisoner] shall not be discharged without Grimes' release' {{harv|Schmitt|2017|p=589}}.}}
+
+On 10 April 1635, proprietors of the Providence Island colony deprived Wormeley of his office and banished him from the Tortuga, 'by reason of his cowardice and negligence in losing the island.' He is thought to have relocated to [[York County, Virginia]], where he served in various public offices.{{sfn|''anon.''|1928|p=98}}{{sfn|Crouse|1940|p=83}}{{sfn|Riches|1999|pp=18-19}}{{sfn|Sainsbury|1860|loc=sec. 'April 1635' item 'April 10'}}{{notetag|Additionally, Bell was instructed, should Wormeley have arrived at Providence Island, that 'a very strict eye is to be kept upon him, and he is to be sent home [London] [...] for having "given us [the proprietors] some cause for distaste"' {{harv|Sainsbury|1860|loc=sec. 'April 1635' item 'April 20'}}.}}
+
+It has been suggested that settlers who hid were 'hunted down' during Fuenmayor's sweep of the island, though a 'handful managed to conceal themselves in out-of-the-way recesses until the Spaniards [...] sailed back to San Domingo.' In any case, as no garrison remained in Tortuga, the island is thought to have been resettled within a few months of Fuenmayor's departure, in mid- or late 1635.{{sfn|Crouse|1940|p=83}}{{sfn|Schmitt|2017|p=589}}{{notetag|Providence Island appointed Nicholas Reskeimmer (or Riskinner) governor of Tortuga in April 1635. He and some 80 former settlers, with 150 slaves, arrived aboard the ''Expectation'' in late 1635 (or prior to February 1636). In 1636, Cereceda instructed Juan de Bargas (or Vargas) to capture the recent settlers' slaves. Bargas apprehended 59, who were later sold, purportedly to help pay for the Fuenmayor campaign, which had cost Santo Domingo 37,300 ''[[Spanish colonial real|reales de plata]]''. By 20 January 1637, Reskeimmer's settler's had deserted Tortuga, leaving the island with a French majority. These were again attacked in 1638, this time by Carlos Ibarra, who 'put to the sword those who resisted him and destroyed the houses they had built,' and again in 1650. '[H]owever, the punishments [campaigns against Tortuga] being few and far between, as soon as warships slipped under the horizon, the [[Brethren of the Coast|brethren of the coast]] [buccaneers] returned to occupy the same sites [on Tortuga]' ({{harvnb|''anon.''|1941|pp=245-246}}, {{harvnb|''anon.''|1942c|pp=393, 395}}, {{harvnb|Galvin|1991|pp=202-203}}, {{harvnb|Newton|1914|pp=211-212}}, {{harvnb|Haring|1910|pp=62-63}}, {{harvnb|Moreau|2012|loc=cap. 4 sec. 'La isla de Tortuga' para. 6}}, {{harvnb|Fernández Duro|1899|p=34}}). (The Bargas slave capture is attributed to Fuenmayor by {{harvnb|Latimer|2009|p=84}}. The Ibarra campaign is dated 1639 by {{harvnb|Latimer|2009|p=77}}.)}}
+
+== Legacy ==
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+The capture was deemed 'a complete success.' Men who distinguished themselves were honoured with ''mercedes'', and Fuenmayor was promoted to the governorship of [[Colonial Venezuela|Venezuela]]. It has been further suggested that this success encouraged campaigns against [[History of Curaçao#European colonization|Dutch-held Curaçao]] and [[Providence Island colony#Hostilities with the Spanish|English-held Providence Island]].{{sfn|Rodríguez de la Torre|2018|loc=para. 2}}{{sfn|''anon.''|1941|p=244|loc=item no. 181}}{{sfn|''anon.''|1942a|pp=102-103|loc=footnote no. 1}}{{sfn|''anon.''|1942c|p=397 ''misprinted as'' 497}}{{notetag|The honoured soldiers were Pedro Pérez, Juan Marin, Antonio de Espinar, Juan de Collantes, Juan de Sanlucar Baltasar de la Plaça, Bartolomé de Espinosa, and Juan Bazquez. They were granted ''mercedes'' on 22 August 1636. Fuenmayor was appointed governor and captain-general on 26 November 1636 (cf previous citations).}}
+
+Wormeley, on the other hand, is said to have 'displayed the utmost cowardice.'{{sfn|Riches|1999|pp=18-19}}{{sfn|Newton|1914|p=193}} 
+
+It has been suggested that Fuenmayor's campaign contributed to Tortuga's transition from a quasi-plantation, quasi-pirate settlement to 'a true pirate stronghold,' as the campaign resulted in the removal of Providence Island's plantation-oriented oversight, and the eventual desertion of tobacco farmers, leaving mainly pirates and buccaneers.{{sfn|Galvin|1991|pp=279-280|loc=note no. 18}}{{notetag|Similarly, an (unsuccessful) [[Providence Island colony#Hostilities with the Spanish|July 1635 Spanish campaign against Providence Island itself]], which may have been encouraged by Fuenmayor's success in Tortuga, prompted the colony's proprietors to issue [[letters of marque]] for reprisals. Such privateering soon made Providence Island, like Tortuga, '[t]he greatest fear that possessed the Spanish [pilots coming near the island] [...] a den of thieves and pirates [...] threatening the Galleons, and the King's yearly and mighty treasure' {{harv|Latimer|2009|pp=85-86}}.}}
+
+== Notes ==
+{{notefoot}}
+
+== Citations ==
+{{reflist}}
+
+== References == 
+{{refbegin}}
+# {{cite journal
+ |last= anon.
+ |title= The Wormeley Family
+ |journal= Virginia Magazine of History and Biography
+ |volume= 35
+ |issue= 4
+ |date= 1927
+ |pages= 455–456
+ |jstor= 4244177
+ |url= http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/4244177
+ |url-access= subscription
+}}
+# {{cite journal
+ |last= anon.
+ |title= The Wormeley Family (Continued)
+ |journal= Virginia Magazine of History and Biography
+ |volume= 36
+ |issue= 1
+ |date= 1928
+ |pages= 98–101
+ |jstor= 4244188
+ |url= http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/4244188
+ |url-access= subscription
+}}
+# {{cite journal
+ |last= anon.
+ |title= Colección Lugo : Archivo General de Indias : Reales órdenes de las libretas 15, 16, 44, 46 y 47
+ |journal= Boletín del Archivo General de la Nación
+ |volume= 4
+ |issue= 17
+ |date= 1941
+ |pages= 223–275
+ |issn= 1012-9472
+ |url= http://agn.gob.do/index.php/publicaciones/boletin-agn/category/70-1941
+ |url-access= 
+}}
+# {{cite journal
+ |last= anon.
+ |title= Relaciones Históricas de Santo Domingo (Colección y notas de EMILIO RODRIGUEZ DEMORIZI)
+ |journal= Boletín del Archivo General de la Nación
+ |volume= 5
+ |issue= 20–21
+ |date= 1942a
+ |pages= 3–120
+ |issn= 1012-9472
+ |url= http://agn.gob.do/index.php/publicaciones/boletin-agn/category/69-1942
+ |url-access= 
+}}
+# {{cite journal
+ |last= anon.
+ |title= Colección Lugo (continuación de la libreta 15)
+ |journal= Boletín del Archivo General de la Nación
+ |volume= 5
+ |issue= 23
+ |date= 1942b
+ |pages= 293–341
+ |issn= 1012-9472
+ |url= http://agn.gob.do/index.php/publicaciones/boletin-agn/category/69-1942
+ |url-access= 
+}}
+# {{cite journal
+ |last= anon.
+ |title= Colección Lugo (continuación de la libreta 35)
+ |journal= Boletín del Archivo General de la Nación
+ |volume= 5
+ |issue= 24–25
+ |date= 1942c
+ |pages= 355–414
+ |issn= 1012-9472
+ |url= http://agn.gob.do/index.php/publicaciones/boletin-agn/category/69-1942
+ |url-access= 
+}}
+# {{cite journal
+ |last= anon.
+ |title= Colección Lugo (continuación de la libreta 36)
+ |journal= Boletín del Archivo General de la Nación
+ |volume= 6
+ |issue= 26–27
+ |date= 1943a
+ |pages= 111–115
+ |issn= 1012-9472
+ |url= http://agn.gob.do/index.php/publicaciones/boletin-agn/category/68-1943
+ |url-access= 
+}}
+# {{cite journal
+ |last= anon.
+ |title= Colección Lugo (continuación de la libreta 36)
+ |journal= Boletín del Archivo General de la Nación
+ |volume= 6
+ |issue= 28–29
+ |date= 1943b
+ |pages= 254–268
+ |issn= 1012-9472
+ |url= http://agn.gob.do/index.php/publicaciones/boletin-agn/category/68-1943
+ |url-access= 
+}}
+# {{cite journal
+ |last= anon.
+ |title= Colección Lugo (continuación de la libreta 38)
+ |journal= Boletín del Archivo General de la Nación
+ |volume= 6
+ |issue= 30–31
+ |date= 1943c
+ |pages= 404–408
+ |issn= 1012-9472
+ |url= http://agn.gob.do/index.php/publicaciones/boletin-agn/category/68-1943
+ |url-access= 
+}}
+# {{cite journal
+ |last= anon.
+ |title= Colección Lugo (continuación de la libreta 38)
+ |journal= Boletín del Archivo General de la Nación
+ |volume= 7
+ |issue= 32–33
+ |date= 1944a
+ |pages= 144–190
+ |issn= 1012-9472
+ |url= http://agn.gob.do/index.php/publicaciones/boletin-agn/category/67-1944
+ |url-access= 
+}}
+# {{cite journal
+ |last= anon.
+ |title= Colección Lugo (continuación de la libreta 39)
+ |journal= Boletín del Archivo General de la Nación
+ |volume= 7
+ |issue= 34–35
+ |date= 1944b
+ |pages= 217–279
+ |issn= 1012-9472
+ |url= http://agn.gob.do/index.php/publicaciones/boletin-agn/category/67-1944
+ |url-access= 
+}}
+# {{cite journal
+ |last1= Block
+ |first1= Kristen
+ |last2= Shaw
+ |first2= Jenny
+ |title= Subjects Without an Empire: The Irish in the Early Modern Caribbean
+ |journal= Past &amp; Present
+ |volume= 210
+ |issue= 1
+ |date= 2011
+ |pages= 33–60
+ |doi= 10.1093/pastj/gtq059
+ |jstor= 23015371
+ |url= http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/23015371
+ |url-access= subscription
+}}
+# {{cite book 
+|last= Charlevoix
+|first= Pierre-François-Xavier de
+|title= Tome Troisième
+|series= Histoire de l'Isle espagnole ou de S. Domingue : Ecrite particulièrement sur des mémoires manuscrits du P. Jean-Baptiste Le Pers, jésuite, missionnaire à Saint-Domingue, et sur les pièces originales qui se conservent au Dépôt de la Marine, par le P. Pierre-François-Xavier de Charlevoix,...
+|volume= 3
+|date= 1733
+|publisher= Chez François L'Honoré
+|location= Amsterdam
+|edition= 1st
+|hdl= 
+|oclc= 879558681
+|url= https://gallica.bnf.fr/ark:/12148/bpt6k5516655c
+}}
+# {{cite book 
+|last= Crouse
+|first= Nellis M.
+|title= French pioneers in the West Indies, 1624-1664
+|date= 1940
+|publisher= Columbia University Press
+|location= New York
+|edition= 1st
+|hdl= 2027/uc1.c031248717
+|oclc= 485234
+|url= 
+}}
+# {{cite book 
+|last1= Fernández Duro
+|first1= Cesário
+|series= Armada española desde la unión de los reinos de Castilla y de León
+|date=1899
+|title= AÑOS 1621 - 1652
+|orig-date=
+|volume= 5
+|publisher=Est. tipográfico "Sucesores de Rivadeneyra"
+|location=Madrid
+|url= https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/mardigitalrevistas/prefLang-es/05a-cesareo-fernandez-duro
+|url-access=
+|hdl=2027/mdp.39015036698697
+|edition=1st
+|oclc=4413652
+|isbn=
+}}
+# {{cite web
+ |url= https://blogs.ua.es/unadepiratas/2010/12/27/la-isla-pirata/
+ |title= La Isla Tortuga
+ |last= Finestrat
+ |first= Aitana
+ |date= 27 December 2010
+ |website= Piratas en España
+ |publisher= WordPress
+ |access-date= 11 May 2022
+ |quote=
+}}
+# {{cite thesis
+ |last= Galvin
+ |first= Peter R.
+ |date= 1991
+ |title= The pirates' wake: A geography of piracy and pirates as geographers in colonial Spanish America, 1536-1718. (Volumes I and II)
+ |type= PhD
+ |publisher= Louisiana State University
+ |place= Baton Rouge, Louis.
+ |url= https://www.proquest.com/docview/303961341
+ |url-access= subscription
+}}
+# {{cite book 
+|last= Haring
+|first=Clarence Henry
+|title= Buccaneers in the West Indies in the Seventeenth Century
+|date=1910
+|publisher= Methuen &amp; Co.
+|location= London
+|edition= 1st
+|hdl= 
+|oclc=
+|url= http://www.gutenberg.org/ebooks/19139
+}}
+# {{cite book 
+|last1= Lane
+|first1= Kris
+|series= 
+|date= 2016
+|title= Pillaging the empire : global piracy on the high seas, 1500-1750
+|orig-date= First published 1998 by M. E. Sharpe
+|volume=
+|publisher= Routledge
+|location= New York
+|url= 
+|url-access=
+|hdl=
+|edition= 2nd
+|oclc= 904755960
+|isbn=
+}}
+# {{cite book 
+|last1=Latimer 
+|first1=Jon
+|title=Buccaneers of the Caribbean: How Piracy Forged an Empire
+|series=
+|volume=
+|edition=1st 
+|publisher=Harvard University Press
+|date=2009 
+|place=Cambridge, MA 
+|oclc=
+|url= https://www-degruyter-com.ezp-prod1.hul.harvard.edu/document/doi/10.4159/9780674054172/html
+|url-access=subscription
+|doi= 10.4159/9780674054172
+|isbn=9780674054172
+}}
+# {{cite book 
+|last1=Marley 
+|first1=David F. 
+|title=Wars of the Americas: a chronology of armed conflict in the New World, 1492 to the present 
+|date=1998
+|orig-date=
+|publisher=ABC-CLIO 
+|location=Santa Barbara, CA 
+|url= 
+|url-access=
+|hdl=
+|edition=1st
+|oclc= 39024726
+|isbn=
+}}
+# {{cite book 
+|last1= Moreau 
+|first1= Jean-Pierre
+|title= Pirates: flibuste et piraterie dans la Caraïbe et les mers du sud (1522-1725)
+|trans-title= Piratas: filibusterismo y piratería en el Caribe y en los mares el sur (1522-1725)
+|translator-last= Ridruejo Ramos
+|translator-first= Cristina
+|series= Papeles del tiempo no. 6
+|volume=
+|edition= 
+|publisher= Antonio Machado Libros
+|date= 2012 
+|orig-date= First Published 2006 by Tallandier
+|place= Boadilla del Monte (Madrid)
+|oclc= 840414526
+|url= 
+|url-access=
+|doi= 
+}}
+# {{cite book 
+|last1=Newton 
+|first1=Arthur Percival 
+|title=The colonising activities of the English Puritans: the last phase of the Elizabethan struggle with Spain 
+|date=1914
+|orig-date= 
+|publisher= Yale University Press 
+|location=New Haven, CT 
+|series= Yale Historical Publications: Miscellany
+|volume= 1
+|url=http://www.llmcdigital.org.ezp-prod1.hul.harvard.edu/default.aspx?redir=31970
+|url-access=subscription
+|hdl= 2027/hvd.32044014678932
+|edition=1st
+|oclc= 2993127
+}}
+# {{cite journal
+ |last= Riches
+ |first= W. T. M.
+ |title= White Slaves, Black Servants and the Question of Providence: Servitude and Slavery in Colonial Virginia 1609-1705
+ |journal= Irish Journal of American Studies
+ |volume= 8
+ |issue= sn
+ |date= 1999
+ |pages= 1–33
+ |jstor= 30002672
+ |url= http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/30002672
+ |url-access= subscription
+}}
+# {{cite thesis
+ |last= Robison
+ |first= Todd M.
+ |date= 1998
+ |title= "Subject to the power of the Infernall Spiritt" : Puritans, Privateers, and the Genesis of Buccaneers
+ |type= MA
+ |publisher= East Carolina University
+ |place= Greenville, N. Car.
+ |hdl= 10342/6655
+}}
+# {{cite web
+ |url= https://dbe.rah.es/biografias/35149/ruy-fernandez-de-fuenmayor-figueroa
+ |title= Fernández de Fuenmayor Figueroa, Ruy
+ |last= Rodríguez de la Torre
+ |first= Fernando
+ |date= 3 May 2018
+ |website= Diccionario biográfico electrónico
+ |publisher= Real Academia de la Historia
+ |access-date= 6 May 2022
+ |quote=
+}}
+# {{cite web
+ |url= https://dbe.rah.es/biografias/8751/fadrique-de-toledo-osorio
+ |title= Toledo Osorio, Fadrique de
+ |last= Rodríguez-Moñino Soriano
+ |first= Rafael
+ |date= 3 May 2018
+ |website= Diccionario biográfico electrónico
+ |publisher= Real Academia de la Historia
+ |access-date= 6 May 2022
+ |quote=
+}}
+# {{cite book 
+|editor-last1=Sainsbury 
+|editor-first1=W. Noel
+|title=1574-1660
+|series= Calendar of State Papers Colonial, America and West Indies
+|date= 1860
+|orig-date=
+|volume= 1
+|publisher=Her Majesty's Stationery Office
+|location=London
+|url= https://www.british-history.ac.uk/cal-state-papers/colonial/america-west-indies/vol1
+|url-access=
+|hdl=
+|edition=1st
+|oclc= 456586992
+|isbn=
+}}
+# {{cite journal
+ |last= Schmitt
+ |first= Casey
+ |title= Pirates, Planting, and the Rights of Mankind in Seventeenth-Century Tortuga
+ |journal= Latin Americanist
+ |volume= 61
+ |issue= 4
+ |date= 2017
+ |pages= 584–599
+ |doi= 10.1111/tla.12167
+ |jstor= 
+ |s2cid= 148627684
+ |url= https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/article/703607
+ |url-access= subscription
+}}
+# {{cite book 
+|last= Vaissière
+|first= Pierre de
+|title= Les origines de la colonisation et la formation de la société française à Saint-Domingue
+|date= 1906
+|publisher= Aux Bureaux de la Revue
+|location= Paris
+|edition=
+|hdl= 
+|oclc= 27932200
+|url= https://www.google.com/books/edition/Les_origines_de_la_colonisation_et_la_fo/wwQDAAAAYAAJ
+}}
+# {{cite book 
+|last= Vaissière
+|first= Pierre de
+|title= Saint-Domingue : la société et la vie créoles sous l'ancien régime (1629-1789)
+|date= 1909
+|publisher= Perrin et Cie.
+|location= Paris
+|edition=
+|hdl= 
+|oclc= 591151533
+|url= https://llmc-com.ezp-prod1.hul.harvard.edu/docDisplay5.aspx?set=31392&amp;volume=0001&amp;part=001
+|url-access= subscription
+}}
+# {{cite book 
+|last1= Winzerling
+|first1= E. O.
+|title= Beginning of British Honduras, 1506-1765
+|date= 1946
+|publisher= North River Press
+|location= New York
+|edition= 1st
+|url= https://dloc.com/UF00099216/00001
+|oclc= 1892890
+}}
+{{refend}}
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+&lt;!--      --&gt;
+{{authority control}}
+
+{{Spanish Empire}}
+{{British overseas territories}}
+{{Pirates}}</text>
+      <sha1>dv05md56s2eqjxsjfcti4j868wapbhc</sha1>
+    </revision>
+  </page>
+</mediawiki>

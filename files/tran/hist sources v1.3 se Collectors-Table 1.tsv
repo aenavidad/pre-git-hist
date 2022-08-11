@@ -1,0 +1,21 @@
+Table 1
+																							
+						parish council	4	levels		uk	bz	gt	hn	nic	mx	us	uk	fr	sp	nl			
+						local authority	3	vars sovereigns	0	1	1	1	1	1	1								
+						regional authority	2	sovereign	1	1	1	1	1	1	1			0	0				
+						sovereign	0	devolved government	2	1	0	0	0	0									
+						devolved government	1	regional authority	3	1	0	0	0	0									
+						private	5	local authority	4	1	0	0	0	0									
+								parish council	5	1	1	1	1	1									
+								private	6	1	1	1	1	1									
+	LVL	DESC	EG																				
+	itl	collections held jointly by vars sovereigns	commonwealth uwi																				
+	reg	collections held by a single sovereign	national archives																				
+	pub	collections held by non-sovereign public persons	municipal archives																				
+	prv	collections held by non-sovereign private persons	barclays archive																				
+	AC																						
+	0	collections not held by a primarily academic research-oriented person	oxford																				
+	1	collections held by primarily academic research-oriented person	barclays																				
+	MAN																						
+	0	manuscript																					
+	1	other																					

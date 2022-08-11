@@ -1,0 +1,94 @@
+Table 1
+Start	Type	Subtype	R Damage	u	y	L 1	U 1	Mult	u	y	L 2	U 2	Mult	u	y	L 3	U 3	Mult	u	y	L 4	U 4	Mult	u	y	Sum L	Sum U	Formula
+1701	Anthropological	Raid				0.14	0	26	L	1715	0.01	0	257	L	1715	4.5	5	500	L	1715			0			"1,258,072"	"1,397,858"	Cost of lumber + Cost of labour for hut + Lost earnings for period of displacement
+1715	Natural	Famine																								0	0	
+1716	Anthropological	Raid				4.5	5	375	L	1715	4.5	5	500	L	1715	6.3	7	600	L	1739			0			"4,303,998"	"4,782,220"	Lost earnings + Loss from logwood + Cost of vessels
+1717	Anthropological	Raid				6.3	7	1000	L	1739	4.5	5	2931.5	L	1715											"10,870,418"	"12,078,243"	Cost of vessels + Lost earnings
+1723	Anthropological	Raid				6.3	7	1000	L	1739	4.5	5	3500	L	1715											"12,297,137"	"13,663,486"	Cost of vessels + Lost earnings
+1725	Anthropological	Engagement				6.3	7	770	L	1739																"2,705,370"	"3,005,967"	Cost of vessels
+1725	Anthropological	Engagement				6.3	7	200	L	1739																"702,694"	"780,771"	Cost of vessels
+1726	Anthropological	Engagement																								0	0	
+1728	Anthropological	Engagement																								0	0	
+1729	Anthropological	Raid				6.3	7	200	L	1739	8.1	9	14000	L	1728	8.1	9	48000	L	1728						"280,776,266"	"311,973,629"	Cost of vessels + Loss from logwood + Lost earnings
+1730	Anthropological	Engagement																								0	0	
+1731	Anthropological	Engagement				6.3	7	70	L	1739																"245,943"	"273,270"	Cost of vessels
+1737	Anthropological	Engagement				8.1	9	1800	L	1728																"8,131,168"	"9,034,631"	Loss from logwood
+1737	Biological	Outbreak																								0	0	
+1739	Anthropological	Raid				6.3	7	840	L	1739																"2,951,313"	"3,279,237"	Cost of vessels
+1747	Anthropological	Raid				6.3	7	300	L	1739																"1,054,040"	"1,171,156"	Cost of vessels
+1751	Anthropological	Raid				6.3	7	450	L	1739	18	20	2666.66666666667	L	1750											"28,350,339"	"31,500,376"	Cost of vessels + Lost earnings
+1754	Anthropological	Raid				6.3	7	1250	L	1739	9.9	11	3000	L	1756											"20,636,797"	"22,929,774"	Cost of vessels + Cost of houses + Cost of personal & household property + Lost earnings
+1765	Anthropological	Riot																								0	0	
+1770	Anthropological	Riot				175	233	16	L	1768	58	117	16	L	1768	9.45	10.5	20	L	1770						"1,716,832"	"2,541,531"	Cost of houses + Cost of personal & household property + Loss of mahogany
+1771	Natural	Famine				0.135	0.15	2240000	L	1771																"128,372,673"	"142,636,303"	Loss of crops
+1772	Anthropological	Engagement																								0	0	
+1773	Anthropological	Engagement																								0	0	
+1773	Anthropological	Riot																								0	0	
+1775	Anthropological	Engagement																								0	0	
+1779	Anthropological	Engagement				6.3	7	1875	L	1739	175	233	198	L	1768	58	117	198	L	1768	11.25	12.5	60000	L	1779	"321,605,326"	"364,982,716"	Cost of vessels + Cost of houses + Cost of personal & household property + Lost earnings
+1779	Anthropological	Engagement																								0	0	
+1780	Anthropological	Engagement																								0	0	
+1784	Natural	Storm																								0	0	
+1785	Biological	Outbreak																								0	0	
+1785	Natural	Storm	1500	L	1785																					"592,549"	"592,549"	
+1787	Anthropological	Riot																								0	0	
+1787	Natural	Storm	30000	L	1787																					"11,850,983"	"11,850,983"	
+1788	Biological	Outbreak																								0	0	
+1792	Natural	Flooding				9.45	10.5	317.460317460317	L	1789	58	117	217	L	1768											"6,536,631"	"12,048,311"	Loss of mahogany + Cost of household property
+1794	Anthropological	Engagement																								0	0	
+1798	Hostile	Engagement																								0	0	
+1812	Natural	Storm																								0	0	
+1813	Natural	Storm				64	86	95	L	1792	21	43	95	L	1792											"3,036,376"	"4,554,564"	Cost of houses + Cost of personal & household property
+1823	Biological	Outbreak				0	0	144	L	1792																577	577	Cost of medical care
+1824		Engagement				6.3	7	70	L	1739																"245,943"	"273,270"	Cost of vessels
+1830	Biological	Outbreak				0	0	152	L	1792																609	609	Cost of medical care
+1831	Natural	Storm																								0	0	
+1852	Natural	Flooding				21	43	542	L	1792																"4,350,513"	"8,701,027"	Loss of personal & household property
+1854	Technological	Fire	95000	L	1854																					"26,490,431"	"26,490,431"	
+1854	Biological	Outbreak				0	0	508	L	1792																"2,039"	"2,039"	Cost of medical care
+1856	Technological	Fire	100000	L	1856																					"27,087,960"	"27,087,960"	
+1857	Biological	Outbreak				0	0	649	L	1792																"2,605"	"2,605"	Cost of medical care
+1860	Biological	Outbreak				0	0	835	L	1792																"3,352"	"3,352"	Cost of medical care
+1863	Technological	Fire				64	86	450	L	1792	21	43	450	L	1792											"14,447,819"	"21,671,728"	Cost of houses + Cost of personal & household property
+1863	Anthropological	Riot																								0	0	
+1864	Natural	Flooding				64	86	315	L	1792	21	43	315	L	1792	0.135	0.15	"426,006"	L	1771						"34,527,548"	"42,296,960"	Cost of houses + Cost of personal & household property + Loss of crops
+1864	Natural	Gales				6.3	7	350	L	1739																"1,229,714"	"1,366,349"	Cost of vessels
+1866	Anthropological	Engagement																								0	0	
+1866	Anthropological	Raid																								0	0	
+1866	Anthropological	Raid	45510	B	1866																					"2,725,077"	"2,725,077"	
+1867	Biological	Outbreak				0	0	878	L	1792																"3,523"	"3,523"	Cost of medical care
+1867	Anthropological	Raid																								0	0	
+1867	Anthropological	Raid																								0	0	
+1867	Anthropological	Raid				0.14	0	60	L	1715	0.01	0	600	L	1715											"7,613"	"8,458"	Cost of lumber + Cost of labour for hut
+1868	Anthropological	Raid	177031	B	1872																					"9,683,037"	"9,683,037"	
+1872	Anthropological	Raid																								0	0	
+1872	Anthropological	Raid																								0	0	
+1886	Biological	Outbreak				0	0	881	L	1792																"3,536"	"3,536"	Cost of medical care
+1894	Anthropological	Riot																								0	0	
+1905	Biological	Outbreak				0	0	"1,353"	L	1792																"5,432"	"5,432"	Cost of medical care
+1914	Anthropological	Engagement																								0	0	
+1918	Technological	Fire																								0	0	Cost of houses + Cost of personal & household property
+1918	Biological	Outbreak				0	0	"1,535"	L	1792																"6,161"	"6,161"	Cost of medical care
+1921	Biological	Outbreak				0	0	"1,586"	L	1792																"6,365"	"6,365"	Cost of medical care
+1931	Technological	Fire																								0	0	Cost of houses + Cost of personal & household property
+1931	Natural	Storm																								0	0	
+1932	Technological	Fire	250000	U	1932																					"9,440,146"	"9,440,146"	
+1939	Anthropological	Engagement																								0	0	
+1950	Anthropological	Riot																								0	0	
+1953	Technological	Fire	1000000	U	1953																					"19,375,281"	"19,375,281"	
+1955	Natural	Storm																								0	0	
+1961	Natural	Storm																								0	0	
+1974	Natural	Storm																								0	0	
+1978	Natural	Storm																								0	0	
+1981	Anthropological	Riot																								0	0	
+1986	Biological	Outbreak				0	0	"5,935"	L	1792																"23,818"	"23,818"	Cost of medical care
+1998	Natural	Storm																								0	0	
+2000	Natural	Storm																								0	0	
+2001	Natural	Storm																								0	0	
+2005	Natural	Storm																								0	0	
+2008	Natural	Flooding																								0	0	
+2008	Natural	Storm																								0	0	
+2009	Biological	Outbreak																								0	0	
+2010	Natural	Storm																								0	0	
+2017	Anthropological	Wreck																								0	0	
+2019	Biological	Outbreak																								0	0	

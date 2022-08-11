@@ -1,0 +1,36 @@
+Table 1
+Start	Type	Deaths	Description	Source for non-storm disasters
+1798	Hostile	0	Battle of St. George’s Caye	London Gazette No. 15100. p. 69
+1830	Biological	4	Outbreak of yellow fever	"Memorial Inscriptions and Epitaphs : Belize, British Honduras by Usher, J.P."
+1854	Biological		Outbreak of cholera (possible)	"Sir J.A. Burdon, Archives v 3, p. 174"
+1863	Technological	2	Fire	"The Growth and Development of Belize City by Everitt, J.C."
+1866	Hostile	5	Raid on San Pedro by Mr. Marcus Canul or Mr. Ascension Ek	"Sir J.A. Burdon, Archives v 3, p. 30"
+1866	Hostile	2	Raid on Qualm Hill by Mr. Marcus Canul or Mr. Ascension Ek	"Sir J.A. Burdon, Archives v 3, p. 29"
+1867	Biological	266	Outbreak of cholera	Report by Staff Asst.-Surgeon Kearney in Appendix No. XIV in Army Medical Dept. Report No. X for 1868
+1867	Biological	580	Outbreak of cholera	"Sir J.A. Burdon, Archives v 3, p. 299"
+1867	Hostile	3	Raid on San Jose by Mr. Marcus Canul or Mr. Ascension Ek	"Sir J.A. Burdon, Archives v 3, p. 29"
+1872	Hostile	1	Raid on Water Bank by Mr. Marcus Canul or Mr. Ascension Ek	"Sir J.A. Burdon, Archives v 3, p. 328"
+1872	Hostile	2	Raid on Orange Walk by Mr. Marcus Canul or Mr. Ascension Ek	"Sir J.A. Burdon, Archives v 3, p. 41"
+1886	Biological	68	Outbreak of yellow fever	"Sir J.A. Burdon, Archives v 3, p. 313"
+1886	Biological	3	Outbreak of yellow fever	Report to the Government of British Honduras … by Sir R.W. Boyce p. 2
+1905	Biological	8	Outbreak of yellow fever	Report to the Government of British Honduras … by Sir R.W. Boyce p. 5
+1914	Hostile	53	WWI	Commonwealth War Graves Commission for 39 from BHTF and 12 from BWIR (whose biographies mentioned provenance); The Lusitania Resource for 2 perished in RMS Lusitania
+1918	Biological	1014	Outbreak of Spanish flu	Report on recent epidemic of influenza in the town of Belize by Sgd. Thomas Gann 1919; Report on the influenza epidemic in the Districts by Thomas Gann 1919
+1918	Technological	1	Fire	"Honduras Governor Killed, article in The Washington Post, 13 Sep 1918"
+1921	Biological	4	Outbreak of yellow fever	"Public Health Reports, 26 Aug 1921, p 2084"
+1931	Natural	2500	Landfall of unnamed 1931 hurricane	
+1939	Hostile	10	WWII	"Commonwealth War Graves Commission for 4 from RAF, 6 from NCF, whose biographies mentioned provenance"
+1955	Natural	16	Close passage of Hurricane Janet	
+1961	Natural	307	Landfall of Hurricane Hattie	
+1974	Natural	1	Close passage of Hurricane Carmen	
+1978	Natural	4	Landfall of Hurricane Greta	
+1986	Biological	1753	Outbreak of HIV / AIDS	Belize Ministry of Health; Belize National AIDS Commission
+1997	Technological	22	Shipwreck	EM-DAT
+1998	Natural	9	Close passage of Hurricane Mitch	
+2000	Natural	19	Landfall of Hurricane Keith	
+2001	Natural	24	Landfall of Hurricane Iris	
+2005	Natural	3	Close passage of Hurricane Gamma	
+2008	Natural	5	Landfall of Hurricane Arthur	
+2009	Biological	1	Outbreak of swine flu	"Shahera Bodden, 29, is Belize’s 1st confirmed death from swine flu, article in Amandala, 17 Jan 2014, online"
+2010	Natural	1	Landfall of Hurricane Richard	
+2019	Biological	277	Outbreak of COVID-19	Belize Ministry of Health

@@ -1,0 +1,435 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Draft:James Cruickshank (printer)</title>
+    <ns>118</ns>
+    <id>70921553</id>
+    <revision>
+      <id>1091021779</id>
+      <parentid>1090948374</parentid>
+      <timestamp>2022-06-01T18:34:17Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Alter: pages, url, doi, last, issue. URLs might have been anonymized. Add: magazine, id, s2cid. Removed parameters. Formatted [[WP:ENDASH|dashes]]. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_CommandLine 289/1146</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="13198" xml:space="preserve">{{AfC submission|t||ts=20220601085550|u=Asdfjrjjj|ns=118|demo=}}&lt;!-- Important, do not remove this line before article has been created. --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+{{short description|First printer in colonial Belize}}
+{{use British English|date=June 2022}}
+{{use dmy dates|date=June 2022}}
+{{Infobox person
+| honorific_prefix   = 
+| name               = &lt;!-- defaults to article title when left blank --&gt;
+| honorific_suffix   = 
+| image              = &lt;!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] --&gt;
+| image_upright      = 
+| landscape          = &lt;!-- yes, if wide image, otherwise leave blank --&gt;
+| alt                = &lt;!-- descriptive text for use by speech synthesis (text-to-speech) software --&gt;
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name         = &lt;!-- only use if different from name --&gt;
+| birth_date         = &lt;!-- {{Birth date and age|YYYY|MM|DD}} for living people supply only the year with {{Birth year and age|YYYY}} unless the exact date is already widely published, as per [[WP:DOB]]. For people who have died, use {{Birth date|YYYY|MM|DD}}. --&gt;
+| birth_place        = Scotland
+| baptised           = &lt;!-- will not display if birth_date is entered --&gt;
+| disappeared_date   = &lt;!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) --&gt;
+| disappeared_place  = 
+| disappeared_status = 
+| death_date         = &lt;!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (enter DEATH date then BIRTH date (e.g., ...|1967|8|31|1908|2|28}} use both this parameter and |birth_date to display the person's date of birth, date of death, and age at death) --&gt;
+| death_place        = Belize
+| death_cause        = &lt;!--should only be included when the cause of death has significance for the subject's notability--&gt;
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates = &lt;!-- {{coord|LAT|LONG|type:landmark|display=inline}} --&gt;
+| burial_place       = &lt;!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) --&gt;
+| burial_coordinates = &lt;!-- {{coord|LAT|LONG|type:landmark|display=inline}} --&gt;
+| monuments          = 
+| nationality        = &lt;!-- use only when necessary per [[WP:INFONAT]] --&gt;
+| other_names        = 
+| siglum             = 
+| citizenship        = &lt;!-- use only when necessary per [[WP:INFONAT]] --&gt;
+| education          = 
+| alma_mater         = 
+| occupation         = Publisher, printer, MP
+| years_active       = 1826{{nbnd}}1840s
+| era                = 
+| employer           = 
+| organization       = 
+| agent              = &lt;!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source --&gt;
+| known_for          = First printer in colonial Belize
+| notable_works      = &lt;!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" --&gt;
+| style              = 
+| height             = &lt;!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) --&gt;
+| television         = 
+| title              = &lt;!-- Formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) --&gt;
+| term               = 
+| predecessor        = 
+| successor          = 
+| party              = 
+| otherparty         =
+| movement           = 
+| opponents          = 
+| boards             = 
+| criminal_charges   = &lt;!-- Criminality parameters should be supported with citations from reliable sources --&gt;
+| criminal_penalty   = 
+| criminal_status    = 
+| spouse             = &lt;!-- Use article title or common name --&gt;
+| partner            = &lt;!-- (unmarried long-term partner) --&gt;
+| children           = 
+| parents            = &lt;!-- overrides mother and father parameters --&gt;
+| mother             = &lt;!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) --&gt;
+| father             = &lt;!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) --&gt;
+| relatives          = 
+| family             = 
+| callsign           = 
+| awards             = 
+| website            = &lt;!-- {{URL|example.com}} --&gt;
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+'''James Cruickshank''' xxx
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+== Life ==
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+== Career ==
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+== Legacy ==
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+== Notes ==
+{{notefoot}}
+
+== Citations ==
+{{reflist}}
+
+== References ==
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+{{refbegin}}
+# {{cite news
+ |last              = anon.
+ |date              = 1 July 1826
+ |title             = vol 1 no 1
+ |work              = Honduras Gazette
+ |location          = Belize
+ |publisher         = James Cruickshank
+ |url               = https://infoweb-newsbank-com.ezp-prod1.hul.harvard.edu/apps/readex/doc?p=WHNPLAN2&amp;docref=image/v2%3A144DE1E40A96BF2D%40WHNPLAN2-144E3DC03306ED60%402388174-144E31B2D0FC28E8%400
+ |url-access        = subscription
+ |pages             = 1–4
+}}
+# {{cite news
+ |last              = anon.
+ |date              = 17 March 1827
+ |title             = vol 1 no 38
+ |work              = Honduras Gazette
+ |location          = Belize
+ |publisher         = James Cruickshank
+ |url               = https://infoweb-newsbank-com.ezp-prod1.hul.harvard.edu/apps/readex/doc?p=WHNPLAN2&amp;docref=image/v2%3A144DE1E40A96BF2D%40WHNPLAN2-144E3DE2CEC24648%402388433-144E3D5A18356728%406
+ |url-access        = subscription
+ |pages             = 1-4, with supplement pp. 1-4
+}}
+# {{cite news
+ |last              = anon.
+ |date              = 11 July 1829a
+ |title             = Guatemala
+ |work              = Newbern Sentinel
+ |volume            = XII
+ |issue             = 587
+ |location          = New Bern, N. Car.
+ |publisher         = Thomas Watson
+ |url               = https://infoweb-newsbank-com.ezp-prod1.hul.harvard.edu/apps/readex/doc?p=EANX&amp;docref=image/v2%3A125B73D37B7AC212%40EANX-11BB061C12E5CC90%402389280-11BB061C22DE8380%401-11BB061C62AEE418%40Guatemala
+ |url-access        = subscription
+ |page              = 2
+}}
+# {{cite news
+ |last              = anon.
+ |date              = 6 August 1829b
+ |title             = London Mails
+ |work              = Cheltenham Chronicle
+ |volume            = 20
+ |issue             = 1041
+ |location          = Cheltenham, Glos., Eng.
+ |publisher         = S. Y. Griffith &amp; G. Cunningham
+ |url               = https://link-gale-com.ezp-prod1.hul.harvard.edu/apps/doc/CL3245149758/BNCN?u=camb55135&amp;sid=bookmark-BNCN&amp;xid=7f635517
+ |url-access        = subscription
+ |page              = 2
+}}
+# {{cite book
+ |editor-first      = John Alder
+ |editor-last       = Burdon
+ |date              = 1933
+ |title             = From 1801-1840
+ |series            = Archives of British Honduras
+ |volume            = 2
+ |location          = London
+ |publisher         = Sifton, Praed &amp; Co.
+ |hdl               = 2027/mdp.39015028737016
+ |oclc              = 3046003
+}}
+# {{cite magazine
+ |first             = Roderick
+ |last              = Cave
+ |date              = 1975
+ |title             = Printing comes to Jamaica
+ |magazine              = Jamaica Journal
+ |location          = Kingston
+ |pages             = 11–18
+ |volume            = 9
+ |issue             = 2–3
+ |publisher         = Institute of Jamaica
+ |url               = https://www.dloc.com/UF00090030/00027
+ |url-access        =
+}}
+# {{cite journal
+ |last              = Cave
+ |first             = Roderick
+ |date              = 1976
+ |title             = Printing in Nineteenth-Century Belize
+ |journal           = Library Quarterly
+ |volume            = 46
+ |issue             = 1
+ |pages             = 20–37
+ |url               = http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/4306599
+ |url-access        = subscription
+ |doi               = 10.1086/620464
+ |jstor             = 4306599
+|s2cid = 144005676
+ }}
+# {{cite journal
+ |last              = Cave
+ |first             = Roderick
+ |date              = 1977
+ |title             = American Bibliographical Notes : The Printing of the Honduras Almanack
+ |journal           = Proceedings of the American Antiquarian Society
+ |volume            = 87
+ |issue             = 1
+ |pages             = 195–199
+ |url               = https://www.proquest.com/docview/1305089289
+ |url-access        = subscription
+ |doi               = 
+ |jstor             = 
+|id = {{ProQuest|1305089289}}
+ }}
+# {{cite journal
+ |last              = Cave
+ |first             = Roderick
+ |date              = 1978
+ |title             = Early Printing and the Book Trade in the West Indies
+ |journal           = Library Quarterly
+ |volume            = 48
+ |issue             = 2
+ |pages             = 163–192
+ |url               = http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/4306937
+ |url-access        = subscription
+ |doi               = 10.1086/630053
+ |jstor             = 4306937
+|s2cid = 143968810
+ }}
+# {{cite book
+ |first             = Frank
+ |last              = Cundall
+ |date              = 1916
+ |title             = The press and printers of Jamaica prior to 1820
+ |series            = 
+ |volume            = 
+ |location          = Worcester, Mass.
+ |publisher         = American Antiquarian Society
+ |hdl               = 2027/hvd.32044024430100
+ |oclc              = 621457
+}}
+# {{cite journal
+ |last              = Everitt
+ |first             = John C.
+ |date              = 1986
+ |title             = The Growth and Development of Belize City
+ |journal           = Journal of Latin American Studies
+ |volume            = 18
+ |issue             = 1
+ |pages             = 75–111
+ |url               = http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/157205
+ |url-access        = subscription
+ |doi               = 10.1017/S0022216X00011172
+ |jstor             = 157205
+}}
+# {{cite book 
+ |last= HA
+ |title= The Honduras almanack, for the year of our Lord 1826 ... : Calculated to the meridian of Belize
+ |date= 1826
+ |publisher= Published by Authority of the Magistrates
+ |location= Belize
+ |edition= 
+ |oclc= 950944267
+}}
+# {{cite book 
+ |last= HA
+ |title= The Honduras almanack, for the year of our Lord 1827 ... : Calculated to the meridian of Belize
+ |date= 1827
+ |publisher= Published by Authority of the Magistrates
+ |location= Belize
+ |edition= 
+ |oclc= 950947887
+}}
+# {{cite book 
+ |last= HA
+ |title= The Honduras almanack, for the year of our Lord 1828 ... : Calculated to the meridian of Belize
+ |date= 1828
+ |publisher= Published by Authority of the Magistrates
+ |location= Belize
+ |edition= 
+ |oclc= 266074037
+}}
+# {{cite book 
+ |last= HA
+ |title= The Honduras almanack, for the year of our Lord 1829 ... : Calculated to the meridian of Belize
+ |date= 1829
+ |publisher= Published by Authority of the Legislative Assembly
+ |location= Belize
+ |hdl= 2027/nnc1.cu56617763
+ |edition= 
+ |url= https://hdl.handle.net/2027/nnc1.cu56617763
+ |oclc= 682190774
+}}
+# {{cite book 
+ |last= HA
+ |title= The Honduras almanack, for the year of our Lord 1830 ... : Calculated to the meridian of Belize
+ |date= 1830
+ |publisher= Published by Authority of the Legislative Assembly
+ |location= Belize
+ |edition= 
+ |oclc= 266074037
+}}
+# {{cite book 
+ |last= HA
+ |title= The Honduras almanack, for the year of our Lord 1828 ... : Calculated to the meridian of Belize
+ |date= 1832
+ |publisher= Published by Authority of the Legislative Assembly
+ |location= Belize
+ |edition= 
+ |oclc= 266074037
+}}
+# {{cite book 
+ |last= HA
+ |title= The Honduras almanack, for the year of our Lord 1839 ... : Calculated to the meridian of Belize
+ |date= 1839
+ |publisher= Printed and Published by Henry Whitney
+ |location= Belize
+ |edition= 
+ |url= https://www.dloc.com/AA00064481/00001
+ |oclc= 266074037
+}}
+# {{cite book
+ |first             = Robert Montgomery
+ |last              = Martin
+ |date              = 1834
+ |title             = Possessions in the West Indies
+ |series            = History of the British colonies
+ |volume            = 2
+ |location          = London
+ |publisher         = Cochrane &amp; McCrone
+ |hdl               = 2027/hvd.32044009927740
+ |oclc              = 1155228020
+ |url               = 
+ |url-access        =
+}}
+# {{cite journal
+ |last              = Roché
+ |first             = Raphaël
+ |date              = 2021
+ |title             = Mur de papier, barrière de la langue
+ |journal           = HispanismeS
+ |volume            = 17
+ |issue             = sn
+ |pages             = sn-sn
+ |url               = 
+ |url-access        = 
+ |doi               = 10.4000/hispanismes.13470
+ |jstor             =
+|s2cid = 246336963
+ }}
+{{refend}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+{{authority control}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;</text>
+      <sha1>jdnvyzt7yrhvu7n864vc1y7rwghx1qj</sha1>
+    </revision>
+  </page>
+</mediawiki>

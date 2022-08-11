@@ -1,0 +1,95 @@
+Table 1
+Start	Type	Subtype	R Deaths	Population	Multiplier	Multiplier	Multiplier	Adder	E Deaths	Description	Source
+1701	Anthropological	Raid		0	0	0	0		0		
+1715	Natural	Famine		220	220	0.7	0.03		5		
+1716	Anthropological	Raid		250	250	0	0		0		
+1717	Anthropological	Raid		0	0	0	0		0		
+1723	Anthropological	Raid		0	0	0	0		0		
+1725	Anthropological	Engagement		380	380	0	0		0		
+1725	Anthropological	Engagement		380	3	13	0.8		31		
+1726	Anthropological	Engagement		395	395	0	0		0		
+1728	Anthropological	Engagement		425	425	0	0		0		
+1729	Anthropological	Raid		440	440	0	0		0		
+1730	Anthropological	Engagement		455	455	0	0		0		
+1731	Anthropological	Engagement	2	19	19				2		
+1737	Anthropological	Engagement		440	440	0	0		0		
+1737	Biological	Outbreak		440	440	0.4	0.03	7.8	13		
+1739	Anthropological	Raid		518	518	0	0		0		
+1747	Anthropological	Raid		829	829	0	0		0		
+1751	Anthropological	Raid		984	984	0	0		0		
+1754	Anthropological	Raid		0	0	0	0		0		
+1755	Anthropological	Resettlement		"1,205"	"1,205"	0	0		0		
+1765	Anthropological	Riot	4	"1,504"	"1,504"			4	8		
+1770	Anthropological	Riot		"1,702"	"1,702"	0.1	0.1		17		
+1771	Natural	Famine	80000	"1,741"	"1,741"				"80,000"		
+1772	Anthropological	Engagement	1	"1,781"	"1,781"				1		
+1773	Anthropological	Engagement		"1,821"	"1,821"	0.7	0.03		38		
+1773	Anthropological	Riot	4	"1,821"	"1,821"				4		
+1775	Anthropological	Engagement		"1,900"	"1,900"	0.7	0.03		40		
+1779	Anthropological	Engagement	2	0	0				2		
+1779	Anthropological	Engagement	4	0	0				4		
+1780	Anthropological	Engagement		0	0	0	0		0		
+1784	Natural	Storm		"2,078"	"2,078"	0	0		0		
+1785	Biological	Outbreak		"2,147"	"2,147"	0.3	0.03		19		
+1785	Natural	Storm	7	"2,147"	"2,147"				7		
+1787	Anthropological	Riot		"3,348"	"3,348"	0	0		0		
+1787	Natural	Storm	143	"3,348"	"3,348"				143		
+1788	Biological	Outbreak	50	"3,063"	"3,063"			100	150		
+1792	Natural	Flooding		"2,719"	"2,719"	0.7	0.03		57		
+1794	Anthropological	Engagement	5	"2,944"	"2,944"				5		
+1798	Hostile	Engagement		"3,395"	"3,395"	0	0		0		
+1812	Natural	Storm		"3,924"	"3,924"	0	0		0		
+1813	Natural	Storm		"3,941"	"3,941"	0	0		0		
+1823	Biological	Outbreak	155	"4,107"	"4,107"				155		
+1824		Engagement		"4,622"	15	1	1		15		
+1830	Biological	Outbreak	4	"4,336"	"4,336"				4		
+1831	Natural	Storm	1	"4,436"	"4,436"				1		
+1852	Natural	Flooding	9	"13,550"	"13,550"			3	12		
+1854	Technological	Fire		"14,517"	"14,517"	0	0		0		
+1854	Biological	Outbreak	230	"14,517"	"14,517"				230		
+1856	Technological	Fire		"16,773"	"16,773"	0	0		0		
+1857	Biological	Outbreak		"18,545"	"18,545"	0.4	0.005		37		
+1860	Biological	Outbreak		"23,863"	"23,863"	0.8	0.003		57		
+1863	Technological	Fire	2	"25,450"	"25,450"				2		
+1863	Anthropological	Riot	2	"25,450"	"25,450"				2		
+1864	Natural	Flooding		"25,358"	"25,358"	0	0		0		
+1864	Natural	Gales		"25,358"	"25,358"	0	0		0		
+1866	Anthropological	Engagement	5	"25,173"	"25,173"				5		
+1866	Anthropological	Raid	0	"25,173"	"25,173"				0		
+1866	Anthropological	Raid	2	"25,173"	"25,173"				2		
+1867	Biological	Outbreak	580	"25,080"	"25,080"				580		
+1867	Anthropological	Raid	0	"25,080"	"25,080"				0		
+1867	Anthropological	Raid	0	"25,080"	"25,080"				0		
+1867	Anthropological	Raid	3	"25,080"	"25,080"				3		
+1868	Anthropological	Raid	0	"24,988"	"24,988"				0		
+1872	Anthropological	Raid	1	"24,984"	"24,984"				1		
+1872	Anthropological	Raid	2	"24,984"	"24,984"				2		
+1886	Biological	Outbreak	68	"29,462"	"29,462"				68		
+1894	Anthropological	Riot	0	"33,273"	"33,273"				0		
+1905	Biological	Outbreak	8	"38,671"	"38,671"				8		
+1914	Anthropological	Engagement	53	"41,916"	"41,916"				53		
+1918	Technological	Fire	1	"43,859"	"43,859"				1		
+1918	Biological	Outbreak	1014	"43,859"	"43,859"				"1,014"		
+1921	Biological	Outbreak	4	"45,317"	"45,317"				4		
+1931	Technological	Fire	0	"51,347"	"51,347"				0		
+1931	Natural	Storm	2500	"51,347"	"51,347"				"2,500"		
+1932	Technological	Fire	0	"51,872"	"51,872"				0		
+1939	Anthropological	Engagement	10	"55,546"	"55,546"				10		
+1950	Anthropological	Riot	0	"68,915"	"68,915"				0		
+1953	Technological	Fire	1	"75,778"	"75,778"				1		
+1955	Natural	Storm	16	"80,888"	"80,888"				16		
+1961	Natural	Storm	307	"93,586"	"93,586"				307		
+1974	Natural	Storm	1	"131,305"	"131,305"				1		
+1978	Natural	Storm	4	"138,975"	"138,975"				4		
+1981	Anthropological	Riot	5	"147,572"	"147,572"				5		
+1986	Biological	Outbreak	1753	"169,569"	"169,569"				"1,753"		
+1998	Natural	Storm	9	"230,248"	"230,248"				9		
+2000	Natural	Storm	19	"247,310"	"247,310"				19		
+2001	Natural	Storm	24	"255,068"	"255,068"				24		
+2005	Natural	Storm	3	"283,798"	"283,798"				3		
+2008	Natural	Flooding	5	"306,822"	"306,822"				5		
+2008	Natural	Storm	5	"306,822"	"306,822"				5		
+2009	Biological	Outbreak	1	"314,655"	"314,655"				1		
+2010	Natural	Storm	1	"322,465"	"322,465"				1		
+2017	Anthropological	Wreck	0	"375,775"	"375,775"				0		
+2019	Biological	Outbreak	277	"390,351"	"390,351"				277		

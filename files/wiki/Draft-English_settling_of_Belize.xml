@@ -1,0 +1,1476 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Draft:English settling of Belize</title>
+    <ns>118</ns>
+    <id>70636717</id>
+    <revision>
+      <id>1088627674</id>
+      <parentid>1088423654</parentid>
+      <timestamp>2022-05-19T06:05:44Z</timestamp>
+      <contributor>
+        <username>DannyS712</username>
+        <id>34581532</id>
+      </contributor>
+      <minor/>
+      <comment>Disable the categories on this page while it is still a draft, per [[WP:DRAFTNOCAT]]/[[WP:USERNOCAT]] (using [[User:DannyS712/Draft no cat|Draft no cat]] v1.8). The easiest way to do this is by converting them to links, by adding a colon: "[[Category:" → "[[:Category:"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="70359" xml:space="preserve">{{short description|1638 English landing on the Belize River}}
+{{Use dmy dates|date=April 2022}}
+{{Use British English|date=April 2022}}
+{{infobox historical event
+  |event          = English settlement of Belize
+  |image          = David Cox - Pirate's Isle - Google Art Project.jpg
+  |alt            = (Alt text for image)
+  |caption        = ''Pirate's Isle'' {{small|/ 1826 watercolour by David Cox / via Google}}
+  |coordinates    = {{coord|17.49361319555655|-88.18526849738882|region:BZ_type:event|display=title,inline}}
+  |aka            = 
+  |cause          = {{hlist|shipwreck on cayes, shallows, or the [[Belize Barrier Reef|barrier reef]]|buccaneering or piracy}}
+  |participants   = {{hlist|[[Peter Wallace (buccaneer)|Peter Wallace]]|80 [[buccaneers]] or [[Baymen]]}}
+  |location       = mouth of [[Haulover Creek]]
+  |date           = 1638
+  |result         = [[Belize City|Belize]] founded
+  |url            = 
+}}
+
+The '''Anglo-Saxon''', '''English''', or '''Baymen's settling of Belize''' was effected upon the 1638 landing at the mouth of [[Haulover Creek]] by shipwrecked [[buccaneers]] or [[Baymen]].
+
+== Prelude ==
+
+=== Piracy ===
+[[File:A view of Truxillo, a city belonging to the Spaniards in the Bay of Honduras LCCN2003666724.png|thumb|upright=1.3|''A view of Truxillo Bay and city on the coast of Honduras'' {{small|/ 1796 lithograph by Thomas Bowen / via LC}}]]
+[[File:NaturalhistoryCc1v2Cate 0207.jpg|thumb|upright=1.3|''Lacertus [et] Lignum Camp.'' {{small|/ 1732 lithograph by Mark Catesby / via Biodiversity Lib.}}]]
+{{see also|Timeline of piracy in the Bay of Honduras}}
+==== Buccaneering ====
+
+In November{{nbnd}}December 1544, a ''patax'' of 22 [[French corsairs]], mates of Pedro Braques, were apprehended off the coast of colonial Honduras. Their arrival marked the beginning of over three centuries of piracy in the [[Bay of Honduras]].{{sfn|De la O Torres|2016|p=43}}{{sfn|De la O Torres|2020|p=183}}{{sfn|Chamberlain|1953|p=225}}{{notetag|It has been suggested that French corsairs were seeking to advance their country's cause during the [[Italian Wars|Habsburg–Valois Wars]]. These early cruises prompted the construction of the [[Santa Bárbara fortress|Santa Barbara Fortress]] in [[Trujillo, Honduras|Trujillo]] in 1550 {{harv|Chamberlain|1953|pp=225, 231}}. No (successful) piratical raids are noted in the Bay in 1543{{nbnd}}1554. Eight (French) were noted in 1555{{nbnd}}1561. None in 1562{{nbnd}}1566. One (French) in 1567{{nbnd}}1571. Twelve (three French, eight English, one unknown) in 1572{{nbnd}}1582 {{harv|De la O Torres|2020|pp=193, 197-203, 220-228, 232-241, 268-280, 288-301}}.}}
+
+French corsairs were (belatedly) followed into the Bay by [[Sea Dogs|Elizabethan Sea Dogs]] three decades later. In the latter half of 1576, [[Andrew Barker (merchant)|Andrew Barker]] and company, with Amerindian pilots from Veragua, watered at an island near the Amatique Bay, and further sacked Trujillo.{{sfn|De la O Torres|2020|pp=284-285}}{{sfn|Hakluyt|1600|pp=528-530}}{{sfn|Laughton|2004|loc=para. 1-2}}{{sfn|Wright|1932|loc=docs. nos. 36-37, 41, 45-47, 49, 50, 55, 57, 59, 60, 63, 65}}{{notetag|In March 1575, the Spanish Inquisition had seized the ''Christopher'' (Barker and his brother John owners, Henry Roberts captain) at Tenerife, and fined Barker upwards of 1,700 pounds sterling, prompting the Bristol merchant to turn privateer, whereupon{{nbnd}}{{blockquote|text=In recompense of which iniurie (for that no suite prevaileth against the inquisition of Spaine), and also to recover his losse of the Spaniards themselves, at his owne charge with the help of his friends hee [Barker] furnished two barkes for the West Indies, the greater of which barkes was called the Ragged Staffe, himselfe being captaine, and Philip Roche master thereof, the other named the Beare had one William Coxe of Limehouse for her Master and captain. And thus all out company being imbarked at Plimmouth on Whitsonday in the beginning of June [1576], we set forward, [...] [eight or nine of the crew die of illness, and some of the crew return to England in a Spanish prize, with two Flemish sailors] Thus passing forward in our course, we came to Veragua, [...] Here we sanke our Admirall the Ragged staffe, because of her great leakage, and imbarked part of our company in the Spanish frigate, which immediately before we had surprised. From hence (by the direction of certain Indians) we sayled into the gulfe of the Honduras : there we tooke a barke wherin were rials of plate, to the value of 100 pound, Maiz or Indian wheat, hennes, beefe and other small things. In this barke also were certaine Spaniards, whereof one was the Scrivano or secretary of Carthagena, who (beign a man of some note) was put to his ransome, which was payd in gold : the rest were dismissed freely. And after passing by divers Islands, we arrived at an Island called S. Francisco, being in the mouth of the great bay, called the Honduras. And within two dayes next after our arrivall there, William Coxe and divers other (which for certaine causes shalbe namelesse) came aboord the ship wherein the captain then was, and disposessed him as well of the sayd ship, as of the treasure in the same, and forthwith put our captaine with violence on shore, where he and one Germane Weiborne fought together, and were both wounded. After this our captain desirous to come on aboord, was resisted by the persons aforesayd, who answered him that he should not come on boord till they were ready to depart. Our men had appointed ten persons of their company for the keeping of this Island of S. Francisco : but about breake of the day, on a certaine morning, sixtie Spaniards arriving secretly in the Island, surprised our people on the sudden, what time there were thirtie of our men on shore: in which surpirse they slew our captaine, D. Andrew Barker with eight others, namely, one Wilde of Bristol, and Michael our Chirurgian, Richard of Bristol, Thomas Sampoole, Thomas Freeman, Thomas Nightingale, Robert Iackson, Walter Newton; and the captaines boy and one other were hurt. Now after that William Cose and the rest (which were aboord the barke) perceived that the captaine, and some others were slain, he receive them that were living into the ship, having before that time refused some of them. After this misfortune they went to an Island distant from thence a league, where Coxe devided a chaine of gold (which was found in the captaines chest after his death) amongst the company. After this Coxe went in a pinesse (which wee tooke at the Isle of Sant Francisco) with certaine others of our men in a skyffe, to the towne of Truxillo, in the bay of Honduras, which towne they surprised, and had therein wine and oyle as much as they would, and divers other good things, but no gold nor silver, nor any other treasure which they would confesse. But before they could returne to their company, those that were in the barkes were had in chase by men of warre, whereby they were inforced every man to shift for himselfe: so for haste they left those that were in the skiffe (being 8 persons) in the bay of Honduras: what became of them afterwards God knoweth. Hereupon we determined to saile for England, [...].|author=collected out of certaine notes and examinations thouchign this enterprise by M. Richard Hakluyt {{harv|Hakluyt|1600|pp=528-530}}.}}}}{{notetag|Though non-Spanish pirates or privateers, described simply as ''Lutherans'' in Spanish records, raided Puerto Caballos on 13 January 1572 {{harv|De la O Torres|2020|p=287}}.}}
+
+Barker was shortly followed by John Barker (possibly Andrew's brother). During October 1577{{snds}}April 1578, John and his 60 men ransacked [[Bacalar]], this being the first (known) entrance by Englishmen into the waters of present-day [[Belize]].{{sfn|De la O Torres|2020|pp=285-286}}{{sfn|Wright|1932|pp=102-108, 196-198}}{{sfn|Figueroa|Johnson|Goodwin|2021|pp=186-187}}{{sfn|De la O Torres|2010|p=104}}
+
+
+Barker, in turn, was followed by [[Christopher Newport]], [[William Parker (privateer)|William Parker]], [[Anthony Sherley]], and a number of Dutch privateers, including [[Abraham Blauvelt]].
+
+xxx
+
+xxx
+
+{{blockquote|text=The romantic but commonly held view of the history of Belize begins with a haven of free-spirited and adventuresome pirates occasionally sneaking out of hiding amid the cay[e]s and reef system to perform piratical acts of independence against Britain's economic oppression and Spain's cultural conceit. They eventually become attached to the place so they find legitimate livelihoods, prosper, form a government, and are eventually rewarded with the status of a colony of the British Empire.|author=1994 Daniel R. Finamore.{{sfn|Finamore|1994|p=2}}}}
+
+Logwood recognised by English sailors as valuable commodity at leasty by 1570s / Earliest English loggign of it possibly at Cape Catoche by Jamaicans /Dampier II 1906 p115 / Robertson III 1803 p365 by 1662 Jamaicans start settling at Campeachy to log /Thornton 1953 p27 /v Finamore 19
+
+English privateers, pirates, and other mariners were making sporadic visits to [the Belize] portion of the Bay of Honduras coast for a variety of purposes at least as early as 1570 (Calderon Q. 1944: 41), including periodic raids upon the Spanish settlement at Bacalar, which were recorded in 1642,1648, and 1652, and possibly even itinerant timber exploitation as early as 1618 (Gerhardt 1979: 70) /v Finamore 21
+
+There were no doubt many Englishmen passing along this coast, obtaining food from the sea, fresh water from the mainland, protection from Spanish guarda costas in the multitude of secluded cays, rivers, and remote backwaters that would allow one to careen a vessel or await a passing merchant ship that might become the next prize. In 1677, the Dominican Friar Joseph Delgado was captured near Southern Lagoon by English pirates under the command of Bartholomew Sharpe, and was taken to their encampment on St. George's Cay, nine miles of the coast (Thompson 1988: 28). There are a handful of accounts that describe English refugees from other parts of the Caribbean who were either living in small communities or completely alone along the coast from Panama to Honduras during the later seventeenth and early eighteenth centuries (M.W. 1732; Atkins 1735; Uring 1726), and it seems reasonable to assume that they had precursors whose existence was simply never documented. There is no substantiated evidence for significant English settlement anywhere on the coast of Belize before 1680 (Burdon I 931: 2), however the myth of early English communities there continues unabated (e.g., Marcus 1990)./v Finamore 21-22
+
+==== Smuggling ====
+
+==== Logging ====
+
+==== Abduction ====
+
+When Friar Delgado explored much of Belize in 1677, he regularly encountered Maya villages.
+However, in the far south in the vicinity of the Moho River, he also encountered English pirates who carried off numerous native Maya inhabitants, most likely into slavery Thompson 1988: 25)./v Finamore 23
+
+=== English settlement ===
+mos shore and providence / &amp; Roatan
+
+=== Mayan revolt ===
+{{main|1638 Tipu revolt}}
+
+xxx
+
+== Incident ==
+
+=== In tradition ===
+
+Belize is traditionally held to have been the first English settlement in the [[Bay of Honduras]]. It is commonly thought to have been settled by [[Peter Wallace]] and his crew of 80 buccaneers, aboard the ''Swallow'', in 1638.
+
+No records of this landing have been discovered, however, and it is commonly thought that none are extant, or that the story is apocryphal /Bridges II 1828 p134 /Finamore p=21
+
+=== In scholarship ===
+
+xxx
+
+{| class="sortable"
+|+ style="text-align:left;"|Comparison of theories regarding the first English settlement of present-day Belize.{{notetag|This list is not exhaustive.}}
+|-
+! style="text-align:left;"|{{abbr|No|Row number}}
+! {{abbr|Flr|Floor or lower bound of date or date-range}} 
+! {{abbr|Clg|Ceiling or upper bound of date or date-range}} 
+! style="text-align:left;"class=unsortable|Date 
+! style="text-align:left;padding-left:.5em;"class=unsortable|Settled 
+! style="text-align:left;padding-left:.5em;"class=unsortable|Cause 
+! style="text-align:left;padding-left:.5em;"class=unsortable|Notes
+|-
+| style="vertical-align:top;"|1 
+| style="text-align:center;vertical-align:top;"|1603 
+| style="text-align:center;vertical-align:top;"|1607 
+| style="vertical-align:top;"|late 1603 / c. est. of Hond. flotilla 
+| style="padding-left:.5em;vertical-align:top;"|Wallace 
+| style="padding-left:.5em;vertical-align:top;"|settle 
+| style="padding-left:.5em;vertical-align:top;"|{{smalldiv|{{unbulleted list|''in'' {{harvcolnb|Asturias|1925|pp=8-9, 11}} / {{harvcolnb|Burdon|1931|p=3}} / {{harvcolnb|Asturias|1941|pp=11-16}} / {{harvcolnb|Donohoe|1946|p=27}} / {{harvcolnb|Curry, Jr.|1956|p=32}} / {{harvcolnb|Bulmer-Thomas|Bulmer-Thomas|pp=141-142}}|''quote'' {{notetag|{{text and translation|[A]unque algunos creen que Wallace se instaló en Belice hasta el año 1617, es probable que esto haya ocurrido antes. [...] Wallace compró seis buques que los tripuló con la gente mas desalmada de Londres y se dirigió a América el dia 14 de Mayo de 1603, [...] Sin tener ningun comprobante, me imagíno que es en esta expedición cuando él llaga a la desembocadura del RIO VIEJO, que desde entonces comienza a llamarse de Wallace o BELICE. [...] Es pues mas verosimil que en su viaje a América, emprendido en 1603 [Wallace] haya llegado a la desembocadura del Rio Viejo [...]. [...] El 7 de Marzo de 1604 fué reconocido el puerto de Santo Tomas de Castilla [...] Por este tiempo se estableció la flotilla de Honduras, compuesta de dos buques, y es muy probable que tambien por este tiempo haya llegado Wallace a la desembocadura del rio Viejo y establecido la ranchería que mas tarde se llamó Belice. [...] En 1607 el conde Mauricio, al mando de ocho naves holandesas asaltó Santo Tomas, [...].|[A]lthough some believe that Wallace settled in Belize as late as 1617, it is likely that this occurred earlier. [...] Wallace bought six ships and manned them with the most heartless people in London and sailed to the Americas on 14 May 1603, [...] Though I cannot prove it, I imagine that it is on this expedition that he [first] reaches the mouth of the OLD RIVER, which since then begins to be called Wallace or BELIZE. [...] It is therefore more likely that on his journey to the Americas, undertaken in 1603 [Wallace] reached the mouth of the Old River [...]. [...] On 7 March 1604, the port of Santo Tomas de Castilla was discovered [...] By this time the flotilla of Honduras, composed of two ships, was established, and it is very likely that, [likewise] around this [same] time, Wallace arrived at the mouth of the Old River and established the settlement that was later called Belize. [...] In 1607 Count Mauricio, in command of eight Dutch ships, assaulted Santo Tomas, [...].|{{harvnb|Asturias|1925|pp=8-9, 11}}}}}}}}}}
+|-
+| style="vertical-align:top;"|2 
+| style="text-align:center;vertical-align:top;"|1605 
+| style="text-align:center;vertical-align:top;"|1615 
+| style="vertical-align:top;"|c. 1610 
+| style="padding-left:.5em;vertical-align:top;"|Wallace 
+| style="padding-left:.5em;vertical-align:top;"|settle 
+| style="padding-left:.5em;vertical-align:top;"|{{small|''in'' {{harvcolnb|Egli|1872|p=50|loc=sec. B item Balize}} / {{harvcolnb|Nuñez Ortega|1877|p=7}}}}
+|-
+| style="vertical-align:top;"|3 
+| style="text-align:center;vertical-align:top;"|1617 
+| style="text-align:center;vertical-align:top;"|1617 
+| style="vertical-align:top;"|– 
+| style="padding-left:.5em;vertical-align:top;"|Wallace 
+| style="padding-left:.5em;vertical-align:top;"|? 
+| style="padding-left:.5em;vertical-align:top;"|{{small|''in'' {{harvcolnb|Asturias|1925|pp=8-9}}}}
+|-
+| style="vertical-align:top;"|4 
+| style="text-align:center;vertical-align:top;"|1617 
+| style="text-align:center;vertical-align:top;"|1652 
+| style="vertical-align:top;"|prior to Bacalar sacking 
+| style="padding-left:.5em;vertical-align:top;"|the English 
+| style="padding-left:.5em;vertical-align:top;"|? 
+| style="padding-left:.5em;vertical-align:top;"|{{smalldiv|{{unbulleted list|''in'' {{harvcolnb|RWJ|1732}}|''quote'' {{notetag|{{block quote|As to the State of the Bay of Honduras, I shall give it you as briefly as possible. The ancient City of Bacalar, situate in that Part of the Province of Yucatan, which lies on the Bay of Honduras, was twice sack'd, and at last totally ruined by the English many Years ago; on which the Logwood-Cutters of that Nation, who settled on the River of Valis, possessed themselves of the New River and that of Hondo; which last is distant from the Ruins of Bacalar about five Leagues. Here they built a great many Houses and Hutts, and employ'd Multitudes of Negroes in cutting Logwood, which was transported to Jamaica and Europe by Numbers of Vessels trading from thence to the Bay.|{{harvnb|RWJ|1732}}}}}}|''note'' {{notetag|(Known) 17th century sackings of Bacalar occurred in{{nbnd}}
+* in 1617 (''s.d.'') xxx,
+* in 1642 (''s.d.'') xxx /Winzerling 59,
+* in 1648 (''s.d.'') xxx /Winzerling 59,
+* in 1652 (29 May) xxx /Winzerling 59.
+}}}}}}
+|-
+| style="vertical-align:top;"|5 
+| style="text-align:center;vertical-align:top;"|1629 
+| style="text-align:center;vertical-align:top;"|1635 
+| style="vertical-align:top;"|c. est. of Providence 
+| style="padding-left:.5em;vertical-align:top;"|Earl of Warwick's privateers / Providence Puritans 
+| style="padding-left:.5em;vertical-align:top;"|haven / farm 
+| style="padding-left:.5em;vertical-align:top;"|{{smalldiv|{{unbulleted list|''in'' {{harvcolnb|Winzerling|1946|loc=cap. 6}}|''quote'' {{notetag|{{block quote|text=THE PURITAN COLONISTS. In all the published historical records on the colony, the British colonization begins at Belize [City]. This is not true. It is due to insufficient research and the tendency to facile explanation. There are no Spanish geographic names between Monkey River and Belize [City]. Because of this I decided to search the sixteenth, seventeenth, and eighteenth century records on insular and mainland Caribbean history in the rare-books' sections of several of the great libraries of Europe. Works in Dutch, English, French, German, Latin, and Spanish were perused. My views expressed in these pages have been tempered in that light, but I have used only such as have a bearing on my subject. [...] On December 4, 1630 there was formed in London a company authorized by Charles I, "whereby Robert Earl of Warwick was made Governor in Chief and Lord High Admirall of all those islands and other plantations, inhabited, planted, or belonging to any of his Majesties the King of Englands subjects, within the bounds and upon the coast of America [...]" [In the Calendar of State Papers, 1574-1660, colonial series, published in 1860]. [...] The Earl of Warwick was a speculator in privateering, and a group of the wealthy Company of Merchant Adventurers in London were also backing him. Privateering was a part of their commercial interests, and in this they used the Puritans, who were in religious opposition to Charles I and his friendship for Spain, to assist them to colonize fortified sites from where they could raid the Spanish shipping and the Spanish Main. [...] The "Seaflower" brought the first batch of colonists to Santa Catalina or Old Providence in May 1631, most of them Puritans, with their governor, Captain Philip Bell, who had been governor of the Somers or Bermuda Islands in 1626-1627. When the colonists arrived this island was inhabited by some Dutch sea rovers amongst whom were the two brothers Captain William Albert Blauvelt and Abraham Blauvelt. [...] The selection of this island which lay in the track of the Plate Fleet was made by the Earl of Warwick's captains because of its position between the two main objectives, the Plate Fleet sailing from Panama to Havana, and the Cockscomb Coast as a base for bartering with the interior fo Guatemala. [...] Soon the colonists found out that the soil of Old Providence was worthless for their agriculture, and they began to look elsewhere. In 1631 they were active in Tortuga and resolved that henceforth that island should be called Association. But the island of Tortuga was also too small and too exposed to attack, and so they began in the same year to establish themselves in increased numbers on the Cockscomb Coast, a region from which they could not be expelled but by a strong Spanish naval force on account of the coral reefs, while to attack from the land would have been still costlier. Small plantations were already established here by Captain Daniel Elfrith who made the preliminary survey and recommendation [sometime during 1613-1624]. They cultivated the fresh soil which was then right on the beach and grew an abundance of potatoes and pumpkins. [...] in May and July 1633 Captain Sussex Camock was appointed director of a trade at Capt Gratia de Dios, with Edward Willaims and Nath. [...] For the trading stand the coast was selected which lies at the foot of the Cockscomb Mountainsn in the Bay of Honduras and is protected by the barrier-reef. Silk-grass grew there in great abundance in the creeks and lagoons where some Moskito Indians lived. [...] Thus the history of British colonization in the Bay began in 1629 with the privateers of the Earl of Warwick. It began with silk-grass and tobacco. This area is over 300 years in unbroken British occupation. They clearly gave the position as between 10 and 20 degrees north latitude, and 290 and 310 degrees of longitude, which of course was not computed from Greenwich but from Ferro, and puts Old Providence, Cape Gracias a Dios, and the Cockscomb Coast within its area, with the 20th parallel passing at Tortuga.|author={{harvnb|Winzerling|1946|pp=33-37|loc=cap.6}}}}}}|''note'' {{notetag|xxxxxx}}}}}}
+|-
+| style="vertical-align:top;"|6 
+| style="text-align:center;vertical-align:top;"|1630 
+| style="text-align:center;vertical-align:top;"|1670 
+| style="vertical-align:top;"|mid-17th cent. 
+| style="padding-left:.5em;vertical-align:top;"|Wallace 
+| style="padding-left:.5em;vertical-align:top;"|settle 
+| style="padding-left:.5em;vertical-align:top;"|{{smalldiv|{{unbulleted list|''in'' {{harvcolnb|F|1849|p=3}} / {{harvcolnb|García Paláez|1852b|pp=136, 140}} / {{harvcolnb|Peniche|1869|pp=217-219}} / {{harvcolnb|Nuñez Ortega|1877|pp=7-9, 16-17}} / {{harvcolnb|Ancona|1878|pp=371-373}} / {{harvcolnb|Bancroft|1883|pp=623-624}} / {{harvcolnb|Asturias|1941|pp=14-15}} / {{harvcolnb|Winzerling|1946|pp=56-57}} / {{harvcolnb|Bulmer-Thomas|Bulmer-Thomas|2016|pp=140-141}}|''quote'' {{notetag|{{text and translation|Dícese que un bucanero escocés atrevido y emprendedor, llamado Peter Wallace, [...] determinó buscar un sítio á propósito en que colocar perpetuamente su guarida. Como esto ocurria á mediados del siglo XVII la costa de Yucatan bañada del golfo de Honduras, se hallaba totalmente deshabitada de españoles, pues el único establecimiento que allí habia, el de Bacalar, habia sido aniquilado por la irrupcion del filibustero Abraham (en 1648 y 1652, segun Cogollydo) y por la sublevacion de los indios de aquel distrito. Wallace hizo un perfecto reconocimineto de aquellos bajos y arrecifes, y despues de un exámen diligente halló en nuestras costas un rio enteramente á cubierto con una series de cayos y bajos; y desembarcó allí con unos ochenta piratas, que desde el momento mismo construyeron unas cuantas chozas circunvaladas de una especie de empalizada ó ruda fortaleza. Dieron aquellos aventureros el nombre de Wallace al rio en cuyas márgenes se establecieron, nombre que despues degeneró en Wallix, y por último en Belice, [...].|It is said that a daring and enterprising Scottish buccaneer, named Peter Wallace, [...] determined to find a suitable site in which to establish a permanent [pirate's] lair. As this happened in the middle of the 17th century, the coast of [southeaster] Yucatan [which is] bathed by the Gulf of Honduras, was totally uninhabited by Spaniards, since the only establishment that existed there, that of Bacalar, had been annihilated by a depredation of Abraham, the filibuster (in 1648 and 1652, according to Cogolludo) and by the uprising of the Indians of that district. Wallace made a perfect reconnaissance of those shoals and reefs, and after diligent examination he found on our shores a river entirely covered with a series of cayes and shoals; and he landed there with about eighty pirates, who from the same moment built a few huts surrounded by a kind of palisade or rude fortress. Those adventurers gave the name of Wallace to the river on whose banks they settled, a name that later degenerated into Wallix, and finally into Belize, [...].|{{harvnb|F|1849|p=3}}}}}}|''note'' {{notetag|Intelligence commonly attributed to [[Justo Sierra O'Reilly]], a well-esteemed Meridian journalist, novelist, and historian, and thereby judged reliable or ''highly'' reliable by Mexican authorities (though Sierra O'Reilly did not make it a practice to cite sources in his historical texts) {{harv|Nuñez Ortega|1877|pp=8-9}}.}}}}}}
+|-
+| style="vertical-align:top;"|7 
+| style="text-align:center;vertical-align:top;"|1634 
+| style="text-align:center;vertical-align:top;"|1668 
+| style="vertical-align:top;"|in sec. third of 17th cent. 
+| style="padding-left:.5em;vertical-align:top;"|Wallace 
+| style="padding-left:.5em;vertical-align:top;"|? 
+| style="padding-left:.5em;vertical-align:top;"|{{small|Sierra O'Reilly xxx / {{harvcolnb|Ancona|1878|pp=374-375}}}}
+|-
+| style="vertical-align:top;"|8 
+| style="text-align:center;vertical-align:top;"|1630 
+| style="text-align:center;vertical-align:top;"|1670 
+| style="vertical-align:top;"|prior to Treaty 
+| style="padding-left:.5em;vertical-align:top;"|the British 
+| style="padding-left:.5em;vertical-align:top;"|? 
+| style="padding-left:.5em;vertical-align:top;"|{{smalldiv|{{unbulleted list|''in'' {{harvcolnb|McCulloch|1841|pp=1014-1015}} / {{harvcolnb|McCulloch|1866|pp=563-564}}|''quote'' {{notetag|{{block quote|HONDURAS (BRITISH), [...] This coast was discovered by Columbus, in 1502; the date of its first settlement by Europeans is uncertain. It was transferred from Spain to England by treaty, in 1670, but its occupation was contested at different times by the Spaniards, down to 1798, since which it has remained quietly in our possession. (Henderson's Account of Honduras; Parl. Papers, &amp;c.)|{{harvnb|McCulloch|1841|pp=1014-1015}}}}}}}}}}
+|-
+| style="vertical-align:top;"|9 
+| style="text-align:center;vertical-align:top;"|1638 
+| style="text-align:center;vertical-align:top;"|1638 
+| style="vertical-align:top;"|– 
+| style="padding-left:.5em;vertical-align:top;"|a few British subjects 
+| style="padding-left:.5em;vertical-align:top;"|wreck 
+| style="padding-left:.5em;vertical-align:top;"|{{smalldiv|{{unbulleted list|''in'' {{harvcolnb|HA|1829|p=40}} / {{harvcolnb|Gibbs|1883|p=23}} / {{harvcolnb|Bristowe|Wright|1888|p=23}} / {{harvcolnb|Avery|1900|p=333}} / {{harvcolnb|Swayne|1917|p=162}} / {{harvcolnb|Metzgen|Cain|1925|p=31}} / {{harvcolnb|Asturias|1941|pp=13-14}} / {{harvcolnb|Donohoe|1946|p=28}} / {{harvcolnb|Winzerling|1946|pp=46-47, 57}} / {{harvcolnb|A|2011|loc=para. 2}} / {{harvcolnb|Bulmer-Thomas|Bulmer-Thomas|2016|pp=144-145}}|''quote'' {{notetag|{{block quote|1638.----This year a few British subjects first inhabited Honduras, having been wrecked on the Coast.|{{harvnb|HA|1829|p=40}}}}}}}}}}
+|-
+| style="vertical-align:top;"|10 
+| style="text-align:center;vertical-align:top;"|1638 
+| style="text-align:center;vertical-align:top;"|1638 
+| style="vertical-align:top;"|– 
+| style="padding-left:.5em;vertical-align:top;"|Wallace 
+| style="padding-left:.5em;vertical-align:top;"|wreck 
+| style="padding-left:.5em;vertical-align:top;"|{{smalldiv|{{unbulleted list|''in'' {{harvcolnb|HA|1827|p=5}} / {{harvcolnb|Bridges|1828|pp=134-137}} / {{harvcolnb|HA|1829|p=5}} / {{harvcolnb|HA|1839|pp=2-3}} / {{harvcolnb|Stephens|1841|pp=14-15}} / {{harvcolnb|Ancona|1878|pp=373-374}} / {{harvcolnb|Metzgen|Cain|1925|p=1}} / {{harvcolnb|Asturias|1941|pp=13-16}} / {{harvcolnb|Donohoe|1946|p=28}} / {{harvcolnb|Curry, Jr.|1956|p=32}} / {{harvcolnb|Iyo|Tzalam|Humphreys|2007|p=287}} / {{harvcolnb|Kinsbruner|Langer|2008|loc=para. 1}} / {{harvcolnb|Bulmer-Thomas|Bulmer-Thomas|2016|pp=138-140, 142-144}} / {{harvcolnb|Griffith|Alford|Bolland|2022|loc=para. 3}}|''quote'' {{notetag|{{block quote|Wallice [was a] Lieutenant among the Bucaniers who fromerly infested these seas......he first discovered the mouth of the River Belize [in 1638].|author={{harvnb|HA|1827|p=5}} via {{harvnb|Bulmer-Thomas|Bulmer-Thomas|2016|p=139}}}}}}}}}}
+|-
+| style="vertical-align:top;"|11 
+| style="text-align:center;vertical-align:top;"|1640 
+| style="text-align:center;vertical-align:top;"|1640 
+| style="vertical-align:top;"|– 
+| style="padding-left:.5em;vertical-align:top;"|Wallace 
+| style="padding-left:.5em;vertical-align:top;"|wreck
+| style="padding-left:.5em;vertical-align:top;"|{{smalldiv|{{unbulleted list|''in'' {{harvcolnb|Ungewitter|Hopf|1872|p=693}} / {{harvcolnb|Nuñez Ortega|1877|p=7}} / {{harvcolnb|Winzerling|1946|pp=47, 55-58}} / {{harvcolnb|Craig|1969|p=55}} / {{harvcolnb|Bulmer-Thomas|Bulmer-Thomas|2016|pp=138-139, 142-144}}|''quote'' xxx}}}}
+|-
+| style="vertical-align:top;"|12 
+| style="text-align:center;vertical-align:top;"|1642 
+| style="text-align:center;vertical-align:top;"|1658 
+| style="vertical-align:top;"|in Cromwell's govt. 
+| style="padding-left:.5em;vertical-align:top;"|the English 
+| style="padding-left:.5em;vertical-align:top;"|haven 
+| style="padding-left:.5em;vertical-align:top;"|{{smalldiv|{{unbulleted list|''in'' {{harvcolnb|HA|1826|p=5}} / {{harvcolnb|WR|1828|p=4}} / {{harvcolnb|Temple|1857|p=116}} / {{harvcolnb|Gibbs|1883|p=23}} / {{harvcolnb|Bulmer-Thomas|Bulmer-Thomas|2016|p=139}}|''quote'' {{notetag|{{block quote|The British Settlement of Honduras, of which Belize is the capital, cannot be traced to be of any greater antiquity than from the administration of Oliver Cromwell, in Great Britain, at which period it was, from its remote and secret situation, used by the English, rather as a place of refuge and concealment, from the dreadful and savage warfare then carried on by the Spaniards [...] .|{{harvnb|HA|1826|p=5}} via {{harvnb|WR|1828|p=4}}}}}}|''note'' {{notetag|'Cromwell as Lord Protector from 1649 until his death in 1658, although it could be argued that his 'administration' included the years of the Civil War that began in 1642' {{harv|Bulmer-Thomas|Bulmer-Thomas|2016|p=139|loc=footnote no. 8}}}}}}}}
+|-
+| style="vertical-align:top;"|13 
+| style="text-align:center;vertical-align:top;"|1642 
+| style="text-align:center;vertical-align:top;"|1680 
+| style="vertical-align:top;"|after Bacalar sacking / after logging Tris
+| style="padding-left:.5em;vertical-align:top;"|the British 
+| style="padding-left:.5em;vertical-align:top;"|haven / log
+| style="padding-left:.5em;vertical-align:top;"|{{small|''in'' {{harvcolnb|Bulmer-Thomas|Bulmer-Thomas|2016|pp=151-156}}}}
+|-
+| style="vertical-align:top;"|14 
+| style="text-align:center;vertical-align:top;"|1650 
+| style="text-align:center;vertical-align:top;"|1685 
+| style="vertical-align:top;"|sec. half of 17th cent. / prior to early 1680s 
+| style="padding-left:.5em;vertical-align:top;"|the English 
+| style="padding-left:.5em;vertical-align:top;"|– 
+| style="padding-left:.5em;vertical-align:top;"|{{smalldiv|{{unbulleted list|''in'' {{harvcolnb|Finamore|1994|p=23}}|''quote'' {{notetag|{{blockquote|text=[T]he archaeological investigations that are the focus of the present work provice no corroborating evidence for theories of semi-permanent English settlement during the first half of the seventeenth century. [...] The Belize settlement received regular introductions of new European populations from the early 1680s on, such as the mutinous crew of Captain Coxon, who were sent there to evacuate the logwood cutters [...].|author={{harvnb|Finamore|1994|pp=23-24}}}}}}|''note'' {{notetag|Finamore did not excavate site near the mouth of Haulover Creek, in or near Belize City, nor in nearby cayes, as their fieldwork focussed only on [[New River (Belize)|New River]], Barcadares (now [[Grace Bank]]), and Convention Town (a few miles upstream of [[Lord's Bank]]) {{harv|Finamore|1994|pp=108-163|loc=cap. 4}}.}}}}}}
+|-
+| style="vertical-align:top;"|15 
+| style="text-align:center;vertical-align:top;"|1655 
+| style="text-align:center;vertical-align:top;"|1680 
+| style="vertical-align:top;"|after Jam. invasion / after logging Tris 
+| style="padding-left:.5em;vertical-align:top;"|Jamaicans 
+| style="padding-left:.5em;vertical-align:top;"|log 
+| style="padding-left:.5em;vertical-align:top;"|{{small|''in'' {{harvcolnb|Robertson|1777|pp=330-332}} / {{harvcolnb|Coxe|1815|pp=298-299}} / {{harvcolnb|Squier|1858|pp=575-576}} / {{harvcolnb|Ancona|1878|p=374}}}}
+|-
+| style="vertical-align:top;"|16 
+| style="text-align:center;vertical-align:top;"|1662 
+| style="text-align:center;vertical-align:top;"|1680 
+| style="vertical-align:top;"|after logging Catoche / after logging Tris 
+| style="padding-left:.5em;vertical-align:top;"|Jamaicans 
+| style="padding-left:.5em;vertical-align:top;"|log 
+| style="padding-left:.5em;vertical-align:top;"|{{smalldiv|{{unbulleted list|''in'' {{harvcolnb|Fancourt|1854|pp=v-vi}} / {{harvcolnb|Ancona|1878|pp=370-371, 374}} / {{harvcolnb|Gibbs|1883|p=26}}|''quote'' xxx}}}}
+|-
+| style="vertical-align:top;"|17 
+| style="text-align:center;vertical-align:top;"|1667 
+| style="text-align:center;vertical-align:top;"|1680 
+| style="vertical-align:top;"|shortly after Treaty 
+| style="padding-left:.5em;vertical-align:top;"|Wallace 
+| style="padding-left:.5em;vertical-align:top;"|? 
+| style="padding-left:.5em;vertical-align:top;"|{{smalldiv|{{unbulleted list|''in'' {{harvcolnb|Nuñez Ortega|1877|pp=7-8}}|''quote'' xxx}}}}
+|-
+| style="vertical-align:top;"|18 
+| style="text-align:center;vertical-align:top;"|1667 
+| style="text-align:center;vertical-align:top;"|1700 
+| style="vertical-align:top;"|in last third of 17th cent. 
+| style="padding-left:.5em;vertical-align:top;"|the English 
+| style="padding-left:.5em;vertical-align:top;"|? 
+| style="padding-left:.5em;vertical-align:top;"|{{smalldiv|{{unbulleted list|''in'' {{harvcolnb|Ancona|1878|pp=374-376}}|''quote'' {{notetag|{{text and translation|xxx|xxx|xxx}}}}}}}}
+|-
+| style="vertical-align:top;"|19 
+| style="text-align:center;vertical-align:top;"|1701 
+| style="text-align:center;vertical-align:top;"|1734 
+| style="vertical-align:top;"|early 18th cent. 
+| style="padding-left:.5em;vertical-align:top;"|the English 
+| style="padding-left:.5em;vertical-align:top;"|haven 
+| style="padding-left:.5em;vertical-align:top;"|{{small|''in'' {{harvcolnb|Brockhaus|1864|pp=616-617}} / {{harvcolnb|Ancona|1878|pp=374-375}}}}
+|-
+| style="vertical-align:top;"|20 
+| style="text-align:center;vertical-align:top;"|1717 
+| style="text-align:center;vertical-align:top;"|1717 
+| style="vertical-align:top;"|– 
+| style="padding-left:.5em;vertical-align:top;"|Wallace 
+| style="padding-left:.5em;vertical-align:top;"|haven 
+| style="padding-left:.5em;vertical-align:top;"|{{smalldiv|{{unbulleted list|''in'' {{harvcolnb|Carillo y Ancona|1871|pp=55, 210}} / {{harvcolnb|Nuñez Ortega|1877|pp=7, 17}} / {{harvcolnb|Asturias|1925|pp=8-9}}|''quote'' {{notetag|{{text and translation|En la época del gobierno colonial, á principios del siglo pasado (1717) comenzó á formarse la poblacion ó colonia de súbditos de la corona de Inglaterra en un extremo de la parte meridional de la Península yucateca, con motivo del corte de palo de tinte. [...] Cuando los ingleses fueron desalojados de la laguna de Términos fueron á posesionarse del extremo meridional de la Península, mas allá del Rio Hondo, y que por el nombre del caudillo de aquellos filibusteros, Walasse, aquel lugar comenzó á llamarse Walix (Belice).|At the time of the colonial government, in the beginning of the last century (1717), a population or colony of subjects of the crown of England began to take shape in a far-flung corner of the southern part of the Yucatecan Peninsula, [and its formations was] due to the cutting of dyewood. [...] When the English were evicted from the Laguna de Terminos they went to take possession of the southern end of the Peninsula, beyond the Hondo River, and because of the name of the leader of those filibusters, Walasse, that place began to be called Walix (Belize).|{{harvnb|Carillo y Ancona|1871|pp=55, 210}}}}}}}}}}
+|}
+
+== Aftermath ==
+
+https://journals.openedition.org/amerika/2210
+
+== Legacy ==
+
+=== Social ===
+
+=== Scholarly ===
+
+== Notes ==
+{{notefoot}}
+
+== Citations ==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+
+=== Serials ===
+# {{cite news            
+ | author        = A
+ | date          = 6 May 2011
+ | title         = Ideas and Opinions – To the ICJ or not
+ | url           = https://amandala.com.bz/news/ideas-and-opinions-to-the-icj-or-not/
+ | url-access    =
+ | work          = Amandala
+ | place         = Belize City
+ | publisher     = Amandala
+ | volume        =
+ | issue         = xxx
+ | pages         = xxx
+ | access-date   =
+}}
+# {{cite news            
+ | author        = F 
+ | date          = 5 September 1849
+ | title         = OJEADA sobre el establecimiento británico de BELICE y reflexiones sobre su futura influencia
+ | url           = http://www.hndm.unam.mx/consulta/publicacion/visualizar/558075be7d1e63c9fea1a284?intPagina=3&amp;tipo=publicacion&amp;anio=1849&amp;mes=09&amp;dia=05&amp;butIr=Ir
+ | url-access    =
+ | work          = Fénix
+ | place         = Campeche, Camp.
+ | publisher     = Por Gregorio Buenfil
+ | volume        =
+ | issue         = 62
+ | pages         = 3–4
+ | access-date   =
+}}
+# {{cite book 
+ |last= HA
+ |title= The Honduras almanack, for the year of our Lord 1826 ... : Calculated to the meridian of Belize
+ |date= 1826
+ |publisher= Published by Authority of the Magistrates
+ |location= Belize
+ |edition= 
+ |oclc= 950944267
+}}
+# {{cite book 
+ |last= HA
+ |title= The Honduras almanack, for the year of our Lord 1827 ... : Calculated to the meridian of Belize
+ |date= 1827
+ |publisher= Published by Authority of the Magistrates
+ |location= Belize
+ |edition= 
+ |oclc= 950947887
+}}
+# {{cite book 
+ |last= HA
+ |title= The Honduras almanack, for the year of our Lord 1828 ... : Calculated to the meridian of Belize
+ |date= 1828
+ |publisher= Published by Authority of the Magistrates
+ |location= Belize
+ |edition= 
+ |oclc= 266074037
+}}
+# {{cite book 
+ |last= HA
+ |title= The Honduras almanack, for the year of our Lord 1829 ... : Calculated to the meridian of Belize
+ |date= 1829
+ |publisher= Published by Authority of the Legislative Assembly
+ |location= Belize
+ |hdl= 2027/nnc1.cu56617763
+ |edition= 
+ |url= https://hdl.handle.net/2027/nnc1.cu56617763
+ |oclc= 682190774
+}}
+# {{cite book 
+ |last= HA
+ |title= The Honduras almanack, for the year of our Lord 1830 ... : Calculated to the meridian of Belize
+ |date= 1830
+ |publisher= Published by Authority of the Legislative Assembly
+ |location= Belize
+ |edition= 
+ |oclc= 266074037
+}}
+# {{cite book 
+ |last= HA
+ |title= The Honduras almanack, for the year of our Lord 1828 ... : Calculated to the meridian of Belize
+ |date= 1832
+ |publisher= Published by Authority of the Legislative Assembly
+ |location= Belize
+ |edition= 
+ |oclc= 266074037
+}}
+# {{cite book 
+ |last= HA
+ |title= The Honduras almanack, for the year of our Lord 1839 ... : Calculated to the meridian of Belize
+ |date= 1839
+ |publisher= Printed and Published by Henry Whitney
+ |location= Belize
+ |edition= 
+ |url= https://www.dloc.com/AA00064481/00001
+ |oclc= 266074037
+}}
+# {{cite news            
+ | author        = RWJ 
+ | date          = 27 May 1732
+ | title         = Extract of a Letter from Campeche in the Province of Yucatan, dated Nov. 24
+ | url           = https://link-gale-com.ezp-prod1.hul.harvard.edu/apps/doc/Z2001242711/BBCN?u=camb55135&amp;sid=bookmark-BBCN&amp;xid=1707dcf8
+ | url-access    = subscription
+ | work          = Read's Weekly Journal Or British Gazetteer
+ | place         = London
+ | publisher     = Printed for J. Read, in White-Fryers, Fleet-street
+ | volume        =
+ | issue         = 375
+ | page          = 3
+ | access-date   =
+}}
+# {{cite news            
+ | author        = WR 
+ | date          = 11 November 1828
+ | title         = Honduras (From the Honduras Almanack for 1826.)
+ | url           = https://infoweb.newsbank.com/apps/readex/doc?p=EANX&amp;docref=image/v2%3A145EB27AE90296CD%40EANX-14CA6E8DB2A50AC8%402389038-14CA67053AA11820%403
+ | url-access    = subscription
+ | work          = The Weekly Register
+ | place         = St. John's, Antigua &amp; Barbuda
+ | publisher     = Loving &amp; Hill
+ | volume        = XV
+ | issue         = 759
+ | page          = 4
+ | access-date   =
+}}
+
+=== Theses ===
+
+# {{cite thesis
+ |last=De la O Torres
+ |first=Rodrigo Alejandro
+ |title=DE CORSARIOS, MARES Y COSTAS: EL CORSO EN LA CONSTRUCCIÓN DEL ESPACIO GOLFO-CARIBE. 1527-1620
+ |date=November 2014
+ |type=PhD
+ |publisher=Centro de Investigaciones y Estudios Superiores en Antropología Social
+ |place=Mérida, Yuc.
+ |url=http://ciesas.repositorioinstitucional.mx/jspui/handle/1015/1044
+}}
+# {{cite thesis 
+|last= Finamore
+|first= Daniel
+|date= 1994
+|title= Sailors and slaves on the wood-cutting frontier : archaeology of the British Bay settlement, Belize
+|type= PhD
+|publisher= University of Boston
+|location= Boston, Mass.
+|oclc= 33382653
+|url=https://www.proquest.com/docview/304114781
+|url-access=subscription
+}}
+# {{cite thesis 
+|last= Marcus
+|first= Linda C.
+|date= 1990
+|title= English influence on Belize and the Peten region of northern Guatemala, 1630 to 1763
+|type= PhD
+|publisher= Southern Methodist University
+|location=Dallas, Tex.
+|oclc= 48275365
+|url=https://www.proquest.com/docview/303887067
+|url-access=subscription
+}}
+# {{cite thesis 
+|last= McJunkin
+|first= David Morgan
+|date= 1991
+|title= Logwood : An inquiry into the historical biogeography of ''Haematoxylum campechianum'' L. and related dyewoods of the neotropics
+|type= PhD
+|publisher= University of California
+|place= Los Angeles, Calif.
+|oclc= 24057056
+|url=https://www.proquest.com/docview/303932948
+|url-access=subscription
+}}
+# {{cite thesis
+ |last=Mihok
+ |first=Lorena Diane
+ |title=Unearthing Augusta: Landscapes of Royalization on Roatan Island, Honduras
+ |date=2013
+ |type=PhD
+ |publisher=University of South Florida
+ |place=Tampa, Fl.
+ |url=https://digitalcommons.usf.edu/etd/4920
+}}
+# {{cite thesis 
+|last= Rushton
+|first= Elizabeth Anne Cecilia
+|date= December 2014
+|title= 'Under the shade I flourish' : An environmental history of northern Belize over the last three thousand five hundred years
+|type= PhD
+|publisher= University of Nottingham
+|location=Nottingham, Eng.
+|url= http://eprints.nottingham.ac.uk/id/eprint/27615
+|access-date=
+}}
+
+=== Journals ===
+# {{cite journal
+ |last1= Avery
+ |first1= W. L.
+ |date= 1900
+ |title= British Honduras
+ |jstor= 197063
+ |url= 
+ |journal= Journal of the American Geographical Society of New York
+ |series=
+ |volume= 32
+ |issue= 4
+ |pages= 331–333
+|doi= 10.2307/197063
+ }}
+# {{cite journal
+ |editor-last1= Azpiroz
+ |editor-first1= Manuel
+ |date= 23 March 1871
+ |title= Establecimiento inglés de Belice
+ |url= https://www.google.com/books/edition/_/uABGAQAAMAAJ?hl=en&amp;gbpv=1
+ |journal= Boletín de la Sociedad de Geografía y Estadística de la República Mexicana
+ |series= 2
+ |volume= 4
+ |issue=
+ |pages= 698–715
+}}
+# {{cite journal
+ |last1= Barbour
+ |first1= Violet
+ |date= April 1911
+ |title= Privateers and Pirates of the West Indies
+ |jstor= 1834836
+ |journal= The American Historical Review
+ |volume= 16
+ |issue= 3
+ |pages= 529–566
+|doi= 10.2307/1834836
+ }}
+# {{cite journal
+|last1= Bulmer-Thomas
+|first1= Victor
+|last2= Bulmer-Thomas
+|first2= Barbara
+|date= 19 November 2016
+|title= The Origins of the Belize Settlement
+|url= https://revistas.udea.edu.co/index.php/tempus/article/view/326161
+|journal= Tempus
+|volume=
+|issue= 4
+|pages= 137–160
+|doi=
+|issn= 2422-2178
+}}
+# {{cite journal
+|last1= Carillo y Ancona
+|first1= Crescencio
+|date= 9 November 1878
+|title= El orígen de Belice
+|url= https://hdl.handle.net/2027/mdp.39015008360342?urlappend=%3Bseq=268%3Bownerid=13510798895636614-272
+|journal= Boletín de la Sociedad de Geografía y Estadística de la República Mexicana
+|series= 3
+|volume= 4
+|issue=
+|pages= 254–264
+|hdl= 2027/mdp.39015008360342?urlappend=%3Bseq=268
+}}
+# {{cite journal
+|last1= Craig
+|first1= Alan K.
+|date= April 1969
+|title= Logwood as a Factor in the Settlement of British Honduras
+|jstor= 25612108
+|journal= Caribbean Studies
+|volume= 9
+|issue= 1
+|pages= 53–62
+|url=http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/25612108
+|url-access=subscription
+}}
+# {{cite journal
+|last1= Curry, Jr.
+|first1= Herbert F.
+|date= July 1956
+|title= British Honduras: From Public Meeting to Crown Colony
+|jstor= 979212
+|journal= The Americas
+|volume= 13
+|issue= 1
+|pages= 31–42
+|doi= 10.2307/979212
+|url=http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/979212
+|url-access=subscription
+}}
+# {{cite journal
+ |last1= De la O Torres
+ |first1= Rodrigo Alejandro
+ |date= January–June 2016
+ |title= La presencia de corsarios franceses en el Golfo-Caribe entre 1536-1566 : una propuesta de análisis espacial
+ |jstor=
+ |url= https://dialnet.unirioja.es/servlet/articulo?codigo=5589881
+ |journal= Historia 2.0: Conocimiento Histórico en Clave Digital
+ |series=
+ |issn= 2027-9035
+ |doi=
+ |volume= 6
+ |issue= 11
+ |pages= 36–56
+}}
+# {{cite journal
+ |last1= De la O Torres
+ |first1= Rodrigo Alejandro
+ |date= July–December 2019
+ |title= Miedos y fenómeno de la piratería en el Golfo-Caribe durante el siglo XVI. Un ensayo de aproximación
+ |jstor=
+ |url= http://ref.scielo.org/23mwfc
+ |journal= Historelo revista de historia regional y local
+ |series=
+ |issn= 2145-132X
+ |doi=10.15446/historelo.v11n22.73263 
+ |volume= 11
+ |issue= 2
+ |pages= 267–300
+|s2cid= 198778698
+ }}
+# {{cite journal
+|last1= Grunewald
+|first1= Donald
+|date= July 1965
+|title= The Anglo-Guatemalan Dispute over British Honduras
+|jstor= 25611880
+|journal= Caribbean Studies
+|volume= 5
+|issue= 2
+|pages= 17–44
+|url=http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/25611880
+|url-access=subscription
+}}
+# {{cite journal
+|last1= Peniche
+|first1= Manuel
+|date= 1869
+|title= Historia de las relaciones de España y México con Inglaterra, sobre el establecimiento de Belice
+|url= https://www.google.com/books/edition/Bolet%C3%ADn_de_la_Sociedad_de_Geograf%C3%ADa_y/lARGAQAAMAAJ?hl=en&amp;gbpv=0&amp;kptab=editions
+|journal= Boletín de la Sociedad de Geografía y Estadística de la República Mexicana
+|series= 2
+|volume= 1
+|issue=
+|pages= 217-256, 377-403
+}}
+# {{cite journal
+|last1= Swayne
+|first1= Eric
+|date= September 1917
+|title= British Honduras
+|jstor= 1779904
+|journal= The Geographical Journal
+|volume= 50
+|issue= 3
+|pages= 161–175
+|doi= 10.2307/1779904
+|url=http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/1779904
+|url-access=subscription
+}}
+# {{cite journal
+|last1= Temple
+|first1= Robert
+|date= 16 January 1857
+|title= On British Honduras, its History, Trade, and Natural Resources
+|jstor= 41323634
+|url= https://www.google.com/books/edition/_/R1kmAQAAIAAJ?hl=en&amp;gbpv=0
+|journal= Journal of the Society of Arts
+|volume= 5
+|issue= 217
+|pages= 113–130
+}}
+# {{cite journal
+|last1= Temple
+|first1= Robert
+|date= 11 June 1858
+|title= British Honduras
+|jstor= 41323666
+|url= https://www.google.com/books/edition/_/B1omAQAAIAAJ?hl=en&amp;gbpv=0
+|journal= Journal of the Society of Arts
+|volume= 6
+|issue= 290
+|pages= 465–471
+}}
+# {{cite journal
+|last1= Temple
+|first1= Robert
+|date= 18 June 1858
+|title= British Honduras
+|jstor= 41323667
+|url= https://www.google.com/books/edition/_/B1omAQAAIAAJ?hl=en&amp;gbpv=0
+|journal= Journal of the Society of Arts
+|volume= 6
+|issue= 291
+|pages= 484–489
+}}
+
+=== Print ===
+
+# {{cite book 
+ |last1= Ancona
+ |first1= Eligio
+ |title= Historia de Yucatan desde la època mas remota hasta nuestros dias
+ |date= 1878
+ |volume= 2
+ |publisher= Imprenta de M. Heredia Argüelles
+ |location= Mérida, Yucatán
+ |edition= 1st
+ |url= https://www.google.com/books/edition/Historia_de_Yucatán_desde_la_época_sic/FDcCAAAAYAAJ
+ |oclc= 13550373
+}}
+# {{cite book 
+ |editor-last1= Andrews
+ |editor-first1= Kenneth R.
+ |title= English privateering voyages to the West Indies, 1588-1595 : documents relating to English voyages to the West Indies from the defeat of the armada to the last voyage of Sir Francis Drake
+ |date= 1958
+ |volume= 
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 111
+ |publisher= Published for the Hakluyt Society at the University Press
+ |location= Cambridge
+ |edition= 1st
+ |hdl= 2027/mdp.39015026881832
+ |oclc= 504851
+}}
+# {{cite book 
+ |last1= Asturias
+ |first1= Francisco
+ |title= Belice
+ |date= 1925
+ |publisher= Sociedad de Geografía é Historia de Guatemala
+ |location= Guatemala
+ |edition= 1st
+ |hdl=2027/txu.059173022907279
+ |oclc= 10046866
+}}
+# {{cite book 
+ |last1= Asturias
+ |first1= Francisco
+ |title= Belice
+ |date= 1941
+ |publisher= Tipografía Nacional de Guatemala
+ |series=Revista de la Facultad de Ciencias Jurídicas y Sociales de Guatemala. Vol. 2. No. 1 Suplemento
+ |location= Guatemala
+ |edition= Expanded 2nd
+ |hdl= 2027/uc1.$b639954
+ |oclc= 1987689
+}}
+# {{cite book 
+|last= Bancroft
+|first= Hubert Howe
+|series= The Works of Hubert Howe Bancroft
+|volume = 7
+|date=1883
+|publisher= A. L. Bancroft &amp; Co.
+|location= San Francisco
+|title=History of Central America. Vol. II. 1530–1800
+|edition= 1st
+|url= https://www.google.com/books/edition/History_of_Central_America/eSoPAAAAYAAJ
+|url-access=
+|oclc= 21601728
+}}
+# {{cite book 
+|last1=Bolland
+|first1=Nigel Orlando
+|title=Formation of a Colonial Society
+|date=1977
+|orig-date= 
+|publisher= Johns Hopkins University Press
+|location=Baltimore, Mar.
+|series= Johns Hopkins studies in Atlantic history and culture
+|volume= 
+|url=https://archive.org/details/formationofcolon0000boll
+|url-access=
+|hdl= 
+|edition=1st
+|oclc= 2614187
+}}
+# {{cite book 
+ |editor-last1= Brandow
+ |editor-first1= James C.
+ |editor-last2= Hotten
+ |editor-first2= John Camden
+ |title= Omitted chapters from Hotten's original lists of persons of quality and others who went from Great Britain to the American plantations, 1600-1700: census returns, parish registers, and militia rolls from the Barbados census of 1679/80
+ | date= 1982
+ |publisher= Genealogical Publishing Co.
+ |location= Baltimore
+ |edition= 1st
+ |oclc= 8533128
+}}
+# {{cite book 
+ |last1= Bridges
+ |first1= George Wilson
+ |title= The annals of Jamaica
+ |date= 1828
+ |volume= 2
+ |publisher= John Murray
+ |location= London
+ |edition= 1st
+ |url= https://www.google.com/books/edition/The_Annals_of_Jamaica/twakS8tGd_sC
+ |oclc= 4612281
+}}
+# {{cite book 
+|last1= Bristowe
+|first1= Lindsay W.
+|last2= Wright
+|first2= Philip
+|title= The Handbook of British Honduras for 1888-89 : Comprising Historical, Statistical, and General Information Concerning the Colony, Compiled from Official and Other Reliable Records
+|date= 1888
+|publisher= William Blackwood &amp; Sons
+|location= Edinburgh &amp; London
+|edition= 1st
+|url= https://www.google.com/books/edition/The_Handbook_of_British_Honduras/Z5YvAAAAMAAJ
+|oclc= 271773478
+}}
+# {{cite book 
+ |last1= Brockhaus
+ |first1= Friedrich Arnold
+ |title= Bd. 2. Arago bis Belgrad
+ |series=Allgemeine deutsche Real-Encyklopädie für die gebildeten Stände : Conversations-Lexikon
+ |date= 1864
+ |volume= 2
+ |publisher= F.A. Brockhaus
+ |location= Leipzig
+ |edition= Revised, expanded 11th
+ |url= https://www.enzyklothek.de/allgemeinenzyklopädien/deutsche-enzyklopädien/alphabetische-enzyklopädien/allgemeine-deutsche-real
+ |oclc= 39355449
+}}
+# {{cite book 
+|last1= Burdon
+|first1= John Alder
+|title= Brief Sketch of British Honduras
+|date= 1927
+|publisher= The West India Committee
+|location= London
+|edition= 1st
+|oclc= 11423776
+}}
+# {{cite book 
+|last1= Burdon
+|first1= John Alder
+|title= Archives of British Honduras ... : being extracts and précis from records, with maps
+|volume = 1
+|date= 1931
+|publisher= Sifton, Praed &amp; Co.
+|location= London
+|edition= 1st
+|oclc= 3046003
+}}
+# {{cite book 
+|last= Calderón Quijano
+|first=José Antonio
+|title= Belice 1663 (?)-1821
+|date= 1944
+|publisher= Escuela de Estudios Hispano-Americanos
+|location= Seville
+|edition= 1st
+|hdl= 
+|url= http://simurg.bibliotecas.csic.es/viewer/image/CSIC000048031/1/
+|oclc= 2481064
+|series= Publicaciones de la Escuela de Estudios Hispano-Americanos de la Universidad de Sevilla
+|volume= 5
+}}
+# {{cite book 
+|last= Cárdenas Valencia
+|first=Francisco de
+|title= Relación historial eclesiástica de la provincia de Yucatán de la Nueva España, escrita el año de 1639
+|date= 1937
+|publisher= Antigua Librería Robredo, J. Porrúa e Hijos
+|location= Mexico City
+|edition=1st
+|hdl= 
+|series= Biblioteca histórica mexicana de obras inéditas
+|volume= 3
+|oclc= 4660610
+}}
+# {{cite book 
+|last1= Cardona Amaya
+|first1= José Manuel
+|title= Invasiones de corsarios a la Honduras de Felipe IV (1633-1643)
+|date= 2020
+|publisher= Universidad Nacional Autónoma de Honduras
+|location= Tegucigalpa
+|edition= 1st
+|url= https://halshs.archives-ouvertes.fr/halshs-02540842
+|oclc= 1192967317
+}}
+# {{cite book 
+ |last= Carillo y Ancona
+|first= Crescencio
+ |title= Compendio de la historia de Yucatan; precedido del de su geografía y dispuesto en forma de lecciones
+ |date= 1871
+ |publisher= J.D. Espinosa é hijos
+ |location= Merida, Yuc.
+ |edition= 1st
+ |oclc= 13403072
+|url=https://www.google.com/books/edition/Compendio_de_la_historia_de_Yucatan/zZkPgqPHFQwC
+}}
+# {{cite book 
+|last1=Chamberlain 
+|first1=Robert Stoner 
+|title=The conquest and colonization of Yucatan, 1517–1550 
+|date=1948 
+|publisher=Carnegie Institution of Washington 
+|location=Washington, DC 
+|url= 
+|series=Carnegie Institution of Washington Publication 
+|volume=582 
+|hdl=2027/txu.059173008409431 
+|edition=1st
+}}
+# {{cite book 
+|last1=Chamberlain 
+|first1=Robert Stoner 
+|title=The conquest and colonization of Honduras, 1502–1550 
+|date=1953
+|orig-date= 
+|publisher=Carnegie Institution of Washington
+|location=Washington, DC
+|series=Carnegie Institution of Washington Publication 
+|volume=598 
+|url= 
+|hdl=2027/mdp.39015014261187
+|edition=1st
+}}
+# {{cite book 
+|last1=Chamberlain 
+|first1=Robert Stoner 
+|title=The conquest and colonization of Honduras, 1502–1550 
+|date=1966
+|orig-date= First published 1953 as Carnegie Publication 598
+|publisher=Octagon Books 
+|location=New York 
+|url= 
+|hdl=2027/txu.059173002179226 
+|edition=Reprint of 1st
+}}
+# {{cite book 
+ |last1= Coxe
+ |first1= William
+ |title= Memoirs of the kings of Spain of the House of Bourbon, from the accession of Philip V. to the death of Charles III. 1700 to 1788. Drawn from the original and unpublished documents
+ |date= 1815
+ |volume= 3
+ |publisher= Longman, Hurst, Rees, Orme, and Brown
+ |location= London
+ |edition= 2nd
+ |oclc= 579462139
+ |url= https://www.google.com/books/edition/Memoirs_of_the_Kings_of_Spain_of_the_Hou/sUAUAAAAYAAJ
+}}
+# {{cite book 
+|last1= Dampier
+|first1= William
+|title= Voyages and descriptions, in three parts : to which is added a general index to both volumes
+|date= 1700
+|orig-date= First published 1699
+|series= 
+|volume= 2
+|publisher=Printed for James Knapton, at the Crown in St Paul's Church-yard
+|location=
+|url= https://www.proquest.com/docview/2264207852
+|url-access= subscription
+|hdl= 
+|edition=2nd
+|oclc= 8648162
+|ol=
+}}
+# {{cite book 
+ |last1= De la O Torres
+ |first1= Rodrigo Alejandro
+ |title= DE CORSARIOS, MARES Y COSTAS : El corso en la construcción del espacio y experiencias marítimas en el Golfo-Caribe, 1527-1620
+ |date= 2020
+ |volume= 
+ |publisher= Universidad Autónoma de Aguascalientes
+ |location= Ciudad Universitaria, Aguascalientes
+ |edition= 1st
+ |url= 
+ |oclc= 1280054563
+}}
+# {{cite book 
+|last1= Donohoe
+|first1= William Arlington
+|title= A History of British Honduras
+|date= 1946
+|publisher= Provincial Publishing Co.
+|location= Montreal
+|edition= 1st
+|url= https://dloc.com/UF00099204/00001
+|oclc= 1666407
+}}
+# {{cite book 
+|last1= Egli
+|first1= Johann Jacob
+|title= Nomina geographica Versuch einer allgemeinen geographischen onomatologie
+|date= 1872
+|publisher= Friedrich Brandstetter
+|location= Leipzig
+|edition=
+|url= https://www.google.com/books/edition/Nomina_geographica/-F6BHaxT80gC
+|oclc= 41195468
+}}
+# {{cite book 
+ |last1= Fancourt
+ |first1= Charles St. John
+ |title= The history of Yucatan : from its discovery to the close of the seventeenth century
+ |date= 1854
+ |publisher= John Murray
+ |location= London
+ |edition= 1st
+ |url= https://www.google.com/books/edition/The_History_of_Yucatan/lhguAAAAYAAJ
+ |oclc= 1908914
+}}
+# {{cite book 
+ |editor-last1= Figueroa
+ |editor-first1= Alejandro J.
+ |editor-last2= Johnson
+ |editor-first2= Erlend
+ |editor-last3= Goodwin
+ |editor-first3= Whitney A.
+ |title= Southeastern Mesoamerica : indigenous interaction, resilience, and change
+ |date= 2021
+ |volume= 
+ |series=
+ |publisher= University Press of Colorado
+ |location= Louisville, Colorado
+ |edition= 1st
+ |url= https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/82605
+ |url-access=subscription
+ |oclc= 1226797442
+}}
+# {{cite book 
+|last1= García Paláez 
+|first1= Francisco de Paula
+|title=Tomo Segundo
+|series=Memorias para la historia del antiguo reyno de Guatemala 
+|date=1852a
+|orig-date= 
+|volume= 2
+|publisher=Establecimiento tip. de L. Luna 
+|location=Guatemala City
+|url= https://archive.org/details/memoriasparalahi02drfr
+|url-access=
+|hdl= 
+|edition=1st
+|oclc= 7838896
+|ol= 
+&lt;!-- https://bibliotecadigital.aecid.es/bibliodig/es/consulta/registro.cmd?id=518 --&gt;
+}}
+# {{cite book 
+|last1= García Paláez 
+|first1= Francisco de Paula
+|title=Tomo Tercero
+|series=Memorias para la historia del antiguo reyno de Guatemala 
+|date=1852b
+|orig-date= 
+|volume= 3
+|publisher=Establecimiento tip. de L. Luna 
+|location=Guatemala City
+|url= https://bibliotecadigital.aecid.es/bibliodig/es/consulta/registro.do?id=518
+|url-access=
+|hdl= 
+|edition=1st
+|oclc= 7838896
+|ol= 
+&lt;!-- https://bibliotecadigital.aecid.es/bibliodig/es/consulta/registro.cmd?id=518 --&gt;
+}}
+# {{cite book 
+|last1= Gibbs
+|first1= Archibald Robertson
+|title= British Honduras: an historical and descriptive account of the colony from its settlement, 1670
+|date= 1883
+|publisher= Sampson Low, Marston, Searle, &amp; Rivington
+|location= London
+|edition= 1st
+|oclc= 608881763
+|url= https://www.google.com/books/edition/British_Honduras/UmhuYGCOdNQC
+&lt;!-- |url= https://docs-newsbank-com.ezp-prod1.hul.harvard.edu/openurl?ctx_ver=z39.88-2004&amp;rft_id=info:sid/iw.newsbank.com:EAIX
+&amp;rft_val_format=info:ofi/fmt:kev:mtx:ctx&amp;rft_dat=147E02AD710C6198&amp;svc_dat=Evans:eaidoc&amp;req_dat=B425E5B32E784515BC5AAA87BC16A340 --&gt;
+}}
+# {{cite book 
+|last1= Gregg
+|first1= Algar Robert
+|title= British Honduras
+|date= 1968
+|publisher= Her Majesty's Stationery Office
+|location= London
+|series= The Corona Library
+|edition= 1st
+|oclc= 465800813
+}}
+# {{cite encyclopedia
+|last1= Griffith
+|first1= William J.
+|last2= Alford
+|first2= Alfred E.
+|last3= Bolland
+|first3= Orlando N.
+|title= Belize
+|encyclopedia= Encyclopaedia Britannica
+|date= 10 January 2022
+|publisher= Encyclopaedia Britannica
+|location= 
+|url= https://www.britannica.com/place/Belize
+|access-date= 8 April 2022
+}}
+# {{cite book
+|editor-last1=Hakluyt
+|editor-first1=Richard
+|date= 1600
+|publisher= George Bishop, Ralfe Newberie, &amp; Robert Barker
+|location= London
+|title= The principal nauigations, voiages, traffiques and discoueries of the English nation made by sea or ouer-land, to the remote and farthest distant quarters of the earth, at any time within the compasse of these 1500. yeeres: deuided into three seuerall volumes, according to the positions of the regions, whereunto they were directed
+|volume= 3
+|oclc= 252871354
+|edition=2nd expanded
+|url=https://www.proquest.com/docview/2248550788
+|url-access=subscription
+}}
+# {{cite book 
+|editor-last=Hotten 
+|editor-first=John Camden 
+|title=The original lists of persons of quality; emigrants; religious exiles; political rebels; serving men sold for a term of years; apprentices; children stolen; maidens pressed; and others who went from Great Britain to the American plantations 1600-1700 
+|date=1874 
+|publisher=John Camden Hotten 
+|location=London 
+|edition=1st 
+|oclc= 919996346
+&lt;!-- |url=https://hdl.handle.net/2027/uc1.31210005464357 --&gt;
+|url=https://www.google.com/books/edition/The_Original_Lists_of_Persons_of_Quality/VN_A5wlsjQQC
+}}
+# {{cite book 
+|last1= Humphreys
+|first1= R. A.
+|title= The Diplomatic History of British Honduras, 1638-1901
+|date= 1961
+|publisher= Oxford University Press
+|location= London
+|edition= 1st
+|url= https://dloc.com/UF00099184/00001
+|oclc= 484695
+}}
+# {{cite book 
+ |last1= Iyo
+ |first1= Joe
+ |last2= Tzalam
+ |first2= Froyla
+ |last3= Humphreys
+ |first3= Francis
+ |title= Belize, a new vision : African and Maya civilizations, the heritage of a new nation
+ |date= 2007
+ |volume= 
+ |publisher= Factory Books
+ |location= Belize City
+ |edition= 1st
+ |url= 
+ |oclc= 434752360
+}}
+# {{cite encyclopedia
+|editor-last1= Kinsbruner
+|editor-first1= Jay
+|editor-last2= Langer
+|editor-first2= Erick Detlef
+|title= Wallace, Peter
+|encyclopedia= Encyclopedia of Latin American History and Culture
+|year= 2008
+|publisher= Cengage
+|place= Detroit
+|volume=6
+|location= 
+|edition= 2nd
+|url= https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/wallace-peter
+|access-date= 8 April 2022
+}}
+# {{Cite ODNB
+|doi=10.1093/ref:odnb/1387
+|title=Barker, Andrew
+|last=Laughton
+|first=J. K.
+|date=23 September 2004
+|url=https://doi-org.ezp-prod1.hul.harvard.edu/10.1093/ref:odnb/1387
+|url-access=subscription
+}}
+# {{cite book 
+|last1= McCulloch
+|first1= John Ramsay
+|title= A Dictionary, Geographical, Statistical, and Historical, Of the Various Countries, Places and Principal Natural Objects in the World
+|volume=1
+|date= 1841
+|publisher= Longman, Orme, Brown, Green and Longmans
+|location= London
+|edition=
+|oclc= 65264879
+|url= https://www.google.com/books/edition/A_Dictionary_Geographical_Statistical_an/i_9XAAAAcAAJ
+}}
+# {{cite book 
+|last1= McCulloch
+|first1= John Ramsay
+|title= A Dictionary, Geographical, Statistical, and Historical, Of the Various Countries, Places and Principal Natural Objects in the World
+|volume=2
+|date= 1866
+|publisher= Longmans, Green, and Co.
+|location= London
+|edition=New Rev.
+|oclc= 890743491
+|url= https://www.google.com/books/edition/_/rW0DAAAAQAAJ
+}}
+# {{cite book 
+ |last1= Metzgen
+ |first1= Monrad Sigfrid
+ |last2= Cain
+ |first2= Henry Conrad
+ |title= The handbook of British Honduras, comprising historical, statistical and general information concerning the colony
+ |date= 1925
+ |volume= 
+ |publisher= West India Committee
+ |location= London
+ |edition= 1st
+ |url= 
+ |oclc= 5319621
+}}
+# {{cite book 
+|last1= Morris
+|first1= Daniel
+|title= The Colony of British Honduras, its Resources and Prospects; with Particular Reference to its Indigenous Plants and Economic Productions
+|date= 1883
+|publisher= Edward Stanford
+|location= London
+|edition= 1st
+|oclc= 3082083
+|url= https://www.google.com/books/edition/The_Colony_of_British_Honduras/3b8NAAAAQAAJ?hl=en&amp;gbpv=1
+}}
+# {{cite book 
+ |last1= Nuñez Ortega
+ |first1= Ángel
+ |title= Belice, estudio sobre el origen de ese nombre
+ |date= 1877
+ |publisher= Imprenta de Gonzalo A. Esteva
+ |location= México, D.F.
+ |edition= 1st
+ |url= https://www.google.com/books/edition/Belice/maY_AAAAYAAJ?hl=en&amp;gbpv=0
+ |oclc= 680451856
+}}
+# {{cite book 
+|last1= Pavía
+|first1= Lázaro
+|title= Los ingleses en Mexico, ó sea, el origen y fundacion de las colonias británicas en el seno mexicano
+|date= 1888
+|publisher= Imprenta de Jose V. Castillo
+|location= México, D.F.
+|edition= 1st
+|url= http://acervo.bibliotecavirtualdeyucatan.com.mx/janium-bin/janium_zui.pl?fn=64020&amp;jzd=/janium/AP2/XLIII-1888.12/d.jzd
+}}
+# {{cite book 
+ |last1= Robertson
+ |first1= William
+ |title= The History of America
+ |date= 1777
+ |volume= 2
+ |publisher= Printed for Messrs. Whitestone, W. Watson, Corcoran, R. Cross, Sleater, Sheppard, Chamberlaine, Potts, J. Hoey, Flin, Fitzsimons, Exshaw, E. Lynch, S. Watson, W. Colles, Williams, W. Wilson, Porter, Walker, M. Hay, Moncrieffe, Armitage, Hallhead, Faulkner, T. Stewart, Burnet, Vallance, Spotswood, Gilbert, R. Stewart, Mills, Beatty, Jenkin, P. Wilson, E. Cross, Wogan, Macelrath, Higley, Hillary, White, Grueber, M'kenly, and Magee
+ |location= Dublin
+ |edition= 1st
+ |url= https://www.google.com/books/edition/The_History_of_America/84s9AAAAYAAJ
+ |oclc= 1871683
+}}
+# {{cite book 
+|last1= Rubio Alpuche
+|first1= Nestor
+|title= Belice : Apuntes historicos y colección de tratados internacionales relativos a esta colonia británica
+|date= 1894
+|publisher= Imprenta de "La Revista de Mérida"
+|location= Merida
+|edition= 1st
+|oclc= 645354630
+|url= https://www.google.com/books/edition/Belice/YdkBAAAAMAAJ
+}}
+# {{cite book 
+ |last1= Squier
+ |first1= Ephraim George
+ |title= The states of Central America : their geography, topography, climate, population, resources, productions, commerce, political organization, aborigines, etc., etc., comprising chapters on Honduras, San Salvador, Nicaragua, Costa Rica, Guatemala, Belize, the Bay Islands, the Mosquito Shore, and the Honduras Inter-Oceanic Railway
+ |date= 1858
+ |volume= 
+ |publisher= Harper &amp; Brothers
+ |location= New York
+ |edition= 1st
+ |url= https://www.google.com/books/edition/The_States_of_Central_America/IHsaqv17bh8C
+ |oclc= 464354896
+}}
+# {{cite book 
+|last1= Stein
+|first1=Christian Gottfried Daniel
+|last2= Hörschelmann
+|first2=Ferdinand
+|last3= Wappäus
+|first3=Johann Eduard
+|title= Handbuch der Geographie und Statistik für die gebildeten Stände
+|date= 1863–1870
+|publisher= J.C. Hinrichs'sche Buchhandlung
+|location= Leipzig
+|edition= 7th
+|volume=2
+|url= https://link.gale.com/apps/doc/CY0106247157/SABN?u=camb55135&amp;sid=bookmark-SABN&amp;xid=25bfac24&amp;pg=2
+|url-access= subscription
+|oclc= 746793168
+}}
+# {{cite book 
+ |last1= Stephens
+ |first1= John L.
+ |title= Incidents of travel in Central America, Chiapas, and Yucatan
+ |date= 1841
+ |publisher= John Murray
+ |location= London
+ |volume=1
+ |edition= 1st
+ |hdl= 2027/nyp.33433081696803
+ |oclc= 4163910
+}}
+# {{cite book 
+|last1= Ungewitter
+|first1=Franz Heinrich
+|last2= Hopf
+|first2=Georg Wilhelm
+|title= Neueste Erdbeschreibung und Staatenkunde, oder geographisch-statistisch-historisches Handbuch : mit besonderer Berücksichtigung der neuesten Gestaltung Deutschlands : in drei Bänden
+|date= 1872
+|publisher= Gustav Dietze
+|location= Dresden
+|edition=
+|volume=2
+|url= https://mdz-nbn-resolving.de/details:bsb11005231
+|url-access=
+|oclc = 163480536
+}}
+# {{cite book 
+|last1= Uring
+|first1= Nathaniel
+|title= A history of the voyages and travels of Capt. Nathaniel Uring. With new draughts of the Bay of Honduras and the Caribbee Islands; and particularly of St. Lucia, and the Harbour of Petite Carenage; into which Ships may run in bad Weather, and be safe from all Winds and Storms. Very useful for Masters of Ships that use the Leeward Island Trade, or Jamaica
+|date= 1726
+|publisher= Printed by W. Wilkins, for J. Peele
+|location= London
+|edition= 1st
+|url= https://link.gale.com/apps/doc/CW0100827679/ECCO?u=camb55135&amp;sid=bookmark-ECCO&amp;xid=93c13f09&amp;pg=1
+|url-access= subscription
+|oclc= 85795208
+}}
+# {{cite book 
+|last1=Villagutierre Soto-Mayor
+|first1= Juan de
+|title=Historia de la conquista de la provincia de El Itza, reduccion, y progressos de la de El Lacandon, y otras naciones de indios Barbaros, de la mediacion de el reyno de Guatimala, a las provincias de Yucatan, en la America septentrional
+|date=1701
+|orig-date= 
+|series= 
+|volume=
+|publisher=En la Imprenta de Lucas Antonio de Bedmar, y Narvaez, portero de camara de Su Magestad, y impressor de los Reynos de Castilla, y Leon, en la Calle de los Preciados
+|location=Madrid
+|url= https://www.google.com/books/edition/Historia_de_la_conquista_de_la_provincia/Cs2csVMy1HIC
+|url-access=
+|hdl= 
+|edition=1st
+|oclc= 79430424
+}}
+# {{cite web
+|last=Waight
+|first=Larry
+|title= Peter Wallace : "To Be, Or Not To Be"
+|date= 2022
+|website= Belize Hub
+|publisher= Belize Hub
+|access-date= 8 April 2022
+|url= https://www.belizehub.com/peter-wallace-belize/
+}}
+# {{cite book 
+ |last1= Williamson
+ |first1= James A.
+ |title= Sir John Hawkins : the time and the man
+ |date= 1927
+ |volume= 
+ |publisher= Clarendon Press
+ |location= Oxford
+ |edition= 1st
+ |url=
+ |oclc= 3075296
+ |hdl= 2027/mdp.39015027905218
+}}
+# {{cite book 
+|last1= Winzerling
+|first1= E. O.
+|title= Beginning of British Honduras, 1506-1765
+|date= 1946
+|publisher= North River Press
+|location= New York
+|edition= 1st
+|url= https://dloc.com/UF00099216/00001
+|oclc= 1892890
+}}
+# {{cite book 
+ |editor-last1= Wright
+ |editor-first1= Irene A.
+ |title= Spanish documents concerning English voyages to the Caribbean, 1527-1568
+ |date= 1929
+ |volume= 
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 62
+ |publisher= Printed for the Hakluyt Society
+ |location= London
+ |edition= 1st
+ |url= 
+ |oclc= 2092435
+}}
+# {{cite book 
+ |editor-last1= Wright
+ |editor-first1= Irene A.
+ |title= Documents concerning English voyages to the Spanish main, 1569-1580
+ |date= 1932
+ |volume= 
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 71
+ |publisher= Printed for the Hakluyt Society
+ |location= London
+ |edition= 1st
+ |url= https://archive.org/details/dli.ministry.01751/
+ |oclc= 1476408
+ |hdl= 2027/mdp.39015012306133
+}}
+# {{cite book 
+ |editor-last1= Wright
+ |editor-first1= Irene A.
+ |title= Further English voyages to Spanish America, 1583-1594 : documents from the Archives of the Indies at Seville illustrating English voyages to the Caribbean, the Spanish Main, Florida, and Virginia
+ |date= 1951
+ |volume= 
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 99
+ |publisher= Printed for the Hakluyt Society
+ |location= London
+ |edition= 1st
+ |hdl= 2027/mdp.39015026881790
+ |oclc= 1476734
+}}
+
+{{refend}}
+
+{{British overseas territories}}
+{{Spanish Empire}}
+{{Pirates}}
+{{Authority control}}
+
+[[:Category:Belize|History of Belize|Historical events in Belize]]
+[[:Category:Piracy in the Caribbean]]
+[[:Category:17th-century pirates]]
+[[:Category:Caribbean pirates]]
+[[:Category:English pirates]]</text>
+      <sha1>kmihisd5wprss5xd4u4exqdkdl1pp37</sha1>
+    </revision>
+  </page>
+</mediawiki>

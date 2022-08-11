@@ -1,0 +1,1051 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Chetumal Province</title>
+    <ns>0</ns>
+    <id>68388193</id>
+    <revision>
+      <id>1102690034</id>
+      <parentid>1094206085</parentid>
+      <timestamp>2022-08-06T10:45:23Z</timestamp>
+      <contributor>
+        <username>Marcocapelle</username>
+        <id>14965160</id>
+      </contributor>
+      <comment>/* References */Removed defaultsort</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="100130" xml:space="preserve">{{short description|Postclassic Mayan province in Yucatan from circa 950 to 1544}}
+{{About|the Postclassic Mayan province|the modern city|Chetumal|the archaeological site|Santa Rita, Corozal}}
+&lt;!-- "Maya" is not used as an adjective is this article. PLEASE MAINTAIN the usage. If you must change it, change *all-except-language-related* adjectival instances of "Mayan" to "Maya", and don't leave any non-language-related uses of "Mayan"!--&gt;
+&lt;!-- Mayan titles and offices are not translated. PLEASE KEEP or otherwise translate all titles and offices as per the 1980 Diccionario maya Codemex --&gt;
+&lt;!-- Mayan orthography in this article follows the 1980 Diccionario Maya Codemex. PLEASE MAINTAIN this without change.--&gt;
+&lt;!-- Notes which add content to the main article are given under section "Notes" and made using {{reflist|group=note with&lt;ref group="note". Citations, ie locations of source texts, are given under section "Citations" and made using {{reflist with {{sfn and {{harv. References are given under section "References" and made using {{refbegin ... refend}}. PLEASE MAINTAIN this without change, except possibly for additions. --&gt;
+&lt;!-- References were manually sorted alphabetically (firstly) and by date (secondly). PLEASE MAINTAIN the sorting! --&gt;
+&lt;!-- For ease of referencing, books without authors but with editors listed in the bibliographic page or pages are cited by using |last1=, |last2=, ... parameters for {{sfn, {{harv, ... functions, WITHOUT using |editor1-last=, |editor2-last=, ... parameters, AND WITH the suffix ", eds." or ", ed.", as appropriate. This allows the use of {{sfn and {{harv, WHILE rendering correctly in the "References" section.--&gt;
+ 
+{{use dmy dates|date=August 2021}}
+{{Use British English|date=August 2021}}
+{{Infobox former country
+|native_name            = ''u kuchkabal Chetumal'' ([[Yucatec Maya language|Yucatecan Mayan]])
+|conventional_long_name = Province of Chetumal
+|common_name            = Chetumal Province
+|iso3166code = omit
+|era                    = [[Mesoamerica#Postclassic|Postclassic]] to [[Spanish colonization of the Americas|Spanish conquest]]
+|status                 = Empire
+|status_text            = Dissolved
+|empire                 = &lt;!-- The empire or country to which the entity was in a state of dependency --&gt;
+|government_type        = [[Theocracy|Theocratic]], [[absolute monarchy]]
+&lt;!-- Rise and fall, events, years and dates --&gt;
+&lt;!-- only fill in the start/end event entry if a specific article exists. Don't just say "abolition" or "declaration" --&gt;
+|event_start            = [[Chichen Itza#History|Chichen Itza rule]]
+|date_start             = &lt;!-- Optional: Date of establishment, in format 1 January (no year) --&gt;
+|year_start             = ca. 950
+|event_end              = [[Bacalar|Founding of Salamanca de Bacalar]]
+|date_end               = 4 March
+|year_end               = 1544
+|year_exile_start       = &lt;!-- Year of start of exile (if dealing with exiled government: status="Exile") --&gt;
+|year_exile_end         = &lt;!-- Year of end of exile (leave blank if still in exile) --&gt;
+|event1                 = [[League of Mayapan|Mayapan rule]]
+|date_event1            = ca. 1250
+|event2                 = [[Conquest of Yucatán|Spanish conquest]]
+|date_event2            = 1527–1544
+|event3                 = 
+|date_event3            = 
+|event4                 = 
+|date_event4            = 
+|event5                 = 
+|date_event5            = 
+|event6                 = 
+|date_event6            = 
+|event_pre              = &lt;!-- Optional: A crucial event that took place before "event_start" --&gt;
+|date_pre               = 
+|event_post             = &lt;!-- Optional: A crucial event that took place after "event_end" --&gt;
+|date_post              = 
+&lt;!-- Flag navigation: Preceding and succeeding entities p1 to p5 and s1 to s5 --&gt;
+|p1                     = Lamanai
+|flag_p1                = &lt;!-- Default: "Flag of {{{p1}}}.svg" (size 30) --&gt;
+|image_p1               = &lt;!-- Use: [[File:Sin escudo.svg|20px|Image missing]] --&gt;
+|p2                     = Altun Ha
+|flag_p2                = 
+|image_p2               = [[File:XJYms101.svg|20px|Image missing]]
+|p3                     = 
+|flag_p3                = 
+|p4                     = 
+|flag_p4                = 
+|p5                     = 
+|flag_p5                = 
+|s1                     = Viceroyalty of New Spain
+|flag_s1                = Flag of Cross of Burgundy.svg
+|image_s1               = 
+|s2                     = 
+|flag_s2                = 
+|s3                     = 
+|flag_s3                = 
+|s4                     = 
+|flag_s4                = 
+|s5                     = 
+|flag_s5                = 
+|image_flag             = &lt;!-- Default: Flag of {{{common_name}}}.svg --&gt;
+|flag_alt               = &lt;!-- Alt text for flag --&gt;
+|image_flag2            = &lt;!-- Second flag --&gt;
+|flag_alt2              = &lt;!-- Alt text for second flag --&gt;
+|flag                   = &lt;!-- Link target under flag image. Default: Flag of {{{common_name}}} --&gt;
+|flag2                  = &lt;!-- Link target under flag2 image. Default: Flag of {{{common_name}}} --&gt;
+|flag_type              = &lt;!-- Displayed text for link under flag. Default "Flag" --&gt;
+|flag2_type             = &lt;!-- Displayed text for link under flag2. Default "Flag" --&gt;
+|image_coat             = XJYms101.svg
+|coa_size               = 200px
+|coat_alt               = Emblem glyph of Altun Ha
+|symbol_type            = Emblem glyph of Altun Ha
+|symbol_type_article    = &lt;!-- Link target under symbol image. Default: Coat of arms of {{{common_name}}} --&gt;
+|image_map              = [[File:Yucatan-Peninsula-1822 Map.jpg|Yucatan-Peninsula-1822 Map|300px]]
+|image_map_alt          = Map of the Yucatan Peninsula in 1822
+|image_map_caption      = Map of Yucatan showing [[Bacalar|Salamanca de Bacalar]]
+|image_map2             = &lt;!-- If second map is needed; does not appear by default --&gt;
+|image_map2_alt         = 
+|image_map2_caption     = 
+|capital                = [[Chichen Itza]]; [[Mayapan]]; [[Santa Rita, Corozal|Chetumal]]
+|capital_exile          = &lt;!-- If status="Exile" --&gt;
+|national_motto         = 
+|national_anthem        = 
+|common_languages       = [[Yucatec Maya language|Yucatecan Mayan]]
+|religion               = [[Mayan religion|Mayan polytheism]]; Cult of [[Kukulkan]]
+|demonym                = 
+|currency               = 
+&lt;!-- Titles and names of the first and last leaders and their deputies --&gt;
+|leader1                = [[Ah Xiu Xupan]] (''last'')
+|leader2                = 
+|leader3                = 
+|leader4                = 
+|leader21               = 
+|year_leader1           = ca. 1441-1446
+|year_leader2           = 
+|year_leader3           = 
+|year_leader4           =
+|year_leader21               = 
+|title_leader           = King
+|representative1        = [[Nachan Kan]] (''last'')
+|representative2        = 
+|representative3        = 
+|representative4        = 
+|representative5        = 
+|year_representative1   = ca. 1514–1544
+|year_representative2   = 
+|year_representative3   = 
+|year_representative4   = 
+|year_representative5   = 
+|title_representative   = [[Halach Uinik|Governor]]
+|deputy1                = &lt;!-- Name of prime minister --&gt;
+|deputy2                = 
+|deputy3                = 
+|deputy4                = 
+|year_deputy1           = &lt;!-- Years served --&gt;
+|year_deputy2           = 
+|year_deputy3           = 
+|year_deputy4           = 
+|title_deputy           = &lt;!-- Default: "Prime minister" --&gt;
+&lt;!-- Legislature --&gt;
+|legislature            = &lt;!-- Name of legislature --&gt;
+|house1                 = &lt;!-- Name of first chamber --&gt;
+|type_house1            = &lt;!-- Default: "Upper house" --&gt;
+|house2                 = &lt;!-- Name of second chamber --&gt;
+|type_house2            = &lt;!-- Default: "Lower house" --&gt;
+&lt;!-- Area and population of a given year --&gt;
+|stat_year1             = &lt;!-- year of the statistic, specify either area, population or both --&gt;
+|stat_area1             = &lt;!-- area in square kílometres (w/o commas or spaces), area in square miles is calculated --&gt;
+|stat_pop1              = &lt;!-- population (w/o commas or spaces), population density is calculated if area is also given --&gt;
+|stat_year2             = 
+|stat_area2             = 
+|stat_pop2              = 
+|stat_year3             = 
+|stat_area3             = 
+|stat_pop3              = 
+|stat_year4             = 
+|stat_area4             = 
+|stat_pop4              = 
+|stat_year5             = 
+|stat_area5             = 
+|stat_pop5              = 
+|today                  = [[Belize]]; [[Mexico]]
+|footnote_a             = &lt;!-- Accepts wikilinks --&gt;
+|footnote_b             = &lt;!-- Accepts wikilinks --&gt;
+|footnote_h             = &lt;!-- Accepts wikilinks --&gt;
+|footnotes              = &lt;!-- Accepts wikilinks --&gt;
+}}
+'''Chetumal''', or the '''Province of Chetumal''' ({{IPAc-en|ˌ|tS|E|t|U|ˈ|m|A:|l}} {{respell|che|tuu|MAHL}}; {{lang-yua|u kuchkabal Chetumal}} {{IPA-myn|u kutʃkaˈbal tʃetuˈmal}}) was a [[Kuchkabal|Postclassic Mayan state]] in the [[Yucatán Peninsula|Yucatan Peninsula]].{{sfn|Oxford University Press|2021
+}}{{sfn|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|1980|pp=91, 344
+}}&lt;ref 
+group="note"&gt;The Yucatecan Mayan orthography in this article follows that of {{harvnb|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|Dzul Góngora|Dzul Poot|1980|pp=41a–44a
+}}. At least two other orthographic systems exist {{harv|Lehmann|2018|loc=sec. 2.1, 3
+}}, neither of which is used in this article. Accordingly, ''kuchkabal'', and ''Chetumal'' and its synonym ''Chakte'mal'' are preferred over several variations thereof, per {{harvnb|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|Dzul Góngora|Dzul Poot|1980|pp=91, 344
+}}.&lt;/ref&gt;&lt;ref 
+group="note"&gt;Various dates for periods of the [[Mesoamerican chronology]] have been given. This article uses those provided by {{harvnb|Sharer|Traxler|2006|p=98
+}}—
+* Lithic – 8000 BC and prior dates, 
+* Archaic – 8000 to 2000 BC,
+* Preclassic – 2000 BC to 250 AD, 
+* Classic – 250 to 900 AD, and 
+* Postclassic – 900 AD and posterior dates. 
+Furthermore, dates prior to 12 October 1492 constitute the [[pre-Columbian era]], and all others the Columbian era.
+&lt;/ref&gt;&lt;ref
+group="note"&gt;The Chetumal Province has been called a ''chiefdom'' by some authors. A distinction has been made, however, between ''chiefdoms'' and ''states'', the latter being characterised by more complex forms of sociopolitical organisation than the former ({{harvnb|Sharer|Traxler|2006|p=73
+}}, {{harvnb|Rice|2004|pp=4–7
+}}). Accordingly, the province is herein designated a state, and not a chiefdom.
+&lt;/ref&gt;
+
+== History ==
+
+=== Pre-Columbian ===
+
+==== Prior to Classic collapse ====
+
+The first settlements in Chetumal were established by [[Paleoindians|Palaeo-indians]] before 8000 BC, during the [[Preceramic Period in Belize|Lithic Period of Mesoamerica]].&lt;ref 
+group="note"&gt;As of 2016, evidence of Palaeo-indian presence in Chetumal include— (i) an undated, fishtail [[projectile point]] recovered near present-day [[Orange Walk Town|Orange Walk]] {{harv|Stemp|Awe|Helmke|2016|pp=71–72
+}}, (ii) an undated, lanceolate projectile point recovered from [[August Pine Ridge]] {{harv|Stemp|Awe|Helmke|2016|pp=71–72
+}}.
+&lt;/ref&gt; The first ''permanent'' settlements in Chetumal are believed to have been established by Mayan farmers from the Guatemalan highlands by 2000 BC, during the [[Mesoamerican chronology|Archaic period of Mesoamerica]].{{Citation needed|date=August 2021|reason=Doesn't seem controversial but best have a source for this claim
+}} The first state or province encompassing Mayan settlements in Chetumal is presumed to have been formed by 100 AD, during the [[Mesoamerican chronology|Late Preclassic period of Mesoamerica]].{{Citation needed|date=August 2021|reason=Doesn't seem controversial but best have a source for this claim
+}}
+
+==== Proximal to Classic collapse ====
+
+[[File:Chichen Itza CB.jpg|thumb|Ruins of Chichen Itza in 2005, by Claude Belair]]
+
+{{Main|Classic Maya collapse}}
+
+The completion of the [[Classic Maya collapse|Classic Mayan collapse]] in Yucatan saw both the formation of Mayan provinces and the imperial expansion of [[Chichen Itza]] over these provinces, or their constituent cities.{{sfn|Roys|1957|p=3
+}}{{sfn|Rice|2004|p=24
+}}{{sfn|Sharer|Traxler|2006|p=569
+}}{{sfn|Demarest|Rice|Rice|2004|pp=531–533, 537–542
+}}&lt;ref 
+group="note"&gt;It is not clear whether Chichen Itza's expansion across Yucatan came before, during, or after the formation of Postclassic Mayan provinces {{harv|Roys|1957|p=3
+}}.
+&lt;/ref&gt; The collapse does not seem to have been catastrophic in the (future) territory of Chetumal.{{sfn|Aimers|2007|pp=342–343
+}}{{sfn|Demarest|Rice|Rice|2004|pp=367, 371–372
+}} At least twenty-five settlements in the area are known to have survived, most likely by reorienting economic activity towards the [[Maritime trade in the Maya civilization|Chichen Itza-driven coasting trade]].{{sfn|Aimers|2007|p=343
+}}{{sfn|Demarest|Rice|Rice|2004|pp=371–372
+}}&lt;ref
+group="note"&gt;Namely–
+# on [[New River (Belize)|New River]] – [[Cerros]], Aventura, [[Lamanai]], [[San Estevan (Maya site)|San Estevan]], Chau Hiix, and one unnamed site ({{harvnb|Aimers|2007|p=343
+}}, {{harvnb|Demarest|Rice|Rice|2004|pp=378, 402
+}}),
+# on [[Hondo River (Belize)|Hondo River]] – [[Nohmul]], Consejo, Chan Chen, San Antonio {{harv|Aimers|2007|p=343
+}},
+# on [[Corozal Bay]] – [[Santa Rita, Corozal|Santa Rita]] ({{harvnb|Aimers|2007|p=343
+}}, {{harvnb|Demarest|Rice|Rice|2004|p=378
+}}),
+# inland – [[Altun Ha]], [[Colha, Belize|Colha]], [[Honey Camp Lagoon|Honey Camp Lagoon / Laguna de On]], Kichpanha ({{harvnb|Aimers|2007|p=343
+}}, {{harvnb|Demarest|Rice|Rice|2004|p=378
+}}),
+# on [[Ambergris Caye]] – [[Marco Gonzalez]], San Juan, Chac Balam {{harv|Aimers|2007|p=343
+}},
+# on [[Northern River Lagoon]] – Cabbage Ridge / Saktunja {{harv|Demarest|Rice|Rice|2004|p=368
+}},
+# on [[Progresso Lagoon]] – [[Caye Coco]], and five unnamed sites {{harv|Demarest|Rice|Rice|2004|pp=368–370
+}}.
+&lt;/ref&gt; There is, nonetheless, evidence of limited social upheaval.&lt;ref
+group="note"&gt;Namely–
+# [[Colha, Belize|Colha]] is thought to have been attacked and thereafter settled by northern polities, (patterns in its Postclassic material culture have been described as "totally different from those of the Classic period") ({{harvnb|Aimers|2007|pp=343–344
+}}, {{harvnb|Demarest|Rice|Rice|2004|pp=375, 378
+}}),
+# [[Nohmul]] is thought to have been attacked and thereafter settled by northern polities ({{harvnb|Aimers|2007|p=344
+}}, {{harvnb|Demarest|Rice|Rice|2004|p=390
+}}),
+# mass executions of the local aristocracy have been suggested {{harv|Aimers|2007|p=344
+}}.
+&lt;/ref&gt;
+
+[[Chichen Itza]], established by [[Itza people|Itza]] settlers in circa 750–800 AD, was the most powerful city-state in the Yucatan peninsula until circa 1050–1100 AD.{{sfn|Sharer|Traxler|2006|pp=559, 568
+}}{{sfn|Aimers|2007|p=339
+}}{{sfn|Demarest|Rice|Rice|2004|pp=520–521, 561–562
+}}&lt;ref
+group="note"&gt;The city is known to have been conquered or sacked towards circa 1050–1100 AD {{harv|Sharer|Traxler|2006|pp=591–592
+}}. Later Columbian-period accounts hold that [[Hunac Ceel|Hunak Ke'el]], ruler of Mayapan, conquered Chichen Itza, thereby cementing his city's rule over the latter's dominions ({{harvnb|Sharer|Traxler|2006|p=592
+}}, {{harvnb|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|Dzul Góngora|Dzul Poot|1982|p=247
+}}).
+&lt;/ref&gt;&lt;ref
+group="note"&gt;At least three other dates proximal to the 1050–1100 AD date have been suggested for the end of Chichen Itza's dominance over the Yucatan peninsula–
+# 1000–1050 AD {{harv|Demarest|Rice|Rice|2004|p=520
+}},
+# 1100–1200 AD {{harv|Demarest|Rice|Rice|2004|p=520
+}},
+# 1200–1250 AD {{harv|Roys|1957|p=3
+}}.
+&lt;/ref&gt; It appears to have started a sustained, and successful, programme of conquest in circa 900 AD, resulting in the formation of various provinces, possibly or likely including Chetumal.{{sfn|Sharer|Traxler|2006|p=569
+}}{{sfn|Roys|1957|p=3
+}}{{sfn|Demarest|Rice|Rice|2004|pp=531–533, 537–542
+}}&lt;ref
+group="note"&gt;Said conquest most likely extended at least throughout central Yucatan {{harv|Sharer|Traxler|2006|p=568}}. It has been further suggested that the city-state established direct rule, whether by conquest or the threat thereof, over key ports in the coasting trade which circumnavigated Yucatan, from the [[Chontalpa]] region to the [[Bay Islands Department|Bay Islands]] {{harv|Sharer|Traxler|2006|pp=567, 570
+}}. One of these may have been [[Nohmul]] in Chetumal, where a colonnaded courtyard building, apparently styled after those of Chichen Itza, has been excavated {{harv|Sharer|Traxler|2006|p=579
+}}.
+&lt;/ref&gt;
+
+==== Posterior to Classic collapse ====
+
+[[File:Mayapan '2010 - 12.jpg|thumb|Ruins of Mayapan in 2010, by Pavel Vorobiev]]
+
+[[Mayapan]] succeeded Chichen Itza as the most powerful city-state in Yucatan during ''k'atun 8 ahaw'', equivalent either to 1080–1104 AD, or to 1185–1204 AD. Its rule lasted thirteen ''k'atuno'ob'', thereby ending either during 1392–1416 AD, or 1441–1461 AD.{{sfn|Sharer|Traxler|2006|pp=595–598, 603
+}}&lt;ref
+group="note"&gt;Various Columbian-period accounts detail Mayapan's history during these thirteen ''k'atuno'ob''. However, two ''k'atuno'ob'' were in use then— (i) the Classical ''k'atun'' of 7,200 days (circa 19.713 [[tropical year]]s), and (ii) a later ''ahaw k'atun'' of circa 24 tropical years. This has resulted in much uncertainty regarding Mayapan's chronology {{harv|Sharer|Traxler|2006|pp=596–597
+}}.
+&lt;/ref&gt;&lt;ref
+group="note"&gt;It has been suggested the rise of Mayapan was preceded by a breakdown of the peninsular coasting trade {{harv|Demarest|Rice|Rice|2004|p=375
+}}.
+&lt;/ref&gt;
+
+During circa 1450 to 1500 AD, Pachimalahix I, fifth ruler of the Acalan, led a military force to the Chetumal capital, and exacted tribute.{{sfn|Roys|1957|p=162
+}}{{sfn|Scholes|Roys|1968|pp=79, 82, 85
+}}&lt;ref 
+group="note"&gt;The Acalan were an ostracised group from Cozumel who settled the [[Tenosique Municipality|Tenosique valley]] on the [[Usumacinta River]]. This event is tentatively dated to during 1350 to 1375 by {{harvnb|Scholes|Roys|1968|p=79
+}}, upon the following calculus— (i) a six-generation pedigree of Acalan rulers ranging from the date of their expulsion from Cozumel to the death of their sixth ruler in circa 1526, (ii) a 30-year period-in-office per ruler {{harv|Scholes|Roys|1968|p=89
+}}. This places the fifth ruler's time in office during circa 1465 to 1496.
+&lt;/ref&gt; Further details on this event remain obscure, though given the reputed commercial pre-eminence of the provincial capital at the time, it has been suggested that Pachimalahix I rather raided the city to settle trade-related damages, rather than actually having exacted tribute.{{sfn|Scholes|Roys|1968|pp=82, 85
+}}
+
+=== Columbian ===
+
+{{main|Spanish conquest of Yucatán}}
+
+==== First contacts with Spaniards ====
+
+The first Spaniard known to have arrived in Chetumal was [[Gonzalo Guerrero]], a sailor from [[Palos de la Frontera|Palos de la Frontera, Spain]]. In 1514, Guerrero entered the civil or military service in Chetumal. He was likely gifted to [[Nachan Kan|Gov. Kan]] as a slave by a ''batab'' or mayor from the [[Ekab|Ekab Province]].{{sfn|Jones|1989|p=27
+}}&lt;ref
+group="note"&gt;The Ekab Province seems to have lacked a ''halach winik'' or governor, and was likely rather organised as a confederation of towns. It has been suggested that the Pat ''ch'ibal'' or noble house were the most influential in the province {{harv|Roys|1957|p=143
+}}.
+&lt;/ref&gt; By 1519, Guerrero had fully assimilated to Mayan culture, having married Gov. Kan's daughter and fathered three children with her. Guerrero would thereafter devise or at least contribute to the military strategy of Chetumal and other Mayan states against at least three Spanish entradas.{{sfn|González Hernández|2018|loc=para. 1, 5–9}}
+
+Three events pre-dating the 1514 arrival of Guerrero to Chetumal have been proposed as marking the first contact by residents of Chetumal with Spaniards:
+
+* The 1511 arrival of Guerrero and his marooned shipmates to [[Cozumel]]{{sfn|González Hernández|2018|loc=para. 4–5}}&lt;ref
+group="note"&gt;{{harvnb|Jones|1989|p=27
+}} gives their arrival date as 1512.
+&lt;/ref&gt;
+* The 1508 voyage of [[Juan Díaz de Solís]] and [[Vicente Yáñez Pinzón]] to [[Lake Izabal]]{{sfn|Varela Marcos|2018a|loc=para. 8–16}}{{sfn|Varela Marcos|2018b|loc=para. 33–41}}{{sfn|Arranz Márquez|2018|loc=para. 12–20}}
+* The [[Voyages of Christopher Columbus|1502 voyage by Christopher Columbus]] to [[Guanaja]]
+
+Mayan settlements near Cozumel, Lake Izabal, and Guanaja are known to have been part of the riverine and coastal trading networks of merchants in Chetumal. Any knowledge of non-Indian people obtained by the former is thus presumed to have been passed on to the latter. It has further been suggested that the [[Ekab|Ekab Province]] may have been allied with Chetumal.{{sfn|Jones|1989|p=27
+}}
+
+==== Cuban expeditions to Yucatan ====
+
+Hispano-Mayan hostilities commenced on 5 March 1517 in [[Cape Catoche]], when an expeditionary force led by [[Francisco Hernández de Córdoba (Yucatán conquistador)|Francisco Hernández de Córdoba]] was ambushed by the military or militia of the [[Ekab|Ekab Province]], near that state's eponymous capital. The Hernández expedition were similarly received by neighbouring Mayan polities, thereby foiling the expedition's pecuniary aims. {{sfn|Chamberlain|1948|pp=11–12
+}}&lt;ref
+group="note"&gt;Antón de Alamilla, chief pilot of the flotilla of 3 ships and over 100 men, seems to have convinced Hernández de Córdoba to sail directly westwards of Cuba, thereby taking them to the Ekab Province. (The expedition's initial destination was apparently either the Bahamas or the Bay Islands.) Alamilla had sailed with Christopher Columbus on his fourth voyage of 1502–1504 {{harv|Chamberlain|1948|p=11
+}}. 
+&lt;/ref&gt;
+
+The expeditionaries' reports of grand Mayan cities would nonetheless spur further Cuban expeditions to Yucatan, including a 1518 trading and reconnoitering voyage by [[Juan de Grijalva]] and another in 1519 by [[Hernán Cortés]], the latter of which quickly morphed into the 1519–1521 [[Spanish conquest of the Aztec Empire]] and the 1519–1521 smallpox epidemic.{{sfn|Chamberlain|1948|pp=13–15
+}}&lt;ref
+group="note"&gt;The Grijalva expedition, of 4 ships and 250–300 men, and the Cortés one, of 10 ships and circa 400 men, were piloted by Antón de Alamilla, and included [[Pedro de Alvarado]], Alonso Dávila, and [[Francisco de Montejo]] as principal subordinates. The former's survey of [[Laguna de Términos]] led to a mistaken belief that Yucatan was an island {{harv|Chamberlain|1948|pp=13–15
+}}. 
+&lt;/ref&gt; The epidemic is presumed to have affected Chetumal severely. The reports likewise prompted the [[Diego Velázquez de Cuéllar|Governor of Cuba]], who had commissioned the Hernández expedition, to petition and be granted letter patent authorising his conquest of the Mayan states on behalf of the [[Charles V, Holy Roman Emperor|Charles I of Spain]]. The newly-minted [[adelantado]], however, did not proceed with the conquest of Yucatan.{{sfn|Chamberlain|1948|p=16
+}}
+
+==== Montejo entrada, 1527–1528 ====
+
+On 8 December 1526, the [[Salamanca]]n conquistador [[Francisco de Montejo]], who had participated in the Grijalva and Cortés expeditions from Cuba, was granted letters patent for the conquest of Yucatan and Cozumel by Charles I of Spain. Unlike Gov. Velázquez, former holder of the patent, Montejo promptly undertook the called-for conquest.{{sfn|Chamberlain|1948|pp=19
+}}{{sfn|García Bernal|2018|loc=para. 13–14
+}}&lt;ref
+group="note"&gt;The petition was formally made on 16 November 1526, and supported [[Pánfilo de Narváez]] and [[Antonio de Sedeño]]. His letters patent required that the conquest begin within a year {{harv|Chamberlain|1948|pp=19–20, 22
+}}.
+&lt;/ref&gt;
+
+The adelantado named his close colleague, [[Alonso Dávila]], likewise a participant in the Grijalva and Cortés expeditions from Cuba, the principal lieutenant for his entrada.{{sfn|Chamberlain|1948|p=30
+}} They engaged 4 ships and over 250 men in [[Seville]], from where they embarked in late June 1527, landing in [[Cozumel]] in late September 1527.{{sfn|Chamberlain|1948|pp=31–35
+}}{{sfn|García Bernal|2018|loc=para. 15
+}}&lt;ref
+group="note"&gt;The ships were— (i) the ''San Jerónimo'', Miguel Ferrer master, (ii) ''Nicolasa'', Ochoa master,  (iii) ''La Gavarra'', master not named, and (iv) a fourth unnamed ship, master likewise not named. The adelantado’s principal subordinates were Alonso Dávila, Antón Sánchez Calabrés, Pedro de los Ríos, Pedro de Añasco, Pedro de Lugones, Pedro González, Hernando Palomino, Pedro Gaitán, and possibly Andrés de Calleja and Roberto Alemán. Crown representatives Pedro de Luna and Hernando de Cueto accompanied the expedition, as did frays Juan Rodríguez de Caraveo, Pedro Fernández, and Gregorio de San Martín. The flotilla was thoroughly refitted at [[Ciudad Colonial (Santo Domingo)|Santo Domingo]] {{harv|Chamberlain|1948|pp=31–35
+}}.
+&lt;/ref&gt;
+
+===== Northern campaign, autumn 1527 – summer 1528 =====
+
+They watered in Cozumel for a few days, upon their warm reception by residents and Naum Pat, an influential ''batab'' or mayor in Cozumel, and thereafter proceeded to the mainland.{{sfn|Chamberlain|1948|p=35–36
+}}&lt;ref
+group="note"&gt;It has been suggested that the Pat ''ch'ibal'' or noble house were the most influential house in the Ekab Province, which is thought to have encompassed Cozumel {{harv|Roys|1957|p=143 
+}}. At least two towns are known to have existed in Cozumel prior to the Spanish conquest. These were later known as San Miguel Xamancab and Santa María Oycib. A third town, possibly Tantun, has been suggested {{harv|Roys|1957|p=155
+}}.
+&lt;/ref&gt; They explored the immediate area, being well received by the nearby towns of [[Xelha]] and [[Tulum|Zama]], and founded a settlement, christened ''Salamanca'', in October 1527.{{sfn|Chamberlain|1948|p=36
+}} Their substantial demands for foodstuffs soon grew irksome to locals, upon which Salamanca saw their supplies dwindle.{{sfn|Chamberlain|1948|pp=39–40
+}} In late 1527 or early 1528, after a trying period of near-famine and disease, the Spanish moved northwards.{{sfn|Chamberlain|1948|pp=40–41
+}} With Naum Pat’s intercession, they were well received throughout the [[Ekab|Ekab Province]].{{sfn|Chamberlain|1948|pp=45–47
+}}&lt;ref
+group="note"&gt;The Spanish chanced upon Naum Pat at [[Xamanha]], and readily accepted his offer of diplomatic aid {{harv|Chamberlain|1948|pp=45–46
+}}. Good will was further maintained by the fluency in Yucatecan Mayan of some officers and friars, fine displays of horsemanship, and strict discipline. Note that horses inspired awe and terror in the locals, the latter being unaccustomed to the former {{harv|Chamberlain|1948|pp=46–48
+}}.
+&lt;/ref&gt; They entered [[Chauaka]], capital of the [[Chikinchel|Chikinchel Province]], in spring of 1528.{{sfn|Chamberlain|1948|pp=49–51
+}} A battle ensued, which Montejo won, thereby forcing Chikinchel to sue for peace.{{sfn|Chamberlain|1948|pp=52–53
+}} They next headed to [[Ake]], where the Battle of Ake was likewise won by Montejo, after which they headed back to Salamanca, reaching it mid- or late summer 1528.{{sfn|Chamberlain|1948|pp=54–58
+}}&lt;ref
+group="note"&gt;Their traverse may have involved engagements with the military or militia of the [[Sotuta]] and [[Cupul|Kupul]] Provinces {{harv|Chamberlain|1948|p=58
+}}.
+&lt;/ref&gt; Here, they were provisioned from [[Ciudad Colonial (Santo Domingo)|Santo Domingo]], whereupon they embarked on a combined entrada by land and sea southwards.{{sfn|Chamberlain|1948|pp=59–60
+}}
+
+===== Southern campaign, summer 1528 =====
+
+Montejo was to hug the coast with eight to ten men aboard the brigantine or caravel ''La Gavarra''. Dávila was to take a parallel route by land, with the majority of the soldiers.{{sfn|Chamberlain|1948|p=60
+}}{{sfn|Jones|1989|p=26
+}}
+&lt;ref
+group="note"&gt;A small contingent of twenty men stayed at Salamanca, under Alonso de Luján. They were to build a small craft and follow Montejo post haste {{harv|Chamberlain|1948|p=60
+}}. It is not immediately clear how many men constituted the Dávila party. The ''La Gavarra'', which provisioned the men from Santo Domingo, is thought to have found seventy to seventy-five men at Salamanca, suggesting a party of fifty to fifty-five men accompanied Dávila southwards {{harv|Chamberlain|1948|pp=59–60
+}}. On the other hand, {{harvnb|Jones|1989|p=26
+}} gives the number as circa forty soldiers in the Dávila party.
+&lt;/ref&gt; The provincial capital of Chetumal, which had been set as the parties’ rendezvous point, was first reached by Montejo.{{sfn|Chamberlain|1948|p=60
+}}&lt;ref
+group="note"&gt;The details of their crossing the [[Belize Barrier Reef|barrier reef]], and of their navigating its inner waters, are not clear, though this was apparently accomplished with their brig, the ‘’La Guevarra’’, rather than with a much smaller craft of lower draught {{harv|Chamberlain|1948|pp=60–61, 63
+}}.
+&lt;/ref&gt; Unsure of the reception awaiting them, Montejo and his men kidnapped three or four residents under the cover of darkness to gather intelligence. Upon learning of [[Gonzalo Guerrero|Guerrero]], now the ''nakom'' or commander-in-chief of the capital’s forces, Montejo dispatched one of the captives to the former, inviting the commander to break ranks and join the Spanish conquest. This being summarily spurned, the capital was prepared for battle.{{sfn|Chamberlain|1948|pp=61–63
+}}  The commander’s strategy was apparently to keep the Dávila and Montejo parties separated.&lt;ref
+group="note"&gt;Chetumal seems to have known of the Dávila party in advance, though it is not clear that they similarly knew of the Montejo party until the adelantado’s note to Guerrero. Dávila was at present thirty leagues north of the capital {{harv|Chamberlain|1948|pp=62–63
+}}.
+&lt;/ref&gt; Guides were or had been sent, under pretence of alliance, to lead Dávila west of the capital, and thereafter inform him that the Montejo party had been lost. {{sfn|Chamberlain|1948|pp=63–64
+}} The greater threat thus despatched, the capital turned towards Montejo. Feigning good will, residents ministered to Montejo and his men, and further informed the adelantado that the Dávila party had all perished. This bluff likewise worked, and the adelantado promptly set sail south towards [[Ulua River]], and then back north towards Salamanca.{{sfn|Chamberlain|1948|pp=64–65
+}}{{sfn|Jones|1989|p=28
+}} Montejo soon discovered the ruse, and determined to gather reinforcements at [[Veracruz (city)|Veracruz]] for a renewed offensive on Chetumal.&lt;ref
+group="note"&gt;Salamanca had been removed north towards Xamanha by Dávila and Lujan. The Chetumal capital seems to have been determined as the immediate target due to its exceedingly good harbour {{harv|Chamberlain|1948|pp=64–65
+}}.
+&lt;/ref&gt; He most likely set sail for that city in summer 1528.{{sfn|Chamberlain|1948|p=65
+}}&lt;ref
+group="note"&gt;By December 1528, Montejo and his ''alférez mayor'', Gonzalo Nieto, had engaged sufficient men, provisions, and two large vessels in Veracruz and Mexico City for a renewed campaign {{harv|Chamberlain|1948|pp=69–70
+}}. These plans were abruptly upset, however, when the adelantado received the [[Real Audiencia of Mexico|Real Audiencia of Mexico's]] authorisation to conquer the [[Tabasco]] and [[Acalan]] regions of [[New Spain]] {{harv|Chamberlain|1948|1948|pp=71–72
+}}.
+&lt;/ref&gt;
+
+==== Davila entrada, 1531–1533 ====
+
+In early 1531, the adelantado, having brought the [[Chakan (Maya province)|Chakan]], [[Can Pech]], and [[Ah Canul]] Provinces under Spanish authority, promptly set about planning a renewed campaign towards Chetumal.{{sfn|Chamberlain|1948|pp=97–99
+}} Alonso Dávila was appointed to lead the expedition of circa fifty men.{{sfn|Chamberlain|1948|p=99
+}}{{sfn|Jones|1989|p=30
+}}&lt;ref
+group="note"&gt;Dávila's men included the adelantado's fifteen-year-old nephew, [[Francisco de Montejo (the Nephew)|Francisco de Montejo]], and thirteen cavalry. In addition, two Yucatecan Mayan interpreters, a mining expert (Francisco Vázquez), and possibly a friar accompanied them {{harv|Chamberlain|1948|p=100
+}}.
+&lt;/ref&gt;
+
+===== Waymil–Chetumal campaign, summer 1531 =====
+
+Dávila set out from the provincial capital of [[Can Pech]] in mid-1531.{{sfn|Chamberlain|1948|p=100
+}}{{sfn|Jones|1989|p=30
+}} They marched through the [[Tutul-Xiu|Mani]] and [[Cochuah]] Provinces unopposed, shortly thereafter reaching Chable, a town in the [[Uaymil|Waymil]] Province.{{sfn|Chamberlain|1948|pp=100–101
+}} Pre-eminent individuals in town promptly offered assistance, and were despatched to the provincial capital of [[Bacalar]] to summon the ''batab'' or mayor.&lt;ref
+group="note"&gt;It has been suggested that this assistance was compelled by force of arms, rather than freely proffered {{harv|Jones|1989|p=30
+}}.
+&lt;/ref&gt; The summons being rebuffed, Dávila marched on, leaving half of his men in Chable.{{sfn|Chamberlain|1948|pp=101–102
+}}{{sfn|Jones|1989|pp=30–31
+}}&lt;ref
+group="note"&gt;The ''batab'' or mayor of Bacalar was apparently under the authority of the Governor of Chetumal, Nachan Kan. (The Waymil Province seems to have lacked a ''halach winik'' or governor, and was likely rather organised as a confederation of towns, per {{harvnb|Jones|1989|p=40
+}}.) Notably, his reply to Dávila's summons declared that Waymil or Chetumal would give his men "[tribute of] fowls in the form of their [the locals'] lances and maize in the form of their arrows" {{harv|Chamberlain|1948|pp=101–102
+}}. This reply is rather attributed to Gov. Kan by {{harvnb|Jones|1989|pp=30–31
+}}, who quotes the governor as stating that he would not come meet Dávila "but would rather declare war, giving [them] the chickens on spears and the maize on arrows."
+&lt;/ref&gt;&lt;ref
+group="note"&gt;{{harvnb|Jones|1989|pp=30–31
+}} asserts that mediators from Chable were rather despatched to the capital of Chetumal, to summon Gov. Kan, and not the Waymil capital of Bacalar, since the former held authority over the latter, thereby making him the more suitable person for Dávila to deal with. The Chable messengers would have nonetheless passed Bacalar en route to Chetumal {{harv|Jones|1989|p=31
+}}.
+&lt;/ref&gt; They next reached Maçanahau, a large town close to [[Lake Bacalar]]. Being well received, Dávila and his men stayed here for three weeks, during which time the diplomatic aid of leading individuals from various provincial towns seems to have convinced the ''batab'' or mayor of Bacalar to not oppose the entrada.{{sfn|Chamberlain|1948|p=102
+}}{{sfn|Jones|1989|p=31
+}}&lt;ref
+group="note"&gt;Leading residents of Chable, who had previously proffered assistance upon Dávila's arrival, had accompanied the reduced expedition to Maçanahau. Dávila had further received offers of mediation from respected residents of Maçanahau and Yuyumpeten, a nearby town {{harv|Chamberlain|p=102
+}}.
+&lt;/ref&gt; Consequently, the party continued their march to [[Bacalar]] unopposed. An overland march to Chetumal, Dávila soon found out, was not possible. Sea transport on several large canoes was thus arranged.{{sfn|Chamberlain|1948|p=103
+}}{{sfn|Jones|1989|pp=31–32
+}} They disembarked at Chetumal unopposed, as the capital had been deserted. Nevertheless, per his instructions, Dávila decided to found a town in Chetumal. The rest of the party, who had been left in Chable, were called for, and the new settlement at Chetumal christened ''Villa Real''.{{sfn|Chamberlain|1948|p=103
+}}{{sfn|Jones|1989|pp=32–33
+}}&lt;ref
+group="note"&gt;The adelantado had instructed Dávila to establish a Spanish settlement wherever Dávila thought best. The new town would apparently serve to administer the Cochuah, Waymil and Chetumal Provinces, once these were all under Spanish rule. One of the founding ''regidores'' or councilmen of ''Villa Real'' was Montejo, the young nephew of the eponymous adelantado {{harv|Chamberlain|1948|p=103
+}}. The ''alcaldes'' or mayors were Martín de Villarubia and Francisco Vázquez, and the remaining ''regidores'' were Cristóbal Cisneros, Blas Maldonado, and Alonso de Arévalo {{harv|Jones|1989|p=38
+}}.
+&lt;/ref&gt;
+
+===== Settlement and siege of ''Villa Real'', summer 1531 – autumn 1532 =====
+
+In the next two months, the Governor of Chetumal, Nachan Kan, rallied the provincial forces at Chequitaquil, a coastal town four leagues north of the capital. On learning this, Dávila ordered a pre-emptive strike. A unit of circa twenty-five soldiers took the encampment by surprise. The assault was a partial success, resulting in the death of many of the provinces men, imprisonment of over sixty, and dispersal of all others. The principal target, Gov. Kan, had nonetheless made his escape.{{sfn|Chamberlain|1948|p=104
+}}{{sfn|Jones|1989|p=33
+}}&lt;ref
+group="note"&gt;The assault yielded over sixty prisoners and loot worth circa 600 to 1,000 pesos. The capital's commander-in-chief, Gonzalo Guerrero, is presumed to have been with Gov. Kan at Chequitaquil, and to have likewise escaped. The captives, however, informed Dávila that Guerrero had previously died ({{harvnb|Chamberlain|1948|pp=104–105
+}}, {{harvnb|Jones|1989|p=33
+}}).
+&lt;/ref&gt;
+
+Now safely ensconced at the Chetumal capital (now ''Villa Real''), Dávila set out with twenty men on a survey of the newly-Spanish territory towards Maçanahau. Upon reaching Bacalar, Dávila, to his great surprise, was informed that residents of Maçanahau and other provincial towns of Waymil had resolved to oppose him. The towns and their access roads had been barricaded. The opposition, though, was soon routed.{{sfn|Chamberlain|1948|pp=105–106
+}}{{sfn|Jones|1989|p=34
+}}&lt;ref
+group="note"&gt;First at Maçanahau, then at Chable {{harv|Chamberlain|1948|pp=105–106
+}}.
+&lt;/ref&gt; In the meantime, the recently-conquered Cochuah Province had revolted. Dávila resupplied at Villa Real and set off with twenty-two men to suppress the revolt.{{sfn|Chamberlain|1948|pp=107–108
+}}{{sfn|Jones|1989|pp=34–36
+}}&lt;ref
+group="note"&gt;Leaving some twenty-odd men at Villa Real. At Bacalar, some 600 locals from the various towns of Waymil, including many provincial or municipal officers, accompanied Dávila to Cochuah {{harv|Chamberlain|1948|pp=107–108
+}}. Some to most of the Waymil allies would later desert Dávila to join the Cochuah revolt {{harv|Chamberlain|1948|pp=109–110
+}}. It has been suggested that the Governor of Chetumal, Nachan Kan, and his commander-in-chief, Gonzalo Guerrero, played a part in spreading the revolt  {{harv|Chamberlain|1948|p=116
+}}.
+&lt;/ref&gt; Unlike the limited rebellion in Waymil, the Cochuah revolt proved serious and widespread, forcing Dávila to retreat to Villa Real.{{sfn|Chamberlain|1948|pp=112–113, 116
+}}{{sfn|Jones|1989|pp=36–38
+}} The Spanish settlement was now under heavy siege. With only some thirty men fit for combat, five horses, and depleting stores, their situation was precarious.{{sfn|Chamberlain|1948|pp=116–117
+}}{{sfn|Jones|1989|p=33
+}}&lt;ref
+group="note"&gt;Eleven of the fifty-odd men who had set out from the Can Pech capital in mid-1531 had died, leaving some forty men at Villa Real, of whom ten were reportedly maimed {{harv|Chamberlain|1948|pp=116–117
+}}.
+&lt;/ref&gt;
+
+Dávila soon learnt of a sizeable convoy preparing to set sail near Villa Real for trade towards the [[Ulua River]]. He had the merchants and their articles seized.&lt;ref
+group="note"&gt;By a small party, led by Martín de Villarubia ({{harvnb|Chamberlain|1948|p=117
+}}, {{harvnb|Jones|1989|p=38
+}}).
+&lt;/ref&gt; Since his prisoners included the son of the ''batab'' or mayor of Tapaen, a provincial town in Waymil, Dávila kept the son hostage and despatched two merchants to summon the mayor, who promptly called. The mayor was given a month to secure communication with the adelantado in the capital of the [[Can Pech]] Province, and promised his son in return. Believing his son would be released regardless, the mayor dallied. Upon learning of the mayor's ill faith, Dávila had him and his retinue tortured.&lt;ref
+group="note"&gt;The mayor had been summoned to Villa Real upon the expiration of the month he had been given {{harv|Chamberlain|1948|p=117
+}}.
+&lt;/ref&gt; To prove "whether the son had more love for the father, than the father had for the son," Dávila now despatched the mayor's son to the adelantado in Can Pech, keeping the mayor hostage.{{sfn|Chamberlain|1948|p=117
+}} This arrangement also faltered.{{sfn|Chamberlain|1948|pp=117–118
+}}&lt;ref
+group="note"&gt;The mayor's son had also been given a month to secure the adelantado's reply. When said time was up, Dávila had led a detachment to Tapaen, where he was informed by captives that the mayor's son had made no attempt to reach the Can Pech capital {{harv|Chamberlian|1948|p=118
+}}.
+&lt;/ref&gt;
+
+===== Retreat from ''Villa Real'', autumn 1532 – spring 1533 =====
+
+The siege wore on for months, as it became increasingly clear to the men that the situation was untenable.{{sfn|Chamberlain|1948|p=118
+}} In autumn 1532, Dávila and the ''cabildo'' or town council resolved to retreat to [[Trujillo, Honduras|Trujillo]] by sea.{{sfn|Chamberlain|1948|pp=119–120
+}}{{sfn|Jones|1989|pp=38–39
+}}&lt;ref
+group="note"&gt;''Villa Real'' was to be re-established somewhere south of the Chetumal capital, if possible {{harv|Chamberlain|1948|pp=119–120
+}}.
+&lt;/ref&gt; They reached [[Puerto Caballos]] in spring 1533, after an arduous journey of seven months.{{sfn|Chamberlain|1948|pp=120–124
+}}{{sfn|Jones|1989|p=39
+}}&lt;ref
+group="note"&gt;The retreat, aboard thirty-two canoes, was led by (captive) local merchants. Though swift and surreptitious, locals learnt of the retreat, and unsuccessfully pursued the Spanish for a day {{harv|Chamberlain|1948|pp=120–121
+}}. Dávila and his men, despite the able guidance of their captive merchants, sailed only six to seven leagues each day, constantly fighting a treacherous sea. Raids on riverine settlements, and craft and goods seized from travelling merchants, supplemented the Spaniards' stores {{harv|Chamberlain|1948|pp=122–124
+}}.
+&lt;/ref&gt;
+
+==== Pacheco entrada, 1543–1544 ====
+{{main article|1543–1544 Pachecos entrada}}
+
+In April 1543, the Adelantado commissioned Gaspar Pacheco to conquer Chetumal and Waymil. Pacheco enlisted twenty-five to thirty men in [[Mérida, Yucatán|Merida]], and named Melchor Pacheco his principal subordinate, and Alonso Pacheco third in command.{{sfn|Chamberlain|1948|p=232
+}}&lt;ref
+group="note"&gt;The date is given as 3 January 1543 in {{harvnb|Jones|1989|p=41
+}}.
+&lt;/ref&gt; The expedition set out in late 1543 or early 1544.{{sfn|Chamberlain|1948|pp=232–233
+}}
+
+Pacheco and his men first reached the Spanish-controlled [[Cochuah|Cochuah Province]]. Their demands on the war-stricken residents here proved impossible to meet. The party nonetheless impressed men and women as servants, and seized so much food as to reduce the province to famine.{{sfn|Chamberlain|1948|p=233
+}} At this point, having fallen ill, Gaspar Pacheco tasked Melchor Pacheco, his second-in-command, with the conquest of Waymil and Chetumal.{{sfn|Chamberlain|1948|p=233
+}}{{sfn|Jones|1989|p=42
+}}&lt;ref
+group="note"&gt;Gaspar Pacheco returned to Merida to recuperate. Alonso Pacheco was now Melchor Pacheco's principal subordinate {{harv|Chamberlain|1948|p=233
+}}.
+&lt;/ref&gt;
+
+Marching onwards to Waymil and Chetumal, the Pachecos soon discovered that residents had burnt their crops and fled to the woods, determined on guerrilla warfare to oppose them.{{sfn|Chamberlain|1948|p=233–234
+}} Exasperated, the Pachecos now resorted to wanton acts of cruelty, including:
+* clubbing captives to death,
+* drowning captives,
+* sicking dogs on unarmed civilians, and allowing the dogs to maul them to death, and
+* mutilating captives.{{sfn|Chamberlain|1948|p=234
+}}&lt;ref
+group="note"&gt;It has been suggested that Melchor Pacheco's second-in-command, Alonso Pacheco, was the officer most responsible for these acts {{harv|Chamberlain|1948|p=234
+}}. The lack of clergymen in the expedition has further been cited as a contributing factor {{harv|Chamberlain|1948|p=234
+}}.
+&lt;/ref&gt;&lt;ref
+group="note"&gt;The Pacheco entrada is now commonly described as one of, if not the, bloodiest and cruelest campaigns in the Spanish conquest of Yucatan ({{harvnb|Chamberlain|1948|p=233
+}}, {{harvnb|Jones|1989|p=42
+}}). On 10 February 1548, Franciscan Fray Lorenzo de Bienvenida described it to [[Charles V, Holy Roman Emperor|Charles I of Spain]] thus–&lt;blockquote&gt;[[Nero]] was not more cruel than this man [Alonso Pacheco]. He passed forward [from the Cochuah Province] and reached a province called Chetumal, which was at peace. Even though the natives did not make war, he robbed the province and consumed the foodstuffs of the natives, who fled into the bush in fear of the Spaniards, since as soon as [A. Pacheco] captured any of them, he set the dogs on them. And the Indians fled from all this and did not sow their crops, and all died of hunger. I say all, because there were towns [in Chetumal] of five hundred and one thousand houses, and now [10 Feb. 1548] one which has one hundred is large. This province [of Chetumal] was also rich in cacao. This captain [A. Pacheco], with his own hands committed outrages: he killed many with the ''garrote'', saying, "This is a good rod with which to punish these people," and, after he had killed them, he said, "Oh how well I finished them off." Tying them to stakes, he cut the breasts off many women, and hands, noses, and ears off the men, and he tied squashes to the feet of women and threw them in the lakes to drown merely to amuse himself. He committed other great cruelties which I shall not mention for lack of space. He destroyed the entire province. [Then the Spaniards] founded a town of eight ''[[vecino]]s'', which is called [[Bacalar|Salamanca]], a halting town which has neither a cleric nor a church, nor do the Spaniards there confess, since the town is sixty leagues from this city [of Merida]. If [the Chetumal Province] had not been destroyed it would have supported [a town of] thirty men [''vecinos'']. And for his cruelties they [the ''cabildo'' of Merida] returned this captain [A. Pacheco] to the province which he destroyed and gave him its best Indians, and in doing this they did not give him something which was of small value. Such is the justice rendered in this land. {{harv|Chamberlain|1948|p=235
+}}.
+&lt;/blockquote&gt; (Fray Bienvenida established a mission in Bacalar in circa 1546, and may have stayed there for about a year {{harv|Jones|1989|pp=42–43}}.) In circa 1566 in [[Relación de las cosas de Yucatán]], [[Diego de Landa|Bishop Diego de Landa]] similarly reported–&lt;blockquote&gt;The Indians of the provinces of Cochua and Chetuma revolted, the Spaniards pacified them in such a way, that these provinces which were formerly the thickest settled and the most populous, remained the most desolate of all the country; committing upon them unheard-of cruelties, cutting off noses, arms and legs, and the breasts of women; throwing them into deep lagoons with gourds tied to their feet; stabbing the little children because they did not walk as fast as their mothers; and if those whom they drove along, chained together around the neck, fell sick or did not move along as fast as the others they cut off their heads between the others, so as not to stop and untie them. With like inhuman treatment as this did they drag along in their train for their service a large number of male and female captives. And it is said the Don Francisco de Montejo did not commit any of these barbarities nor was he present at them. On the contrary they seemed very evil to him, but he could do nothing more. {{harv|Jones|1989|pp=43, 301
+}}
+&lt;/blockquote&gt;
+&lt;/ref&gt;&lt;ref
+group="note"&gt;Criminal charges were brought against the Pachecos for cruelties committed during their entrada. The Spanish Crown further commissioned an enquiry {{harv|Chamberlain|1948|p=236
+}}. The ''Adelantado'', Francisco de Montejo, was ultimately held responsible for these and other alleged crimes ({{harvnb|Jones|1989|p=301|loc=no. 23
+}}, {{harvnb|García Bernal|2018|loc=para. 24
+}}).
+&lt;/ref&gt;
+
+The Spanish thus avoided a war of attrition. By early 1544, local opposition was so inconsequential as to convince the Pachecos to establish a town, christened ''Salamanca'', in the ruins of Bacalar.{{sfn|Chamberlain|1948|p=234
+}}&lt;ref
+group="note"&gt;The date of the founding of ''Salamanca'' is broadly given as prior to the end of 1544 in {{harvnb|Jones|1989|p=43
+}}. Its founding ''alcaldes'' or mayors were Alonso and Melchor Pacheco. Its ''regidores'' or councilmen then were Pedro de Avila, Alonso Hernández, and Juan Farfán {{harv|Jones|1989|p=44
+}}.
+&lt;/ref&gt; The victory proved pyrrhic, as the entrada resulted in very significant depopulation of the Waymil and Chetumal Provinces, thereby ensuring the permanent poverty of ''Salamanca''.{{sfn|Chamberlain|1948|pp=235–236
+}}{{sfn|Jones|1989|pp=5–6, 45
+}}
+
+== Society ==
+
+=== Religion ===
+
+[[File:Piramide de Kukulkan - panoramio.jpg|thumb|Temple of Kukulkan, at Chichen Itza, in 2013, by Veto Zereptram]]
+
+Chichen Itza is known to have (coercively) sponsored the pre-eminent worship of [[Kukulkan|K'uk'ulkan]].{{sfn|Aimers|2007|pp=339–340
+}}&lt;ref
+group="note"&gt;Though the god's introduction to the Mayan pantheon likely preceded the arrival of the Itza to Yucatan, via pre-existing trade links with the [[Aztec civilisation]] {{harv|Sharer|Traxler|2006|pp=582–583}}.
+&lt;/ref&gt; The Cult of K'uk'ulkan is thought to have been the first state religion to transcend linguistic and ethnic differences in [[Mesoamerica]].{{sfn|Sharer|Traxler|2006|pp=582–583
+}} The Cult is believed to have strengthened or been strengthened by the [[Maritime trade in the Maya civilization|peninsular coasting trade]].{{sfn|Demarest|Rice|Rice|2004|p=377
+}}
+
+It has been suggested that the province was home to a cult of [[Itzamna]] which focussed on the god's connection to large ocean creatures.{{sfn|Nielsen|Andersen|2004|pp=84, 89–92}}&lt;ref group="note"&gt;Classical Mayan mythology is believed to have held that (i) Earth lay on the back of a large ocean creature, (ii) during the moment of creation, Itzamna set up one of three cosmic hearth stones {{harv|Nielsen|Andersen|2004|p=90|loc=fn. 7}}.&lt;/ref&gt; He has featured prominently in material finds from Chetumal which, unusually, frequently depict him emerging from the jaws of sea creatures.{{sfn|Nielsen|Andersen|2004|pp=89, 91}}&lt;ref group="note"&gt;The material culture unearthed includes (i) late Postclassic polychrome murals formerly in [[Santa Rita, Corozal|Santa Rita]] (not extant, though reasonably complete reproductions survive in {{harvnb|Powell|1900|pp=655–692}}), (ii) at least eight effigy censers recovered from Santa Rita {{harv|Nielsen|Andersen|2004|pp=91–92}}. Significantly, Santa Rita has variously been proposed as the likeliest location of the eponymous capital of the Chetumal Province {{harv|Nielsen|Andersen|2004|p=86}}.&lt;/ref&gt;
+
+== Government ==
+
+=== Pre-Columbian ===
+
+Chichen Itza is believed to have been governed either by a ''multepal'' or council of lords, or by a king and a privy council.{{sfn|Sharer|Traxler|2006|pp=580–581
+}}{{sfn|Aimers|2007|p=339
+}}&lt;ref
+group="note"&gt;That is, the city-state was likely not ruled solely by a king. Despite this, one of Chichen Itza's known rulers, [[Kʼakʼupakal|K'ak' u Pakal]], may have been a divine king ({{harvnb|Sharer|Traxler|2006|p=581
+}}, {{harvnb|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|Dzul Góngora|Dzul Poot|1980|p=367
+}}). Furthermore, it has been proposed that ''K'uk'ulkan'' or Feathered Serpent was a title for Chichen Itza's (non-divine) kings ({{harvnb|Sharer|Traxler|2006|p=581
+}}, {{harvnb|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|Dzul Góngora|Dzul Poot|1980|p=420
+}}.
+&lt;/ref&gt;&lt;ref
+group="note"&gt;In the case of rule by a king and privy council, it has been further suggested that the balance of power lay with the council during the city's earlier history, and thereafter lay with the king {{harv|Sharer|Traxler|2006|p=581
+}}.&lt;/ref&gt; It has been suggested that the city-state's realm was administered as a confederacy of provinces.{{sf|Milbrath|Peraza Lope|2003|p=31
+}}
+
+Mayapan is commonly held to have been ruled by a ''multepal'' or council of lords, composed of members from the Canul, Chel, Cocom, Cupul, and Xiu ''ch'ibalo'ob'' or noble houses.{{sfn|Sharer|Traxler|2006|p=601
+}}{{sfn|Milbrath|Peraza Lope|2003|p=31
+}}{{sfn|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|1980|p=540
+}}{{sfn|Aimers|2007|p=338
+}}&lt;ref
+group="note"&gt;It has been suggested that, of these five houses, the Xius were initially the pre-eminent one, followed sometime thereafter by the Cocoms {{harv|Sharer|Traxler|2006|p=602
+}}. On the other hand, this Xiu–Cocom pre-eminence may have been at least a ''de facto'' monarchy {{harv|Milbrath|Peraza Lope|2003|pp=31–32
+}}.&lt;/ref&gt; Its realm is believed to have been organised as a confederation of provinces, called the League of Mayapan, each of which was overseen by a ''kalwak'' or governor.{{sfn|Sharer|Traxler|2006|p=602
+}}&lt;ref
+group="note"&gt;Governors, though, were apparently required to reside in Mayapan, so it is unclear who exactly delegated for them in provincial capitals {{harv|Sharer|Traxler|2006|p=602
+}}.
+&lt;/ref&gt;&lt;ref
+group="note"&gt;Later Columbian-period accounts commonly hold the League of Mayapan to have been ruled jointly by Mayapan, Chichen Itza, and Uxmal. Archaeological evidence, however, indicates that the latter cities were virtually deserted during Mayapan's rule {{harv|Sharer|Traxler|2006|p=602
+}}&lt;/ref&gt;
+
+=== Columbian ===
+
+[[File:Civil organisation of Postclassic Mayan state.png|thumb|Civil organisation of Chetumal towards the Columbian era]]
+
+Chetumal's form of government as a sovereign province is presumed to have (i) remained significantly the same throughout its sovereign period, and (ii) not been significantly different from that of nearby provinces with a [[Halach Uinik|''halach winik'' or governor]], like [[Ceh Pech]], [[Maní, Yucatan|Mani]], and [[Sotuta]].{{sfn|Roys|1957|pp=6–7}}
+
+==== State offices ====
+
+Chetumal's head of state and government was the [[Halach Uinik|''halach winik'' or governor]], who would also have been the [[Batab|''batab'' or mayor]] of the province's eponymous capital.{{sfn|Roys|1957|pp=6–7}} His office and title ([[Ajaw|''Ahaw'' or Lord]]) were hereditary, and his rule considered a [[Divine right of kings|divine right]].&lt;ref group="note"&gt;The office passed from father to first-born son (ie [[primogeniture]]). In cases when the office passed on to an infant, the former governor's brothers would exercise the office's powers in regency {{harv|Roys|1957|p=6}}.&lt;/ref&gt; The office's powers and duties included— 
+# exacting [[tribute]] from cities, towns or hamlets,
+# conscripting men for military service in times of war,
+# conducting war,
+# sitting as the highest tribunal for inter-municipal conflicts,
+# officiating religious ceremonies of state.{{sfn|Roys|1957|pp=6–7}}
+
+At least one of Chetumal's later governors is known to have held authority over at least part of a neighbouring province ([[Uaymil|Waymil]]).&lt;ref
+group="note"&gt;The Waymil Province is not known to have had a ''halach winik'' or governor. It may rather have been a confederation of towns, with Maçanahau, Yuyumpeten, and Bacalar being the largest known ({{harvnb|Roys|1957|pp=157–159
+}}, {{harvnb|Jones|1989|pp=32, 40
+}}).
+&lt;/ref&gt; This was likely effected through the threat of force, rather than diplomacy, as said authority was only reluctantly acceded to.{{sfn|Roys|1957|p=157}}{{sfn|Chamberlain|1948|pp=101–102}}
+
+==== Local offices ====
+
+Immediately subject to the governor were the ''batabo'ob'' or mayors of the cities, towns and hamlets of the province.&lt;ref group="note"&gt;In some neighbouring provinces, a ''hol pop'' (lit. "head of the mat") would sometimes be mayor, acting mayor, or mayor ''ad interim''. This office is not well understood. Prof. Roys suggests the patriarch of the pre-eminent ''ch'ibal'' or noble house in town held the office. Its Columbian-period duties were purely social or ceremonial {{harv|Roys|1957|p=7}}.&lt;/ref&gt; This office was likewise hereditary.&lt;ref group="note"&gt;Inherited via primogeniture. Some mayors are known to have been appointed by the governor in neighbouring provinces, so this may have also been possible in Chetumal {{harv|Roys|1957|p=7}}.&lt;/ref&gt; The office's powers and duties included–
+# having a town farm kept for his pecuniary benefit,
+# keeping houses and farms in order,
+# sitting as a tribunal of original civil and criminal jurisdiction,
+# maintaining the military or militia in times of peace.{{sfn|Roys|1957|pp=6–7}}
+
+The constitution of local government has not been fully elucidated. The following offices were nonetheless known to have been involved in at least some cities, towns or hamlets—
+# ''nakomo'ob'' or commanders-in-chief, who exercised municipal military authority in the mayor's stead in times of war,
+# ''kuch kabo'ob'' or aldermen, who severally exercised at least executive authority over ''kuchteelo'ob'' or wards, and who jointly, in court or council assembled, exercised veto power over at least some of the mayor's executive, judicial, or military decisions&lt;ref group="note"&gt;The court or council's full range of powers and duties, and its form of decision-making, are not understood. Its pre-Columbian Yucatecan Mayan name is not clear. A Spanish ''cabildo'' was called a ''molay'', ''mulkan'', ''tankab kabil'' or ''tan kah'' {{harv|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|Dzul Poot|1980|p=60}}. The Columbian-period term for aldermen was ''chun t'ano'ob'', per {{harvnb|Roys|1957|p=7}} and {{harvnb|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|Dzul Poot|1980|pp=116–117}}.&lt;/ref&gt;
+# ''kulelo'ob'' or town officers, who carried out the mayor's orders.&lt;ref group="note"&gt;Town officers ranked below aldermen, but it is not clear whether the officers also deputised for the aldermen.&lt;/ref&gt;
+
+Local government were also responsible for administering the [[commons]], which included all municipal land, as private land ownership either did not exist or was forbidden.&lt;ref group="note"&gt;Though lands were held in common, improvements thereon, like orchards and buildings, were not. It is not immediately clear whether or how administration of the commons was divided among local offices, though it is known that local government were responsible for apportioning it, and that the ''almeheno'ob'' or local aristocracy or upper class were preferred in such matters {{harv|Roys|1957|pp=8–10}}.&lt;/ref&gt; It is not clear whether non-municipal land within the province was likewise held in common.{{sfn|Roys|1957|pp=8–10}}
+
+== Economy ==
+
+=== Capital ===
+
+At least since circa 1450, the provincial capital was a major port of call for the [[Maritime trade in the Maya civilization|peninsular coasting trade]] from the [[Ulua River]] or the [[Bay Islands Department|Bay Islands]] to the [[Ekab|Ekab Province]].{{sfn|Scholes|Roys|1968|p=83}}{{sfn|Nielsen|Andersen|2004|p=86}} It was, at least towards the Columbian period, a large town of circa 2,000 houses, abutted by sapodilla and cacao orchards, maize fields, and apiaries of [[Stingless bee#Mayan stingless bees of Central America|stingless bees]].{{sfn|Roys|1957|pp=161–162}} Its merchant class fully occupied one-fourths of [[Nito (Maya site)|Nito]], an out-of-province port of call on [[Dulce River (Guatemala)|Dulce River]].{{sfn|Scholes|Roys|1968|p=86}} It traded the province's cacao, honey, wax, and marine products for obsidian, jade, turquoise, copper, and gold.{{sfn|Nielsen|Andersen|2004|p=86}}
+
+=== Provincial ===
+
+The province was the only significant cacao-producer in Yucatan.{{sfn|Scholes|Roys|1968|p=83}} It provided the capital's merchants with cacao, honey, wax, and marine products.{{sfn|Nielsen|Andersen|2004|p=86}} Articles for local consumption are thought to have included–
+# pottery from [[Lamanai]] and settlements on [[Honey Camp Lagoon]],{{sfn|Demarest|Rice|Rice|2004|pp=376, 412, 420–421
+}}
+# salt and salted fish from settlements on the [[Northern River Lagoon]].{{sfn|Demarest|Rice|Rice|2004|pp=372, 379
+}}&lt;ref
+group="note"&gt;This activity is known to have declined by circa 1000–1100 AD, likely due to being outcompeted by salt from the northern Yucatan coast {{harv|Demarest|Rice|Rice|2004|pp=372, 381
+}}.
+&lt;/ref&gt;
+
+== Legacy ==
+
+=== Scholarly ===
+
+[[File:Thomas Gann Idol.jpg|thumb|Portrait of Thomas Gann (''right'') in the 1920s]]
+[[File:Juan Francisco Molina Solís.jpg|thumb|Portrait of Juan Francisco Molina Solís in 1908]]
+
+None of Chetumal's records are extant.&lt;ref
+group="note"&gt;These are presumed to have been copious, given known pre-Columbian record-keeping practice in other Mayan states of the Yucatan peninsula. Most were likely burnt or otherwise destroyed during the Spanish conquest and ensuing proselytising efforts. Any which may have survived are presumed to have decayed past recognition, Chetumal's [[Tropical monsoon climate|tropical climate]] being notoriously unforgiving to [[Amate|bark paper]].
+&lt;/ref&gt; Consequently, all scholarship on the province has relied on later Hispano-Mayan records and modern archaeology.
+
+Archaeological work in Chetumal was begun in early 1894 by [[Thomas Gann]], a medical officer of [[British Honduras|colonial Belize]], in the ruins of [[Santa Rita, Corozal]].{{sfn|Thompson|1975|p=742
+}}{{sfn|Wallace|2011|p=24
+}}{{sfn|Hammond|2004|loc=para. 2
+}}{{sfn|Shaw|Mathews|2005|p=184
+}}&lt;ref 
+group="note"&gt;Dr. Gann's offices in colonial Belize included District Commissioner, District Medical Officer, Principal Medical Officer, JP, and MP {{harv|Hammond|2004|loc=para. 1
+}}.&lt;/ref&gt;&lt;ref 
+group="note"&gt;Notably, Dr. Gann uncovered very rare Postclassic polychrome stucco murals on Structure 1 (Str. 1) of Santa Rita. One of these included an extremely rare and substantial hieroglyphic inscription. With no tracing paper to be had in nearby [[Corozal Town|Corozal]], Dr. Gann was only able to reproduce half of said mural on oiled paper before locals repurposed its plaster for medicine. He managed to copy the remaining murals before they degraded. The surviving stencils were published in {{harvnb|Powell|1900|pp=655–692
+}} {{harv|Thompson|1975|p=743
+}}.&lt;/ref&gt;&lt;ref 
+group="note"&gt;Dr. Matthias Levy, Danish consul to colonial Belize during 1860–1869, collected a number of Postclassic effigy censers from [[Santa Rita, Corozal|Santa Rita]] and [[Lamanai]] in 1860–1865. It is unclear how the censers came to be in his possession, though he is not known to have conducted archaeological work in the area. His collection was donated to [[National Museum of Denmark]] and an unspecified museum in [[List of museums in Brussels|Brussels]] {{harv|Nielsen|Andersen|2004|pp=84–85
+}}. A flint implement, recovered by a [[Royal Navy]] officer some years prior to 1871, and then exhibited by [[Augustus Pitt Rivers]] for the [[Society of Antiquaries of London]] on 2 March 1872, may likewise have come from Chetumal {{harv|Society of Antiquaries of London|1870–1873|pp=93–95
+}}, though {{harvnb|Franks|1877
+}} suggested otherwise.
+&lt;/ref&gt; His copious work spurred further explorations and excavations in Belize and Mexico by the [[University of Liverpool]], [[British Museum]], [[Carnegie Institution]], [[Field Museum]], [[J. E. S. Thompson|Sir J. E. S. Thompson]], and [[Sylvanus Morley]].{{sfn|Pendergast|1993|pp=4–6
+}}{{sfn|Hammond|2004|loc=para. 3
+}}{{sfn|Wallace|2011|pp=26–28
+}}{{sfn|Shaw|Mathews|2005|pp=15–17
+}}&lt;ref 
+group="note"&gt;Dr. Gann's work on Chetumal was published in {{harvnb|Gann|1897
+}}, {{harvnb|Powell|1900|pp=655–692
+}}, {{harvnb|Gann|1905
+}}, {{harvnb|Gann|1912
+}}, {{harvnb|Gann|1914–1916
+}}, {{harvnb|Gann|1918
+}}, and {{harvnb|Gann|1924
+}}, per {{harvnb|Hammond|2004|loc=para. 4
+}}, {{harvnb|Thompson|1975|p=743
+}}, {{harvnb|Wallace|2011|p=35
+}}.
+&lt;/ref&gt; He collaborated with Sir Thompson on {{harvnb|Gann|Thompson|1931
+}}, the first panoptic survey of Mayan history for the general public.{{sfn|Hammond|2004|loc=para. 5
+}} His collections of Mayan artefacts remain in the [[British Museum]], [[George Gustav Heye Center]], [[National Museums Liverpool]], and [[Middle American Research Institute]], with the British Museum receiving the first known collection of [[Jade use in Mesoamerica|Mayan jades]].{{sfn|Hammond|2004|loc=para. 6
+}}{{sfn|Thompson|1975|p=743
+}}{{sfn|Wallace|2011|pp=26, 32
+}}&lt;ref 
+group="note"&gt;The collection now housed in constituent museums of [[National Museums Liverpool]], and formerly housed in the Public Museum of Liverpool, was damaged during the [[Liverpool Blitz]] in 1941. As of 2011, the extent of this damage had not been assessed {{harv|Wallace|2011|p=26
+}}. Dr. Gann also donated artefacts to the former Wellcome Historical Medical Museum, which were subsequently dispersed upon the Museum's permanent closure. The number and destination of the Gann–Wellcome artefacts is not clear. At least one of them is now housed in Oxford's [[Pitt Rivers Museum]] {{harv|Wallace|2011|p=32
+}}.
+&lt;/ref&gt; It has been suggested that his work prompted the first legislative protections for antiquities in colonial Belize in 1894, and their subsequent strengthening in 1897, 1924, and 1927.{{sfn|Wallace|2011|p=25
+}}{{sfn|Hammond|1983|p=22
+}}&lt;ref 
+group="note"&gt;Dr. Gann's work, spanning his 1894–1936 career, has been described as "more destructive than protective of evidence from beginning to end" by {{harvnb|Pendergast|1993|p=4
+}}. However, it has also been pointed out that his work, if judged by archaeological standards of his time, rather than by modern ones, would not be so harshly judged—though it would still be found wanting {{harv|Wallace|2011|pp=24–26
+}}.
+&lt;/ref&gt;
+
+After Dr. Gann, archaeological work in Chetumal languished until the 1964–1970 [[Altun Ha|Altun Ha Expedition]] of the [[Royal Ontario Museum]].{{sfn|Pendergast|1993|pp=4, 8
+}}{{sfn|Shaw|Mathews|2005|p=3
+}}&lt;ref 
+group="note"&gt;Though brief, sporadic work occurred, including—
+# Rev. Francis de Paula Castells briefly examined a Spanish mission church in [[Lamanai]] in September 1902. Rev. Castells unfortunately mistook the church for a pre-Columbian Mayan structure, thereby confounding archaeological work for nearly 80 years ({{harvnb|Castells|1904
+}}, {{harvnb|Pendergast|1993|p=4
+}}).
+# The ''Expedición Científica Mexicana de 1937'' (lit. Mexican Scientific Expedition of 1937), led by Luis Rosado Vega, examined at least nine sites in Chetumal in June–December 1937 ({{harvnb|Shaw|Mathews|2005|pp=19, 185
+}}, {{harvnb|González Vázquez|2018|pp=1, 133
+}}, {{harvnb|Escalona Ramos|1946
+}}).
+# A. H. Anderson, then a government librarian in colonial Belize, conducted unpublished salvage work in 1937–1938 in [[Santana, Belize|Santana]]. In 1952, as First Assistant Secretary to the [[Governor of British Honduras|Governor of colonial Belize]], he was given responsibility for archaeology, the first civil servant so charged. And in January 1957, he was appointed the country's first Commissioner of Archaeology ({{harvnb|Pendergast|1968|pp=90–91
+}}, {{harvnb|Anderson|1963|p=80
+}}).
+# Dr. Wolfgang Haberland, of the [[Museum am Rothenbaum]], and A. H. Anderson, briefly examined some artefacts and a structure at [[Louisville, Belize|Louisville]] on 27 October 1954. They had been discovered by a local resident, Luis F. Ramirez, and were subsequently destroyed by [[Hurricane Janet]] on 27 September 1955 ({{harvnb|Haberland|1958|pp=128–129
+}}, {{harvnb|Pendergast|1993|p=7
+}}).
+# [[William T. Sanders]], then a PhD candidate at [[Harvard University]], examined at least two sites in Chetumal in 1955 ({{harvnb|Shaw|Mathews|2005|p=185
+}}, {{harvnb|Sanders|1960
+}}).
+# Michel Peissel explored some coastal sites near Chetumal in 1961 ({{harvnb|Peissel|1963
+}}, {{harvnb|Shaw|Mathews|2005|p=19
+}}).
+# The [[Royal Ontario Museum]], led by William R. Bullard, Jr., conducted excavations in [[San Estevan, Belize|San Estevan]] in 1962, as part of their broader archaeological project in colonial Belize ({{harvnb|Bullard, Jr.|1965
+}}, {{harvnb|Pendergast|1993|p=8
+}}).
+&lt;/ref&gt;&lt;ref 
+group="note"&gt;The project's work is detailed in {{harvnb|Pendergast|1979
+}}, {{harvnb|Pendergast|1982
+}}, {{harvnb|Pendergast|1990
+}}, and in various journals {{harv|Pendergast|1993|pp=8, 30–31
+}}.
+&lt;/ref&gt; The project was pushed for by the Archaeological Commissioner of colonial Belize, [[A. H. Anderson]], and led by [[David M. Pendergast]].{{sfn|Pendergast|1993|p=8
+}} The substantial corpus generated quickly prompted a renaissance of archaeological work in Chetumal, which has continued to the present day.{{sfn|Pendergast|1993|pp=9–10
+}}
+
+Historical work on the Postclassic Mayan states was first published by the [[Mérida, Yucatán|Merida]]-based polymath [[Juan Francisco Molina Solís]] in 1896.{{sfn|Andrews|1984|p=590
+}}&lt;ref 
+group="note"&gt;As part of a survey of the history of Yucatan in {{harvnb|Molina Solís|1896|pp=ix–lx, 175–337}}. The states' existence had been known to non-Mayans since Columbian times, but previous attempts at their exposition had been cursory {{harv|Andrews|1984|pp=589–590}}.
+&lt;/ref&gt; This was followed by the 1943 and 1957 publications of the [[Carnegie Institution|Carnegie]] [[Mayanist]], [[Ralph L. Roys]].{{sfn|Andrews|1984|p=590
+}}&lt;ref
+group="note"&gt;Namely, {{harvnb|Roys|1943}} and {{harvnb|Roys|1957}}. These were both preceded by a [[University of California, Berkeley]] PhD thesis, {{harvnb|Jakeman|1938}}. The latter may have been preceded by a critical edition of the 1688 [[Diego López de Cogolludo|Historia de Yucathan]] in {{harvnb|López de Cogolludo|1957|loc=pt. 2}}, whose commentary by [[Jorge Ignacio Rubio Mañé]], a colleague of Prof. Roys, took up the topic of Postclassic Mayan states {{harv|Andrews|1984|p=590}}. 
+&lt;/ref&gt; The latter of these has become the authoritative text on the subject, and is most commonly cited as the first of its kind, being significantly more rigorous and complete than preceding works.{{sfn|Graham|2011|p=29
+}}{{sfn|Andrews|1984|pp=589–590, 595
+}}&lt;ref 
+group="note"&gt;Prof. Roys proposed sixteen geographically-delimited sovereign provinces, namely, the Provinces of Ah Canul, Chakan, Cehpech, Hocaba, Mani, Ah Kin Chel, Sotuta, Chikinchel, Tases, Cupul, Cochua, Ecab, Uaymil, Chetumal, Chanputun, Canpech {{harv|Roys|1957|p=iii}}, herein spelled Kanul, Chak'an, Kehpech, Hokaba', Mani, K'in Ch'el, Sotuta, Chik'in Che'el, Tases, Kupul, Koch Wah, Ekab, Waymil, Chetumal, Chanputun, Kanpech, per {{harvnb|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|Dzul Góngora|Dzul Poot|1980|pp=81, 84, 91, 99, 149, 220, 299, 309, 326, 354, 403, 497, 738, 917}}. Entries for "Tases" and "Kanpech" are missing in {{harvnb|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|Dzul Góngora|Dzul Poot|1980|pp=291–299, 777–778}}, but are elsewhere used and spelled as herein rendered, as in {{harvnb|Barrera Vásquez|Bastarrachea Manzano|Brito Sansores|Vermont Salas|Dzul Góngora|Dzul Poot|1980|pp=19, 84, 99, 231, 233, 708}}.
+&lt;/ref&gt; Despite this progress, Chetumal remained one of the least elucidated provinces until a seminal 1989 publication by [[Grant D. Jones]], then a Professor at [[Davidson College]].{{sfn|Andrews|1984|p=592
+}}{{sfn|Jones|1989
+}}
+
+=== Social ===
+
+==== In Mexico ====
+
+[[File:EstatuaAkumal.jpg|thumb|Sculpture by Raúl Ayala Arellano of the Guerrero–Kan family]]
+
+The modern city of [[Chetumal]], established 5 May 1898 by [[Othón P. Blanco Núñez de Cáceres|Vice-Admiral Othón P. Blanco]], was named in honour of the eponymous Postclassic capital of the Chetumal Province.{{sfn|Romero Mayo|Benítez López|2014|pp=126–127}}
+
+The Guerrero–Kan family are widely believed to have been the first [[Mestizo]] family in the Americas.{{sfn|González Hernández|2018|loc=para. 6, 15}} Various public works of art depicting them have been installed in [[Yucatan]] and [[Quintana Roo]]. These include:
+
+* an untitled sculpture by [[Raúl Ayala Arellano]], installed in [[Akumal]] in January 1975{{sfn|García Cruzado|2011|pp=174–175}}
+* at least 25 replicas or near-replicas of the aforementioned Ayala Arellano sculpture, including one inaugurated on 16 November 1980 by the 58th President of Mexico, [[José López Portillo]], in [[Mérida, Yucatán|Merida]]{{sfn|García Cruzado|2011|pp=175–176}}
+* ''Nacimiento de la raza mestiza'' (lit. Birth of the Mestizo Race) by [[Nereo de la Peña]], a mural for the ''Palacio de Gobierno'' in Chetumal in 1979{{sfn|García Cruzado|2011|pp=177–178}}
+* ''Forma, color e historia de Quintana Roo'' (lit. Form, Colour and History of Quintana Roo) by [[Elio Carmichael Jiménez]], a mural inaugurated in Chetumal in 1981 by former Mexican President José López Portillo{{sfn|García Cruzado|2011|p=178}}
+* ''Alegoría del mestizaje'' (lit. Allegory of Miscegenation) by [[Carlos Terrés]], a sculpture inaugurated in Chetumal on 1 April 1981, by the 1st Governor of Quintana Roo, [[Jesús Martínez Ross]]{{sfn|García Cruzado|2011|pp=176–177}}
+* ''Cuna del mestizaje'' (lit. Trade of Miscegenation) by [[Rosa María Ponzanelly]] and [[Sergio Trejo]], a sculpture inaugurated in Chetumal on 25 October 1996 by the 61st President of Mexico, [[Ernesto Zedillo]]{{sfn|García Cruzado|2011|p=177}}
+* ''La cuna del mestizaje'' by [[Rodrigo Siller]], a mural installed 17 November 2007 in the Museum of Mayan Culture, Chetumal{{sfn|García Cruzado|2011|p=178}}
+* ''Gonzalo Guerrero'' by [[Fernando Castro Pacheco]], an oil painting for the ''Palacio de Gobierno'' in Merida{{sfn|García Cruzado|2011|p=178}}
+
+[[Cancun|Cancun's]] residents, upon the arrival of [[Juan Carlos I]] and [[Queen Sofía of Spain]] on 16 November 1978, gifted the monarchs a turtleshell statuette of Gonzalo Guerrero.{{sfn|García Cruzado|2011|p=158}}{{sfn|Sebastian|1978|loc=para. 2}} Quintana Roo's state anthem, introduced 14 January 1986, celebrates the Guerrero–Kan family.{{sfn|García Cruzado|2011|p=173|loc=fn. 26}}{{sfn|XVI Congreso de Quintana Roo|2015|p=4|loc=stanza III}} [[Othon P. Blanco, Quintana Roo|Othon P. Blanco's]] highest civic honour, introduced 29 September 1997, was named after Guerrero.{{sfn|García Cruzado|2011|pp=172–174}}
+
+==== In Belize ====
+
+On 20 December 2012, the [[National Institute of Culture and History]] and the [[Belize Tourism Industry Association]] held a public re-enactment of the Guerrero-Kan wedding at [[Santa Rita, Corozal]].{{sfn|Nunez|2012a|loc=para. 1}}{{sfn|Nunez|2012b}} Public re-enactments have been held on 22 March 2014, 5 February 2015, 20 February 2016, 6 July 2017, 19 May 2018, and 29 March 2019.{{sfn|Moody|2015|loc=para. 1}}{{sfn|Moody|2016|loc=para. 1, 3}}{{sfn|Wilson|2019|loc=para. 2–7}}
+
+== Notes ==
+{{reflist|group=note}}
+
+== Citations ==
+{{reflist}}
+
+== References == &lt;!-- Please keep the alphabetical sorting here - makes it a whole lot easier to navigate :) --&gt;
+{{refbegin
+}}
+# {{cite book |last1=Adams |first1=Richard E. W. |last2=Macleod |first2=Murdo J., eds. |title=Mesoamerica |series=The Cambridge history of the native peoples of the Americas |volume=2 |edition=1 |publisher=Cambridge University Press |date=1998 |place=Cambridge |isbn=0521652057
+}}
+# {{cite journal |last1=Aimers |first1=James J. |title=What Maya Collapse? Terminal Classic Variation in the Maya Lowlands |date=17 August 2007 |journal=Journal of Archaeological Research |volume=15 |issue=4 |pages=329–377 |doi=10.1007/s10814-007-9015-x
+|s2cid=145053177 }}
+# {{cite book |last1=Anderson |first1=A. H. |title=Brief sketch of British Honduras |date=1963 |publisher=Printing Department |location=Belize |url=http://ufdc.ufl.edu/AA00064466/00001
+}}
+# {{cite journal |last1=Andrews |first1=Anthony P. |title=The Political Geography of the Sixteenth Century Yucatan Maya: Comments and Revisions |journal=Journal of Anthropological Research |date=1984 |volume=40 |issue=4 |pages=589–596 |doi=10.1086/jar.40.4.3629799 |jstor=3629799
+|s2cid=163743879 }}
+# {{cite journal |last1=Andrews |first1=Anthony P. |last2=Jones |first2=Grant D. |title=Asentamientos coloniales en la costa de Quintana Roo |journal=Temas Antropológicos |date=2001 |volume=23 |issue=1 |issn=1405-843X
+}}
+# {{cite web |last1=Arranz Márquez |first1=Luis |title=Pedro de Ledesma |url=https://dbe.rah.es/biografias/35544/pedro-de-ledesma |website=Diccionario Biográfico electrónico |publisher=Real Academia de la Historia |access-date=3 August 2021 |date=2018
+}}
+# {{cite book |last1=Barrera Vásquez |first1=Alfredo |last2=Bastarrachea Manzano |first2=Juan Ramón |last3=Brito Sansores |first3=William |last4=Vermont Salas |first4=Refugio |last5=Dzul Góngora |first5=David |last6=Dzul Poot |first6=Domingo, eds. |title=Diccionario maya Cordemex : maya-español, español-maya |date=1980 |publisher=Ediciones Cordemex |location=Merida |edition=1st
+}}
+# {{cite journal |last1=Barrett |first1=Jason W. |last2=Scherer |first2=Andrew K. |date=January 2005 |journal=Ancient Mesoamerica |volume=16 |issue=1 |doi=10.1017/S0956536105050091 |title=STONES, BONES, AND CROWDED PLAZAS: Evidence for Terminal Classic Maya warfare at Colha, Belize |pages=101–118 |s2cid=162998916 
+}}
+# {{cite journal |last1=Biar |first1=Alexandra |date=27 November 2017 |title=Prehispanic Dugout Canoes in Mexico: A Typology Based on a Multidisciplinary Approach |journal=Journal of Maritime Archaeology |volume=12 |issue=3 |pages=239–265 |doi=10.1007/s11457-017-9188-5
+|bibcode=2017JMarA..12..239B |s2cid=165221743 }}
+# {{cite book |last=Bullard, Jr. |first=William R. |date=1965 |title=Stratigraphic Excavations at San Estevan, Northern British Honduras |series=Royal Ontario Museum Art and Archaeology Division Occasional Paper |volume=9 |location=Toronto |publisher=University of Toronto Press |oclc=ocm02687476
+}}
+# {{cite journal |last1=Castells |first1=F. de P. |title=The Ruins of Indian Church in British Honduras |journal=American Antiquarian and Oriental Journal |date=1904 |volume=26 |issue=1 |pages=32–37
+}}
+# {{cite journal |last1=Cioffi-Revilla |first1=Claudio |last2=Landman |first2=Todd |date=December 1999 |title=Evolution of Maya Polities in the Ancient Mesoamerican System |journal=International Studies Quarterly |volume=43 |issue=4 |pages=559–598 |doi=10.1111/0020-8833.00137 |jstor=3014022
+}}
+# {{cite book |last1=Chamberlain |first1=Robert Stoner |title=The conquest and colonization of Yucatan, 1517–1550 |date=1948 |publisher=Carnegie Institution of Washington |location=Washington, DC |url=https://hdl.handle.net/2027/txu.059173008409431 |url-access=limited |series=Carnegie Institution of Washington Publication |volume=582 |hdl=2027/txu.059173008409431 |edition=1st
+}}
+# {{cite book |last1=Chase |first1=Arlen F. |last2=Rice |first2=Prudence M., eds. |title=The Lowland Maya Postclassic |date=1985 |publisher=University of Texas Press |location=Austin, TX |isbn=0292746431 |edition=1st
+}}
+# {{cite book |last1=Chase |first1=Diane Z. |last2=Chase |first2=Arlen F. |title=A postclassic perspective : excavations at the Maya site of Santa Rita Corozal, Belize |place=San Francisco, CA |publisher=Pre-Columbian Art Research Institute |date=August 1988 |series=Monograph |volume=4 |oclc=1097265592 |url=https://caracol.org/drs-chase/publications/
+}}
+# {{cite journal |last1=Cockrell |first1=Bryan R. |last2=Simmons |first2=Scott E. |title=Recycling and Reconfiguring: Metalwork of Maya Communities at Lamanai and Tipu, Belize |date=March–June 2017 |journal=Ancient Mesoamerica |volume=28 |issue=1 |pages=157–181 |doi=10.1017/S0956536116000365
+|s2cid=164472012 }}
+# {{cite book |last1=Demarest |first1=Arthur A. |last2=Rice |first2=Prudence M. |last3=Rice |first3=Don S., eds. |title=The Terminal Classic in the Maya Lowlands: Collapse, Transition and Transformation |date=2004 |publisher=University Press of Colorado |location=Boulder, CO |isbn=0870817396
+}}
+# {{cite journal |last=Escalona Ramos |first=Alberto |date=1946 |title=Algunas ruinas prehispánicas en Quintana Roo |journal=Boletín de la Sociedad Mexicana de Geografía y Estadística |volume=61 |issue=3 |pages=513–628 |issn=0373-6148
+}}
+# {{cite book |last1=Farris |first1=Nancy M. |title=Maya society under colonial rule : the collective enterprise of survival |date=1984 |publisher=Princeton University Press |location=Princeton, NJ |isbn=0691076685 |edition=1st
+}}
+# {{cite journal |last=Franks |first=A. W. |title=Remarks on Stone Implements from Honduras |pages=37–40 |url=https://hdl.handle.net/2027/hvd.32044042253526?urlappend=%3Bseq=51 |url-access=limited |journal=Journal of the Anthropological Institute of Great Britain and Ireland |volume=6 |date=1877
+|doi=10.2307/2841243 |jstor=2841243 |hdl=2027/hvd.32044042253526?urlappend=%3Bseq=51 
+}}
+# {{cite journal |url=https://hdl.handle.net/2027/njp.32101077284147?urlappend=%3Bseq=338 |url-access=limited |series=2 |volume=17 |last=Gann |first=Thomas W. F. |title=On the contents of some ancient mounds in Central America |journal=Proceedings of the Society of Antiquaries of London |pages=308–317 |date=25 February 1897
+|hdl=2027/njp.32101077284147?urlappend=%3Bseq=338 
+}}
+# {{cite journal |last=Gann |first=Thomas W. F. |title=The Ancient Monuments of Northern Honduras and the Adjacent Parts of Yucatan and Guatemala, the Former Civilisation in These Parts, and the Chief Characteristics of the Races Now Inhabiting Them; with an Account of a Visit to the Rio Grande Ruins |date=January–June 1905 |journal=Journal of the Anthropological Institute of Great Britain and Ireland |jstor=2843120 |doi=10.2307/2843120 |volume=35
+|pages=103–112 
+}}
+# {{cite journal |last=Gann |first=Thomas W. F. |title=Exploration Carried on in British Honduras during 1908–9 |journal=Annals of Archaeology and Anthropology |date=1912 |pages=72–87 |url=https://hdl.handle.net/2027/coo.31924082052816?urlappend=%3Bseq=90 |url-access=limited |volume=4
+|hdl=2027/coo.31924082052816?urlappend=%3Bseq=90 
+}}
+#{{cite journal |last=Gann |first=Thomas W. F. |title=Report on Some Excavations in British Honduras |journal=Annals of Archaeology and Anthropology |date=1914–1916 |url=https://hdl.handle.net/2027/umn.319510007364852?urlappend=%3Bseq=40 |url-access=limited |pages=28–42 |volume=7
+|hdl=2027/umn.319510007364852?urlappend=%3Bseq=40 
+}}
+# {{cite book |last1=Gann |first1=Thomas W. F. |title=The Maya Indians of southern Yucatan and northern British Honduras |date=1918 |publisher=Government Printing Office |location=Washington, DC |series=Smithsonian Institution Bureau of American Ethnology Bulletin |volume=64 |edition=1st |ol=6621217M |ol-access=free
+}}
+# {{cite book |last=Gann |first=Thomas W. F. |title=In an Unknown Land |date=1924 |publisher=Duckworth &amp; Co. |location=London |edition=1st |oclc=771316288
+}}
+# {{cite book |last1=Gann |first1=Thomas W. F. |last2=Thompson |first2=J. E. S. |title=The history of the Maya : from the earliest times to the present day |date=1931 |publisher=Charles Scribner's Sons |location=London |edition=1st |oclc= 911759759
+}}
+# {{cite web |last=García Bernal |first=Manuela Cristina |date=2018 |url=https://dbe.rah.es/biografias/13067/francisco-de-montejo |title=Francisco de Montejo |website=Diccionario Biográfico electrónico |publisher=Real Academia de la Historia |access-date=10 August 2021
+}}
+# {{cite book |last1=García Cruzado |first1=Eduardo, ed. |title=Jornadas IV, V y VI (2008, 2009 y 2010) |date=2011 |publisher=Universidad Internacional de Andalucía : Ayuntamiento de Palos de la Frontera |location=Palos de la Frontera |isbn=9788479932114 |edition=1st |url=https://dialnet.unirioja.es/servlet/libro?codigo=485937 |series=Actas de las Jornadas de Historia sobre el Descubrimiento de América |volume=2
+}}
+# {{cite book |last1=Gerhard |first1=Peter |title=The southeast frontier of New Spain |date=1979 |publisher=Princeton University Press |location=Princeton, NJ |isbn=0691052735 |edition=1st
+}}
+# {{cite web |last1=González Hernández |first1=Cristina |title=Gonzalo Guerrero |url=https://dbe.rah.es/biografias/85636/gonzalo-guerrero |website=Diccionario Biográfico electrónico |publisher=Real Academia de la Historia |access-date=3 August 2021 |date=2018
+}}
+# {{cite web |last1=González Ochoa |first1=José María |title=Alonso González Dávila |url=https://dbe.rah.es/biografias/11022/alonso-gonzalez-davila |website=Diccionario Biográfico electrónico |publisher=Real Academia de la Historia |access-date=10 August 2021 |date=2018
+}}
+# {{cite thesis |last1=González Vázquez |first1=David Anuar |date=November 2018 |type=MA |title=LA EXPEDICIÓN CIENTÍFICA MEXICANA AL TERRITORIO DE QUINTANA ROO (1936-1938): PRÁCTICAS CIENTÍFICAS Y RELACIONES POLÍTICAS EN LA FORMACIÓN DEL ESTADO-NACIÓN |publisher=Centro de Investigaciones y Estudios Superiores en Antropología Social |place=Mexico City |url=http://ciesas.repositorioinstitucional.mx/jspui/handle/1015/893
+}}
+# {{cite book |last1=Graham |first1=Elizabeth A. |title=Maya Christians and Their Churches in Sixteenth-Century Belize |date=2011 |publisher=University Press of Florida |location=Gainesville, FL |isbn=978-0813041834 |edition=1st |series=Maya Studies
+}}
+# {{cite journal |last1=Guderjan |first1=Thomas H. |date=March–June 1995 |title=Maya Settlement and Trade on Ambergris Caye, Belize |journal=Ancient Mesoamerica |volume=6 |pages=147–159 |doi=10.1017/S0956536100002157
+|s2cid=163598928 }}
+# {{cite journal |last=Haberland |first=Wolfgang |title=An Early Mound at Luisville, British Honduras |date=August 1958 |journal=Man |doi=10.2307/2796273 |jstor=2796273 |volume=58
+|pages=128–129
+}}
+# {{cite journal |last1=Hammond |first1=Norman |title=The development of Belizean archaeology |journal=Antiquity |date=March 1983 |volume=57 |issue=219 |pages=19–27 |doi=10.1017/S0003598X00054946
+|s2cid=163374681 }}
+# {{Cite ODNB |doi=10.1093/ref:odnb/33319|title=Gann, Thomas William Francis |last=Hammond |first=Norman |date=23 September 2004
+}}
+# {{cite journal |last1=Helmke |first1=Christophe |title=Under the Lordly Monarchs of the North: The Epigraphy of Northern Belize |date=September–December 2020 |journal=Ancient Mesoamerica |volume=31 |issue=2 |pages=261–286 |doi=10.1017/S0956536119000348
+|s2cid=213203582 }}
+# {{cite thesis |last1=Jakeman |first1=M. Wells |date=May 1938 |title=The Maya states of Yucatan, 1441-1545 |type=PhD |publisher=University of California |place=Berkeley, CA |oclc=14464076
+}}
+# {{cite book |last1=Jones |first1=Grant D. |title=Maya resistance to Spanish rule : time and history on a colonial frontier |date=1989 |publisher=University of New Mexico Press |location=Albuquerque, NM |isbn=082631161X |edition=1st
+}}
+# {{cite journal |last1=Kelly |first1=Thomas C. |title=Preceramic Projectile-Point Typology in Belize |journal=Ancient Mesoamerica |date=September 1993 |volume=4 |issue=2 |pages=205–227 |doi=10.1017/S0956536100000900
+|s2cid=161869542 }}
+# {{cite web |last1=Lehmann |first1=Christian |title=Ortografía |url=https://www.christianlehmann.eu/ling/sprachen/maya/sistema_expres/ort/ |website=La lengua maya de Yucatán |publisher=Christian Lehmann |access-date=5 August 2021 |date=16 December 2018
+}}
+# {{cite book |last1=López de Cogolludo |first1=Diego |editor1-last=Rubio Mañé |editor1-first=Jorge I. |date=1957 |edition=5th |series=Colección de grandes crónicas mexicanas |volume=3 |title=Historia de Yucatán |place=Mexico City |publisher=Editorial Academia Literaria |oclc=9367712
+}}
+# {{cite journal |last1=Masson |first1=Marilyn A. |title=Postclassic Maya Ritual at Laguna de on Island, Belize |date=January 1999 |journal=Ancient Mesoamerica |volume=10 |issue=1 |pages=51–68 |doi=10.1017/S0956536199101068
+|s2cid=162417682 }}
+# {{cite book |last=Masson |first=Marilyn A. |date=2000 |title=In the realm of Nachan Kan : Postclassic Maya archaeology at Laguna de On, Belize |place=Boulder, CO |publisher=University Press of Colorado |series=Mesoamerican Worlds |isbn=0870815679
+}}
+# {{cite journal |last1=Meissner |first1=Nathan J. |date=September–December 2020 |title=THE POROUS BOUNDARY: COMPARING LATE POSTCLASSIC–EARLY COLONIAL MAYA PROJECTILE TECHNOLOGIES ACROSS PETEN AND BELIZE |journal=Ancient Mesoamerica |volume=31 |issue=3 |pages=526–542 |doi=10.1017/S0956536120000140
+|s2cid=229332603 }}
+# {{cite journal |last1=Milbrath |first1=Susan |last2=Peraza Lope |first2=Carlos |title=REVISITING MAYAPAN: Mexico's last Maya capital |journal=Ancient Mesoamerica |volume=14 |issue=1 |date=January 2003 |pages=1–46 |doi=10.1017/S0956536103132178
+|s2cid=154673143 }}
+# {{cite book |first=Juan Francisco |last=Molina Solís |date=1896 |title=Historia del descubrimiento y conquista de Yucatán, con una reseña de la historia antigua de esta península |place=Mérida de Yucatán |publisher=Impr. y lit. R. Caballero |oclc=6955452 |url=http://cdigital.dgb.uanl.mx/la/1080018056/1080018056.html |edition=1st |ol=23361775M
+}}
+# {{cite news |last1=Moody |first1=Duane |title=Traditional Maya Wedding at Santa Rita |url=https://edition.channel5belize.com/archives/109463 |access-date=6 August 2021 |work=News 5 |publisher=Great Belize Productions |date=6 February 2015
+}}
+# {{cite news |last1=Moody |first1=Duane |title=Traditional Mayan Culture Kept Alive in the North |url=https://edition.channel5belize.com/archives/125560 |access-date=6 August 2021 |work=News 5 |publisher=Great Belize Productions |date=23 February 2016
+}}
+# {{cite journal |last1=Nielsen |first1=Jasper |last2=Andersen |first2=Bente Jul |title=Collecting in Corozal : late Postclassic Maya Effigy Censers from Belize in the Danish National Museum (1860-1865) |journal=Mayab |date=2004 |volume=17 |url=https://dialnet.unirioja.es/servlet/articulo?codigo=2775068 |issn=1130-6157
+}}
+# {{cite news |last1=Nunez |first1=Dorian |title=The Re-Enactment Of The Mayan Royal Wedding At Santa Rita |url=https://www.ambergristoday.com/content/stories/2012/december/21/re-enactment-mayan-royal-wedding-santa-rita |access-date=6 August 2021 |work=Ambergris Today |date=21 December 2012a
+}}
+# {{cite AV media |last1=Nunez |first1=Dorian |type=Videotape |publisher=Ambergris Today |date=27 December 2012b |title=Royal Maya Wedding Reenactment at Santa Rita Site Belize |url=https://www.youtube.com/watch?v=zT1C9bzBml0 |access-date=6 August 2021
+}}
+# {{cite book |last1=Okashi Harada |first1=Tsubasa |last2=Izquierdo |first2=Ana L. |last3=Williams-Beck |first3=Lorraine A., eds. |title=Nuevas perspectivas sobre la geografía política de los mayas |date=2006 |publisher=Universidad Nacional Autónoma de México : Universidad Autónoma de Campeche : Foundation for the Advancement of Mesoamerican Studies |location=Mexico City |isbn=9703232086 |edition=1st
+}}
+# {{cite web |last1=Oxford University Press |title=Chetumal |url=https://www.lexico.com/definition/Chetumal |website=UK English Dictionary |publisher=Lexico.com |access-date=5 August 2021 |date=2021
+}}
+# {{cite book |last=Peissel |first=Michel |date=1963 |title=The Lost World of Quintana Roo |place=New York |publisher=E. P. Dutton &amp; Co. |edition=1st |oclc=871738735
+}}
+# {{cite journal |last1=Pendergast |first1=David M. |title=A. H. Anderson, 1901-1967 |journal=American Antiquity |date=January 1968 |volume=33 |issue=1 |pages=90–92 |doi=10.1017/S0002731600090466 |jstor=277776
+|doi-access=free }}
+# {{cite book |last=Pendergast |first=David M. |title=Excavations at Altun Ha, Belize, 1964–1970 |place=Toronto |publisher=Royal Ontario Museum |volume=1 |date=1979 |isbn=0888542194
+}}
+# {{cite book |last=Pendergast |first=David M. |title=Excavations at Altun Ha, Belize, 1964–1970 |place=Toronto |publisher=Royal Ontario Museum |volume=2 |date=1982 |isbn=0888542909
+}}
+# {{cite book |last=Pendergast |first=David M. |title=Excavations at Altun Ha, Belize, 1964–1970 |place=Toronto |publisher=Royal Ontario Museum |volume=3 |date=1990 |isbn=0888543557
+}}
+# {{cite journal |last1=Pendergast |first1=David M. |title=The Center and the Edge: Archaeology in Belize, 1809–1992 |journal=Journal of World Prehistory |date=March 1993 |volume=7 |issue=1 |pages=1–33 |doi=10.1007/BF00978219 |jstor= 25800626
+|s2cid=161362847
+}}
+# {{cite report |last=Powell |first=J. W. |date=1900 |publisher=Government Printing Office |place=Washington, DC |title=Nineteenth Annual Report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution 1897–98 in Two Parts—Part 2 |url=https://www.biodiversitylibrary.org/page/27014879
+}}
+# {{cite book |last1=Quezada |first1=Sergio |title=Pueblos y caciques yucatecos, 1550-1580 |date=1993 |publisher=Colegio de México |location=Mexico City |isbn=968120395X |edition=1st
+}}
+# {{cite journal |last1=Reichert |first1=Rafal |title=El golfo de Honduras: estrategias geopolíticas y militares de una frontera imperial, siglos XVI-XVIII |journal=Tzintzun |date=1 June 2017 |volume=65 |issn=2007-963X |url=http://www.scielo.org.mx/scielo.php?script=sci_abstract&amp;pid=S1870-719X2017000100009&amp;lng=es&amp;nrm=iso
+}}
+# {{cite book |last1=Restall |first1=Matthew |title=The Maya world : Yucatec culture and society, 1550–1850 |date=1997 |publisher=Stanford University Press |location=Stanford, CA |isbn=0804736588 |edition=1st
+}}
+# {{cite book |last=Rice |first=Prudence M. |title=Maya Political Science : Time, Astrology, and the Cosmos |series=Linda Schele Series in Maya and Pre-Columbian Studies |place=Austin, TX |publisher=University of Texas Press |date=2004 |edition=1st |isbn=0292702612
+}}
+# {{cite journal |last1=Romero Mayo |first1=Rafael I. |last2=Benítez López |first2=Jazmín |title=El proceso histórico de conformación de la antigua Payo Obispo (Hoy Chetumal) como espacio urbano fronterizo durante la etapa de Quintana Roo como territorio federal |journal=Península |date=2014 |volume=9 |issue=1 |url=http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S1870-57662014000100006 |issn=1870-5766
+}}
+# {{cite journal |last1=Rosenswig |first1=Robert M. |last2=Masson |first2=Marilyn A. |title=Transformation of the Terminal Classic to Postclassic Architectural Landscape at Caye Coco, Belize |date=2002 |journal=Ancient Mesoamerica |volume=13 |issue=2 |pages=213–235 |jstor=26308205 |doi=10.1017/S0956536102132123 |s2cid=14142695 }}
+# {{cite book |last=Roys |first=Ralph L. |title=The Indian background of colonial Yucatan |date=1943 |place=Washington, DC |publisher=Carnegie Institution of Washington |edition=1st |series=Carnegie Institution of Washington Publication |volume=548 |oclc=26104478
+}}
+# {{cite book |last1=Roys |first1=Ralph L. |title=The Political Geography of the Yucatan Maya |date=1957 |publisher=Carnegie Institution of Washington |location=Washington, DC |edition=1st |series=Carnegie Institution of Washington Publication |volume=613
+}}
+# {{cite book |last1=Sanders |first1=William T. |year=1960 |title=Prehistoric Ceramics and Settlement Patterns in Quintana Roo, Mexico : Contributions to American Anthropology and History No. 60 |url=https://hdl.handle.net/2027/uc1.31210024890640 |url-access=limited |series=Carnegie Institution of Washington Publication |volume=606 |place=Washington, DC |publisher=Carnegie Institution of Washington |hdl=2027/uc1.31210024890640 |edition=1st
+}}
+# {{cite book |last1=Scholes |first1=France V. |last2=Roys |first2=Ralph L. |title=The Maya Chontal Indians of Acalan-Tixchel: A Contribution to the History and Ethnography of the Yucatan Peninsula |date=1968 |publisher=University of Oklahoma Press |location=Norman, OK |edition=2nd |ol=22086001M |ol-access=free
+}}
+# {{cite news |last1=Sebastian |first1=Pablo |title=Los Reyes llegaron a Cancún (México) |url=https://elpais.com/diario/1978/11/18/espana/280191617_850215.html |url-access=limited |access-date=6 August 2021 |work=El País |date=17 November 1978
+}}
+# {{cite book |last1=Sharer |first1=Robert J. |last2=Traxler |first2=Loa P., eds. |title=The ancient Maya |date=2006 |publisher=Stanford University Press |location=Stanford, CA |isbn=0804748160 |edition=6th
+}}
+# {{cite book |last1=Shaw |first1=Justine M. |last2=Mathews |first2=Jennifer P., eds. |title=Quintana Roo archaeology |publisher=University of Arizona Press |location=Tucson, AZ |date=2005 |isbn=0816524416
+}}
+# {{cite book |last1=Smith |first1=Michael E. |last2=Berdan |first2=Frances F., eds. |title=The postclassic Mesoamerican world |date=2003 |publisher=University of Utah Press |location=Salt Lake City, UT |isbn=0874807344 |edition=1st
+}}
+# {{cite journal |last1=Smith |first1=Michael E. |date=1 May 2005 |journal=Journal of Urban History |volume=31 |title=City Size in Late Postclassic Mesoamerica |issue=4 |pages=403–434 |doi=10.1177/0096144204274396
+|s2cid=145452272 }}
+# {{cite journal |last=Society of Antiquaries of London |title=Thursday, March 2nd, 1871 |pages=92–101 |journal=Proceedings of the Society of Antiquaries of London |url=https://hdl.handle.net/2027/hvd.hw2a3c?urlappend=%3Bseq=109 |url-access=limited |series=2 |volume=5 |date=November 1870 – April 1873 |doi=10.1017/S0950797300011616
+|hdl=2027/hvd.hw2a3c?urlappend=%3Bseq=109 }}
+# {{cite journal |last1=Stemp |first1=W. James |last2=Awe |first2=Jaime J. |last3=Helmke |first3=Christophe G. B. |title=A Possible Paleoindian/Early Archaic Point from Ladyville, Belize, Central America |journal=PaleoAmerica |date=7 April 2016 |volume=2 |issue=1 |pages=70–73 |doi=10.1179/2055557115Y.0000000009
+|s2cid=130966757 |url=https://curis.ku.dk/ws/files/162641666/2016_PaleoAm_Vol02_070_073.pdf }}
+# {{cite journal |last1=Thompson |first1=J. E. S. |title=Thomas Gann in the Maya ruins |journal=British Medical Journal |date=28 June 1975 |volume=2 |issue=5973 |pages=741–743 |doi=10.1136/bmj.2.5973.741 |pmid=1095123 |pmc=1673974 |doi-access=free}}
+# {{cite web |last1=Varela Marcos |first1=Jesús |title=Juan Díaz de Solís |url=https://dbe.rah.es/biografias/5892/juan-diaz-de-solis |website=Diccionario Biográfico electrónico |publisher=Real Academia de la Historia |access-date=3 August 2021 |date=2018a
+}}
+# {{cite web |last1=Varela Marcos |first1=Jesús |title=Vicente Yáñez Pinzón |url=https://dbe.rah.es/biografias/9717/vicente-yanez-pinzon |website=Diccionario Biográfico electrónico |publisher=Real Academia de la Historia |access-date=3 August 2021 |date=2018b
+}}
+# {{cite thesis |last1=Vazquez Barke |first1=Gabriela |date=August 2012 |type=MA |title=BACALAR EN EL SIGLO XVII: colonización y resistencia |publisher=Centro de Investigaciones y Estudios Superiores en Antropología Social |place=Mexico City |url=http://ciesas.repositorioinstitucional.mx/jspui/handle/1015/761
+}}
+# {{cite book |editor1-last=Walker |editor1-first=Debra S. |title=Perspectives on the ancient Maya of Chetumal Bay |date=2016 |series=Maya Studies |publisher=University Press of Florida |place=Gainesville, FL |isbn=9780813062792
+}}
+# {{cite journal |last1=Wallace |first1=Colin |title=Reconnecting Thomas Gann with British Interest in the Archaeology of Mesoamerica: An Aspect of the Development of Archaeology as a University Subject |journal=Bulletin of the History of Archaeology |date=May 2011 |volume=21 |issue=1 |page=23 |doi=10.5334/bha.2113 |doi-access=free
+}}
+# {{cite web |last1=Wilson |first1=Jan R. |title=Maya Weddings |url=https://chactemal.com/weddings |website=Chactemal.com |access-date=6 August 2021 |date=2019
+}}
+# {{cite report |last=XVI Congreso de Quintana Roo |title=LEY SOBRE LAS CARACTERÍSTICAS, DIFUSIÓN Y EJECUCIÓN DEL HIMNO A QUINTANA ROO |date=30 December 2015 |url=https://congresoqroo.gob.mx/leyes/73/ |access-date=6 August 2021
+}}
+{{refend}}
+
+{{Maya}}
+{{Maya sites}}
+{{Pre-Columbian}}
+
+{{Authority control}}
+
+[[Category:Mayan chiefdoms of the Yucatán Peninsula]]
+[[Category:Maya civilization| ]]
+[[Category:History of the Yucatán Peninsula| ]]
+[[Category:History of Belize]]
+[[Category:Former countries in North America]]</text>
+      <sha1>4w47qlf0beepm2cro18x0mqi1f3vs4u</sha1>
+    </revision>
+  </page>
+</mediawiki>

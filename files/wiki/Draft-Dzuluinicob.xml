@@ -1,0 +1,698 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Draft:Dzuluinicob</title>
+    <ns>118</ns>
+    <id>70548239</id>
+    <revision>
+      <id>1088422340</id>
+      <parentid>1085650812</parentid>
+      <timestamp>2022-05-17T22:44:20Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Alter: editor1-last, pages, title, url. URLs might have been anonymized. Add: s2cid. Removed parameters. Formatted [[WP:ENDASH|dashes]]. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_CommandLine 191/2973</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31641" xml:space="preserve">{{short description|Postclassic Mayan province in Yucatan from circa 950 to 1544}}
+{{use dmy dates|date=August 2021}}
+{{Use British English|date=August 2021}}
+{{Infobox former country
+|native_name            = {{native name|yua|u kuchkabal Ts'ulwinikob|parensize=75%}}
+|conventional_long_name = Province of Dzuluinicob
+|common_name            = Dzuluinicob
+|iso3166code = omit
+|era                    = [[Mesoamerica#Postclassic|Mayan Postclassic]] to [[Spanish conquest of Yucatan|Spanish conquest]]
+|status                 = Empire
+|status_text            = Dissolved
+|empire                 = &lt;!-- The empire or country to which the entity was in a state of dependency --&gt;
+|government_type        = {{unbulleted list|[[Absolute monarchy]] with [[theocracy|theocratic]] features {{small|(to 1461)}}|[[Confederation]] of ''batabilo'ob'' {{small|(1461{{nbnd}}1544)}}}} 
+&lt;!-- Rise and fall, events, years and dates --&gt;
+&lt;!-- only fill in the start/end event entry if a specific article exists. Don't just say "abolition" or "declaration" --&gt;
+|event_start            = Kukulkan III conquest
+|date_start             = &lt;!-- Optional: Date of establishment, in format 1 January (no year) --&gt;
+|year_start             = 11th cent.
+|event_end              = [[1543–1544 Pachecos entrada|Spanish conquest]]
+|date_end               = 
+|year_end               = 1544
+|year_exile_start       = &lt;!-- Year of start of exile (if dealing with exiled government: status="Exile") --&gt;
+|year_exile_end         = &lt;!-- Year of end of exile (leave blank if still in exile) --&gt;
+|event1                 = [[Hunac Ceel|Fall of Chichen Itza]]
+|date_event1            = 13th cent.
+|event2                 = [[League of Mayapan#End of The League|Fall of Mayapan]]
+|date_event2            = 1461
+|event3                 = 
+|date_event3            = 
+|event4                 = 
+|date_event4            = 
+|event5                 = 
+|date_event5            = 
+|event6                 = 
+|date_event6            = 
+|event_pre              = [[Classic Maya collapse|Classic Mayan collapse]]
+|date_pre               = 10th cent.
+|event_post             = &lt;!-- Optional: A crucial event that took place after "event_end" --&gt;
+|date_post              = 
+&lt;!-- Flag navigation: Preceding and succeeding entities p1 to p5 and s1 to s5 --&gt;
+|p1                     = Cahal Pech
+|flag_p1                = &lt;!-- Default: "Flag of {{{p1}}}.svg" (size 30) --&gt;
+|image_p1               = &lt;!-- Use: [[File:Sin escudo.svg|20px|Image missing]] --&gt;
+|p2                     = Caracol
+|flag_p2                = 
+|image_p2               = [[File:PcbbF401.svg|30px|Image missing]]
+|p3                     = Lamanai
+|flag_p3                =
+|image_p3               = [[File:Ts36Yc01.svg|20px|Image missing]]
+|p4                     = Xunantunich
+|flag_p4                = 
+|image_p4               = [[File:NSgN1101.svg|20px|Image missing]]
+|p5                     = 
+|flag_p5                = 
+|s1                     = Viceroyalty of New Spain
+|flag_s1                = Flag of Cross of Burgundy.svg
+|image_s1               = 
+|s2                     = 
+|flag_s2                = 
+|s3                     = 
+|flag_s3                = 
+|s4                     = 
+|flag_s4                = 
+|s5                     = 
+|flag_s5                = 
+|image_flag             = &lt;!-- Default: Flag of {{{common_name}}}.svg --&gt;
+|flag_alt               = &lt;!-- Alt text for flag --&gt;
+|image_flag2            = &lt;!-- Second flag --&gt;
+|flag_alt2              = &lt;!-- Alt text for second flag --&gt;
+|flag                   = &lt;!-- Link target under flag image. Default: Flag of {{{common_name}}} --&gt;
+|flag2                  = &lt;!-- Link target under flag2 image. Default: Flag of {{{common_name}}} --&gt;
+|flag_type              = &lt;!-- Displayed text for link under flag. Default "Flag" --&gt;
+|flag2_type             = &lt;!-- Displayed text for link under flag2. Default "Flag" --&gt;
+|image_coat             = PcbbF401.svg
+|coa_size               = 300px
+|coat_alt               = The Caracol Glyph
+|symbol_type            = The Caracol Glyph
+|symbol_type_article    = &lt;!-- Link target under symbol image. Default: Coat of arms of {{{common_name}}} --&gt;
+|image_map              = [[File:Dzuluinicob settlements towards the 16th century per Jones 1989.svg|Yucatan-Peninsula-1822 Map|300px]]
+|image_map_alt          = Map of the Yucatan Peninsula in 1822
+|image_map_caption      = Capital and provincial settlements of Dzuluinicob towards the 16th cent. {{small|/ in present-day Belize / some locations uncertain / via Asdfjrjjj 2022}}
+|image_map2             = &lt;!-- If second map is needed; does not appear by default --&gt;
+|image_map2_alt         = 
+|image_map2_caption     = 
+|capital                = {{unbulleted list|[[Chichen Itza]] {{small|(11th cent.{{snds}}13th cent.)}}|[[Mayapan]] {{small|(11th cent.{{snds}}1461)}}|[[Tipu, Belize|Tipu]] {{small|(1461{{en dash}}1544)}}}}
+|capital_exile          = &lt;!-- If status="Exile" --&gt;
+|national_motto         = 
+|national_anthem        = 
+|common_languages       = {{hlist|[[Yucatec Maya language|Yucatecan]]|[[Mopan language|Mopan]]|[[Chʼol language|Ch'ol]]}}
+|religion               = [[Mayan religion|Mayan polytheism]]
+|demonym                = 
+|currency               = 
+&lt;!-- Titles and names of the first and last leaders and their deputies --&gt;
+|leader1                = Kukulkan III {{small|(''first'')}} &lt;!-- NOT kukulkan the god --&gt;
+|leader2                = [[Ah Xiu Xupan]] {{small|(''last'')}}
+|leader3                = 
+|leader4                = 
+|leader21               = 
+|year_leader1           = 11th cent.
+|year_leader2           = {{circa|1441}}{{snds}}{{circa|1461}}
+|year_leader3           = 
+|year_leader4           =
+|year_leader21               = 
+|title_leader           = King
+|representative1        = 
+|representative2        = 
+|representative3        = 
+|representative4        = 
+|representative5        = 
+|year_representative1   = 
+|year_representative2   = 
+|year_representative3   = 
+|year_representative4   = 
+|year_representative5   = 
+|title_representative   = 
+|deputy1                = &lt;!-- Name of prime minister --&gt;
+|deputy2                = 
+|deputy3                = 
+|deputy4                = 
+|year_deputy1           = &lt;!-- Years served --&gt;
+|year_deputy2           = 
+|year_deputy3           = 
+|year_deputy4           = 
+|title_deputy           = &lt;!-- Default: "Prime minister" --&gt;
+&lt;!-- Legislature --&gt;
+|legislature            = &lt;!-- Name of legislature --&gt;
+|house1                 = &lt;!-- Name of first chamber --&gt;
+|type_house1            = &lt;!-- Default: "Upper house" --&gt;
+|house2                 = &lt;!-- Name of second chamber --&gt;
+|type_house2            = &lt;!-- Default: "Lower house" --&gt;
+&lt;!-- Area and population of a given year --&gt;
+|stat_year1             = &lt;!-- year of the statistic, specify either area, population or both --&gt;
+|stat_area1             = &lt;!-- area in square kílometres (w/o commas or spaces), area in square miles is calculated --&gt;
+|stat_pop1              = &lt;!-- population (w/o commas or spaces), population density is calculated if area is also given --&gt;
+|stat_year2             = 
+|stat_area2             = 
+|stat_pop2              = 
+|stat_year3             = 
+|stat_area3             = 
+|stat_pop3              = 
+|stat_year4             = 
+|stat_area4             = 
+|stat_pop4              = 
+|stat_year5             = 
+|stat_area5             = 
+|stat_pop5              = 
+|today                  = [[Belize]]
+|footnote_a             = Kukulkan III = Kukulkan (feathered serpent with large spines) /v Okoshi 276, 283ff
+|footnote_b             = &lt;!-- Accepts wikilinks --&gt;
+|footnote_h             = &lt;!-- Accepts wikilinks --&gt;
+|footnotes              = &lt;!-- Accepts wikilinks --&gt;
+}}
+
+'''Dzuluinicob''', or the '''Province of Dzuluinicob''' or '''Ts'ulwinikob''', ({{IPAc-en|zj|u:|l|.|'|w|i:|.|n|I|.|k|O|b}} {{respell|zool|WEE|nih|cawb}}; {{lang-yua|u kuchkabal Ts'ulwinikob}} {{IPA-myn|u kutʃ.ka.ˈbal t͡sʼul.ˌwiː.niː.ˈkoɓ}}) was a [[Kuchkabal|Postclassic Mayan state]] in the [[Yucatán Peninsula|Yucatan Peninsula]].&lt;ref
+
+group=note&gt;
+
+The Yucatecan Mayan orthography in this article follows that of {{harvnb|Barrera Vásquez|1980|pp=41a–44a
+}}. The Mopan Mayan orthography follows that of {{harvnb|Hofling|2011|pp=??}}. At least two other orthographic systems exist {{harv|Lehmann|2018|loc=sec. 2.1, 3}}, neither of which is used in this article. //// Tz’ulwinikob’ in the new orthography. ??? /v Graham 334 no 136 /// in the new orthography, this is tz’ul Winikob’ (G. d. Jones 1998, 3). /v Graham 361 no 57
+
+&lt;/ref&gt;&lt;ref
+
+group=note&gt;The [[Mesoamerican chronology]] in this article follows that of {{harvnb|Sharer|Traxler|2006|p=98}}, ie
+* Lithic: ''s.d.'' BC{{snd}}{{circa|8000}} BC, 
+* Archaic: {{circa|8000}} BC{{snd}}{{circa|2000}} BC,
+* Preclassic: {{circa|2000}} BC{{snd}}{{circa|250}} AD, 
+* Classic: {{circa|250}} AD{{snd}}{{circa|900}} AD, 
+* Postclassic: {{circa|900}} AD{{snd}}''s.d.'' AD.
+&lt;/ref&gt;&lt;ref
+
+group=note&gt;Dzuluinicob has been called a ''chiefdom'' by some authors. A distinction has been made, however, between ''chiefdoms'' and ''states'', the latter being characterised by more complex forms of sociopolitical organisation than the former ({{harvnb|Sharer|Traxler|2006|p=73}}, {{harvnb|Rice|2004|pp=4–7}}). Accordingly, the province is herein designated a state, and not a chiefdom.
+
+&lt;/ref&gt;
+
+== Geography ==
+
+=== Physical ===
+
+=== Political ===
+
+The province was divided into a number of fiefdoms or batabilo'ob (sing. batabil; called pueblos de indios or pueblos by the Spanish), each headed by a lord or batab, and consequently (loosely) centred around their residence. Lords, did not ''hold'' nor ''own'' land, but rather claimed loyalty, provisions, and service of their vassals or fiefs, who in turn owed the same to their lord or batab./v Quezada 4-5
+
+Gerhard claims that “Chactemal was a large uni- fied state ruled by a halach uinic [nachan Kan] who directly controlled the territory between the east shore of lake Bacalar (Bakhalal) and tipú in the south.”93 Both the concept of a unified, controlling state and its extension to include tipu are doubtful. it is possible, however, that many of the commu- nities in this zone, including lamanai, paid some form of tribute to nachan Kan. Gerhard goes on to say that the area was a center for trade along the coast but that there was also probably an overland trade route that linked Chactemal with acalan to the west.94 That lamanai’s inhabitants were in con- tact with communities along the Gulf Coast is strongly suggested by aspects of its ceramic styles and possibly its architecture from late Classic times.95 We do not know, however, whether contact was rooted in coastal or overland connections, or both./v Graham 47
+
+The Chetumal province, as proposed by roys, includes lamanai and other settlements on the new river (maps 2.1.a, 2.2) ... Jones’s reading of the documents also led him to conclude that tipu was the political center of the province, and that the province comprised the upper Belize river and ex- tended northward as far as the new river lagoon, thus including lamanai.102/v Graham 47
+
+archaeological evidence supports connections between tipu and lama- nai during the period after establishment of encomiendas, which the records show took place in 1544 (fig. 2.3).//v Graham 49
+
+tipu and lamanai were part of a region referred to by Jones as “dzuluini- cob.”57 dzuluinicob was the pre-Columbian name for the new river (map 2.3), and translates as “foreign people.”58 Basing his interpretation on a refer- ence in a document written between 1570 and 1571, Jones sees dzuluinicob as a pre-Columbian provincial entity, and he includes in dzuluinicob the ter- ritory from the sittee river north to the lower new river (map 2.1.d), at the head of which lamanai is situated. Thus, he sees both lamanai and tipu as part of this pre-Columbian province, with tipu serving as its political center in spanish colonial times.
+Based on the archaeological evidence alone, it is difficult to envisage tipu and lamanai as belonging to the same geopolitical pre-Conquest unit, partic- ularly one that was territorially defined. /v Graham 198 
+
+Following the arrival of europeans in the new World in 1492, however, it is possible that the disruption caused by the spaniards and other europeans in Central america and central Mexico, and the flight from the coasts generated by the raids of buccaneers and other seafarers in the Caribbean Basin, may have combined to create conditions in which tipu and lamanai, and indeed many Belize communities, were drawn together and became more intimately connected than they had been in the past. Hence, the two communities may have become part of an effectively integrated region following the Uaymil-Chetumal-Belize conquest in 1544. in any case, i retain “dzuluinicob” to refer to a region that subsumes tipu and lamanai in the colonial period, with the caveat that the existence of well- developed, supra-community, pre-Conquest units based on delimited terri- tory is open to question./ see note 59 /v Graham 199
+
+== History ==
+
+=== Pre-Columbian ===
+
+==== Classic collapse ====
+[[File:Catherwood, Frederick A striking image of Uxmal.jpg|thumb|upright=1.7|''General View of Uxmal'' {{small|/ 1844 lithograph by Frederick Catherwood / via Sotheby's}}]]
+
+Possible political collapse in Baking Pot and Minanha in circa 810 CE /v Okoshi p54
+Possible political collapse in late 9th cent. at xunantunich / possible political collapse c. 900 CE or early 10th cent. at Caracol / no collapse at Lamanai /v Okoshi 56
+
+The Belize River valley has traditionally been considered as an area with strong demographic continuity through the Terminal Classic period. This perception, however, may have derived from a poor resolution in chronology. Recent radiocarbon data suggest that the Terminal Classic period witnessed a substantial population decline (Hoggarth et al. 2014). As in the Pasión region and at Copán, Postclassic ceramics such as Augustine Red and Paxcaman Red were probably introduced to the Belize River val- ley after the period of low population. There were, however, some islands of population concentrations and even growth during the Terminal Classic, such as at Nakum and Xunantunich. /v Okoshi 59
+
+In southeastern Peten and the adjacent part of Belize as well as in northern Belize, population decline was more gradual, and some areas even showed substantial demographic continuity and vigorous construction activity. Caracol and Ucanal = the dynastic regimes persisted, ... Northeastern Belize, including Pull- trouser Swamp and Lamanai, exhibited even stronger demographic conti- nuity through this period (Graham 2004; Masson and Mock 2004). Lisa LeCount and colleagues (2002) tentatively date the beginning of the Terminal Classic period at Xunantunich around 780 CE. I suspect that this date is affected by some old wood or redeposited carbon, and the beginning date is better placed around 800 CE or some- what later. In addition, new radiocarbon dates from Baking Pot indicate that the Belize River valley experienced a population decline around 800 CE (Hoggarth et al. 2014). In other words, there may be no or little time lag in the introduction of Terminal Classic ceramics, and possibly in the onset of depopulation, between the Pasión region and the central-eastern lowlands [inc Belize]. The population declines in many areas were probably direct outcomes of the political disruption around 810 CE. /v Okoshi 60
+
+Regardless of the specifics, these [classic collapse] studies have shown that collapse dates clus- ter into varying patterns that can be grouped into discrete regions (e.g., Ebert et al. 2014:Figure 3). These can be divided into three broad and discrete “last bastions,” which include the Puuc and central Yucatecan sites to the north, Tonina and its environs to the west, and a large swathe of the eastern central lowlands, spanning from La Muñeca in the north, down to Xutilha in the south (with centre domain = extending out from Tikal in the west and into Belize in the east) /v Okoshi 108-109
+
+==== Foreign rule ====
+
+[[File:EwFZQREXEAIGksM.jpg|thumb|upright=1.7|''Sea coast village'' {{small|/ pre-Columbian fresco in the Temple of Warriors / 1931 reproduction by Ann Morris}}]]
+
+==== Self-rule ====
+
+Upon the collapse of Mayapan and subsequent disintegration of the multepal, a local batob and their vassals resettled in the province, though these are not known to have subordinated themselves to a halack winik, meaning that political organisation was now limited to batab and his cuchteelob or vassals /v Quezada 22 / see 
+*Frances V. Scholes and Ralph L. Roys, The Maya Chontal Indians of Acalan- Tixchel: A Contribution to the History and Ethnography of the Yucatan Peninsula (Norman: University of Oklahoma Press, 1968), 67–73;
+* Alfonso Villa Rojas,”Los quejaches: tribu olvidada del antiguo Yucatán,” in Estudios etnológicos: Los mayas, ed. Alfonso Villa Rojas (Mexico City: Universidad Nacional Autónoma de México, 1985, 447–63); and 
+* Grant D. Jones, Maya Resistance to Spanish Rule: Time and History on a Colonial Frontier (Albuquerque: University of New Mexico, Press, 1989), 98.
+
+Note, at the same time, the Canul lineage of Mayan are known to have splintered, with one group settling in nearby Peten.
+
+By 1526, a vast number of batab or lords had managed to elude vassalage (to a governor), tending to cluster in dzuluinicob, the northwester corner of Cehache, and the Tizimin area /v Quezada 26-27
+
+=== Columbian ===
+
+==== Conquest ====
+[[File:Millais, John Everett (Sir) - Pizarro Seizing the Inca of Peru - Google Art Project.jpg|thumb|upright=1.7|''Pizarro Seizing the Inca of Peru'' {{small|/ 1846 oil on canvas by John Everett Millais / via Google}}]]
+
+Dzuluinicob is commonly thought to have been the last province conquered./v Quezada 35/Jones 89 p41-43
+
+But there were lords who did not desire or else did not accept the role of cuchteel to some overlord. Rather, they remained independent, and their señoríos covered a significant part of Yucatecan territory. This was especially true in the peninsula’s northwest corner. ... independent señoríos also characterized the region of the Dzuluinicob and the Cehache, at the peninsula’s southern base./v Quezada 38
+
+== Society ==
+{{^|
+{{CSS image crop
+|Image = Dzuluinicob settlements towards the 16th century per Jones 1989.svg
+|bSize = 350
+|cWidth = 250
+|cHeight = 385
+|oTop = 
+|oLeft = 60
+|Description = Distribution of Dzuluinicob settlements in 16th cent. {{small|/ Tipu capitalised / some locations uncertain / via Asdfjrjjj 2022}}
+}}
+{{CSS image crop
+|Image = Distribution of Mayan languages in 16th century Belize.svg
+|bSize = 350
+|cWidth = 250
+|cHeight = 385
+|oTop = 
+|oLeft = 60
+|Description = Distribution of Mayan languages in 16th cent. Belize {{small|/ Tipu labelled T / Lamanai labelled L / via Asdfjrjjj 2022}}
+}}
+}}
+{{Annotated image
+| image = Distribution of Mayan languages in 16th century Belize.svg
+| image-width = 250  &lt;!-- choose any width, as you like it. It doesn't matter the factual width of the image--&gt;
+| image-left = -45   &lt;!-- crop the left part. Be aware of the "-" minus symbol  --&gt; 
+| image-top = -0    &lt;!-- crop the upper part. Be aware of the "-" minus symbol  --&gt;
+| width =  150        &lt;!-- crop the right part. That will be the width of the image in the article --&gt;
+| height =  275       &lt;!-- crop the below part. That will be the height of the image in the article --&gt;
+| float = right
+| annotations =       &lt;!-- empty or not, this parameter must be included --&gt;
+| caption = Distribution of Mayan languages in 16th cent. Belize {{small|/ Tipu labelled T / Lamanai labelled L / via Asdfjrjjj 2022}}
+}}
+
+== Government ==
+
+== Economy ==
+
+== Legacy ==
+
+== Notes ==
+{{reflist|group=note}}
+
+== Citations ==
+{{reflist}}
+
+== References == &lt;!-- Please keep the alphabetical sorting here - makes it a whole lot easier to navigate :) --&gt;
+{{refbegin}}
+# {{cite book
+| editor-last1  = anon.
+| title         = A geography of Belize : the land and its people
+| date          = 2008
+| edition       = Rev. 11th
+| publisher     = Cubola
+| location      = Benque Viejo, Belize
+| url           = 
+| url-access    =
+| oclc          = 530699621
+}}
+# {{cite book
+| editor-last1  = Barrera Vásquez
+| editor-first1 = Alfredo
+| title         = Diccionario maya Cordemex : maya-español, español-maya
+| date          = 1980
+| publisher     = Ediciones Cordemex
+| location      = Mérida, Yucatán
+| url           = 
+| url-access    =
+| oclc          = 7550928
+}}
+# {{cite book
+| editor-last1  = Chase
+| editor-first1 = Arlen F.
+| editor-last2  = Rice
+| editor-first2 = Prudence M.
+| title         = The Lowland Maya Postclassic
+| date          = 1985
+| publisher     = University of Texas Press
+| location      = Austin, Texas
+| url           = 
+| url-access    =
+| oclc          = 10924247
+| hdl           = 2027/txu.059173018481763
+}}
+# {{cite book
+| last1         = Graham
+| first1        = Elizabeth A.
+| title         = Maya Christians and Their Churches in Sixteenth-Century Belize
+| series        = Maya studies
+| date          = 2011
+| publisher     = University Press of Florida
+| location      = Gainesville, Florida
+| url           = https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/17957
+| url-access    = subscription
+| oclc          = 751694131
+}}
+# {{Cite map 
+| first1        = Heidi 
+| last1         = Hausman
+| date          = 22 February 2013 
+| title         = Mayan Sites/ Ruinas Maya
+| edition       = 
+| scale         =  
+| publisher     = Conservation Biology Institute
+| place         = Corvallis, Oregon
+| url           = https://databasin.org/datasets/3aa6b24c882144d6a4197bd277ae753d/
+| isbn          = 
+}}
+# {{cite thesis 
+| type          = PhD 
+| last          = Harrison-Buck 
+| first         = Eleanor
+| date          = 2007 
+| title         = Materializing identity among the Terminal Classic Maya: Architecture and ceramics in the Sibun Valley, Belize 
+| publisher     = Boston University
+| place         = Boston, Massachusetts
+| url           = https://www.proquest.com/docview/304897391
+| url-access    = subscription
+}}
+# {{cite thesis 
+| type          = PhD 
+| last          = Harvey
+| first         = Amanda R.
+| date          = 2018 
+| title         = An Analysis of Maya Foodways: Stable Isotopes and Oral Indicators of Diet in West Central Belize 
+| publisher     = University of Nevada, Reno
+| place         = Reno, Nev.
+| url           = https://www.proquest.com/docview/2082266936
+| url-access    = subscription
+}}
+# {{cite journal
+| last1         = Hoggarth
+| first1        = Julie A.
+| last2         = Breitenbach
+| first2        = Sebastian F. M.
+| last3         = Culleton
+| first3        = Brendan J.
+| last4         = Ebert
+| first4        = Claire E.
+| last5         = Masson
+| first5        = Marilyn A.
+| last6         = Kennett
+| first6        = Douglas J.
+| date          = March 2016
+| title         = The political collapse of Chichén Itzá in climatic and cultural context
+| journal       = Global and Planetary Change
+| volume        = 138
+| issue         = sn
+| pages         = 25–42
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1016/j.gloplacha.2015.12.007
+| url-access    = subscription
+| doi           = 10.1016/j.gloplacha.2015.12.007
+}}
+# {{cite book
+| editor-last1  = Hofling
+| editor-first1 = Charles Andrew
+| title         = Mopan Maya - Spanish - English dictionary : diccionario Maya Mopan - Español - Ingles
+| date          = 2011
+| publisher     = University of Utah Press
+| location      = Salt Lake City, Utah
+| url           = https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/45823/
+| url-access    = subscription
+| oclc          = 639161518
+}}
+# {{cite book
+| editor-last1  = Jones
+| editor-first1 = Grant D.
+| title         = Anthropology and history in Yucatán
+| series        = The Texas Pan American series
+| date          = 1977
+| publisher     = University of Texas Press
+| location      = Austin, Texas
+| url           = https://hdl-handle-net.ezp-prod1.hul.harvard.edu/2027/heb.03643
+| url-access    = subscription
+| oclc          = 7550928
+| hdl           = 2027/heb.03643
+}}
+# {{cite book
+| last1         = Jones
+| first1        = Grant D.
+| title         = Maya resistance to Spanish rule : time and history on a colonial frontier
+| series        = 
+| date          = 1989
+| publisher     = University of New Mexico Press
+| location      = Albuquerque, New Mexico
+| url           = 
+| url-access    = 
+| oclc          = 20012099
+| hdl           = 2027/mdp.39015015491791
+}}
+# {{cite book
+| last1         = Jones
+| first1        = Grant D.
+| title         = The conquest of the last Maya kingdom
+| series        = 
+| date          = 1998
+| publisher     = Stanford University Press
+| location      = Stanford, California
+| url           = https://hdl-handle-net.ezp-prod1.hul.harvard.edu/2027/heb.03515
+| url-access    = subscription
+| oclc          = 38747674
+| hdl           = 2027/heb.03515
+}}
+# {{cite book
+| editor-last1  = Jones
+| editor-first1 = Grant D.
+| editor-last2  = Kautz
+| editor-first2 = Robert R.
+| title         = The Transition to statehood in the New World
+| series        = New directions in archaeology
+| date          = 1981
+| edition       = 
+| publisher     = Cambridge University Press
+| location      = Cambridge &amp; New York
+| url           = 
+| url-access    =
+| oclc          = 7278205
+| hdl           = 
+}}
+# {{cite web
+| last1         = Lehmann 
+| first1        = Christian 
+| title         = Ortografía 
+| url           = https://www.christianlehmann.eu/ling/sprachen/maya/sistema_expres/ort/ 
+| website       = La lengua maya de Yucatán 
+| publisher     = Christian Lehmann 
+| access-date   = 5 August 2021 
+| date          = 16 December 2018
+}}
+# {{cite thesis 
+| type          = PhD 
+| last          = Meissner 
+| first         = Nathan J. 
+| date          = 2014 
+| title         = Technological systems of small point weaponry of the Postclassic Lowland Maya (a.d. 1400 - 1697) 
+| publisher     = Southern Illinois University
+| place         = Carbondale, Illinois
+| url           = https://www.proquest.com/docview/1660540689
+| url-access    = subscription
+}}
+# {{cite thesis 
+| type          = PhD 
+| last          = Morandi 
+| first         = Steven J. 
+| date          = 2010 
+| title         = Xibun Maya: The archaeology of an early Spanish colonial frontier in southeastern Yucatán 
+| publisher     = Boston University
+| place         = Boston, Massachusetts
+| url           = https://www.proquest.com/docview/305184024
+| url-access    = subscription
+}}
+# {{cite book
+| editor-last1  = Morris
+| editor-first1 = John
+| editor-last2  = Awe
+| editor-first2 = Jaime
+| editor-last3  = Badillo
+| editor-first3 = Melissa
+| editor-last4  = Thompson
+| editor-first4 = George
+| title         = Archaeological investigations in the eastern Maya lowlands : papers of the 2013 Belize Archaeology Symposium
+| series        = Research reports in Belizean archaeology
+| volume        = 11
+| date          = 2014
+| publisher     = Institute of Archaeology, National Institute of Culture and History
+| location      = Belmopan, Belize
+| url           = 
+| url-access    =
+| oclc          = 994267559
+| hdl           = 
+}}
+# {{cite book
+| editor-last1  = Okoshi
+| editor-first1 = Tsubasa
+| title         = Maya Kingship: Rupture and Transformation from Classic to Postclassic Times
+| date          = 2021
+| publisher     = University Press of Florida
+| location      = Gainesville, Florida
+| url           = https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/82365
+| url-access    = subscription
+| oclc          = 1193557896
+}}
+# {{cite book
+| editor-last1  = Orser
+| editor-first1 = Charles E.
+| title         = Encyclopedia of Historical Archaeology
+| date          = 2002
+| publisher     = Routledge
+| location      = London &amp; New York
+| url           = 
+| url-access    =
+| oclc          = 47894546
+}}
+# {{cite book
+| last1         = Pugh
+| first1        = Timothy W.
+| last2         = Cecil
+| first2        = Leslie G.
+| title         = Maya Worldviews at Conquest
+| series        = Mesoamerican Worlds Series
+| date          = 2004
+| publisher     = University Press of Colorado
+| location      = Boulder, Colorado
+| url           = https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/3817
+| url-access    = subscription
+| oclc          = 558844310
+}}
+# {{cite book
+| last1         = Rice
+| first1        = Prudence M.
+| title         = Maya Political Science: Time, Astrology, and the Cosmos
+| series        = The Linda Schele series in Maya and pre-Columbian studies
+| date          = 2004
+| publisher     = University of Texas Press
+| location      = Austin, Texas
+| url           = https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/2977
+| url-access    = subscription
+| oclc          = 60612439
+}}
+# {{cite journal
+| last1         = Ringle
+| first1        = William M. 
+| title = Debating Chichen Itza 
+| date          = 2017
+| journal       = Ancient Mesoamerica
+| volume        = 28
+| issue         = sn
+| pages         = 119–136
+| url           = https://www-cambridge-org.ezp-prod1.hul.harvard.edu/core/journals/ancient-mesoamerica/article/debating-chichen-itza/5C57896E402831CDBB0FBB5E2E0D40F8
+| url-access    = subscription
+| doi           = 10.1017/S0956536116000481
+| s2cid = 164935768 
+}}
+# {{cite book 
+| last1         = Quezada 
+| first1        = Sergio 
+| title         = Pueblos y caciques yucatecos, 1550-1580 
+| trans-title   = Maya lords and lordship : the formation of colonial society in Yucatán, 1350-1600 
+| date          = 2014 
+| orig-date     = First published 1993 by Colegio de México 
+| publisher     = University of Oklahoma Press 
+| location      = Norman, Oklahoma 
+| url           = 
+| url-access    =
+| series        = 
+| volume        = 
+| hdl           = 
+| edition       = Revised translation of 1993 Spanish
+| oclc          = 847529166 
+| translator-last  = Rugeley 
+| translator-first = Terry
+}}
+# {{cite book
+| editor-last1  = Sabloff
+| editor-first1 = Jeremy A.
+| editor-last2  = Andrews V
+| editor-first2 = E. Wyllys
+| title         = Late Lowland Maya civilization : classic to postclassic
+| series        = School of American Research advanced seminar series
+| date          = 1986
+| publisher     = University of New Mexico Press
+| location      = Albuquerque, New Mexico
+| url           = 
+| url-access    =
+| oclc          = 12420464
+| hdl           = 2027/txu.059173018481821
+}}
+# {{cite book
+| editor-last1  = Sharer
+| editor-first1 = Robert J.
+| editor-last2  = Traxler
+| editor-first2 = Loa P.
+| title         = The Ancient Maya
+| date          = 2006
+| edition       = 6th
+| publisher     = Stanford University Press
+| location      = Stanford, California
+| url           = 
+| url-access    =
+| oclc          = 57577446
+| hdl           = 2027/mdp.39015062626216
+}}
+# {{cite book
+| editor-last1  = Walker
+| editor-first1 = Debra S.
+| title         = Perspectives on the Ancient Maya of Chetumal Bay
+| date          = 2016
+| publisher     = University Press of Florida
+| location      = Gainesville, Florida
+| url           = https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/48863
+| url-access    = subscription
+| oclc          = 948670056
+}}
+{{refend}}
+
+{{Maya}}
+{{Maya sites}}
+{{Pre-Columbian}}
+
+{{Authority control}}
+
+[[:Category:Mayan chiefdoms of the Yucatán Peninsula]]
+{{DEFAULTSORT:Maya Civilization}}
+[[:Category:Maya civilization| ]]
+[[:Category:History of the Yucatán Peninsula| ]]
+[[:Category:History of Belize]]
+[[:Category:Former countries in North America]]</text>
+      <sha1>ea0a62l7mwunb7yvtnib9or6tjog76s</sha1>
+    </revision>
+  </page>
+</mediawiki>

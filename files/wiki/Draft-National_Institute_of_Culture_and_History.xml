@@ -1,0 +1,441 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Draft:National Institute of Culture and History</title>
+    <ns>118</ns>
+    <id>71141115</id>
+    <revision>
+      <id>1100759405</id>
+      <parentid>1095127801</parentid>
+      <timestamp>2022-07-27T14:54:59Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Alter: s2cid. Add: isbn. Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_CommandLine</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="14198" xml:space="preserve">{{AfC submission|t||ts=20220625122552|u=Asdfjrjjj|ns=118|demo=}}&lt;!-- Important, do not remove this line before article has been created. --&gt;
+{{short description|xxx}}
+{{use dmy dates|date=June 2022}}
+{{use British English|date=June 2022}}
+{{Infobox organization
+| name                = National Institute of Culture and History
+| full_name           = 
+| native_name         = &lt;!-- organization's name in its local language --&gt;
+| native_name_lang    = &lt;!-- required ISO 639-1 code of the above native language --&gt;
+| logo                = NICH logo 2022.svg
+| logo_size           = 
+| logo_alt            = 
+| logo_caption        = 
+| image               = 
+| image_size          = 
+| alt                 = &lt;!-- see [[WP:ALT]] --&gt;
+| caption             = 
+| map                 = &lt;!-- map image --&gt;
+| map_size            = &lt;!-- defaults to 250px --&gt;
+| map_alt             = 
+| map_caption         = 
+| map2                = &lt;!-- 2nd map image, if required --&gt;
+| map2_size           = 
+| map2_alt            = 
+| map2_caption        = 
+| abbreviation        = NICH
+| nickname            = 
+| pronounce           = 
+| pronounce ref       = 
+| pronounce comment   = 
+| pronounce 2         = 
+| named_after         = 
+| predecessor         = Office of the Governor
+| merged              = &lt;!-- any other organization(s) which it was merged into --&gt;
+| successor           = 
+| formation           = {{start date and age|1952|7|1|df=y}} {{small|/ as Department of Archaeology}}&lt;!-- or |established = --&gt;&lt;!-- use {{start date and age|YYYY|MM|DD}} --&gt;
+| founder             = Alexander Hamilton Anderson&lt;!-- or |founders = --&gt;
+| founding_location   = 
+| dissolved           = &lt;!-- or |defunct = --&gt;&lt;!-- use {{end date and age|YYYY|MM|DD}} --&gt;
+| merger              = &lt;!-- other organizations (if any) merged with, to constitute the new organization --&gt;
+| type                = &lt;!-- e.g., [[Nonprofit organization|Nonprofit]], [[Non-governmental organization|NGO]], etc. --&gt;
+| tax_id              = &lt;!-- or |vat_id = (for European organizations) --&gt;
+| registration_id     = &lt;!-- for non-profits --&gt;
+| status              = &lt;!-- legal status or description (company, charity, foundation, etc.) --&gt;
+| purpose             = regulation and preservation&lt;!-- or |focus = --&gt;&lt;!-- humanitarian, activism, peacekeeping, etc. --&gt;
+| professional_title  = &lt;!-- for professional associations --&gt;
+| headquarters        = 3401 Mtn View Blvd&lt;br&gt;Belmopan&lt;br&gt;Belize
+| location_city       =
+| location_country    =
+| location_city2      = 
+| location_country2   = 
+| addnl_location_city = 
+| addnl_location_country = 
+| addnl_location_city2 = 
+| addnl_location_country2 = 
+| coordinates         = {{coord|17.246433422048653|-88.77213542698502|region:BZ_type:landmark|display=inline,title}}&lt;!-- {{coord|LAT|LON|display=inline,title}} --&gt;
+| origins             = 
+| region_served       = &lt;!-- or |area_served = or |region = --&gt;
+| products            = &lt;!-- or |product = --&gt;
+| services            = 
+| methods             = &lt;!-- or |method = --&gt;
+| fields              = &lt;!-- or |field = --&gt;
+| membership          = &lt;!-- number of members --&gt;
+| membership_year     = &lt;!-- year to which membership numbers/data apply --&gt;
+| language            = &lt;!-- or |languages = --&gt;&lt;!-- any official language or languages used --&gt;
+| owner               = &lt;!-- or |owners = --&gt;
+| sec_gen             = &lt;!-- or |gen_sec for General Secretary --&gt;
+| leader_title        = &lt;!-- defaults to "Leader" --&gt;
+| leader_name         = 
+| leader_title2       = 
+| leader_name2        = 
+| leader_title3       = 
+| leader_name3        = 
+| leader_title4       = 
+| leader_name4        = 
+| board_of_directors  = 
+| key_people          = 
+| main_organ          = &lt;!-- or |publication = --&gt;&lt;!-- organization's principal body (assembly, committee, board, etc.) or publication --&gt;
+| parent_organization = &lt;!-- or |parent_organisation = --&gt;
+| subsidiaries        = {{unbulleted list|Institute of Archaeology|Institute of Creative Arts|Institute for Social &amp; Cultural Research|Museum of Belize &amp; Houses of Culture}}
+| secessions          = 
+| affiliations        = Ministry of Education, Culture, Science and Technology
+| budget              = 
+| budget_year         = 
+| revenue             = 
+| revenue_year        = 
+| disbursements       = 
+| expenses            = 
+| expenses_year       = 
+| endowment           = 
+| endowment_year      = 
+| funding             = &lt;!-- source of funding e.g. for "think tanks" --&gt;
+| staff               = 
+| staff_year          = 
+| volunteers          = 
+| volunteers_year     = 
+| students            = 
+| students_year       = 
+| awards              = 
+| website             = {{URL|nichbelize.org}}&lt;!-- {{URL|example.com}} --&gt;
+| remarks             = 
+| formerly            = &lt;!-- or |former_name = --&gt;
+| footnotes           = 
+| bodystyle           = 
+}}
+The '''National Institute of Culture and History''' is an executive non-departmental public body of the [[Government of Belize|Belizean Government]], sponsored by the Ministry of Education, Culture, Science and Technology. It is tasked with xxx.
+
+== History ==
+The superintendent-organised and tax-funded 1839{{en dash}}1840 expedition to [[Palenque]] by Patrick Walker and John Herbert Caddy is often regarded as the Belizean Government's earliest investment in archaeological, cultural, or artistic research.{{sfn|Saler|1968|p=273}}{{notetag|Prior to the expedition, Walker worked as secretary to the superintendent, while Caddy served as lieutenant in the [[Royal Artillery]] {{harv|Saler|1968|p=273}}. Expeditionary records and lithographs were belatedly published in {{harvnb|Pendergast|1967}} {{harv|Saler|1968|p=273}}. Collected artefacts were donated by [[William Stevenson (colonial administrator)|William Stevenson]] to the [[British Museum]] in 1856{{en dash}}1857 ({{harvnb|Mongey|2021|p=85}}, {{harvnb|BM|2022|loc=secs. 'Biography' and 'Related Objects'}}).}}
+
+Similar projects, however, were sporadic until the 1952 appointment of Alexander Hamilton Anderson as First Assistant Secretary to the Governor ''with'' responsibility for archaeological activities in the country, and the subsequent 1954 establishment of the Department of Archaeology, with Anderson as its inaugural ''commissioner'' or permanent secretary.{{sfn|Nichols|Pool|2012|p=71}}{{sfn|Pendergast|1993|p=7}}{{sfn|Beardall|2021|p=28}}{{notetag|Though [[Thomas Gann]], a civil servant, conducted some of the earliest excavations in Belize in 1894{{en dash}}1936, and may have prompted the country's earliest legislative protections for archaeological sites and artefacts in 1894, and their subsequent strengthening in 1897, 1924, 1927, and 1928 ({{harvnb|Nichols|Pool|2012|pp=69-71}}, {{harvnb|Wallace|2011|p=25}}, {{harvnb|Pendergast|1993|p=4}}, {{harvnb|Hammond|1983|p=22}}).}}{{notetag|Establishment of the Department of Archaeology dated 1953 by {{harvnb|Vitelli|1983|p=218}}, 1957 by {{harvnb|Nichols|Pool|2012|p=71}}.}}
+
+In 2003, the Department of Archaeology was merged with three other governmental departments, by act of Parliament, to form the National Institute of Culture and History, this latter body being modelled after its [[INAH|Mexican counterpart]].{{sfn|Nichols|Pool|2012|pp=72, 75}}
+
+== Remit ==
+== Leadership ==
+{{Static row numbers}}
+{| class="sortable static-row-numbers" style="text-align:left;"
+|+ Past leadership of NICH and predecessor bodies.{{sfn|Nichols|Pool|2012|pp=71-72}}
+|- 
+! class=unsortable| Name
+! Start
+! End
+! class=unsortable| Title
+! class=unsortable| Body
+|-
+| Alexander Anderson
+| 1952
+| 1954
+| First Assistant Secretary with responsibility for archaeology
+| Office of the Governor
+|-
+| Alexander Anderson
+| 1954
+| 1967
+| Commissioner
+| Department of Archaeology
+|-
+| David Pendergast
+| 1967
+| 1968
+| Commissioner ''ad interim''
+| Department of Archaeology
+|-
+| Peter Schmidt
+| 1968
+| 1971
+| Commissioner
+| Department of Archaeology
+|-
+| Joseph Palacio
+| 1971
+| 1977
+| Commissioner
+| Department of Archaeology
+|-
+| Jaime Awe
+| 1977
+| 1978
+| Commissioner ''ad interim''
+| Department of Archaeology
+|-
+| Elizabeth Graham
+| 1978
+| 1980
+| Commissioner
+| Department of Archaeology
+|-
+| Harriot Topsey
+| 1980
+| ?
+| Commissioner
+| Department of Archaeology
+|-
+| Winnel Branche
+| ?
+| ?
+| Commissioner
+| Department of Archaeology
+|-
+| Allan Moore
+| ?
+| ?
+| Commissioner
+| Department of Archaeology
+|-
+| John Morris
+| ?
+| ?
+| Commissioner
+| Department of Archaeology
+|-
+| Brian Woodye
+| ?
+| ?
+| Commissioner
+| Department of Archaeology
+|-
+| George Thompson
+| ?
+| ?
+| Commissioner
+| Department of Archaeology
+|}
+
+== Notes ==
+{{reflist}}
+{{notefoot}}
+== References ==
+{{refbegin}}
+# {{cite thesis
+| last            = Beardall
+| first           = Antonio
+| date            = 2021
+| type            = MA
+| title           = Public Archaeology and Cultural Heritage Management in Belize: Successes and Shortcomings
+| publisher       = Northern Arizona University
+| url             = 
+| id              = {{ProQuest|2541908363}}
+| isbn            = 9798738649813
+}}
+# {{cite web
+| last            = BM
+| date            = 2022
+| type            = Bibliographic entry
+| title           = W Stevenson
+| website         = British Museum
+| url             = https://www.britishmuseum.org/collection/term/BIOG128557
+}}
+# {{cite report
+| last1           = Encalada
+| first1          = Nigel
+| last2           = Morris
+| first2          = John
+| date            = 2016
+| title           = Belize National Cultural Policy 2016–2026
+| publisher       = National Institute of Culture and History
+| place           = Belmopan, Bze.
+| url             = https://www.dgft.gov.bz/national-development-policies/
+}}
+# {{cite journal 
+|last1=Hammond 
+|first1=Norman 
+|title=The development of Belizean archaeology 
+|journal=Antiquity 
+|date=March 1983 
+|volume=57 
+|issue=219 
+|pages=19–27 
+|doi=10.1017/S0003598X00054946
+|s2cid=163374681 
+}}
+# {{cite book
+| editor-last     = Kaseke
+| editor-first    = Elson
+| date            = 2001
+| chapter         = National Institute of Culture and History Act ch. 331
+| title           = Titles XXVIII to XXXIV
+| publisher       = Government Printer
+| place           = Belmopan, Bze.
+| series          = The substantive laws of Belize : in force on the 31st day of December, 2000
+| volume          = VII
+| edition         = Rev. 2000
+| oclc            = 50764517
+| isbn            = 9768111542
+| url             = http://www.belizelaw.org/web/lawadmin/index2.html
+| url-status      = live
+| archive-url     =
+| archive-date    = 
+}}
+# {{cite journal 
+| last1         = Mongey 
+| first1        = Vanessa
+| title         = Protecting Foreigners: The Refugee Crisis on the Belize–Yucatán Border, 1847–71
+| journal       = Law and History Review
+| date          = March 2021 
+| volume        = 39
+| issue         = 1 
+| pages         = 69–95 
+| doi           = 10.1017/S0738248020000322
+| jstor         = 
+| s2cid         = 232252458
+| url           = https://www-cambridge-org.ezp-prod1.hul.harvard.edu/core/journals/law-and-history-review/article/protecting-foreigners-the-refugee-crisis-on-the-belizeyucatan-border-184771/9FF26A324C93E119016BA2D5983696C1
+| url-access    = subscription
+}}
+# {{cite book
+| editor-last1     = Nichols
+| editor-first1    = Deborah L.
+| editor-last2     = Pool
+| editor-first2    = Christopher A.
+| date            = 2012
+| chapter         = 
+| title           = The Oxford Handbook of Mesoamerican Archaeology
+| publisher       = Oxford University Press
+| place           = Oxford
+| series          = 
+| volume          = 
+| edition         = 
+| oclc            = 761538187
+| doi             = 10.1093/oxfordhb/9780195390933.001.0001
+| isbn = 978-0-19-539093-3
+| url             = https://www-oxfordhandbooks-com.ezp-prod1.hul.harvard.edu/view/10.1093/oxfordhb/9780195390933.001.0001/oxfordhb-9780195390933
+| url-access      = subscription
+| archive-url     =
+| archive-date    = 
+}}
+# {{cite book
+| editor-last     = Pendergast
+| editor-first    = David M.
+| date            = 1967
+| chapter         = 
+| title           = Palenque: the Walker-Caddy expedition to the ancient Maya city, 1839-1840
+| publisher       = University of Oklahoma Press
+| place           = Norman, Okl.
+| series          = American exploration and travel series
+| volume          = 
+| edition         = 
+| oclc            = 488070
+| isbn            = 
+| url             = 
+}}
+# {{cite journal 
+| last1         = Pendergast 
+| first1        = David M. 
+| title         = The Center and the Edge: Archaeology in Belize, 1809–1992 
+| journal       = Journal of World Prehistory 
+| date          = March 1993 
+| volume        = 7 
+| issue         = 1 
+| pages         = 1–33 
+| doi           = 10.1007/BF00978219 
+| jstor         = 25800626
+| s2cid         = 161362847
+| url           = http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/25800626
+| url-access    = subscription
+}}
+# {{cite journal 
+| last1         = Saler 
+| first1        = Benson
+| title         = Palenque: The Walker-Caddy Expedition to the Ancient Maya City, 1839-1840
+| journal       = Hispanic American Historical Review
+| date          = May 1968 
+| volume        = 48
+| issue         = 2
+| pages         = 273–274 
+| doi           = 10.1215/00182168-48.2.273
+| jstor         = 
+| s2cid         = 
+| url           = 
+| url-access    = 
+}}
+# {{cite journal 
+| last1         = Vitelli 
+| first1        = Karen D.
+| title         = The Antiquities Market
+| journal       = Journal of Field Archaeology
+| date          = Summer 1983
+| volume        = 10
+| issue         = 2
+| pages         = 213–228 
+| doi           = 10.1179/009346983792208523
+| jstor         = 529611
+| s2cid         = 
+| url           = http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/529611
+| url-access    = subscription
+}}
+# {{cite journal 
+|last1=Wallace 
+|first1=Colin 
+|title=Reconnecting Thomas Gann with British Interest in the Archaeology of Mesoamerica: An Aspect of the Development of Archaeology as a University Subject 
+|journal=Bulletin of the History of Archaeology 
+|date=May 2011 
+|volume=21 
+|issue=1 
+|page=23 
+|doi=10.5334/bha.2113 
+|doi-access=free
+}}
+{{refend}}
+
+== External links ==
+{{authority control}}</text>
+      <sha1>6b57eunlyp2718cs4y68ydhfig3288a</sha1>
+    </revision>
+  </page>
+</mediawiki>

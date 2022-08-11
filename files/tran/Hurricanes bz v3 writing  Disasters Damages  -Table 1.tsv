@@ -1,0 +1,118 @@
+Table 1
+Start	Type	Subtype	R Damage	Multiplier	Multiplier	Multiplier	Multiplier	Adder	Adder	E Damage	unit	year	E D 2020	E D 2020
+1701	Anthropological	Raid		114	0.2	1	100			"2,286"	Lsd	1750	"1,274,728"	"1,274,728"
+1715	Natural	Famine								0	Lsd	1715	0	0
+1716	Anthropological	Raid		150	1	0.25	600	2500		25000	Lsd	1717	"13,942,332"	"15,581,951"
+				7	6	70	1			2940	Lsd	1739	"1,639,618"	
+1717	Anthropological	Raid		7	20	70	1			9800		1739	"5,465,394"	"13,830,794"
+				100	1	0.25	600			15000	Lsd	1717	"8,365,399"	
+1723	Anthropological	Raid		7	7	70	1			3430	Lsd	1739	"1,912,888"	"20,419,940"
+				7	13	35	1			3185	Lsd	1739	"1,776,253"	
+				100	1	0.5	600			30000	Lsd	1717	"16,730,799"	
+1723	Technological	Wreck		7	1	70	1			490	Lsd	1739	"273,270"	"273,270"
+1725	Anthropological	Engagement		7	11	70	1			5390	Lsd	1739	"3,005,967"	"3,005,967"
+1725	Technological	Wreck		7	1	70	1			490	Lsd	1739	"273,270"	"273,270"
+1725	Anthropological	Engagement		7	3	50	1			1050	Lsd	1739	"585,578"	"585,578"
+1726	Anthropological	Engagement								0	Lsd		0	0
+1728	Anthropological	Engagement								0	Lsd		0	0
+1729	Anthropological	Raid		100	3	1080	1			324000	Lsd	1726	"180,692,627"	"222,190,585"
+				14000	5	1	1			70000	Lsd	1726	"39,038,531"	
+				7	70	9	1			4410	Lsd	1739	"2,459,427"	
+1730	Anthropological	Engagement								0	Lsd		0	0
+1731	Anthropological	Engagement								0	Lsd		0	0
+1732	Technological	Wreck		7	70	1	1			490	Lsd	1739	"273,270"	"273,270"
+1733	Technological	Wreck		7	70	1	1			490	Lsd	1739	"273,270"	"273,270"
+1737	Biological	Outbreak								0	Lsd		0	0
+1737	Anthropological	Engagement		1000	0.25	5	1			1250	Lsd	1755	"711,059"	"711,059"
+1739	Anthropological	Raid		3000	6	1	1			18000	Lsd	1742	"10,038,479"	"10,038,479"
+1747	Anthropological	Raid		22.5	3	70	1			4725	Lsd	1742	"2,635,101"	"2,635,101"
+1751	Anthropological	Raid		22.5	8	30	1			5400	Lsd	1742	"3,011,544"	"310,189,010"
+				150	60	5	12			540000	Lsd	1755	"307,177,467"	
+1754	Anthropological	Raid		150	60	5	6			270000	Lsd	1755	"153,588,733"	"153,588,733"
+1755	Anthropological	Resettlement								0	Lsd		0	0
+1765	Anthropological	Riot								0	Lsd		0	0
+1770	Anthropological	Riot		3	1	1	100			300	Lsd	1750	"167,308"	"587,030"
+				25	60	1	0.708333333333333			1062.5	Lsd	1786	"419,722"	
+1771	Natural	Famine								0	Lsd		0	0
+1772	Anthropological	Engagement								0	Lsd		0	0
+1773	Anthropological	Engagement								0	Lsd		0	0
+1773	Anthropological	Riot								0	Lsd		0	0
+1775	Anthropological	Engagement								0	Lsd		0	0
+1779	Anthropological	Engagement		200	60	3	5			180000	Lsd	1755	"102,392,489"	"102,392,489"
+1779	Anthropological	Engagement								0	Lsd		0	0
+1780	Anthropological	Engagement								0	Lsd		0	0
+1784	Natural	Storm								0	Lsd		0	0
+1785	Biological	Outbreak								0	Lsd		0	0
+1785	Natural	Storm	1500							1500	Lsd	1785	"592,549"	"2,056,494"
+				250	0.7	15	1			2625	Lsd	1750	"1,463,945"	
+1787	Anthropological	Riot								0	Lsd		0	0
+1787	Natural	Storm	30000							30000	Lsd	1787	"11,850,983"	"11,850,983"
+1788	Biological	Outbreak								0	Lsd		0	0
+1789	Technological	Wreck		7	100	1	1			700	Lsd	1739	"390,385"	"390,385"
+1792	Natural	Flooding		2000000	0.708333333333333	1	1			1416666.66666667	Lsd	1781	"610,505,159"	"610,505,159"
+1794	Anthropological	Engagement								0	Lsd		0	0
+1798	Hostile	Engagement								0	Lsd		0	0
+1812	Natural	Storm								0	Lsd		0	0
+1813	Natural	Storm		25	100	1	1			2500	Lsd	1750	"1,394,233"	"1,394,233"
+1823	Biological	Outbreak								0	Lsd		0	0
+1824		Engagement		7	70	1	1			490	Lsd	1739	"273,270"	"273,270"
+1830	Biological	Outbreak								0	Lsd		0	0
+1831	Natural	Storm		7	90	1	1			630	Lsd	1739	"351,347"	"351,347"
+1835	Technological	Wreck		7	90	1	1			630	Lsd	1739	"351,347"	"351,347"
+1842	Technological	Wreck		7	100	1	1			700	Lsd	1739	"390,385"	"390,385"
+1852	Natural	Flooding		2000	15	2	1			60000	Lsd	1864	"19,174,623"	"19,174,623"
+1854	Biological	Outbreak								0	Lsd		0	0
+1854	Technological	Fire	95000							95000	Lsd	1854	"26,490,431"	"26,490,431"
+1856	Technological	Fire	100000							100000	Lsd	1856	"27,087,960"	"27,087,960"
+1857	Biological	Outbreak								0	Lsd		0	0
+1860	Biological	Outbreak								0	Lsd		0	0
+1863	Anthropological	Riot								0	Lsd		0	0
+1863	Technological	Fire		450	100	1	1			45000	Lsd	1750	"25,096,198"	"25,096,198"
+1864	Natural	Gales		7	70	1	1			490	Lsd	1739	"273,270"	"273,270"
+1864	Natural	Flooding		300	40	1	1			12000	BHD	1864	"766,985"	"766,985"
+1866	Anthropological	Raid								0			0	0
+1866	Anthropological	Engagement								0			0	0
+1866	Anthropological	Raid	45510							45510	BHD	1866	"766,985"	"766,985"
+1867	Anthropological	Raid								0			0	0
+1867	Anthropological	Raid								0			0	0
+1867	Anthropological	Raid								0			0	0
+1867	Biological	Outbreak								0			0	0
+1868	Anthropological	Raid	177031							177031	BHD	1868	"766,985"	"766,985"
+1872	Anthropological	Raid								0			0	0
+1872	Anthropological	Raid								0			0	0
+1886	Biological	Outbreak								0			0	0
+1892	Technological	Wreck		7	70	1	1			490	Lsd	1739	"273,270"	"273,270"
+1892	Technological	Wreck		7	70	1	1			490	Lsd	1739	"273,270"	"273,270"
+1894	Anthropological	Riot								0			0	0
+1905	Biological	Outbreak								0			0	0
+1914	Anthropological	Engagement								0			0	0
+1918	Biological	Outbreak								0			0	0
+1918	Technological	Fire								0			0	0
+1921	Biological	Outbreak								0			0	0
+1923	Technological	Wreck								0			0	0
+1931	Technological	Fire								0			0	0
+1931	Natural	Storm								0			0	0
+1932	Technological	Fire	250000							250000	USD	1932	"9,440,146"	"9,440,146"
+1939	Anthropological	Engagement								0			0	0
+1950	Anthropological	Riot								0			0	0
+1953	Technological	Fire	1000000							1000000	USD	1953	"19,375,281"	"19,375,281"
+1955	Natural	Storm								0			0	0
+1961	Natural	Storm								0			0	0
+1970	Technological	Wreck								0			0	0
+1974	Natural	Storm								0			0	0
+1978	Natural	Storm								0			0	0
+1981	Anthropological	Riot								0			0	0
+1986	Biological	Outbreak								0			0	0
+1997	Technological	Wreck								0			0	0
+1998	Natural	Storm								0			0	0
+2000	Natural	Storm								0			0	0
+2001	Natural	Storm								0			0	0
+2005	Natural	Storm								0			0	0
+2008	Natural	Flooding								0			0	0
+2008	Natural	Storm								0			0	0
+2009	Biological	Outbreak								0			0	0
+2010	Natural	Storm								0			0	0
+2017	Anthropological	Wreck								0			0	0
+2017	Technological	Wreck								0			0	0
+2019	Technological	Wreck								0			0	0
+2019	Biological	Outbreak								0			0	0

@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tzibte Yux</title>
+    <ns>0</ns>
+    <id>71140084</id>
+    <revision>
+      <id>1095246283</id>
+      <parentid>1095010041</parentid>
+      <timestamp>2022-06-27T07:53:22Z</timestamp>
+      <contributor>
+        <username>Dlrohrer2003</username>
+        <id>4859633</id>
+      </contributor>
+      <minor/>
+      <comment>Fixing a typo - [[WP:Typo Team|You can help!]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11699" xml:space="preserve">{{short description|Archaeological site in southern Belize}}
+{{use dmy dates|date=June 2022}}
+{{use British English|date=June 2022}}
+{{Infobox ancient site
+| name           = Tzibte Yux&lt;!-- required --&gt;
+| native_name    = 
+| native_name_lang =
+| alternate_name = {{hlist|Tzib Te Yux|Tzib'te Yux}}&lt;!-- displays as "Alternative name" --&gt;
+| image          = Pone.0219812.g004.PNG L.svg
+| image_size     = 275
+| alt            = 
+| caption        = Longitudinal diagram of Tzibte Yux {{small|/ excavation units 1{{en dash}}9 labelled / 2019 Prufer ''et al.'' / via PLOS ONE}}
+| map            = {{location map|Belize#Mesoamerica|lat_deg=16.22918291312578|lon_deg=-89.09335790400635|label=Tzibte Yux|caption=|float=center|mark=Archaeological site icon.svg}}&lt;!--Belize location map.svg--&gt;
+| map_type       = 
+| map_alt        = 
+| map_caption    = 
+| map_size       =
+| mapframe       = &lt;!-- "yes" to show an interactive map --&gt;
+| altitude_m     = &lt;!-- Enter a number for altitude in meters (m) --&gt;
+| altitude_ref   = 
+| relief         = 
+| coordinates    = {{coord|16.22918291312578|-89.09335790400635|region:BZ_type:landmark|display=title,inline}}
+| gbgridref      = 
+| map_dot_label  = 
+| location       = [[Rio Blanco National Park]], [[Toledo District|Toledo]], [[Belize]]
+| region         = [[Yucatan Peninsula]]
+| type           = [[Rock shelter]]
+| part_of        = 
+| length         = {{convert|121|ft|m|abbr=on}}
+| width          = {{convert|14.8|ft|m|abbr=on}}
+| area           = 
+| volume         = 
+| diameter       = 
+| circumference  = 
+| height         = 
+| builder        = 
+| material       = 
+| built          = 10500 BC
+| abandoned      = 6500 BC
+| epochs         = [[Preceramic Period in Belize|Preceramic]]&lt;!-- actually displays as "Periods" --&gt;
+| cultures       = [[Palaeoindian]]
+| dependency_of  = 
+| occupants      = 
+| event          = 
+| discovered     = 2009
+| excavations    = 2012{{en dash}}2015
+| archaeologists = Keith Prufer {{small|/ Uxbenka Archaeological Project}}
+| condition      = 
+| ownership      = Public
+| management     = [[National Institute of Culture and History|Institute of Archaeology]]
+| public_access  = Limited
+| other_designation =
+| website        = &lt;!-- {{URL|example.com}} --&gt;
+| architectural_styles =
+| architectural_details =
+| notes          = 
+}}
+'''Tzibte Yux''', '''Tzib Te Yux''', or '''Tzib'te Yux''', is a [[Preceramic Period in Belize|Preceramic]] [[rock shelter]] and archaeological site in the [[Rio Blanco National Park]], [[Toledo District|Toledo]], [[Belize]]. It is thought to have been occupied by [[Palaeoindian]] settlers during 10500 BC{{snd}}6500 BC.
+
+== Description ==
+Tzibte Yux is a rockshelter measuring some {{convert|121|ft|m|abbr=on}} long and {{convert|14.8|ft|m|abbr=on}} wide at its widest point.{{sfn|Prufer|Meredith|Alsgaard|Dennehy|2017|p=322}} Its entrance, protected by a silicified limestone and conglomerate overhang, sits some {{convert|26|ft|m|abbr=on|sigfig=1}} above Blue Creek during the [[dry season]], though this decreases to less than {{convert|6|ft|m|abbr=on|sigfig=1}} during the [[wet season]].{{sfn|Prufer|Meredith|Alsgaard|Dennehy|2017|p=322}} Its floor is relatively flat and composed of sediments, predominantly [[Pachychilus|jute snail]] shells deposited by former pre-Columbian inhabitants.{{sfn|Prufer|Meredith|Alsgaard|Dennehy|2017|p=323}}
+
+Fishtail- and Lowe-style stemmed [[biface|bifacial points]] have been recovered from Tzibte Yux, the former dated 10450 cal BC{{snd}}10085 cal BC, the latter 8275 cal BC{{snd}}6650 cal BC.{{sfn|Braswell|2022|p=90|loc=fig. 4.5}}{{sfn|Stemp|Awe|Marcus|Helmke|2021|p=419}} Human remains have also been recovered from the rock shelter.{{sfn|Prufer|Meredith|Alsgaard|Dennehy|2017|p=323}}
+
+== Study ==
+Tzibte Yux was discovered by the Uxbenka Archaeological Project in 2009.{{sfn|Prufer|Meredith|Alsgaard|Dennehy|2017|p=321}} Subsequently, nine blocks or units, ie Units 1{{en dash}}9, covering some {{convert|194|ft2|m2|abbr=on|sigfig=2}} of the rock shelter's floor, were excavated to a mean depth of some 2.5 ft (0.75 m) during 2012{{en dash}}2015.{{sfn|Prufer|Meredith|Alsgaard|Dennehy|2017|pp=321-323}} A piece of charcoal found at the bottom of a red clay layer in Unit 1, some 23 in (58 cm) below the floor's surface, was dated to 10571 cal BC{{snd}}10526 cal BC. Most material in other units produced dates within 10500 cal BC{{snd}}6500 cal BC, though Unit 7 yielded a later date of 890 cal AD{{snd}}975 cal AD at 18.5 in (47 cm) below surface.{{sfn|Prufer|Meredith|Alsgaard|Dennehy|2017|pp=323-325}}
+
+== Notes ==
+{{reflist}}
+{{notefoot}}
+== References ==
+{{refbegin}}
+# {{cite book
+| editor-last1  = Braswell
+| editor-first1 = Geoffrey E.
+| editor-last2  =
+| editor-first2 = 
+| title         = 3,000 Years of War and Peace in the Maya Lowlands : Identity, Politics, and Violence
+| series        = 
+| volume        = 
+| date          = 2022
+| edition       = 
+| publisher     = Routledge
+| location      = London
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.4324/9781351268004
+| url-access    = subscription
+| doi           = 10.4324/9781351268004
+| oclc          =
+| hdl           = 
+| isbn = 
+| s2cid = 
+}}
+# {{cite thesis
+| last1         = Dennehy
+| first1        = Timothy J.
+| date          = 2021
+| type          = PhD
+| title         = From Foragers to Farmers in Tropical Forests: How Paleoindian and Archaic Peoples in Southern Belize Adapted Their Lithics, Mobility, and Subsistence to a Changing Holocene Climate
+| publisher     = Arizona State University
+| url           = https://www.proquest.com/docview/2610379260
+| id = {{ProQuest|2610379260}}
+| url-access    = subscription
+}}
+# {{cite book
+| editor-last1  = Houk Brett A. Houk, Barbara Arroyo, and Terry G. Powis
+| editor-first1 = Brett A.
+| editor-last2  = Arroyo
+| editor-first2 = Barbara
+| editor-last3  = Powis
+| editor-first3 = Terry G.
+| title         = Approaches to Monumental Landscapes of the Ancient Maya: A Legacy of Human Occupation
+| series        = Maya studies
+| volume        = 
+| date          = 2019
+| edition       = 
+| publisher     = University Press of Florida
+| location      = Gainesville, Fl.
+| url           = https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/72232
+| url-access    = subscription
+| doi           = 
+| oclc          = 1137019195
+| hdl           = 
+| isbn = 9780813057347
+| s2cid =
+}}
+# {{cite journal
+| last1         = Lohse
+| first1        = Jon C.
+| date          = 13 January 2020
+| title         = Early Holocene Cultural Diversity in Central America: Comment on Prufer et al. (2019) “Linking Late Paleoindian Stone Tool Technologies and Populations in North, Central and South America”
+| journal       = Lithic Technology
+| volume        = 45
+| issue         = 2
+| pages         = 59-67
+| doi           = 10.1080/01977261.2020.1713609
+| pmid          = 
+| s2cid = 245125311
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1080/01977261.2020.1713609
+| url-access    = subscription
+}}
+# {{cite thesis
+| last1         = Meredith
+| first1        = Clayton
+| date          = 2014
+| type          = MA
+| title         = Analysis of Small Cave Sites Related to the Uxbenka Polity: Application of FT-IR Techniques in the Study of Ritual Practice
+| publisher     = Idaho State University
+| url           = https://etd.iri.isu.edu/ViewSpecimen.aspx?id=128
+| id = {{ProQuest|}}
+| url-access    =
+}}
+# {{cite journal
+| last1         = Prufer
+| first1        = Keith M.
+| date          = 1 August 2018
+| title         = Preceramic Cultural History in Southern Belize and its Environmental Context
+| journal       = Research Reports in Belizean Archaeology
+| volume        = 15
+| issue         = 
+| pages         = 241-251
+| issn           = 20791038
+| pmid          = 
+| s2cid =
+| url           = https://par.nsf.gov/biblio/10113267-preceramic-cultural-history-southern-belize-its-environmental-context
+| url-access    =
+}}
+# {{cite journal
+| last1         = Prufer
+| first1        = Keith M.
+| last2         = Alsgaard
+| first2        = Asia V.
+| last3         = Robinson
+| first3        = Mark
+| last4         = Meredith
+| first4        = Clayton R.
+| last5         = Culleton
+| first5        = Brendan J.
+| last6         = Dennehy
+| first6        = Timothy
+| last7         = Magee
+| first7        = Shelby
+| last8         = Huckell
+| first8        = Bruce B.
+| last9         = Stemp
+| first9        = W. James
+| last10        = Awe
+| first10       = Jaime J.
+| last11        = Capriles
+| first11       = Jose M.
+| last12        = Kennett
+| first12       = Douglas J.
+| date          = 18 July 2019
+| title         = Linking late paleoindian stone tool technologies and populations in North, Central and South America
+| journal       = PLOS ONE
+| volume        = 14
+| issue         = 7
+| pages         = 1-20 of article no. e0219812
+| doi           = 10.1371/journal.pone.0219812
+| pmid          = 31318917
+| pmc = 6638942
+| url           =
+| url-access    =
+| doi-access = 
+}}
+# {{cite journal
+| last1         = Prufer
+| first1        = Keith M.
+| last2         = Meredith
+| first2        = Clayton R.
+| last3         = Alsgaard
+| first3        = Asia V.
+| last4         = Dennehy
+| first4        = Timothy
+| last5         = Kennett
+| first5        = Douglas
+| date          = 1 January 2017
+| title         = The Paleoindian Chronology of Tzib Te Yux Rockshelter in the Rio Blanco Valley of Southern Belize
+| journal       = Research Reports in Belizean Archaeology
+| volume        = 14
+| issue         = 
+| pages         = 321–326
+| issn           = 20791038
+| pmid          = 
+| s2cid =
+| url           = https://par.nsf.gov/biblio/10067808-paleoindian-chronology-tzib-te-yux-rockshelter-rio-blanco-valley-southern-belize
+| url-access    =
+}}
+# {{cite journal
+| last1         = Prufer
+| first1        = Keith M.
+| last2         = Robinson
+| first2        = Mark
+| last3         = Kennett
+| first3        = Douglas J.
+| date          = 14 December 2021
+| title         = Terminal Pleistocene Through Middle Holocene Occupations in Southeastern Mesoamerica: Linking Ecology and Culture in the Context of Neotropical Foragers and Early Farmers
+| journal       = Ancient Mesoamerica
+| volume        = 32
+| issue         = 3
+| pages         = 439–460
+| doi           = 10.1017/S0956536121000195
+| pmid          = 
+| s2cid = 245125309
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1017/S0956536121000195
+| url-access    = subscription
+}}
+# {{cite journal
+| last1         = Stemp
+| first1        = W. James
+| last2         = Awe
+| first2        = Jaime J.
+| last3         = Marcus
+| first3        = Joyce
+| last4         = Helmke
+| first4        = Christophe
+| last5         = Sullivan
+| first5        = Lauren A.
+| date          = 14 December 2021
+| title         = The Preceramic and Early Ceramic Periods in Belize and the Central Maya Lowlands
+| journal       = Ancient Mesoamerica
+| volume        = 32
+| issue         = 3
+| pages         = 416–438
+| doi           = 10.1017/S0956536121000444
+| pmid          = 
+| s2cid = 245125311
+| url           = https://doi-org.ezp-prod1.hul.harvard.edu/10.1017/S0956536121000444
+| url-access    = subscription
+}}
+{{refend}}
+
+== External links ==
+* [https://anthropology.unm.edu/research/field-projects/project/uxbenká-archaeological-project-uap.html Uxbenka Archaeological Project]
+{{authority control}}
+{{Belize topics}}
+{{Pre-Columbian}}
+[[Category:Buildings and structures in Belize]]
+[[Category:Paleo-Indian period]]
+[[Category:Hunter-gatherers]]
+[[Category:Mesoamerica]]
+[[Category:Pleistocene life]]
+[[Category:Pleistocene North America]]
+[[Category:Pre-Columbian archaeology]]
+[[Category:Archaeological cultures of North America]]</text>
+      <sha1>oogoom1p2svz1st65bhdca7svhzleib</sha1>
+    </revision>
+  </page>
+</mediawiki>

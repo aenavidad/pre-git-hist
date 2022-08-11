@@ -1,0 +1,557 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jan Janszoon van Hoorn's expedition of 1633</title>
+    <ns>0</ns>
+    <id>70767322</id>
+    <revision>
+      <id>1095178774</id>
+      <parentid>1094870214</parentid>
+      <timestamp>2022-06-26T21:32:26Z</timestamp>
+      <contributor>
+        <username>Gog the Mild</username>
+        <id>21177078</id>
+      </contributor>
+      <comment>Copy edit needed</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33520" xml:space="preserve">{{Short description|Dutch privateering voyage against Mexico}}
+{{use dmy dates|date=May 2022}}
+{{use British English|date=May 2022}}
+{{Copy edit|for=to rewrite extended quotes in prose|date=June 2022}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+{{Infobox military conflict
+| conflict    = Jan Janszoon van Hoorn's expedition of 1633
+| subtitle    = WIC expedition of 1633
+| width       = 
+| partof      = [[Thirty Years' War]]
+| image       = S. Francisco de Campeche ie Campeachy Johannes de Laet 1644.jpg
+| image_size  = 350px
+| alt         =
+| caption     = ''S. Francisco de Campeche'' {{small|/ engraving for 1644 ''Historie'' by Johannes van Laet / via J. C. Brown Lib.}}
+| date        = {{start and end dates|1633|4|26|1633|11|11|df=y}}&lt;sup&gt;1&lt;/sup&gt;
+| place       = {{hlist|[[Bay of Campeche|Bay of Campeachy]]|[[Yucatan Peninsula]]|[[Bay of Honduras]]}}
+| coordinates = {{coord|18.102036294803735|-89.68802328530822|display=title|type:waterbody_region:XA}}
+| map_type    = 
+| map_relief  = 
+| map_size    = 
+| map_marksize = 
+| map_caption = 
+| map_label   = 
+| territory   = 
+| result      = Dutch victory
+| status      = 
+| combatants_header = 
+| combatant1  = {{flagicon|Dutch Republic}} [[Dutch Republic|Netherlands]]
+| combatant2  = {{flagicon|Spain|1506}} [[Habsburg Spain|Spain]]
+| combatant3  = 
+| commander1  = {{unbulleted list|{{flagicon|Dutch Republic}} Jan Janszoon van Hoorn|{{flagicon|Dutch Republic}} [[Cornelis Jol]]|{{flagicon|Spain|1506}} [[Diego el Mulato]]}}
+| commander2  = {{unbulleted list|{{flagicon|Spain|1506}} Francisco Martínez de la Ribamontán Santander&lt;sup&gt;2&lt;/sup&gt; {{small|/ [[List of governors of Spanish Honduras|Hond. gov.]]}}|{{flagicon|Spain|1506}} Fernando Centeno Maldonado {{small|/ [[Governor of Yucatán#List of governors of Yucatan|Yuc. gov.]]}}|{{flagicon|Spain|1506}} Juan de Miranda&lt;sup&gt;2&lt;/sup&gt; {{small|/ Hond. gen.}}|{{flagicon|Spain|1506}} Juan de Barros {{small|/ Camp. alc.}}|{{flagicon|Spain|1506}} Domingo Galván Romero{{KIA|bold=no}} {{small|/ Camp. capt.}}}}
+| commander3  = 
+| units1      = {{unbulleted list|4 ships {{small|/ ''Fama'', ''Middelburgh'', ''Gonde-Leeuw'', ''Zutphen''}}|3 yachts {{small|/ ''Otter'', ''Brack'', ''Nachtegael''}}|3 sloops {{small|/ inc. the ''Gijsselingh''}}}}
+| units2      = {{unbulleted list|2 ''villas'' {{small|/ Trujillo, Campeachy}}}}
+| units3      = 
+| strength1   = {{unbulleted list|518 sailors|420 infantry}}
+| strength2   = {{unbulleted list|2,000 civilians&lt;sup&gt;3&lt;/sup&gt; {{small|/ inc. militia}}|25 infantrymen|25 cavalrymen}}
+| strength3   = 
+| casualties1 = {{unbulleted list|&gt; 30 deaths|vars. wounded|vars. ill|none detained|no vessels seized}}
+| casualties2 = {{unbulleted list|&gt; 60 deaths|vars. wounded|none ill|20 detained|27 vessels seized {{small|/ inc. cargo}}|2 towns sacked {{small|/ 1 burnt}}}}
+| casualties3 = 
+| notes       = {{unbulleted list|&lt;sup&gt;1&lt;/sup&gt; Splinter expedition under Cornelis Jol in {{start and end dates|1633|9|18|1634|6|6|df=y}}|&lt;sup&gt;2&lt;/sup&gt; Martínez de la Ribamontán Santander suspended from office during first hall of 1633, with Miranda acting governor ''ad interim''|&lt;sup&gt;3&lt;/sup&gt; In Trujillo and S. Pedro (in the city's vicinity){{nbnd}} 200 ''vecinos'', 400 Blacks and ''mulatos'' / In Campeachy{{nbnd}} 350 ''vecinos'', 50 Blacks and ''mulatos'', 1,000 Amerindians}}
+| campaignbox = 
+}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+'''Jan Janszoon van Hoorn's expedition of 1633''' was a [[privateer]]ing voyage against [[Captaincy General of Guatemala|colonial Honduras]] and [[Captaincy General of Yucatán|Yucatan]]. Commissioned by the [[Dutch West India Company]], it resulted in various casualties, the sacking of [[Campeche City|Campeachy]], and the sacking and burning of [[Trujillo, Honduras|Trujillo]], leaving this latter ''villa'' defenceless for the rest of the 1630s.
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+== Prelude ==
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+Sometime after [[Battle in the Bay of Matanzas|Piet Heyn's 1628 capture of the silver fleet]], this admiral advised the Heren {{smallcaps|xix}} (the WIC's governing body) to commission a raid of Trujillo. They first acted on Heyn's advice on 4 June 1630, instructing Jan Booneter and Adriaen Pater to surprise the [[Spanish treasure fleet|silver fleet]] at port in Trujillo, if they found this feasible. Said project proving abortive, the Heren {{smallcaps|xix}} next (14 June 1632) instructed Galeyn von Stapels to chart the coast and waters of the [[Bay of Campeche|Bay of Campeachy]], the [[Yucatan Peninsula]], and the [[Bay of Honduras]]. Later that year, on 2 November, the Heren {{smallcaps|xix}} instructed Jan van Hoorn to sail for the Bay of Honduras, where he was to sack Trujillo.{{sfn|Goslinga|2017|pp=218, 225-226}}{{sfn|Laet|1925|pp=357-360}}{{notetag|Like Booneter and Pater (in June 1630{{snds}}August 1631), Stapels (reportedly) did not enter the Bay of Honduras during his July{{snds}}September 1632 voyage (cf prior citations). However, the ''[[Cabildo (council)|cabildo]]'' of Trujillo reported that a Dutch fleet of six ''urcas'' and two ''pataches'' had attempted to sack the city in July 1632, which suggests that Stapels ''did'' enter the Bay {{harv|Cardona Amaya|2020|pp=17, 110}}.}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+== Expedition ==
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+=== Departure ===
+Hoorn set sail from [[Dutch Brazil|Pernambuco]] two hours after sunrise on 26 April 1633, anchoring at off [[Bridgetown]] on 20 May. The company watered here for seven days before setting off due west. On 18 June, they sighted the eastern tip of Puerto Rico. On 5 July, they dropped anchor off Little Cayman. Two days later, the fleet were joined by the ''Nachtegael'' and the ''Gijsselingh'', which had been cruising for prizes off Cape Cruz (Cuba) since 29 June. The yachts brought the expedition's first prize, a small merchantman laden with 1,037 hides, three small chests of sugar, and 144 jars of honey. They set off for the Bay of Honduras sometime during 7{{nbnd}}10 July.{{sfn|Goslinga|2017|pp=226, 233}}{{sfn|Laet|1925|pp=382, 407-408}}{{sfn|Cardona Amaya|2020|p=18}}{{notetag|Dated 25 April 1633 in {{harvnb|Laet|1925|p=382}}, but later dated 26 April 1633 in {{harvnb|Laet|1925|p=407}}, which latter date is accepted by {{harvnb|Goslinga|2017|p=226}}.}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+=== Honduras ===
+[[File:Trvgillo ie Truxillo, Trujillo Johannes de Laet 1644.jpg|thumb|upright=1.7|''Trvgillo'' {{small|/ engraving for 1644 ''Historie'' by Johannes van Laet / via J. C. Brown Lib.}}]]
+The fleet sighted the Honduras mainland on 11 July. They spent the next 3 days charting the coastal waters, taking care to remain hidden from sentinels at the Santa Barbara Fortress. On 15 July, two hours past midday, the fleet's ships finally entered Trujillo's harbour. The Fortress immediately engaged the ships, resulting in the campaign's first casualties{{snds}}four deaths in the ''Zutphen''. In the meantime, the fleet's yachts and sloops made their way west of the city, disembarking the soldiers at the mouth of the Santo Antonio Creek. This column now marched east, and in short order reached the Fortress, which they took after outgunning its men. The Fortress fallen, the city was theirs within two hours. The men rested in Trujillo that night, spending the next morning ransacking the city's residences.{{sfn|Laet|1925|pp=408-409}}{{sfn|Cardona Amaya|2020|pp=18-20}}
+{{blockquote|text=Thus this stronghold was conquered with little resistance and little loss, for the [Hoorn's] men had, both on land and in ships, only seven deaths; the assault proceeded so rapidly that by four o'clock they were in full possession of the city. [...]{{notetag|The engagement's death toll is given as three aboard the ''Zutphen'' and 14 or 15 ''vecinos'' in {{harv|Cardona Amaya|2020|p=110}}.}}
+
+The next day [16 July] they did their best, at dawn, to gather the estates [ransack the city]; they took the goods to a guard corps inside the fort, close to the beach. But at about nine o'clock, when most of the booty had already been assembled, a fire suddenly broke out in the easternmost house in the city (without it being possible to know by whom it had been kindled, in spite of rigorous inquiries being made), and took such an increase, that in a short time two-thirds of the city was reduced to ashes. Each one had enough to do in saving his life, the houses burning so violently, which were all covered with palm fronds, with wooden beams and plastered with lime, that it was impossible to take care of the spoils; the powder house caught fire, and some died there as a result of burns.
+
+The next day [17 July], they brought what was left to the ships, namely: 239 dry hides, 6 and a half bales of indigo, 820 pounds of sarsaparilla, 7 bronze cannons, 3 bronze masons, 3 iron cannons, 4 bells and some offal. Two days after that [19 July], they agreed with the governor of Truchillo [Juan de Miranda] about a ransom of twenty pounds of silver for the rest of the city, as he declared that it had not been his own people who had caused the fire. They were informed by the same [governor] that [the Spanish] had not known of their arrival until [July] the 14th, when they were sighted from Cape, [ie] belatedly.{{notetag|{{harvnb|Cardona Amaya|2020|p=110}} assigns the ransom's payment to Juan de Miranda, captain general of Trujillo.}}
+|author=J. de Laet|title=in ''Historie'', 1644.{{sfn|Laet|1925|p=409}}}}
+Trujillo's ransom paid, Hoorn and company departed on 21 July.{{sfn|Laet|1925|p=410}}{{sfn|Cardona Amaya|2020|pp=20-21}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+=== Campeachy ===
+[[File:S. Francisco de Campeche ie Campeachy Johannes de Laet 1644.jpg|thumb|upright=1.7|''S. Francisco de Campeche'' {{small|/ engraving for 1644 ''Historie'' by Johannes van Laet / via J. C. Brown Lib.}}]]
+Hoorn's fleet had a hard time circumnavigating the Yucatan Peninsula, their nautical charts proving inaccurate. They sighted Cozumel on 25 July, and Cape Catoche on 1 August, where they watered. Here, they surprised an unladen frigate, from whose crew they learnt of a naval squadron cruising for them, with instructions to transport them to S. Martinho (Spain?). They nonetheless proceeded, finally sighting Campeachy on the afternoon of 11 August. The ships anchored some four or five leagues east-northeast of the city.{{sfn|Laet|1925|p=410}}{{notetag|Sometime during this circumnavigation (21{{nbnd}}25 July 1633), the fleet lost sight of the ''Zutphen'', having 60 soldiers aboard, and further gained (or impressed) a ''mestizo'' and two Mayan pilots ({{harvnb|Laet|1925|p=412}}, {{harvnb|Baudot|1986|p=29}}).}}
+{{poem quote|text=The soldiers immediately passed over to the yachts and sloops, and sailed towards the coast at night, leaving in the large ships about 80 men, both sick and well; they took over 400 men, including soldiers and sailors, to disembark, with the large boats having another 12 men and the small ones the number necessary to provide service where needed. [...]
+
+The next day [12 August], they followed the coast towards the city, and anchored, in the afternoon, at 15 feet of depth, more or less a league and a half distant. At midnight they divided the people into two forces, and [now in] boats [they] rowed towards the city.
+
+On [August] the 13th, in the morning, one hour after sunrise, they disembarked half a league southwest of the city, in a green valley, on a flat sandy beach. Having placed themselves in order, they immediately marched forwards; the two large boats, each with a cannon, rowed close to the troops, along the beach, and fired whenever necessary, causing great damage to the enemy. The sloops ''Nachtegael'' and ''Gijsselingh'' also sailed along the coast and likewise fired. Before our people were all disembarked, the enemy came with two companies, infantry and cavalry, to repel ours, but they were forced to flee in haste; whereupon our men advanced until they reached a trench, from which they quickly expelled [the enemy], and soon after [they again reached] another [manned trench, from which] the enemy withdrew to their third redoubt, where they had three cannons, and [upon Hoorn's reaching this redoubt] they released a strong volley on our men with the said pieces [cannons] and muskets; but our men, attacking them valiantly, took the redoubt at a great loss for the enemy, and threw their cannons out of the bulwark. Our men then marched to the market [plaza], where the enemy was better fortified, because six streets lead to it, and they set up a bulwark five feet high and with arrow-slits; in the plaza were mounted 2 pieces of bronze and 10 of iron. The enemy intended to resist there; but our people attacked it with such valor that [the enemy] were only able to discharge their cannons once; [the enemy] kept on, however, resisting, until they were repelled with lances and swords, and a great part [of the enemy] died, and some of our own, however, the greater part of the loss suffered by our men [was due to their] being wounded. Some of the Spaniards fled to some houses, which had balconies, as well as to a church that was in the middle of the plaza, and they gave our people much to do to get them off of there. Our men took 20 prisoners, one of whom they sent to the governor, don Juan de Barros, who had fled the city to the convent of San Francisco, located outside the city, to find out if he wanted to rescue the city so that it would not be burned down; but he replied---that it was not up to him, and that our men could do what they thought best. Our men found 22 ships, barges and frigates in front of the city, most of them empty and some loaded with leather and cacao; the loot discovered was gathered in the church.{{notetag|Cogolludo, in his 1688 ''Historia'', lists the trench engagements' casualties as over 25 deaths on the Dutch side, and 10 or 12 deaths on the Spanish (in addition to the death of Domingo Galván Romero, commanding officer, and, purportedly, Diego el Mulato's baptismal godfather). The plaza engagement's casualties are listed as over 30 ''vecinos'' on the Spanish side (in addition to the deaths of Juan Pita, Pedro de Mantilla, Pedro Daza, and Hernando Díaz, all military officers, and ''Beniverde'', Pita's nephew). Among the prisoners of war are named Juan Ortuño and Iñigo de Figueroa, both military officers. Cogolludo further gave the number of '[vessels] of medium-size' [yachts and sloops] as seven, named Cornelis Jol and Diego el Mulato as the fleet's commanding officers, and gave 40,000 ''pesos'' as the privateers' asking price for the city's ransom ({{harvnb|López de Cogolludo|1688|pp=596–598}}, {{harvnb|Peña Chan|2017|pp=81–83}}, {{harvnb|Brito Benítez|2017|p=21}}, {{harvnb|Algaba Martínez|2008|p=64}}).}}
+
+The next day [14 August], an emissary was sent again to the governor, but he did not return; our men quickly brought hides and lumber to the captured boats, in order to load them on board, [and similarly] the next day [15 August] they loaded some chests of wax and 11 pieces [of artillery] or culverins.
+
+On [August] the 16th, they again sent Secretary Jacob Davits to the governor, to negotiate a ransom for the city and the release of the prisoners. The governor received him very politely, but replied, by letter, that they could do as they wished with the city; that he would pay not [even] a ''real'', neither for the city nor for the prisoners. As the prisoners said, there was a royal ban, on pain of death, from rescuing cities, people or ships. Our men, deeming their troops too weak for such a [hostile] place, and realising that many [enemy] men could easily come from the surrounding villages, knowing also how badly manned the large ships were, did not think it prudent to stay longer there, and, taking with them what was of some value, they began preparing the ships [for sail]; the next day [17 August] they took the prisoners and nine of the enemy ships with them and burned the rest; they did no harm to the city, nor was it easy for them to do so, for it consisted of sturdy stone structures.[...]
+
+On [August] the 18th, they arrived where the big ships were, and they re-embarked, each one in his assigned vessel, and the captured goods were also transferred. Here; there came some Spaniards, to buy [back] the ships our men had seized, after their cargo had been unloaded, and the Spaniards were left with four and then one more [ie five ships], and the prisoners were released in the other four [remaining ships], the ransom for which was paid last.{{notetag|Cogolludo, in his 1688 ''Historia'', adds that the prisoners were marooned some four leagues outside Campeachy ({{harvnb|López de Cogolludo|1688|pp=596–598}}, {{harvnb|Peña Chan|2017|p=83}}).}}|author=J. de Laet|title=in ''Historie'', 1644.{{sfn|Laet|1925|pp=410-412}}}}
+Hoorn's fleet finally set off on the morning of 24 August.{{sfn|Laet|1925|p=412}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+=== Return ===
+On 18 September, the fleet came eight or nine leagues due south of Pan de Matanzas (Cuba). At this point, some of the company wished to cruise for prizes. Consequently, the ''Otter'' and the sloops stayed behind, with the rest of the fleet proceeding to open ocean via the Old Bahama Channel. The latter arrived in Texel on 11 November.{{sfn|Laet|1925|p=413}}{{sfn|Goslinga|2017|p=227}}{{notetag|The ''Otter'' and sloops were to set for Cape San Antonio, cruise the southern coast of Cuba, heading for Tortuga, where the crew were to ascertain whether the Spanish had captured St. Martin (as a Campeachy prisoner had claimed), and thereafter undertake 'what is convenient in the service of the Company' {{harv|Laet|1925|p=413}}.{{poem quote|text=We mentioned earlier that Commandeur Jan Jansz. van Hoorn, sailing for the [Dutch] Republic with the large ships, had sent the yacht ''Otter'', together with the sloops ''Nachtegael'' and ''Gijsselingh'', to sail south from Cuba to St. Matin.
+
+They went, on the 18th of September, from Matança to the west, having on the 23rd Cabo de Santo Antonio two leagues to the south-southeast, and in the afternoon Ponta de Piedra one league to the east, fourth to the northeast; calm then reigned, but thereafter wind set in again, and they were able to sail first to the east-southeast and then to the south. In the second quarter of the night they saw two fires and heard a shot, and turned towards the coast, sailing north, while eight hourglasses were spent, and entered the bay of Ponta de Piedra about an hour before dawn.
+
+On [September] the 24th, in the morning, they were half a league from Cape Corrientes; they came close to one of the [Spanish treasure] fleet's galleons, gave it a few shots, and could see all the other ships to leeward. They stayed there from then on[,] and strove to catch an easterly wind.
+
+On the first day of October, they anchored near the island of Pinos, and in the afternoon they set sail again, but made little progress. [...]
+
+On [October] the 17th, they sighted Cabo de Cruz [Cuba], and on the 21st, the coast of Cabo de Donna Maria. On the 24th, they rounded Cape S. Nicolau, and captured a barge loaded with 30 barrels of wine, coming from the island of Palma. On the 27th, they anchored next to Tortuga and found the ''Nachtegael'' there.
+
+The yacht [''Otter''] careened there, with which [work] they were occupied, as well as the placement of a new mast until the 16th of November. They learned, in the meantime, by an Englishman, that St. Martin had really been taken over by the Spaniards. [...]
+
+On [November] the 18th, they passed again through Cabo de S. Nicolau. [...]
+
+On the 1st of December, they could see the mountains of the island of Pinos, and on the 3rd they passed the cape; on the 10th, they were next to Matanza, where they remained [cruising] from here to there until the 13th, when the Spanish squadron left Havana. Our men sighted, that night, some 15 or 16 ships, and turned with them to the east; four hours into the dawn [4 am], they saw a sail to windward, and set off for it. On the 14th, they kept on the same course, and shot at that boat, knocking down its big yard, after which they boarded it; but as they found only ballast, they let it go in the afternoon to its destination, which was Puerto Rico.
+
+On [December] the 16th, they sighted Bahama Island from the top, and turned west; after midday, they saw the [Spanish silver] fleet again, and were able to count 31 sails. The next day, they still saw her, and followed her at a distance. On the 19th, they captured a frigate, which was destined for Puerto Rico and was empty. They also chased [some other Spanish] ships two or three times, but could not reach them. On the 30th, they saw Cabo del Enganno in Hispaniola, and had, at noon, latitude 18º, 54'.|author=J. de Laet|source=in ''Historie'', 1644 {{harv|Laet|1925|pp=426–427}}.}}
+This sub-fleet continued cruising into 1634, under Cornelis Jol's command, finally departing the Caribbean on 27 April 1634, reaching Texel on 6 June 1634 {{harv|Laet|1925|pp=502–503}}.}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+== Aftermath ==
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+Having split off from the main fleet on 18 September 1633, Cornelis Jol lead the ''Otter'', ''Nachtegael'', and the ''Gijsselingh'' in a privateering voyage across the [[Greater Antilles]]. He returned to Texel on 6 June 1634, with at least three prizes.{{sfn|Laet|1925|pp=413, 426-427, 502-503}}{{sfn|Goslinga|2017|pp=227, 230, 233-234}}
+
+In the last quarter of 1633, the governor of colonial Yucatan requisitioned funds from local treasuries of the province's majority-Mayan ''reduccion'' or ''encomienda'' settlements, under pretext of the funds' being surpluses, and diverted these towards bolstering Campeachy's defences. It has been suggested that the appropriation was prompted (at least partially) by the participation of two of the province's Mayan residents in the city's sacking.{{sfn|Baudot|1986|pp=29-30}}
+
+Fernando Centeno Maldonado, governor of colonial Campeachy, was (belatedly) stripped of his office in 1636, purportedly or partially due to Hoorn's successful sacking.{{sfn|Piña Chan|2017|pp=83-84}}{{notetag|Shortly thereafter, Centeno Maldona died of illness in Hecelchakan, while en route to Mexico City plead his case for reinstatement before the Real Audiencia. On her return, his widow, Isabel de Caraveo, came across Diego el Mulato off Veracruz, who rather kindly conveyed her to Campeachy ({{harvnb|Piña Chan|2017|pp=83–84}}, {{harvnb|Brito Benítez|2017|pp=21–22}}).}}
+
+The loss of the Santa Barbara Fortress's artillery, and especially of its ten cannons, left Trujillo precariously defenceless until the latter half of 1639, when the Fortress was finally resupplied with harquebuses.{{sfn|Cardona Amaya|2020|pp=20-21, 23, 50-51, 67-68, 116}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+== Legacy ==
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+The expedition is deemed to have helped bring about the 'destruction of Spanish naval power' in the Caribbean. Hoorn's capture of Campeachy, in particular, has been described as 'one of the most courageous acts committed by so few people [up to 1633].' Hoorn, however, is thought to have been disappointed, his expedition having 'not contributed much' to the WIC's treasury.{{sfn|Goslinga|2017|pp=226-228}}
+
+It has been suggested that Hoorn's sacking of Campeachy was so traumatising to residents that it shortly morphed into a local legend which, over generations, was romanticised. For instance, the event is prominently featured in ''El filibustero: Leyenda del siglo {{smallcaps|xvii}}'', an 1841{{nbnd}}1842 serial novel by Justo Sierra O'Reilly, which narrates the tragic romance of Conchita (of Campeachy) and her father's killer, Diego el Mulato.{{sfn|Algaba Martínez|2008|pp=65-71}}{{notetag|Relevant passages in {{harvnb|''anon.''|1841|pp=187–193, 235–240, 310–317}}.}}
+
+It has been suggested that the fleet's two Mayan pilots participated in Campeachy's sacking voluntarily, which event has been regarded as a precedent-setting example of 17th century opposition by the province's Amerindian residents to Spanish temporal and spiritual hegemony.{{sfn|Baudot|1986|pp=29-33}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+== Notes ==
+{{notefoot}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+== Citations ==
+{{reflist}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+== References ==
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+{{refbegin}}
+# {{cite news
+| last         = anon.
+| first        =
+| date         = 1841
+| title        = Enero fascículo ''s.n.'' {{snds}} diciembre fascículo ''s.n.''
+| work         = Museo Yucateco
+| url          = http://acervo.bibliotecavirtualdeyucatan.com.mx/janium-bin/janium_zui.pl?fn=63445&amp;jzd=/janium/AP/90/d.jzd
+| location     = Campeche
+| access-date  = 
+| publisher    = Impreso por José María Peralta
+| volume       = 1
+| pages        = 1–480
+| oclc         = 610592388
+}}
+# {{cite encyclopedia
+ |title= Jol (Kornelis Korneliszoon)
+ |encyclopedia= Biographisch woordenboek der Nederlanden, bevattende levensbeschrijvingen van zoodanige personen, die zich op eenigerlei wijze in ons vaderland hebben vermaard gemaakt, voortgezet door K. J. R. van Harderwijk en Dr. G. D. J. Schotel
+ |date= 1860
+ |orig-date= 
+ |last= Aa
+ |first= A. J. van der
+ |publisher= J.J. van Brederode
+ |location= Haarlem
+ |volume= 9
+ |edition= 1st
+ |url= http://resources.huygens.knaw.nl/retroboeken/vdaa/#source=aa__001biog11_01.xml&amp;page=163
+ |oclc= 12789863
+ |pages= 162–165
+}}
+# {{cite journal
+|last1= Algaba Martínez
+|first1= Leticia
+|date= 2008
+|title= El filibustero : la novela y la leyenda
+|url= http://fuenteshumanisticas.azc.uam.mx/index.php/rfh/article/view/269
+|url-access=
+|doi= 
+|journal= Revista Fuentes Humanísticas
+|series= 
+|volume= 20
+|issue= 37
+|pages= 63–73
+|issn= 2007-5618
+}}
+# {{cite journal
+|last1= Baudot
+|first1= Georges
+|date= 1986
+|title= Dissidences indiennes et complicités flibustières dans le Yucatán du XVII e siècle
+|url= http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/40852876
+|url-access= subscription
+|doi= 10.3406/carav.1986.2260
+|journal= Cahiers du monde hispanique et luso-brésilien
+|series= 
+|volume= sn
+|issue= 46
+|pages= 21–33
+|jstor= 40852876
+}}
+# {{cite journal
+|last1= Boer
+|first1= Michael G. de
+|date= 1900
+|title= Een memorie over den toestand der West Indische Compagnie in het jaar 1633
+|url= https://www.dbnl.org/tekst/_bij005190001_01/_bij005190001_01_0009.php
+|url-access=
+|doi= 
+|journal= Bijdragen en Mededelingen van Het Historisch Genootschap te Utrecht
+|series= 
+|volume= 21
+|issue= sn
+|pages= 343–362
+|hdl= 2027/hvd.32044105184527
+}}
+# {{cite journal
+|last1= Brito Benítez
+|first1= Eva Leticia
+|date= 2017
+|title= Pirate Assaults and the Defense of the Old Seaport of Campeche, Mexico (16th -18th Centuries)
+|url= http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/40852876
+|url-access= subscription
+|doi= 
+|journal= Journal of Global and Area Studies
+|series= 
+|volume= 1
+|issue= 1
+|pages= 15–32
+|jstor= 40852876
+|issn= 2586-0305
+}}
+# {{cite book 
+|last1= Cardona Amaya
+|first1= José Manuel
+|title= Invasiones de corsarios a la Honduras de Felipe IV (1633-1643)
+|date= 2020
+|publisher= Universidad Nacional Autónoma de Honduras
+|location= Tegucigalpa
+|isbn= 9789992612620
+|edition= 1st
+|url= https://halshs.archives-ouvertes.fr/halshs-02540842
+|oclc= 1192967317
+}}
+# {{cite encyclopedia
+ |title= 93. Jan Jansz. van Hoorn
+ |encyclopedia= De vroedschap van Amsterdam, 1578-1795, met een inleidend woord van den archivaris der stad Amsterdam Mr. W.R. Veder
+ |date= 1963
+ |orig-date= First published 1903 by Loosjes
+ |last= Elias
+ |first= Johan Engelbert
+ |publisher= N. Israel
+ |location= Amsterdam
+ |volume= 1
+ |edition= 2nd
+ |url= http://resources.huygens.knaw.nl/retroboeken/elias/#source=1&amp;page=485
+ |oclc= 901720907
+ |pages= 295–298
+}}
+# {{cite book 
+|last1= Fernández Duro
+|first1= Cesário
+|series= Historia de la armada española desde la unión de los reinos de Castilla y de León
+|title= AÑO 1621 - 1652
+|date= 1898
+|orig-date=
+|volume= 4
+|publisher= Establecimiento tipográfico Sucesores de Rivadeneyra
+|location= Madrid
+|url= https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/mardigitalrevistas/prefLang-es/05a-cesareo-fernandez-duro
+|url-access=
+|hdl= 2027/mdp.39015036698705
+|edition=1st
+|oclc= 4413652
+|isbn=
+}}
+# {{cite book 
+|last1= Goslinga
+|first1= Cornelis Christiaan
+|title= The Dutch in the Caribbean and on the Wild Coast 1580-1680
+|date= 2017
+|orig-date= First published 1971 by Gorcum
+|publisher= University of Florida Press
+|location= Gainesville
+|edition= Reprint of 1st
+|series= Florida and the Caribbean Open Books Series
+|volume=
+|url= https://dloc.com/AA00061987/00001
+|isbn=
+|oclc= 1019881329
+}}
+# {{cite book 
+|last= Laet
+|first= Joannes de
+|translator-last1= Duarte Pereira
+|translator-first1= Jose Hygino
+|translator-last2= Souto Maior
+|translator-first2= Pedro
+|title= Livro I – livro VII, ou 1623–1630 (e acontecimentos 1621–1622)
+|series= Historie ofte iaerlijck verhael van de verrichtinghen der geoctroyeerde West-Indische Compagnie, zedert haer begin, tot het eynde van 't jaer sesthien-hondert ses-en-dertich; begrepen in derthien boecken, ende met verscheyden koperen platen verciert [''Historia ou annaes dos feitos da Companhia privilegiada das Indias occidentaes desde o seu começo até ao fim do anno de 1636'']
+|date=1916
+|orig-date= First published 1644 by Bonaventure &amp; Abraham Elsevier
+|publisher= Officinas Graphicas da Bibliotheca Nacional
+|location= Rio de Janeiro
+|edition=
+|hdl= 2027/coo.31924020373316
+|url= 
+|oclc= 17014789
+|volume= 1
+}}
+# {{cite book 
+|last= Laet
+|first= Joannes de
+|translator-last1= Duarte Pereira
+|translator-first1= Jose Hygino
+|translator-last2= Souto Maior
+|translator-first2= Pedro
+|title= Livro VIII – livro XIII, ou 1631–1636 (e atividades da companhia 1623-1636)
+|date=1925
+|orig-date= First published 1644 by Bonaventure &amp; Abraham Elsevier
+|publisher= Officinas Graphicas da Bibliotheca Nacional
+|location= Rio de Janeiro
+|edition=
+|hdl= 2027/njp.32101068325834
+|url= 
+|oclc= 17014789
+|series= Historie ofte iaerlijck verhael van de verrichtinghen der geoctroyeerde West-Indische Compagnie, zedert haer begin, tot het eynde van 't jaer sesthien-hondert ses-en-dertich; begrepen in derthien boecken, ende met verscheyden koperen platen verciert [''Historia ou annaes dos feitos da Companhia privilegiada das Indias occidentaes desde o seu começo até ao fim do anno de 1636'']
+|volume= 2
+}}
+# {{cite book 
+|last= Laet
+|first= Joannes de
+|editor-last1= Naber
+|editor-first1= S. P. l'Honoré
+|title= Boek VIII – boek X, of 1631–1633
+|series= Historie ofte iaerlijck verhael van de verrichtinghen der geoctroyeerde West-Indische Compagnie, zedert haer begin, tot het eynde van 't jaer sesthien-hondert ses-en-dertich; begrepen in derthien boecken, ende met verscheyden koperen platen verciert
+|date= 1934
+|orig-date= First published 1644 by Bonaventure &amp; Abraham Elsevier
+|publisher= Martinus Nijhoff
+|location= Hague
+|edition=
+|hdl= 
+|url= https://resolver.kb.nl/resolve?urn=KONB10:000019204
+|oclc= 6106946
+|volume= 3
+}}
+# {{cite book 
+|last= Laet
+|first= Joannes de
+|editor-last1= Naber
+|editor-first1= S. P. l'Honoré
+|title= Boek XI – boek XIII, of 1634–1636 (en overzicht van bedrijfsactiviteiten 1623-1636)
+|series= Historie ofte iaerlijck verhael van de verrichtinghen der geoctroyeerde West-Indische Compagnie, zedert haer begin, tot het eynde van 't jaer sesthien-hondert ses-en-dertich; begrepen in derthien boecken, ende met verscheyden koperen platen verciert
+|date= 1937
+|orig-date= First published 1644 by Bonaventure &amp; Abraham Elsevier
+|publisher= Martinus Nijhoff
+|location= Hague
+|edition=
+|hdl= 
+|url= https://resolver.kb.nl/resolve?urn=KONB10:000019207
+|oclc= 6106946
+|volume= 4
+}}
+# {{cite book 
+|last1= López de Cogolludo 
+|first1= Diego 
+|title= Historia de Yucathan
+|series=
+|volume=
+|edition= 1st 
+|publisher= Por Jvan Garcia Infanzen
+|date= 1688 
+|place= Madrid 
+|oclc= 85799316
+|url= https://gallica.bnf.fr/ark:/12148/bpt6k829446
+}}
+# {{cite book 
+ |last1= O Torres
+ |first1= Rodrigo Alejandro de la
+ |title= DE CORSARIOS, MARES Y COSTAS : El corso en la construcción del espacio y experiencias marítimas en el Golfo-Caribe, 1527-1620
+ |date= 2020
+ |volume= 
+ |publisher= Universidad Autónoma de Aguascalientes
+ |location= Ciudad Universitaria
+ |edition= 1st
+ |url= 
+ |oclc= 1280054563
+}}
+# {{cite book 
+|last1= Pérez Martínez
+|first1= Héctor
+|title= Piraterías en Campeche (Siglos XVI, XVII, y XVIII)
+|date= 1937
+|publisher= Porrúa hnos. y cía
+|location= México, D.F.
+|edition= 1st
+|url= 
+|series= Enciclopedia ilustrada mexicana ; no. 6
+|oclc= 5285247
+}}
+# {{cite book 
+|last1= Piña Chan
+|first1= Román
+|title= Campeche durante el período colonial
+|date= 2017
+|orig-date= First published 1977 by SEP &amp; INAH
+|publisher= Cámara de Diputados
+|location= Ciudad de México
+|edition= 4th
+|url= http://www.diputados.gob.mx/sedia/biblio/virtual_lxiii.htm
+|oclc= 1192967317
+}}
+{{refend}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+{{Pirates}}
+{{Authority control}}
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+&lt;!-- --&gt;
+
+[[Category:17th century in Europe]]
+[[Category:Thirty Years' War]]
+[[Category:17th-century conflicts]]
+[[Category:Warfare of the Early Modern period]]</text>
+      <sha1>gat8b97nll14mk0f3928pt4zsvj0dw7</sha1>
+    </revision>
+  </page>
+</mediawiki>

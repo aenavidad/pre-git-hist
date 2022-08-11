@@ -1,0 +1,73 @@
+Table 1
+	GDP	CF	N	Rev	Exp	Debt	Cf	N	GDP	Rev	Exp	Debt	Cf	N
+1950														
+1951														
+1952														
+1953														
+1954														
+1955									"BZD	22.5"				EIU	In millions
+1956									"BZD	25.5"				EIU	GDP at current prices
+1957									"BZD	27.7"				EIU	
+1958									"BZD	29.9"	"BZD	9.2"	"BZD	93.0"		EIU	
+1959									"BZD	30.6"	"BZD	10.4"	"BZD	10.4"		EIU	
+1960	"$	28,071,889"	WB WDI	At current USD							"BZD	8.7"	"BZD	8.3"	"BZD	4.7"	EIU	
+1961	"$	29,964,371"	WB WDI	BZD to USD using “official FX rates”							"BZD	7.0"	"BZD	9.4"		EIU	
+1962	"$	31,856,923"	WB WDI	GDP based on production approach							"BZD	9.2"	"BZD	11.3"		EIU	
+1963	"$	33,749,405"	WB WDI								"BZD	10.5"	"BZD	9.2"		EIU	
+1964	"$	36,193,826"	WB WDI							"BZD	46.4"	"BZD	8.3"	"BZD	9.3"		EIU	GDP at factor cost
+1965	"$	40,069,930"	WB WDI								"BZD	9.3"	"BZD	9.8"		EIU	
+1966	"$	44,405,594"	WB WDI								"BZD	11.2"	"BZD	11.2"		EIU	
+1967	"$	47,379,310"	WB WDI								"BZD	12.4"	"BZD	12.3"		EIU	
+1968	"$	44,910,180"	WB WDI								"BZD	12.6"	"BZD	12.2"		EIU	
+1969	"$	47,305,389"	WB WDI								"BZD	14.8"	"BZD	14.0"		EIU	
+1970	"$	53,233,533"	WB WDI								"BZD	15.7"	"BZD	15.3"		EIU	
+1971	"$	59,207,317"	WB WDI								"BZD	17.5"	"BZD	16.1"		EIU	
+1972	"$	66,062,500"	WB WDI								"BZD	18.2"	"BZD	17.0"		EIU	
+1973	"$	78,343,558"	WB WDI								"BZD	22.5"	"BZD	18.7"		EIU	Rev inc non-tax rev
+1974	"$	103,216,374"	WB WDI								"BZD	30.5"	"BZD	22.7"		EIU	
+1975	"$	118,066,298"	WB WDI								"BZD	40.1"	"BZD	27.5"		EIU	
+1976	"$	96,905,830"	WB WDI								"BZD	43.5"	"BZD	35.7"		EIU	
+1977	"$	117,650,000"	WB WDI								"BZD	44.0"	"BZD	38.3"		EIU	
+1978	"$	136,300,000"	WB WDI								"BZD	54.9"	"BZD	62.5"		EIU	
+1979	"$	151,800,000"	WB WDI								"BZD	63.3"	"BZD	73.9"		EIU	
+1980	"$	197,938,222"	WB WDI			15.46		WB WDI	Figs in percentage of GDP		"BZD	80.5"	"BZD	89.0"		EIU	
+1981	"$	196,089,855"	WB WDI			16.50		WB WDI	Debt given for last day of fiscal yr						
+1982	"$	182,206,327"	WB WDI			18.78		WB WDI					"$	62.3"	EIU	"Debt = disbursed, outstanding pub + pub-guaranteed long + med term "
+1983	"$	192,103,186"	WB WDI			18.83		WB WDI					"$	75.4"	EIU	
+1984	"$	214,381,949"	WB WDI			17.85		WB WDI					"$	76.0"	EIU	
+1985	"$	212,643,743"	WB WDI			19.02		WB WDI					"$	94.3"	EIU	
+1986	"$	231,638,321"	WB WDI			18.47		WB WDI					"$	119.3"	EIU	Debt = total external debt
+1987	"$	281,082,559"	WB WDI			16.09		WB WDI					"$	125.0"	EIU	
+1988	"$	320,093,360"	WB WDI			14.94		WB WDI							
+1989	"$	369,133,891"	WB WDI			13.70		WB WDI							
+1990	"$	412,086,445"	WB WDI			12.98	28.13	WB WDI					"$	152.3"	EIU	
+1991	"$	444,720,750"	WB WDI			13.09	28.64	WB WDI					"$	168.9"	EIU	
+1992	"$	518,239,100"	WB WDI			13.52	32.96	WB WDI					"$	172.3"	EIU	
+1993	"$	559,858,250"	WB WDI			14.84	35.33	WB WDI					"$	184.5"	EIU	
+1994	"$	580,863,700"	WB WDI			15.29	37.17	WB WDI					"$	167.5"	EIU	
+1995	"$	620,140,400"	WB WDI			14.28	36.31	WB WDI							
+1996	"$	641,383,800"	WB WDI			14.14	38.83	WB WDI							
+1997	"$	654,314,350"	WB WDI			14.53		WB WDI							
+1998	"$	688,992,450"	WB WDI			14.33		WB WDI							
+1999	"$	732,750,000"	WB WDI			13.50		WB WDI							
+2000	"$	832,050,000"	WB WDI			12.91		WB WDI							
+2001	"$	868,350,000"	WB WDI			13.14		WB WDI							
+2002	"$	925,050,000"	WB WDI			14.42	67.81	WB WDI							
+2003	"$	983,500,000"	WB WDI			14.72	88.61	WB WDI							
+2004	"$	1,051,350,000"	WB WDI			14.05	104.63	WB WDI							
+2005	"$	1,102,050,000"	WB WDI			14.61	93.22	WB WDI							
+2006	"$	1,210,150,000"	WB WDI			14.26	88.19	WB WDI							
+2007	"$	1,271,600,000"	WB WDI			15.26	86.00	WB WDI							
+2008	"$	1,351,350,000"	WB WDI			15.57	79.80	WB WDI							
+2009	"$	1,317,300,000"	WB WDI			16.14	83.23	WB WDI							
+2010	"$	1,377,200,000"	WB WDI			16.18	81.33	WB WDI							
+2011	"$	1,460,800,000"	WB WDI			15.70	78.25	WB WDI							
+2012	"$	1,522,900,000"	WB WDI			15.44	76.96	WB WDI							
+2013	"$	1,579,400,000"	WB WDI			15.53	78.78	WB WDI							
+2014	"$	1,662,800,000"	WB WDI			15.36	78.48	WB WDI							
+2015	"$	1,723,800,000"	WB WDI			15.60		WB WDI							
+2016	"$	1,775,100,000"	WB WDI			16.81		WB WDI							
+2017	"$	1,836,600,000"	WB WDI			16.64		WB WDI							
+2018	"$	1,871,200,000"	WB WDI			17.49		WB WDI							
+2019	"$	1,879,613,600"	WB WDI			17.49		WB WDI							
+2020														

@@ -1,0 +1,17 @@
+Table 1
+	LDC	SIDS	UN	UMI	Tally	Name	Govt expenditure	GDP	Exp	
+UN	0	1	1	1	13	Belize	31.322	1.84	0.5763248	
+						Cuba			0	
+						Dominica	57.801	0.59	0.3410259	
+						Dominican Republic	16.493	89.03	14.6837179	
+						Fiji	32.637	5.41	1.7656617	
+						Grenada	22.026	1.22	0.2687172	
+						Guyana	34.340	5.17	1.775378	
+						Jamaica	29.437	15.88	4.6745956	
+						Marshall Islands	62.833	0.24	0.1507992	
+						St. Lucia	25.044	2.12	0.5309328	
+						St. Vincent and the Grenadines	30.272	0.82	0.2482304	
+						Suriname	31.249	3.70	1.156213	
+						Tonga	43.101	0.52	0.2241252	
+										
+cf	UN and WB for grouping. IMF for expenditure data.									

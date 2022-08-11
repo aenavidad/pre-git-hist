@@ -1,0 +1,295 @@
+Table 1
+ID	No	Lower Start	Upper End	Name	Description	Cf	Via
+E 1	1	1 January 1638	31 December 1638	Settlement	Buccaneers start Settlement		
+E 3	3	1 February 1663	28 February 1663	Logging	Buccaneers and Jamaicans start logging logwood		
+E 5	5		1 April 1729	Magistracy	Magistracy established		Seville 1944
+E 7	7	7 July 1695	7 July 1695	Spanish embassy to Tipu	Captain Francisco de Hariza y Arruyo parlays with Tipu		Albuquerque 1989
+E 9	9	1 August 1695	30 September 1695	Tipu embassy to Spanish	Tipu reciprocates Spanish embassy		Albuquerque 1989
+E 11	11	1 January 1678	31 December 1678	Porras entrada	"Sergeant Major Antonio de Ayora Porras towards Chaclol, possibly towards Tipu"		
+E 13	13	17 August 1686	28 April 1687	Toledo entrada	Captain Juan del Castillo y Toledo towards Paliac		
+E 15	15	1 December 1784	1 December 1784	Superintendency	Col. E. M. Despard appointed Superintendent	CO 123/5	Campbell 2003
+E 17	17	20 December 1786	20 December 1786	Col. Despard arrives		CO 123/5	Campbell 2003
+E 19	19	1 January 1707	31 December 1707	Last reduction	Tipu reduced		Albuquerque 1989
+E 21	21	1 August 1970	1 August 1970	Belmopan	Foundation of		
+E 23	23	13 December 1870	13 December 1870	Crowning	Parliament vests government solely in Crown		Burdon III 1935
+E 25	25	6 December 1825	6 December 1825	Printing	Magistrates resolve to purchase printing press		"Burdon III p288
+Cave 1976"
+E 27	27		19 September 1715		Exodus of English loggers from W Yucatan on account of famine	Boston News-Letter 596	
+E 29	29	10 December 1716	10 December 1716	Routing from Terminos	Spanish rout English loggers in W Yucatan	484 X CSPC 29	
+E 31	31		22 October 1790	First Census		CO 123/9	
+E 33	33	19 May 1655	27 May 1655	Invasion of Jamaica			
+E 35	35	22 January 1636	22 January 1636	Armada de Barlovento established	"By Diego de Sandi, relator in Sala del Crimen de la Real Audiencia"	"DIVERSOS-COLECCIONES,32,N.5
+MEXICO,35,N.2
+MEXICO,360,R.5,N.31"	
+E 37	37	1 January 1638	8 July 1638		Buccaneers plan expeditions towards Yucatan	"MEXICO,360,R.5,N.21"	
+E 39	39	1 January 1638	10 July 1638		Buccaneers camp in and raid Maya towns from Cozumel 2—6 April and early June	"MEXICO,360,R.5,N.22"	
+E 41	41	1 January 1637	31 December 1637	Tipu embassy to Spanish	Tipu petitions Sp Gov Marqués de Santo Floro against their resident beneficiado and vicario and Bacalar vecinos	"MEXICO,360,R.5,N.24"	
+E 43	43	1 January 1638	10 July 1638	Tipu revolt	"Tipu refuses Sp, other Maya hamlets follow suit"	"MEXICO,360,R.5,N.24
+MEXICO,360,R.5,N.29"	
+E 45	45						
+E 47	47						
+E 49	49						
+E 51	51						
+E 53	53						
+E 55	55						
+E 57	57						
+E 59	59						
+E 61	61						
+E 63	63						
+E 65	65						
+E 67	67						
+E 69	69						
+E 71	71						
+E 73	73						
+E 75	75						
+E 77	77						
+E 79	79						
+E 81	81						
+E 83	83						
+E 85	85						
+E 87	87						
+E 89	89						
+E 91	91						
+E 93	93						
+E 95	95						
+E 97	97						
+E 99	99						
+E 101	101						
+E 103	103						
+E 105	105						
+E 107	107						
+E 109	109						
+E 111	111						
+E 113	113						
+E 115	115						
+E 117	117						
+E 119	119						
+E 121	121						
+E 123	123						
+E 125	125						
+E 127	127						
+E 129	129						
+E 131	131						
+E 133	133						
+E 135	135						
+E 137	137						
+E 139	139						
+E 141	141						
+E 143	143						
+E 145	145						
+E 147	147						
+E 149	149						
+E 151	151						
+E 153	153						
+E 155	155						
+E 157	157						
+E 159	159						
+E 161	161						
+E 163	163						
+E 165	165						
+E 167	167						
+E 169	169						
+E 171	171						
+E 173	173						
+E 175	175						
+E 177	177						
+E 179	179						
+E 181	181						
+E 183	183						
+E 185	185						
+E 187	187						
+E 189	189						
+E 191	191						
+E 193	193						
+E 195	195						
+E 197	197						
+E 199	199						
+E 201	201						
+E 203	203						
+E 205	205						
+E 207	207						
+E 209	209						
+E 211	211						
+E 213	213						
+E 215	215						
+E 217	217						
+E 219	219						
+E 221	221						
+E 223	223						
+E 225	225						
+E 227	227						
+E 229	229						
+E 231	231						
+E 233	233						
+E 235	235						
+E 237	237						
+E 239	239						
+E 241	241						
+E 243	243						
+E 245	245						
+E 247	247						
+E 249	249						
+E 251	251						
+E 253	253						
+E 255	255						
+E 257	257						
+E 259	259						
+E 261	261						
+E 263	263						
+E 265	265						
+E 267	267						
+E 269	269						
+E 271	271						
+E 273	273						
+E 275	275						
+E 277	277						
+E 279	279						
+E 281	281						
+E 283	283						
+E 285	285						
+E 287	287						
+E 289	289						
+E 291	291						
+E 293	293						
+E 295	295						
+E 297	297						
+E 299	299						
+E 301	301						
+E 303	303						
+E 305	305						
+E 307	307						
+E 309	309						
+E 311	311						
+E 313	313						
+E 315	315						
+E 317	317						
+E 319	319						
+E 321	321						
+E 323	323						
+E 325	325						
+E 327	327						
+E 329	329						
+E 331	331						
+E 333	333						
+E 335	335						
+E 337	337						
+E 339	339						
+E 341	341						
+E 343	343						
+E 345	345						
+E 347	347						
+E 349	349						
+E 351	351						
+E 353	353						
+E 355	355						
+E 357	357						
+E 359	359						
+E 361	361						
+E 363	363						
+E 365	365						
+E 367	367						
+E 369	369						
+E 371	371						
+E 373	373						
+E 375	375						
+E 377	377						
+E 379	379						
+E 381	381						
+E 383	383						
+E 385	385						
+E 387	387						
+E 389	389						
+E 391	391						
+E 393	393						
+E 395	395						
+E 397	397						
+E 399	399						
+E 401	401						
+E 403	403						
+E 405	405						
+E 407	407						
+E 409	409						
+E 411	411						
+E 413	413						
+E 415	415						
+E 417	417						
+E 419	419						
+E 421	421						
+E 423	423						
+E 425	425						
+E 427	427						
+E 429	429						
+E 431	431						
+E 433	433						
+E 435	435						
+E 437	437						
+E 439	439						
+E 441	441						
+E 443	443						
+E 445	445						
+E 447	447						
+E 449	449						
+E 451	451						
+E 453	453						
+E 455	455						
+E 457	457						
+E 459	459						
+E 461	461						
+E 463	463						
+E 465	465						
+E 467	467						
+E 469	469						
+E 471	471						
+E 473	473						
+E 475	475						
+E 477	477						
+E 479	479						
+E 481	481						
+E 483	483						
+E 485	485						
+E 487	487						
+E 489	489						
+E 491	491						
+E 493	493						
+E 495	495						
+E 497	497						
+E 499	499						
+E 501	501						
+E 503	503						
+E 505	505						
+E 507	507						
+E 509	509						
+E 511	511						
+E 513	513						
+E 515	515						
+E 517	517						
+E 519	519						
+E 521	521						
+E 523	523						
+E 525	525						
+E 527	527						
+E 529	529						
+E 531	531						
+E 533	533						
+E 535	535						
+E 537	537						
+E 539	539						
+E 541	541						
+E 543	543						
+E 545	545						
+E 547	547						
+E 549	549						
+E 551	551						
+E 553	553						
+E 555	555						
+E 557	557						
+E 559	559						
+E 561	561						
+E 563	563						
+E 565	565						
+E 567	567						
+E 569	569						
+E 571	571						
+E 573	573						
+E 575	575						
+E 577	577						

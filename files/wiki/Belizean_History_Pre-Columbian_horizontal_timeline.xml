@@ -1,0 +1,318 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Template:Belizean History Pre-Columbian horizontal timeline</title>
+    <ns>10</ns>
+    <id>71187668</id>
+    <revision>
+      <id>1095747266</id>
+      <parentid>1095747139</parentid>
+      <timestamp>2022-06-30T03:32:03Z</timestamp>
+      <contributor>
+        <username>Asdfjrjjj</username>
+        <id>41985887</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7259" xml:space="preserve">{{Horizontal timeline
+|from=-8500&lt;!--_____________general general_____________--&gt;
+|to=1500
+|caption=Upper and lower bounds of Pre-Columbian periods of Belizean history&lt;br&gt;&lt;p align="justify"&gt;&lt;small&gt;Top rows display maximal and minimal upper and lower bounds of periods and sub-periods&lt;br&gt;Bottom rows display standardised or traditional upper and lower bounds periods and sub-periods&lt;br&gt;Key&lt;br&gt;Pa = Palaeoindian&lt;br&gt;Po = Postclassic&lt;br&gt;E = Early&lt;br&gt;M = Middle&lt;br&gt;L = Late&lt;br&gt;T = Terminal&lt;/small&gt;&lt;/p&gt;
+|styleDefault-texttop=0.1em&lt;!--_____________default style_____________--&gt;
+|styleDefault-border=none;
+|styleDefault-height=1.5em
+|row50=scale&lt;!--_____________scale row50_____________--&gt;
+|axis-negativeFmt=%s BC
+|axis-positiveFmt=%s AD
+|axis-zeroFmt=%s AD
+|axis-nudge=-0.8em
+|row49=note&lt;!--_____________note row49_____________--&gt;
+|row49-style=styleDefault
+|row49-1-at=-8450
+|row49-1-arrow=&amp;nbsp;
+|row49-1-text=← Palaeoindian settlement
+|row49-2-at=-2000
+|row49-2-text=Mayan settlement
+|row49-3-at=200
+|row49-3-arrow=&amp;nbsp;
+|row49-3-text=Spanish conquest →
+|row48=timeline&lt;!--_____________standard periods row48_____________--&gt;
+|row48-style=styleDefault
+|row48-1-from=
+|row48-1-to=-2000
+|row48-1-colour=burlywood
+|row48-1-text=Preceramic
+|row48-2-from=-2000
+|row48-2-to=250
+|row48-2-colour=wheat
+|row48-2-text=Preclassic
+|row48-3-from=250
+|row48-3-to=900
+|row48-3-colour=burlywood
+|row48-3-text=Classic
+|row48-4-from=900
+|row48-4-to=
+|row48-4-colour=wheat
+|row48-4-text=Po
+|row47=timeline&lt;!--_____________standard subperiods row47_____________--&gt;
+|row47-style=styleDefault
+|row47-1-from=
+|row47-1-to=-8000
+|row47-1-colour=burlywood
+|row47-1-text=Pa
+|row47-2-from=-8000
+|row47-2-to=-2000
+|row47-2-colour=wheat
+|row47-2-text=Archaic
+|row47-3-from=-2000
+|row47-3-to=-1000
+|row47-3-colour=burlywood
+|row47-3-text=E
+|row47-4-from=-1000
+|row47-4-to=-400
+|row47-4-colour=wheat
+|row47-4-text=M
+|row47-5-from=-4000
+|row47-5-to=100
+|row47-5-colour=burlywood
+|row47-5-text=L
+|row47-6-from=100
+|row47-6-to=250
+|row47-6-colour=wheat
+|row47-6-text=T
+|row47-7-from=250
+|row47-7-to=600
+|row47-7-colour=burlywood
+|row47-7-text=E
+|row47-8-from=600
+|row47-8-to=800
+|row47-8-colour=wheat
+|row47-8-text=L
+|row47-9-from=800
+|row47-9-to=900
+|row47-9-colour=burlywood
+|row47-9-text=T
+|row47-10-from=900
+|row47-10-to=1200
+|row47-10-colour=wheat
+|row47-10-text=E
+|row47-11-from=1200
+|row47-11-to=
+|row47-11-colour=burlywood
+|row47-11-text=L
+|row46=timeline&lt;!--_____________minimal late postclassic sub period row46_____________--&gt;
+|row46-style=styleDefault
+|row46-1-from=
+|row46-1-to=1200
+|row46-2-from=1200
+|row46-2-to=
+|row46-2-colour=burlywood
+|row46-2-text=L
+|row45=timeline&lt;!--_____________maximal late postclassic sub period row45_____________--&gt;
+|row45-style=styleDefault
+|row45-1-from=
+|row45-1-to=1200
+|row45-2-from=1200
+|row45-2-to=
+|row45-2-colour=burlywood
+|row45-2-text=L
+|row44=timeline&lt;!--_____________minimal early postclassic sub period row44_____________--&gt;
+|row44-style=styleDefault
+|row44-1-from=
+|row44-1-to=1100
+|row44-2-from=1100
+|row44-2-to=1200
+|row44-2-colour=wheat
+|row44-2-text=E
+|row43=timeline&lt;!--_____________maximal early postclassic sub period row43_____________--&gt;
+|row43-style=styleDefault
+|row43-1-from=
+|row43-1-to=900
+|row43-2-from=900
+|row43-2-to=1200
+|row43-2-colour=wheat
+|row43-2-text=E
+|row42=timeline&lt;!--_____________minimal terminal classic sub period row42_____________--&gt;
+|row42-style=styleDefault
+|row42-1-from=
+|row42-1-to=800
+|row42-2-from=800
+|row42-2-to=900
+|row42-2-colour=burlywood
+|row42-2-text=T
+|row41=timeline&lt;!--_____________maximal terminal classic sub period row41_____________--&gt;
+|row41-style=styleDefault
+|row41-1-from=
+|row41-1-to=790
+|row41-2-from=790
+|row41-2-to=1100
+|row41-2-colour=burlywood
+|row41-2-text=T
+|row40=timeline&lt;!--_____________minimal late classic sub period row40_____________--&gt;
+|row40-style=styleDefault
+|row40-1-from=
+|row40-1-to=600
+|row40-2-from=600
+|row40-2-to=790
+|row40-2-colour=wheat
+|row40-2-text=L
+|row39=timeline&lt;!--_____________maximal late classic sub period row39_____________--&gt;
+|row39-style=styleDefault
+|row39-1-from=
+|row39-1-to=600
+|row39-2-from=600
+|row39-2-to=800
+|row39-2-colour=wheat
+|row39-2-text=L
+|row38=timeline&lt;!--_____________minimal early classic sub period row38_____________--&gt;
+|row38-style=styleDefault
+|row38-1-from=
+|row38-1-to=300
+|row38-2-from=300
+|row38-2-to=600
+|row38-2-colour=burlywood
+|row38-2-text=E
+|row37=timeline&lt;!--_____________maximal early classic sub period row37_____________--&gt;
+|row37-style=styleDefault
+|row37-1-from=
+|row37-1-to=150
+|row37-2-from=150
+|row37-2-to=600
+|row37-2-colour=burlywood
+|row37-2-text=E
+|row36=timeline&lt;!--_____________ minimal terminal preclassic sub period row43 _____________--&gt;
+|row36-style=styleDefault
+|row36-1-from=
+|row36-1-to=100
+|row36-2-from=100
+|row36-2-to=150
+|row36-2-colour=wheat
+|row36-2-text=T
+|row35=timeline&lt;!--_____________ maximal terminal preclassic sub period row43 _____________--&gt;
+|row35-style=styleDefault
+|row35-1-from=
+|row35-1-to=1
+|row35-2-from=1
+|row35-2-to=300
+|row35-2-colour=wheat
+|row35-2-text=T
+|row34=timeline&lt;!--_____________ minimal late preclassic sub period row34 _____________--&gt;
+|row34-style=styleDefault
+|row34-1-from=
+|row34-1-to=-300
+|row34-2-from=-300
+|row34-2-to=1
+|row34-2-colour=burlywood
+|row34-2-text=L
+|row33=timeline&lt;!--_____________ maximal late preclassic sub period row33 _____________--&gt;
+|row33-style=styleDefault
+|row33-1-from=
+|row33-1-to=-400
+|row33-2-from=-400
+|row33-2-to=100
+|row33-2-colour=burlywood
+|row33-2-text=L
+|row32=timeline&lt;!--_____________ minimal middle preclassic sub period row32 _____________--&gt;
+|row32-style=styleDefault
+|row32-1-from=
+|row32-1-to=-900
+|row32-2-from=-900
+|row32-2-to=-400
+|row32-2-colour=wheat
+|row32-2-text=M
+|row31=timeline&lt;!--_____________ maximal middle preclassic sub period row31 _____________--&gt;
+|row31-style=styleDefault
+|row31-1-from=
+|row31-1-to=-1200
+|row31-2-from=-1200
+|row31-2-to=-300
+|row31-2-colour=wheat
+|row31-2-text=M
+|row30=timeline&lt;!--_____________ minimal early preclassic sub period row30 _____________--&gt;
+|row30-style=styleDefault
+|row30-1-from=
+|row30-1-to=-1210
+|row30-2-from=-1210
+|row30-2-to=-1190
+|row30-2-colour=burlywood
+|row30-2-text=E
+|row29=timeline&lt;!--_____________ maximal early preclassic sub period row29 _____________--&gt;
+|row29-style=styleDefault
+|row29-1-from=
+|row29-1-to=-2000
+|row29-2-from=-2000
+|row29-2-to=-900
+|row29-2-colour=burlywood
+|row29-2-text=E
+|row28=timeline&lt;!--_____________ minimal archaic sub period row28 _____________--&gt;
+|row28-style=styleDefault
+|row28-1-from=
+|row28-1-to=-7000
+|row28-2-from=-7000
+|row28-2-to=-2000
+|row28-2-colour=wheat
+|row28-2-text=Archaic
+|row27=timeline&lt;!--_____________ maximal archaic sub period row27 _____________--&gt;
+|row27-style=styleDefault
+|row27-2-from=
+|row27-2-to=-1200
+|row27-2-colour=wheat
+|row27-2-text=Archaic
+|row26=timeline&lt;!--_____________ minimal palaeo sub period row26 _____________--&gt;
+|row26-style=styleDefault
+|row26-2-from=
+|row26-2-to=-8480
+|row26-2-colour=burlywood
+|row26-2-text=Pa
+|row25=timeline&lt;!--_____________ maximal palaeo sub period row25 _____________--&gt;
+|row25-style=styleDefault
+|row25-2-from=
+|row25-2-to=-7000
+|row25-2-colour=burlywood
+|row25-2-text=Pa
+}}
+&lt;noinclude&gt;
+[[Category:Belize templates]]
+&lt;/noinclude&gt;</text>
+      <sha1>2ownrl99fsu2trsa227thw6e91fl037</sha1>
+    </revision>
+  </page>
+</mediawiki>

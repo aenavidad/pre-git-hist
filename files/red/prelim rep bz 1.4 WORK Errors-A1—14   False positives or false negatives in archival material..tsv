@@ -1,0 +1,27 @@
+A1—14 / False positives or false negatives in archival material.
+ID	START	END	SOURCE	TYPE	DESCRIPTION	NOTE	
+A1	1638	1663	Buccaneers	F neg	"Haphazard loss of records, or non-creation of records, by buccaneers or assignees."		
+A2	1638	1707	Maya	F neg	"Non-creation of records on Settlement activities by lack of contact or state of revolt following 1638—95 Tipu-led revolt, or haphazard destruction or loss of these during Spanish reductions of Maya towns, hamlets or groups from our present-day territory, or haphazard loss of these during desertions of Maya towns or hamlets during 1638—95 Tipu-led revolt. /7"	"1707 = Spanish reduction of Maya towns or hamlets from our present-day territory to territory in present-day Guatemala and Mexico, and previous desertion of all other Maya towns or hamlets within our present-day territory during 1638—95 Tipu-led revolt. Via Alb 1989."	
+A3	1638	1729	Spanish	F neg	Non-creation of records on Settlement activities by barriers to Spanish intelligence gathering following 1638—95 Tipu-led revolt and desertion of Bacalar in 1648—1729. /5	"Via Alb 1989. End of Tipu-led revolt set to 1695, on 7 July 1695 = Spanish embassy to Tipu under Captain Francisco de Hariza y Arruyo, and August—September 1695 = Tipu embassy to Merida. End date may alternatively be —
+in 1678 = Spanish entrada or reduction expedition by Sergeant Major Antonio de Ayora Porras towards Chaclol (between present-day Campeche City in western coast of Yucatan and Negroman, Cayo), and possibly towards Tipu (near present-day Negroman, Cayo).
+shortly after 17 August 1686—28 April 1687 = entrada by Captain Juan del Castillo y Toledo towards Paliac (on Rio Grande)."	
+A4	1638	1786	Crown	F neg	Non-creation of records from absence of Crown from Settlement. /6	1 December 1784 = Col. E. M. Despard appointed Superintendent. 20 December 1786 = Col. Despard arrives. /CO 123/5 /via M. C. Campbell 2003.	
+A5	1638	1849	Crown	F neg	"Haphazard loss of records during transit, destructive disasters, or gross negligence, and possible non-creation of records by some parts of Crown. /12 /13 /14"	"Following 14 August 1838 = passage of Act of British Parliament to consolidate scattered public records /Cmd. 367.
+For gross negligence, etttspecially regarding handwritten or otherwise fragile records.
+Following inferences by Cmd. 367."	
+A6	1663	1729	Loggers	F neg	"Haphazard loss of records, or non-creation of records, by loggers, their government, or their assignees. /2 /3"	"We assume Public Meeting and Magistracy were not established as government immediately on the setting up of logging works in February 1663.
+1 April 1729 = First evidence of Chief Magistrate xxx /xxx via Sev 1944."	
+A7	1696	1799	"Loggers, Government"	F neg	"Haphazard destruction of records by circa 22 successful Spanish expeditions against Settlement, and haphazard loss of records by at least 8 Settlement-wide evacuations."		
+A8	1720	1870	Government	F neg	"Haphazard loss of records during transit or from gross negligence, possible selective destruction or loss of records by custodians, and possible non-creation of records by some parts of Government. /9 /15"	"Assumed.
+End date assumed 13 December 1870 = Parliament vests government solely in Crown /via Burdon III 1935."	
+A9	1724	1838	Government	F neg	"Selective non-creation of records on groups lacking suffrage or otherwise marginalised, including women, slaves, Maya, native refugees, etc. /8 /9"	"Start date set at 1724, xxx /xxx. End date set at 1838, on emancipation of slaves.
+Assumed."	
+A10	1780	1789	Government	F neg	Haphazard loss of records during transfer of seat of government from St. George’s Caye to Belize City. /4	Via xxx.	
+A11	1780	1970	Government	F neg	Haphazard loss of records during xxx fires and destructive disasters in Belize City. /9 /10 /11	"Assumed.
+End date assumed 1 August 1970 = foundation of Belmopan.
+Especially regarding records not forwarded to or copied for Great Britain."	
+A12	1787	1859	Government	F neg	Non-creation or loss of records from outlying towns or hamlets by barriers to overland communication with Belize City. /9 /16		
+A13	1638	1826	"Spanish, Government"	F pos	Distortion of sensitive details of campaigns by or against Settlement. /2 /3	"We assume Public Meeting and Magistracy were not established as government immediately on the setting up of logging works in February 1663.
+1 April 1729 = First evidence of Chief Magistrate xxx /xxx via Sev 1944."	
+A14	1720	1826	Government	F pos	"Distortion of sensitive details regarding marginalised groups, including slaves, etc. /2 /3"	"We assume Public Meeting and Magistracy were not established as government immediately on the setting up of logging works in February 1663.
+1 April 1729 = First evidence of Chief Magistrate xxx /xxx via Sev 1944."	

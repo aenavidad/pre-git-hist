@@ -1,0 +1,120 @@
+Table 1
+							
+							
+		Partitions of data which may be of use to us here		"NOTA we want classifications which are binary ie set partitioned into y and not y, which are easily mechanically computable or decidable ie not much thinking to classify a thing, and which produce gradually smaller classes of objects as levels increase ie level n class properly larger than level n+1 class AN 21 JUL 2022 / NOTA classes may need revision given last desideratum for decreasing class sizes AN 21 JUL 2022"			
+	id	description	null	notes			
+	0	are partitions by format					
+	1	are partitions by immediacy					
+	2	are partitions by coverage					
+	0a	is partition with data - extant - recorded split into published and not					
+	0aa	is partition with data - extant - recorded - published split into pre-20th century and not					
+	0ab	is partition with data - extant - recorded - published split into bound volumes and not					
+	0b	is partition with data - extant - recorded split into textual and not					
+	1a	is partition with data split into primary and not					
+	2a	is partition with data split into geographic and not					
+	2b	is partition with data - topical split into civil and not					
+							
+							
+							
+	0aa	partitions	level	notes			
+		data	0				
+		data - extant	1				
+		data - extant not	1				
+		data - extant - recorded	2				
+		data - extant - recorded - published	3				
+		data - extant - recorded - published - pre-20th century	5	eg up to 1900 inclusive			
+		data - extant - recorded - published - pre-20th century not	5	eg after 1900 exclusive			
+		data - extant - recorded - published not	3				
+		data - extant - recorded - published not - public	4				
+		data - extant - recorded - published not - public - Hispanic	5				
+		data - extant - recorded - published not - public - Hispanic not	5				
+		data - extant - recorded - published not - public not	4				
+		data - extant - recorded not	2				
+		data - extant - recorded not - archaeological	3				
+		data - extant - recorded not - archaeological not	3				
+		data - extant - recorded not - archaeological - excavated	4				
+		data - extant - recorded not - archaeological - excavated not	4				
+							
+							
+	0ab	partitions	level	notes			
+		data	0				
+		data - extant	1				
+		data - extant not	1				
+		data - extant - recorded	2				
+		data - extant - recorded - published	3				
+		data - extant - recorded - published - bound volumes	4	"eg single books, series of books"			
+		data - extant - recorded - published - bound volumes not	4	"eg ephemera, print"			
+		data - extant - recorded - published not	3				
+		data - extant - recorded - published not - public	4				
+		data - extant - recorded - published not - public - Hispanic	5				
+		data - extant - recorded - published not - public - Hispanic not	5				
+		data - extant - recorded - published not - public not	4				
+		data - extant - recorded not	2				
+		data - extant - recorded not - archaeological	3				
+		data - extant - recorded not - archaeological not	3				
+		data - extant - recorded not - archaeological - excavated	4				
+		data - extant - recorded not - archaeological - excavated not	4				
+							
+							
+	0b	partitions	level	notes			
+		data	0				
+		data - extant	1				
+		data - extant not	1				
+		data - extant - recorded	2				
+		data - extant - recorded - textual	3				
+		data - extant - recorded - textual not	3				
+		data - extant - recorded - textual not - cartographic	4				
+		data - extant - recorded - textual not - cartographic not	4				
+		data - extant - recorded not	2				
+		data - extant - recorded not - archaeological	3				
+		data - extant - recorded not - archaeological not	3				
+		data - extant - recorded not - archaeological - excavated	4				
+		data - extant - recorded not - archaeological - excavated not	4				
+							
+							
+	1a	partitions	level	notes			
+		data	0				
+		data - primary	1	ie primary sources			
+		data - primary not	1				
+		data - primary not - scholarly	2				
+		data - primary not - scholarly - secondary	3	eg archival-based peer-reviewed papers			
+		data - primary not - scholarly - secondary not	3	"ie survey work not using primary sources eg Britannica, handbooks, Oxford Bibliographies"			
+		data - primary not - scholarly not	2				
+							
+							
+	2a	partitions	level	notes			
+		data	0	points used Catoche [NGA 15664] / San Antonio [NGA 12436] / Camaron [NGA 16478] / Gracias a Dios [mouth of Rio Coco forming Honduras-Nicaragua border] / Vela [NGA 16844] / NGA lights queries in https://msi.nga.mil/Publications/NGALOL / GEBCO undersea features queries in https://www.ngdc.noaa.gov/gazetteer/ /// partition data - geographic - physical not needs expansion to cover political subdivisions 22 JULY 2022			
+		data - geographic	1	ie content restricted geographically eg *not* world history			
+		data - geographic - physical	2				
+		data - geographic - physical - western	3				
+		data - geographic - physical - western - marine	4				
+		data - geographic - physical - western - marine - Atlantic	5				
+		data - geographic - physical - western - marine - Atlantic - middle	6				
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean	7				
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean - western	8				
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean - western - Honduras	9	eg Catoche to Camaron			
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean - western - Honduras not	9				
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean - western not	8				
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean not	7				
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean not - Mexico	8	eg Catoche to San Antonio			
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean not - Mexico not	8	eg Gracias a Dios to Vela			
+		data - geographic - physical - western - marine - Atlantic - middle not	6				
+		data - geographic - physical - western - marine - Atlantic not	5				
+		data - geographic - physical - western - marine not	4				
+		data - geographic - physical - western not	3				
+		data - geographic - physical not	2				
+		data - geographic not	1	ie content not restricted geographically eg world history			
+							
+							
+	2b	partitions	level	notes			
+		data	0				
+		data - topical	1	ie content restricted topically eg *not* world history			
+		data - topical not	1	ie content not restricted topically eg world history			
+		data - topical - civil	2				
+		data - topical - civil - commerce	3	"eg smuggling, logging"			
+		data - topical - civil - commerce not	3				
+		data - topical - civil not	2	"ie military, paramilitary eg piratical, defence topics"			
+		data - topical - civil not - piratical	3				
+		data - topical - civil not - piratical - defence	4	"eg Spanish forts, armadas"			
+		data - topical - civil not - piratical - defence not	4	eg piratical attacks			
+		data - topical - civil not - piratical not	3	eg Tipu rebellion			

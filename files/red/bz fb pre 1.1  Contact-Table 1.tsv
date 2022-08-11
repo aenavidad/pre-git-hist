@@ -1,0 +1,157 @@
+Table 1
+	ID	Lvl	Alt ID	Par	Pre	Stable	Stable	Pre	Styles	Head	Head Civ Serv	M Address	P Address	City	Tel	Tel	Tel	Tel	Fax	Fax	Email	Email	Cf	Note	
+		0	Crown			Crown	Crown in right of Belize																		
+		1	Govt	Crown		Government																			
+		1	Judy	Crown		Judiciary	Courts																		
+		1	Legl	Crown		Parliament																			
+		2	Cabt	Govt		Cabinet			Cabinet	Prime Minister	Secretary														
+		2	GG	Govt		Governor General		Office of the	Governor General	Governor General	xxx														
+		2	GOE	Govt		Government-owned enterprises																			
+		2	Oppsn	Govt		Opposition		Office of the	Leader of the Opposition	Leader of the Opposition	xxx														
+		2	Quan	Govt		Non-departmental public bodies																			
+		2	Queen	Govt		Queen	Queen in right of Belize			Queen															
+		2	Stat	Govt		Non-ministerial government departments																			
+		2	App Ct	Judy		Court of Appeals			Court of Appeals	xxx															
+		2	Gen Reg	Judy		General Registry			General Registry	Registrar General															
+		2	Mag Ct	Judy		Magistracy	Magistrates’ Courts		Magistrates’ Courts	Chief Magistrate															
+		2	PC	Judy		Privy Council			Caribbean Court of Justice	xxx															
+		2	Sup Ct	Judy		Supreme Court			Supreme Court	xxx															
+		2	Clerk	Legl		Clerk to Parliament			Clerk to the National Assembly	Clerk															
+		2	Parl	Legl		Parliament			National Assembly																
+		3	AG	Cabt	Office of the	Attorney General			Attorney General’s Ministry	Attorney General			E Block Bldg	Belmopan	822 2154				822 1529		attorney.general@agm.gov.bz	solicitor.general@agm.gov.bz	Consular 2021 229		
+		3	Agriculture	Cabt	Ministry of	Agriculture		Ministry of	"Agriculture, Food Security and Enterprise"	Minister of Government			HM Queen Elizabeth II Blvd	Belmopan	822 2630	822 2241	822 2252	822 2243	802 2333		ceo@agriculture.gov.bz	secretary@agriculture.gov.bz	Consular 2021 219	"Min of Govt = HM Queen Elizabeth II Blvd, Belmopan / Tel 802 3286 or 802 2249 or 802 2711 / Fax 802 2333 / minister.secretary@agriculture.gov.bz / Cf Consular 2021 219"	
+		3	Cabinet	Cabt		Cabinet Office							Sir Edney Cain Bldg Thd Fl	Belmopan	822 2345	822 2346			822 0898		cabinet.secretary@opm.gov.bz		Consular 2021 216		
+		3	Defence	Cabt	Ministry of	Defence		Ministry of	National Defence and Border Security	Minister of Government			Curl Thompson Bldg	Belmopan	822 2872	822 2817			822 0846		ceo@mns.gov.bz	ceo.secretary@mns.gov.bz	Consular 2021 221	"Min of Govt = Curl Thompson Bldg, Belmopan / Tel 822 3677 / Fax 822 1371 / natsecurity@police.net.bz / Cf Consular 2021 221 /// BDF = Price Barracks, Ladyville / Tel 225 2174 / Fax 225 2175 / steven.ortega@bdf.mil.bz /// Coast Guard = Belize Ntl Coast Guard HQ mi 4 1/2 George Price Hwy, Belize / Mail PO Box 1803, Belize / Tel 222 5260 / Fax 222 5261 / commandant@bncg.gov.bz"	
+		3	Disasters	Cabt				Ministry of	"Sustainable Development, Climate Change and Disaster Risk Management"	Minister of Government			Old Lands Bldg Market Sq	Belmopan	802 3286	802 0160			822 2333		ceo@environment.gov.bz		Consular 2021 225		
+		3	Education	Cabt	Ministry of	Education		Ministry of	"Education, Culture, Science and Technology"	Minister of Government			W Block Bldg Thd Fl	Belmopan	822 2329	822 3163	822 2380		822 3389		ceo@moe.gov.bz		Consular 2021 220	"Min of Govt = W Block Bldg Thd Fl, Belmopan / Tel 822 2698 or 822 0385 / Fax 822 0102 / Cf Consular 2021 220"	
+		3	Fisheries	Cabt				Ministry of	Blue Economy and Civil Aviation	Minister of Government			106 S St	Belize	227 2801	227 2802			227 2810				Consular 2021 227		
+		3	Foreign	Cabt		Foreign Office		Ministry of	"Foreign Affairs, Foreign Trade and Immigration"	Minister of Government			NEMO Bldg	Belmopan	822 2322	822 2167			822 2854		maiamalia035@gmail.com		Consular 2021 227–228	"Min of Govt = NEMO Bldg, Belmopan / Tel 822 2110 / Fax 822 2889 / ecourtbze@gmail.com / sanisidro1990@gmail.com / belizemfa@btl.net / Cf Consular 2021 227–228 /// Immigration Dept = Habet Bldg Sd Fl Constitution Dr, Belmopan / Tel 802 2663 / Fax 802 2297 / Cf Consular 2021 228 /// INS = Dry Creek Rd, Belmopan / Tel 822 3860 or 822 4552 / Fax 822 2662 / director@ins.gov.bz / mario.arzu@ins.gov.bz / Cf Consular 2021 228"	
+		3	Health	Cabt	Ministry of	Health		Ministry of	Health and Wellness	Minister of Government			E Block Bldg Thd Fl	Belmopan	822 0589	822 2326			822 2942		ceo@health.gov.bz	seniorsecretary@health.gov.bz	Consular 2021 226		
+		3	Home	Cabt		Home Office		Ministry of	Home Affairs and New Growth Industries	Minister of Government			Habet Bldg Sd Fl Constitution Dr	Belmopan	822 0842						ceo.secretary@homeaffairs.gov.bz		Consular 2021 224	"Min of Govt = W Block Bldg Sd Fl, Belmopan / homeaffairscpb@gmail.com / Cf Consular 2021 224 /// Police Dept = Bliss Parade, xxx / Tel 822 2224 / Fax 822 3291 / compol@police.net.bz / Cf Consular 2021 224"	
+		3	Human	Cabt				Ministry of	"Human Development, Families and Indigenous Peoples’ Affairs"	Minister of Government			W Block Bldg Gd Fl	Belmopan	822 2161	822 2246			822 3175		ceo@humandev.gov.bz	senior.secretary@humandev.gov.bz	Consular 2021 223	"Min of Govt = W Block Bldg Gd Fl, Belmopan / Tel 822 2248 / Fax 822 3175 / minister@humandev.gov.bz / Cf Consular 2021 223"	
+		3	Lands	Cabt				Ministry of	"Natural Resources, Petroleum and Mining"	Minister of Government			HM Queen Elizabeth II Blvd	Belmopan	822 3286				822 2333		ceo@naturalresources.gov.bz		Consular 2021 218	"Min of Govt = Constitution Dr, Belmopan / Tel 822 2673 or 822 2297 / Fax 822 2815 / minister@naturalresources.gov.bz /Cf Consular 2021 218 /// Min of State = Sir Edney Cain Bldg Gd Fl, Belmopan / Tel 822 2526 or 822 2527 / Fax 822 3673 / ceo.secretary@med.gov.bz / Cf Consular 2021 218"	
+		3	Local	Cabt				Ministry of	"Rural Transformation, Community Development, Labour and Local Government"	Minister of Government			Constitution Dr	Belmopan	802 2663	822 2297			822 2815		ceo@labour.gov.bz		Consular 2021 222	"Min of Govt = Sir Edney Cain Bldg Thd Fl, Belmopan / Tel 822 2345 or 822 2346 / Fax 822 0071 / Cf Consular 2021 222"	
+		3	PM	Cabt	Office of the	Prime Minister		Office of the	Prime Minister	Prime Minister			Sir Edney Cain Bldg Thd Fl	Belmopan	822 0399				822 0071		pmsecretary@opm.gov.bz		Consular 2021 216		
+		3	Prosecution	Cabt		Crown Prosecution Service		Office of the	Director of Public Prosecutions	Director of Public Prosecutions															
+		3	Service	Cabt		Civil Service		Ministry of	"Public Service, Constitutional and Political Reform"	Minister of Government			Sir Edney Cain Bldg Gd Fl	Belmopan	822 2404	822 2405			822 0071		ceo@mps.gov.bz		Consular 2021 227	"Min of Govt = Sir Edney Cain Bldg Gd Fl, Belmopan / Tel 822 2235 / Fax 822 0071 / minister@mps.gov.bz / Cf Consular 2021 227"	
+		3	Tourism	Cabt				Ministry of	Tourism and Diaspora Relations	Minister of Government			56 Cors Regent & S St	Belize	227 2801	227 2802			227 2810		ceo@tourism.gov.bz		Consular 2021 226	"BTB = 64 Cors Regent & S St, Belize / Tel 227 2420 or 227 2416 or 227 2417 or 226 4531 or 226 4532 / Fax 227 2423 / Cf Consular 2021 226"	
+		3	Trade	Cabt				Ministry of	Economic Development and Investment	Minister of Government			Sir Edney Cain Bldg Gd Fl	Belmopan	822 2526	822 2527			822 3673		ceo.secretary@med.gov.bz		Consular 2021 217		
+		3	Treasury	Cabt		Treasury		Ministry of	Finance	Minister of Government			Sir Edney Cain Bldg Thd Fl	Belmopan	822 2362	822 2152			822 2886		financial.secretary@mof.gov.bz		Consular 2021 217		
+		3	Utilities	Cabt				Ministry of	Public Utilities and Logistics	Minister of Government			NEMO Bldg	Belmopan	822 2744						ceo.secretary@transport.gov.bz		Consular 2021 219		
+		3	Works	Cabt	Ministry of	Works		Ministry of	Infrastructure Development and Housing	Minister of Government			Power Ln	Belmopan	822 2136	822 2139	822 2744		822 3282		ceo@mow.gov.bz	ceo.secretary@mow.gov.bz	Consular 2021 220	"Min of Govt = Power Ln, Belmopan / Tel 822 2138 / Fax 822 0020 / minister@mow.gov.bz or minister.secretary@mow.gov.bz / Cf Consular 2021 220"	
+		3	Youth	Cabt				Ministry of	"Youth, Sports and E-Governance"	Minister of Government			W Block Bldg Sd Fl	Belmopan	822 0810	822 0401			822 2394	822 2386	ceoysc@moe.gov.bz		Consular 2021 225		
+		3	Clerical	GG								PO Box 173	Belize House	Belmopan	822 2521	822 3081			822 2050		govgenbz@btl.net		Consular 2021 216		
+		3	GG Cl	GG					Belize Advisory Council																
+		3	House	Parl		House of Representatives			House of Representatives	Speaker															
+		3	Senate	Parl		Senate			Senate	President															
+		3	Auditor Gl	Stat	Office of the	Auditor General		Office of the	Auditor General	Auditor General															
+		3	C Serv Cn	Stat					Public Service Commission	Chairman															
+		3	Contractor Gl	Stat	Office of the	Contractor General		Office of the	Contractor General	Contractor General															
+		3	Elections Cn	Stat					Elections and Boundaries Commission	Chairman			Charles Bartlett Hyde Bldg Mahogany St Ext	Belize	222 4992	222 4042			222 4991		electbound@btl.net		Consular 2021 223		
+		3	Ethics Cn	Stat					Integrity Commission	xxx															
+		3	Judicial Cn	Stat					Judicial and Legal Services Commission	Chairman															
+		3	Ombudsman	Stat	Office of the	Ombudsman		Office of the	Ombudsman	Ombudsman															
+		3	S Serv Cn	Stat					Security Services Commission	Chairman															
+		3	Church	Quan					Belize Council of Churches																
+		3	Commerce	Quan					Belize Chamber of Commerce																
+		3	Gazette	Quan																					
+		3	NGOs	Quan					Belize Network of Non-Governmental Organisations																
+		3	Press	Quan																					
+		3	Workers	Quan					National Trade Union Congress of Belize																
+		4	Research & Development	Agriculture					Agriculture Research and Development																
+		4	Technical	Agriculture					National Agriculture Extension Programme																
+		4	Aquaculture	Agriculture					Aquaculture																
+		4	Cooperatives	Agriculture					Cooperatives																
+		4	Fin Aid	Agriculture					Financial Assistance to Agricultural Producers																
+		4	Standards	Agriculture					Bureau of Standards																
+		4	Clerical	AG																					
+		4	Soliciting	AG					Legal Services																
+		4	Family Ct	AG					Family Court																
+		4	Revision & Drafting	AG					Revision and Drafting Services																
+		4	IP	AG					Belize Intellectual Property Office																
+		4	Clerical	Service																					
+		4	Training	Service					Training and Development																
+		4	HR	Service					Human Resources Management Information System																
+		4	Clerical	Defence																					
+		4	Maritime	Defence					Maritime Security																
+		4	Terrestrial	Defence					Defence																
+		4	Clerical	Disasters																					
+		4	Forestry	Disasters					Forestry Resource Management																
+		4	Environmental	Disasters					Environmental Management																
+		4	Emergencies	Disasters				Office of	Emergency Management																
+		4	Meteorological	Disasters					National Meteorological Services																
+		4	Fire	Disasters					National Fire Services																
+		4	Clerical	Education																					
+		4	Primary Ed	Education					Pre-Primary and Primary Education																
+		4	Secondary Ed	Education					Secondary Education																
+		4	Tertiary Ed	Education					Tertiary Education																
+		4	Libraries	Education					National Library Services																
+		4	Archaeological	Education					National Institute of Culture and History																
+		4	Archives & Records	Education					National Archives and Records Management																
+		4	Clerical	Fisheries																					
+		4	Fisheries	Fisheries					Fisheries Resources Management and Development																
+		4	Aviation	Fisheries					Civil Aviation																
+		4	Clerical	Foreign																					
+		4	Diplomatic	Foreign					Overseas Representation																
+		4	Trade	Foreign					Foreign Trade																
+		4	Immigration & Nationality	Foreign					Immigration and Nationality																
+		4	Clerical	Health																					
+		4	Technical	Health					Medicine and Technology																
+		4	Primary Care	Health					Primary Care Services																
+		4	Hospitals	Health					Hospital Services																
+		4	Public Health	Health					Community-Based Services																
+		4	Clerical	Home																					
+		4	P Academy	Home					National Police Training Academy																
+		4	Police	Home					Community Police Services and Crime Prevention																
+		4	Investigation	Home					Criminal Investigation																
+		4	Intelligence	Home					National Security and Intelligence																
+		4	Clerical	Human																					
+		4	Children	Human					Human Services																
+		4	Women	Human					Women and Gender Services																
+		4	Youth	Human					Community Rehabilitation																
+		4	Clerical	Lands																					
+		4	Estates	Lands					Land Management and Administration																
+		4	Mining	Lands					Mining																
+		4	Hidrology	Lands					Hydrology																
+		4	Waste	Lands					Solid Waste Management																
+		4	Geology	Lands					Geology and Petroleum																
+		4	Clerical	Local																					
+		4	Rural	Local					Rural Community Development																
+		4	Labour	Local					Labour Department																
+		4	Councils	Local					Local Government																
+		4	Clerical	PM																					
+		4	Fin Aid	PM					Restore Belize Social Assistance Programme																
+		4	Broadcasting	PM					Belize Broadcasting Authority																
+		4	Information	PM					Government Information Services																
+		4	Public–Private Liaising	PM					Private Sector Investor Programme																
+		4	Clerical	Prosecution																					
+		4	Civilian	Prosecution					Civilian Prosecutions Unit																
+		4	Clerical	Tourism																					
+		4	Fin Aid	Tourism					Tourism Development and Infrastructure																
+		4	Clerical	Trade																					
+		4	Technical	Trade					Belize Trade and Investment Development Services																
+		4	Research & Development	Trade					Economic Development																
+		4	Clerical	Treasury																					
+		4	Fiscal	Treasury					Fiscal Policy and Budget Management																
+		4	Procurement	Treasury					Procurement																
+		4	Auditing	Treasury					Internal Audit																
+		4	Treasurial	Treasury					Treasury and Accounting Services																
+		4	Internal Revenue	Treasury					Internal Revenue															"GST Dept = Complex Bldg Mahogany St, Belize / Tel 222 5574 or 222 5579 / Fax 222 5513 / generalsalestax@gst.gov.bz / Cf Consular 2021 217 /// Income Tax Dept = Complex Bldg Mahogany St, Belize / Tel 222 4956 or 222 4776 / Fax 222 4029 / incometax@itx.gov.bz / Cf Consular 2021 217"	
+		4	Customs & Excise Revenue	Treasury					Customs and Excise Revenue				Customs House Caesar Ridge Rd	Belize	223 7092	227 7139			223 7091		cusnet@btl.net		Consular 2021 217–218		
+		4	IT	Treasury					Information Communication and Technology																
+		4	Insurance & Pensions	Treasury					Office of the Supervisor of Insurance and Private Pensions																
+		4	Intl Liasing	Treasury					International Financial Services																
+		4	xxx	Treasury					Administered Items																
+		4	Companies Reg	Treasury					Belize Company Registry																
+		4	Clerical	Utilities																					
+		4	Transport	Utilities					Transport Administration and Enforcement																
+		4	Post	Utilities					Postal Services																
+		4	Energy	Utilities					Energy Management																
+		4	Admin	Works																					
+		4	Roads & Bridges	Works					Roads and Bridges Construction and Maintenance																
+		4	Drains & Waterways	Works					Construction and Maintenance of Inland Waterways and Drains																
+		4	Buildings	Works					Construction and Maintenance of Public Buildings																
+		4	Housing	Works					Housing Development and Construction																
+		4	Clerical	Youth																					
+		4	Youth	Youth					Youth Support Services																
+		4	Sports	Youth					Sports Development																

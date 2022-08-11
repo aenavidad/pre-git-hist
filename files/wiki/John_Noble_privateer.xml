@@ -1,0 +1,265 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Noble (privateer)</title>
+    <ns>0</ns>
+    <id>70733414</id>
+    <revision>
+      <id>1088467016</id>
+      <parentid>1086999339</parentid>
+      <timestamp>2022-05-18T05:24:16Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Alter: url. URLs might have been anonymized. Add: s2cid, doi. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_CommandLine 451/2341</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7849" xml:space="preserve">{{short description|English privateer d. 1574}}
+{{Use dmy dates|date=April 2022}}
+{{Use British English|date=April 2022}}
+{{Coord|9|05|51|N|81|33|29|W|region:PA-1_type:isle|display=title}}
+{{Infobox pirate
+| honorific_prefix = Captain
+| name = John Noble
+| honorific_suffix = 
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| native_name = 
+| native_name_lang = 
+| birth_name = 
+| birth_date = 
+| birth_place = 
+| baptised = 
+| disappeared_date = 
+| disappeared_place = 
+| disappeared_status = 
+| death_date = June 1574
+| death_place = [[Nombre de Dios, Colón|Nombre de Dios]]
+| death_cause = Hanged
+| body_discovered = 
+| resting_place = 
+| resting_place_coordinates = 
+| monuments = 
+| residence = 
+| nationality = &lt;!-- use only when necessary per [[WP:INFONAT]] --&gt;
+| other_names = 
+| citizenship = &lt;!-- use only when necessary per [[WP:INFONAT]] --&gt;
+| education = 
+| alma_mater = 
+| occupation = 
+| years_active =
+| era = [[Elizabethan era|Elizabethan]]
+| employer = 
+| organization = 
+| agent = 
+| known_for = cruising off Veraguas
+| notable_works =
+| style = 
+| home_town = 
+| salary = 
+| net_worth = 
+| height = 
+| weight = 
+| television = 
+| title = 
+| term = 
+| predecessor = 
+| successor = 
+| party = 
+| movement = 
+| opponents = Pedro Godínez Osorio {{small|/ Gov.}}
+| boards = 
+| criminal_charge = Piracy
+| criminal_penalty = Death
+| criminal_status = 
+| spouse = 
+| partner =
+| children = 
+| parents = 
+| relatives = 
+| callsign = 
+| awards = 
+| website = 
+| nickname = 
+| alias = 
+| type = [[Sea Dogs|Privateer]]
+| allegiance = [[Kingdom of England|England]]
+| serviceyears = 1574
+| base of operations = {{hlist|[[West Indies]]}}
+| rank = Captain
+| commands = 
+| battles = 
+| wealth = 
+| laterwork = 
+| signature = 
+| signature_alt = 
+| signature_size = 
+| footnotes = 
+}}
+
+'''John Noble''' ({{died-in|1574}}) was an [[Sea Dogs|Elizabethan privateer]] who cruised the Caribbean coast of [[Nuevo Cartago y Costa Rica Province|Veragua]].
+
+== Career ==
+===Expedition===
+====Veragua====
+In early June 1574, Noble, with 28 men aboard a ship of four heavy pieces and four falcons, landed at the [[Isla Escudo de Veraguas|Escudo de Veraguas Isle]] (12 Spanish nautical leagues from the port of Veragua). The Englishmen seem to have chosen this island for its location, as it lay in the route of all Spanish vessels bound to Veragua. Here, they cruised the coast aboard two launches, seizing many Spanish merchant frigates and barques off the [[Cativá|Cativas]] headland and the [[Chagres River]].{{sfn|Wright|1932|loc=pt. 1 doc. no. 33}}{{sfn|Wright|1932|pp=xlv-xlvi}}{{sfn|Bradley|1999|p=75}}{{sfn|Williamson|1938|p=129}}{{sfn|Marley|1998|p=104|loc=item 'JUNE 1574.'}}{{notetag|{{harvnb|Pike|2007|pp=255-256, 259}} suggests Noble (unsuccessfully) attempted to secure the assistance of the ''cimarrons'', as [[Francis Drake's expedition of 1572–1573|Francis Drake (successfully) had in July 1572]].}}
+
+===Capture===
+At some point in mid-June, Noble and company attempted to seize a Spanish merchant barque, but the latter managed to escape, whereupon they informed the governor of Veragua, Pedro Godinez Osorio, of the Englishmen's cruise. The governor immediately manned a rowing frigate with thirty harquebusiers out of Nombre de Dios. The frigate soon discovered Noble and company, firing four or five shots at them, whereupon the men crowded into a launch and made their escape. The governor gave chase right away, however, aboard a brig and a launch, eventually capturing two of the crew, drowning four, and forcing the rest to run aground near Chagres River. The marooned pirates were there apprehended by a former victim of theirs. All were convicted of piracy, and hanged (except two boys, who were served life sentences).{{sfn|Wright|1932|loc=pt. 1 doc. no. 33}}
+
+{{blockquote|text=The galleons having left Nombre de Dios, in the direction of Veragua there appeared one morning an English corsair calling himself John Noble, who had been in that vicinity when the last fleet was here. He pillaged certain barks and frigates of the coastwise trade and began to disturb this realm. God granted that by means of the measures taken both at Nobre de Dios and also at Veragua he should be captured with all his men, twenty-eight in all. They were all killed, excepting two boys who were condemned to the galleys for life and are now serving in your majesty's galleons. The captain and two of them were hanged at Nombre de Dios, which has occasioned great joy and animated all, and the realm is entirely quiet.|author=Panama, 22 Sept. 1574, Gonzalo Nuñez de la Cerda to Crown, trans. Wright.{{sfn|Wright|1932|loc=pt. 1 doc. no. 32}}}}
+
+==Aftermath==
+{{blockquote|text=Certainly this province is much vexed by corsairs. They never leave these ports, because only from here do the frigates get gold [...].|author=Veragua, 3 April 1575, Godinez Osorio to Crown, trans. Wright.{{sfn|Wright|1932|loc=pt. 1 doc. no. 33}}}}
+
+== Legacy ==
+It has been suggested that Noble may have cruised the shores of [[History of Honduras#Colonial Honduras|colonial Honduras]] during in the first quarter of 1573, simultaneous to [[Francis Drake's expedition of 1572–1573|Francis Drake's or John Oxenham's cruise]].{{sfn|Wright|1932|p=74|loc=pt. 1 doc. no 29 footnote no. 5}}
+
+== Notes ==
+{{notefoot}}
+
+== Citations ==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+
+# {{cite book 
+ |last1= Bradley
+ |first1= Peter T.
+ |title= British maritime enterprise in the New World : from the late fifteenth to the mid-eighteenth century
+ |date= 1999
+ |volume= 
+ |series=Studies in British history ; v. 57
+ |publisher= Edwin Mellen Press
+ |location= Lewiston, NY
+ |edition= 1st
+ |hdl= 2027/mdp.39015054149409
+ |oclc= 42290563
+}}
+# {{cite book
+|editor-last1=Hakluyt
+|editor-first1=Richard
+|date= 1600
+|publisher= George Bishop, Ralfe Newberie, &amp; Robert Barker
+|location= London
+|title= The principal nauigations, voiages, traffiques and discoueries of the English nation made by sea or ouer-land, to the remote and farthest distant quarters of the earth, at any time within the compasse of these 1500. yeeres: deuided into three seuerall volumes, according to the positions of the regions, whereunto they were directed
+|volume= 3
+|oclc= 252871354
+|edition=2nd expanded
+|url=https://www.proquest.com/docview/2248550788
+|url-access=subscription
+}}
+# {{cite book 
+ |last1= Marley
+ |first1= David F.
+ |title= Wars of the Americas : a chronology of armed conflict in the New World, 1492 to the present
+ |date= 1998
+ |volume= 
+ |publisher= ABC-CLIO
+ |location= Santa Barbara, CA
+ |edition= 1st
+ |url=
+ |oclc= 39024726
+ |hdl= 2027/mdp.49015002845379
+}}
+# {{cite journal
+ |last1= Pike
+ |first1= Ruth
+ |date= October 2007
+ |title= Black Rebels: The Cimarrons of Sixteenth-Century Panama
+ |url= https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/article/223759
+ |url-access= subscription
+ |journal= Americas
+ |series=
+ |issn= 
+ |jstor= 30139087
+ |volume= 64
+ |issue= 2
+ |pages= 243–266
+|doi= 10.1353/tam.2007.0161
+ |s2cid= 143773521
+ }}
+# {{cite book 
+ |last1= Williamson
+ |first1= James A.
+ |title= The age of Drake
+ |date= 1938
+ |volume= 
+ |publisher= Adam and Charles Black
+ |location= London
+ |edition= 1st
+ |url=
+ |oclc= 1421005
+ |hdl= 2027/mdp.39015014588183
+}}
+# {{cite book 
+ |editor-last1= Wright
+ |editor-first1= Irene A.
+ |title= Documents concerning English voyages to the Spanish main, 1569-1580
+ |date= 1932
+ |volume= 
+ |series=Works issued by the Hakluyt Society ; 2nd ser., no. 71
+ |publisher= Printed for the Hakluyt Society
+ |location= London
+ |edition= 1st
+ |url= https://archive.org/details/dli.ministry.01751/
+ |oclc= 1476408
+ |hdl= 2027/mdp.39015012306133
+}}
+{{refend}}
+
+{{Spanish Empire}}
+{{Pirates}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Horseley, Gilbert}}
+[[Category:1574 deaths]]
+[[Category:English privateers]]
+[[Category:16th-century English people]]</text>
+      <sha1>dn30f14uz3jbuowqogk4u0mp8ilwr0o</sha1>
+    </revision>
+  </page>
+</mediawiki>

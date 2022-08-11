@@ -1,0 +1,87 @@
+Table 1
+								
+								
+		Harvesting ie collection of data which may be of use to us here						
+	id	description	null	notes				
+	0	"are indices, catalogues, or datasets which may contain guides, surveys, or aids eg bibliographies, finding aids"						
+	1	"are guides, surveys, finding aids, lists of maps, etc"						
+	2	are collections of data items or records						
+	3	are data items or records themselves						
+	0a	"online indices, catalogues, or datasets"						
+	1a	"published guides, surveys, aids, bibliographies, finding aids, lists of maps"						
+								
+								
+								
+								
+								
+								
+								
+								
+	0a	description	scope	notes	link			
+		AN - Consolidated references from various manuscript projects to 25 July 2022	2613 refs	inc vars duplicates / NOT QUERIED 25 JUL 2022	sheet AN - sum 2613			
+		OCLC - WorldCat - FirstSearch		NOT QUERIED 25 JUL 2022 / 79 hits for su Belize -- Bibliography	http://id.lib.harvard.edu/alma/990079877190203941/catalog			
+		OCLC - ArchiveGrid		NOT QUERIED 25 JUL 2022	http://id.lib.harvard.edu/alma/990079188590203941/catalog			
+		KIT - KVK Karlsruher Virtueller Katalog		NOT QUERIED 25 JUL 2022	http://id.lib.harvard.edu/alma/990082460620203941/catalog			
+		Ulrichsweb - global serials directory		NOT QUERIED 25 JUL 2022	http://id.lib.harvard.edu/alma/990152941710203941/catalog			
+		CSA / ProQuest - IBSS International bibliography of the social sciences		possibly not historical / NOT QUERIED 25 JUL 2022	http://id.lib.harvard.edu/alma/990125276600203941/catalog			
+		LC - HLAS Handbook of Latin American studies		NOT QUERIED 25 JUL 2022	http://id.lib.harvard.edu/alma/990150151330203941/catalog			
+		UCLA - HAPI Hispanic American periodicals index		possibly not historical / NOT QUERIED 25 JUL 2022	http://id.lib.harvard.edu/alma/990153178330203941/catalog			
+		EU - Archives Portal Europe		NOT QUERIED 25 JUL 2022	https://www.archivesportaleurope.net			
+		MCU - Censo-Guía de Archivos de España e Iberoamérica		NOT QUERIED 25 JUL 2022	http://censoarchivos.mcu.es/CensoGuia/portada.htm			
+								
+								
+								
+								
+	1a	description	scope	notes	link	0A SOURCE		
+		OUP - Oxford Bibliographies		digitised	^^^			
+		OUP - Oxford Research encyclopaedias - Latin American		digitised	https://oxfordre-com.ezp-prod1.hul.harvard.edu/latinamericanhistory			
+		"A bibliography of British Honduras, 1900-1970 by Clarence W. Minkel and Ralph H. Alderman, [East Lansing : Latin American Studies Center, Michigan State University, c1970]"	^^^ refs	in Widener / OCLC: 139160	http://id.lib.harvard.edu/alma/990009993160203941/catalog			
+		"Belize, a bibliography [by] John L. Noyce, Brighton : Noyce, 1978"	^^^ refs	in Widener offsite / OCLC: 6786827	http://id.lib.harvard.edu/alma/990009097980203941/catalog			
+		"Belize, 2nd ed., Peggy Wright and Brian E. Coutts, compilers, Oxford, England ; Santa Barbara, Calif. : CLIO Press, c1993"	^^^ refs	in Widener offsite / OCLC: 43476670 [online] and OCLC: 31436781 [print] / 1st ed dig OL https://archive.org/details/belize00wood	http://id.lib.harvard.edu/alma/990036971360203941/catalog			
+		"A bibliography of the national collection in the Central Library, Bliss Institute, Belize, [Belize?] 1960"	^^^ refs	in Widener	http://id.lib.harvard.edu/alma/990041476990203941/catalog			
+		"Colonial manuscripts of Jalapa, Jutiapa and Santa Rosa departments in Guatemala [Washington, D.C. : Organization of American States, 1981]"	^^^ refs	in Tozzer offsite	http://id.lib.harvard.edu/alma/990010361500203941/catalog			
+		"Guatemala : reseña bibliográfica [Mexico] : CEIDEC, 1992."		in Widener	http://id.lib.harvard.edu/alma/990034840210203941/catalog			
+		"Catálogo general de libros, folletos y revistas editados en la Tipografía nacional de Guatemala desde 1892 hasta 1943"		in Widener offsite	http://id.lib.harvard.edu/alma/990035052890203941/catalog			
+		"Catálogo de publicaciones, 1968-2001 [Nueva Guatemala de la Asunción] : Centro de Estudios Folklóricos, Universidad de San Carlos de Guatemala, [2001]"		in Tozzer	http://id.lib.harvard.edu/alma/990101099810203941/catalog			
+		"Guatemala, Oxford, England ; Santa Barbara, Calif. : Clio Press, c1992."		in Tozzer and Widener offsite	http://id.lib.harvard.edu/alma/990026223080203941/catalog			
+		"Apéndice a la Bibliografía guatemalteca, Guatemala : Tip. Nacional, 1988"		in Widener	http://id.lib.harvard.edu/alma/990019092810203941/catalog			
+		"Guía geográfica de Guatemala, para investigadores = Research guide of Guatemala"		in Widener offsite	http://id.lib.harvard.edu/alma/990002832590203941/catalog			
+		Catálogo del Museo del Libro Antiguo: impresos guatemaltecos de la época colonial		in Widener offsite	http://id.lib.harvard.edu/alma/990061065310203941/catalog			
+		"Anthropological bibliography of aboriginal Guatemala, British Honduras; Bibliografía antropológica aborigen de Guatemala, Belice"		in Tozzer offsite / OCLC: 49551	http://id.lib.harvard.edu/alma/990009554740203941/catalog			
+		"Series guatemaltecas en el campo de las humanidades, 1886-1962"		in Widener offsite	http://id.lib.harvard.edu/alma/990045409970203941/catalog			
+		"Bibliografía guatemalteca y catálogo general de libros, folletos, periódicos, revistas, etc, Guatemala [Tip. Nacional] 1961-64."		in Widener offsite / 8 vol	http://id.lib.harvard.edu/alma/990068144990203941/catalog			
+		"Bibliografía de los estudios geográficos de la República de Guatemala desde 1574 hasta nuestros días, Guatemala : [Editorial del Ministerio de Educación Pública, ""José de Pineda Ibarra""] 1960"		in Widener	http://id.lib.harvard.edu/alma/990009472110203941/catalog			
+		Bibliografía guatemalteca de los siglos XVII y XVIII		in Tozzer offsite	http://id.lib.harvard.edu/alma/990001042260203941/catalog			
+		Bibliografía guatemalteca		in Widener	http://id.lib.harvard.edu/alma/990009558260203941/catalog			
+		"Bibliografía guatemalteca, catálogo de obras, folletos, etc., publicados en Guatemala desde la independencia hasta el año de 1850. T. 1 [1821-1830]"			http://id.lib.harvard.edu/alma/990044545640203941/catalog			
+		"Bibliografía de la imprenta Guatemala en los siglos XVII y XVIII,"		digitised	http://id.lib.harvard.edu/alma/990062362150203941/catalog			
+		Bibliothèque mexico-guatémalienne : précédée d'un coup d'œil sur les études américaines dans leurs rapports avec les études classiques et suivie du tableau par ordre alphabétique des ouvrages de linguistique américaine contenus dans le même volume : rédigée et mise en ordre d'après les documents de sa collection américaine		digitised	http://id.lib.harvard.edu/alma/990041623240203941/catalog			
+		"Honduras, Oxford, England ; Santa Barbara, Calif. : Clio Press, c1992"		in Widener	http://id.lib.harvard.edu/alma/990024410530203941/catalog			
+		Honduras bibliography and research guide		in Widener	http://id.lib.harvard.edu/alma/990002957970203941/catalog			
+		Bibliografía hondureñ		in Widener	http://id.lib.harvard.edu/alma/990035048820203941/catalog			
+		Indice de la bibliografía hondureña		in Widener	http://id.lib.harvard.edu/alma/990035049000203941/catalog			
+		"Boletín de bibliografía yucateca : organo de la Biblioteca Yucateca ""Crescencio Carrillo y Ancona"" del Museo Arqueológico e Histórico de Yucatán"			http://id.lib.harvard.edu/alma/990045702110203941/catalog			
+		Ensayo bibliográfico yucatanense : hasta la introducción de la imprenta en esta Provincia en 1813			http://id.lib.harvard.edu/alma/990023655920203941/catalog			
+		Bibliografía antropológica de Yucatán			http://id.lib.harvard.edu/alma/990004691600203941/catalog			
+		Enciclopedia yucatanense			http://id.lib.harvard.edu/alma/990016841210203941/catalog			
+		A catalog of the Yucatán collection on microfilm in the University of Alabama libraries			http://id.lib.harvard.edu/alma/990009761470203941/catalog			
+		Bibliografía yucateca			http://id.lib.harvard.edu/alma/990047114300203941/catalog			
+		"Notes on the bibliography of Yucatan and Central America : comprising Yucatan, Chiapas, Guatemala (the ruins of Palenque, Ocosingo, and Copan), and Oaxaca (ruins of Mitla) : a list of some of the writers on this subject from the sixteenth century to the present time"		digitised	http://id.lib.harvard.edu/alma/990006958270203941/catalog			
+		"Books, engravings, original drawings, maps, &c., relating to Central & South America"		OCLC: 226945723				
+		"Recent acquisitions of books, etc. from Central America"		OCLC: 948267672				
+		La frontera Sur de México : breve ensayo bibliográfico /		OCLC: 993657026				
+		Catálogo cartográfico de Belice (1511-1880) = Cartographic catalog of Belize (1511-1880) /		OCLC: 948253475				
+		"Guía del Archivo de Límites y Ríos México-Belice, 1723-1980 /"		OCLC: 948117710				
+		Caribe maya : historia y bibliografía de los mayas antiguos /		OCLC: 607862804				
+		A bibliography of books on Belize in the national collection : first supplement to the fourth edition /		OCLC: 741949537				
+		"A bibliography of published material on Belize as found in the National Collection, the Central Library, Bliss Institute, Belize City /"		OCLC: 894471470				
+		"The Third World. Guatemala, Honduras, Belize, Costa Rica, Panama : a bibliography / "		OCLC: 21309843				
+		Bibliografia sobre Belice. 		OCLC: 12111590				
+		"Belize (British Honduras),"		OCLC: 979627				
+		"A bibliography of books on Belize in the national collection : the Central Library, Bliss Institute, Belize City, Belize, 1977"		OCLC: 5505458				
+		"A bibliography of books on Belize in the national collection : 
+first supplement to the fourth edition : the Central Library, Bliss Institute, Belize City, Belize, 1979."		OCLC: 6994654				
+		La frontera Sur de México : breve ensayo bibliográfico / 		OCLC: 3914477				
+		"British Honduras; a bibliographical list, compiled by Florence S. Hellman, Chief Bibliographer"		OCLC: 17652288				
+		The catalogue of the West India Reference Library		OCLC: 300392834				
+		Bibliografia sobre Belice		OCLC: 320047828				

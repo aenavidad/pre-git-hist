@@ -1,0 +1,597 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Draft:Bacalar District</title>
+    <ns>118</ns>
+    <id>68528761</id>
+    <revision>
+      <id>1088420501</id>
+      <parentid>1086099864</parentid>
+      <timestamp>2022-05-17T22:27:54Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Alter: pages, title, url. URLs might have been anonymized. Add: s2cid. Removed parameters. Formatted [[WP:ENDASH|dashes]]. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_CommandLine 170/2973</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31120" xml:space="preserve">{{About|an administrative division of [[Captaincy General of Yucatán|colonial Yucatan]]|the modern administrative division|Bacalar Municipality|the city|Bacalar}}
+{{short description|Administrative division of colonial Yucatan from 1544 to 1821}}
+{{use dmy dates|date=August 2021}}
+{{Use British English|date=August 2021}}
+
+{{Infobox former subdivision
+|_noautocat             = &lt;!-- "no" for no automatic categorization --&gt;
+|native_name            = {{native name|es|El municipio de la villa de Salamanca de Bacalar|parensize=85%}}
+|conventional_long_name = District of Salamanca de Bacalar
+|common_name            = Bacalar
+|subdivision            = Colony
+|nation                 = Spain
+|demonym                = {{hlist|salmantino|salamanquino|bacalareño}}
+|status_text            = Municipality of [[Captaincy General of Yucatan|colonial Yucatan]]
+&lt;!-- Titles and names of the first and last leaders and their deputies --&gt;
+|title_leader           = [[List of viceroys of New Spain|Viceroy]]
+|title_deputy           = [[Governor of Yucatán|Governor]]
+|leader1                = [[Antonio de Mendoza]] (''first'')
+|leader2                = [[Juan O'Donojú]] (''last'')
+|year_leader1           = 1535-1550
+|year_leader2           = 1821-1821
+|deputy1                = [[Francisco de Montejo]] (''first'')
+|year_deputy1           = 1527–1540
+|deputy2                = [[Juan María Echeverri]] (''last'')
+|year_deputy2           = 1821-1821
+&lt;!-- Legislature --&gt;
+|legislature            = [[Real Audiencia of Mexico]]
+|house1                 = 
+|house2                 = 
+|type_house1            = 
+|type_house2            = 
+&lt;!-- General information --&gt;
+|capital                = [[Bacalar|Salamanca de Bacalar]]
+|coordinates            = {{coord|20|58|N|89|37|W|region:MX_type:city}}
+|motto                  = {{native name|la|[[Plus ultra]]|paren=no}} {{small|(''Further beyond'')}}
+|anthem                 = {{native name|es|[[Marcha Real]]|paren=no}} {{small|(''Royal March'')}}&lt;br&gt;&lt;div style="display:inline-block;margin-top:0.4em;"&gt;{{center|[[File:Himno Nacional de España.ogg]]}}&lt;/div&gt;
+|political_subdiv       = &lt;!-- Accepts wikilinks --&gt;
+|today                  = {{hlist|[[Belize]]|[[Guatemala]]|[[Mexico]]}}
+&lt;!-- Rise and fall, events, years and dates --&gt;
+&lt;!-- Only fill in the start/end event entry if a specific article exists. Don't just say "abolition" or "declaration". --&gt;
+|year_start             = 1544
+|year_end               = 1821
+|event_start            = Founding of Salamanca
+|date_start             = 4 March
+|event_end              = Yucatecan independence
+|date_end               = 27 September
+|event1                 = Tipu revolt &amp; English settlement
+|date_event1            = ''s.d.'' 1638
+|event2                 = Retreat of Salamanca
+|date_event2            = ''s.d.'' 1652
+|event3                 = ''Reducciones''
+|date_event3            = ''s.d.'' 1695
+|event4                 = Return of Salamanca
+|date_event4            = ''s.d.'' 1729
+|event5                 = 
+|date_event5            = 
+|life_span              = 
+|era                    = [[Spanish conquest of Yucatan|Spanish conquest]] to [[Mexican War of Independence|Yucatecan independence]]
+|event_pre              = &lt;!-- Optional: A crucial event that took place before before "event_start" --&gt;
+|date_pre               = 
+|event_post             = &lt;!-- Optional: A crucial event that took place before after "event_end" --&gt;
+|date_post              = 
+&lt;!-- Images --&gt;
+|image_flag             = Flag of Cross of Burgundy.svg
+|image_border           = &lt;!-- Default: "border"; for non-rectangular flag, type "no" --&gt;
+|flag_type              = &lt;!-- Displayed text for link under flag. Default "Flag" --&gt;
+|flag                   = Cross of Burgundy
+|image_coat             = Escudo de Merida Yucatan.svg
+|symbol_type            = &lt;!-- Displayed text for link under symbol. Default "Coat of arms" --&gt;
+|symbol                 = &lt;!-- Link target under symbol image. Default: Coat of arms of {{{common_name}}} --&gt;
+|image_map              = Yucatan-Peninsula-1822 Map.jpg
+|image_map_caption      = &lt;div style="display:inline-block;margin-top:0.4em;"&gt;Map of Spanish Yucatan showing Salamanca de Bacalar.&lt;/div&gt;
+&lt;!-- Flag navigation: Preceding and succeeding entities "p1" to "p5" and "s1" to "s8" --&gt;
+|p1                     = Chetumal Province
+|flag_p1                = &lt;!-- Default: "Flag of {{{p1}}}.svg" (size 30) --&gt;
+|border_p1              = &lt;!-- Default: "border"; for non-rectangular flag, type "no" --&gt;
+|image_p1               = &lt;!-- Use: [[Image:Sin escudo.svg|20px|Image missing]] --&gt;
+|p2                     = Dzuluinicob
+|flag_p2                = &lt;!-- Default: "Flag of {{{p1}}}.svg" (size 30) --&gt;
+|border_p2              = &lt;!-- Default: "border"; for non-rectangular flag, type "no" --&gt;
+|image_p2               = &lt;!-- Use: [[Image:Sin escudo.svg|20px|Image missing]] --&gt;
+|p3                     = Uaymil
+|flag_p3                = &lt;!-- Default: "Flag of {{{p1}}}.svg" (size 30) --&gt;
+|border_p3              = &lt;!-- Default: "border"; for non-rectangular flag, type "no" --&gt;
+|image_p3               = &lt;!-- Use: [[Image:Sin escudo.svg|20px|Image missing]] --&gt;
+|s1                     = British Honduras
+|flag_s1                = English Red Ensign 1620.svg
+|border_s1              = &lt;!-- Default: "border"; for non-rectangular flag, type "no" --&gt;
+|image_s1               = &lt;!-- Use: [[Image:Sin escudo.svg|20px|Image missing]] --&gt;
+|s2                     = First Mexican Empire
+|flag_s2                = First flag of the Mexican Empire.svg
+&lt;!-- Area and population of a given year (up to 5) --&gt;
+|stat_year1             = 1544
+|stat_area1             = 1000
+|stat_pop1              = 500
+|stat_year2             = 1638
+|stat_area2             = 1000
+|stat_pop2              = 500
+| area_lost1            = south
+| lost_to1              = {{hlist|Tipu|Belize}}
+| area_lost_year1       = 1638
+| area_gained1          = &lt;!-- Significant areas the territory gained --&gt;
+| gained_from1          = &lt;!-- Where it transferred from --&gt;
+| area_gained_year1     = &lt;!-- The year it happened --&gt;
+&lt;!-- Governance --&gt;
+|government_type        = [[Absolute monarchy]] with [[theocracy|theocratic]] and [[oligarchy|oligarchic]] features
+| Status                = &lt;!-- The status(es) the unit held --&gt;
+| Government            = &lt;!-- The name of the local government --&gt;
+| Arms                  = &lt;!-- Coat of arms (display option 2) --&gt;
+| arms_caption          =  
+| Civic                 = &lt;!-- Civic seal, logo or other --&gt;
+| civic_caption         = 
+| HQ                    = &lt;!-- Headquarters --&gt;
+| CodeName              = &lt;!-- Reference code series name --&gt;
+| Code                  = &lt;!-- Unique reference code for unit in the series--&gt;
+&lt;!-- Subdivisions --&gt;
+| Divisions             = Settlement
+| DivisionsNames        = {{hlist|xxx|xxx}}
+| DivisionsMap          = &lt;!-- Map of the subdivisions--&gt;
+| divisions_map_caption = 
+&lt;!-- Memberships --&gt;
+| membership_title1     = &lt;!-- Type of unit it was part of--&gt;
+| membership1           = &lt;!-- Name of the unit it was part of --&gt;
+| membership_title2     = 
+| membership2           = 
+| membership_title3     = 
+| membership3           = 
+| membership_title4     = 
+| membership4           = 
+| membership_title5     = 
+| membership5           = 
+|footnotes              = &lt;!-- Accepts wikilinks --&gt;
+}}
+
+The '''district of Salamanca de Bacalar''' was one of four districts or ''municipios'' in [[Captaincy General of Yucatan|colonial Yucatan]] from 1544 to 1821.
+
+== Geography ==
+[[File:Detail of nvvos orbvs 20 May 1570 Theatrum Orbis Terrarum.png|thumb|upright=1.5|Yucatan peninsula and the Bay of Honduras in the mid-16th century (1570 by A. Ortelius via Ruderman)]]
+[[File:Amérique septentrionale par N (...)Sanson Nicolas btv1b8469958t 1.jpg|thumb|upright=2|alt=Map showing Spanish settlements in the Yucatan peninsula and northern Central America (1650 by Nicolas Sanson d'Abbeville)|Yucatan peninsula and the Bay of Honduras in the early 17th century (1650 by N. Sanson d'Abbeville via BnF)]]
+[[File:Service-gmd-gmd4-g4410-g4410-ma001001.jpg|thumb|upright=2|alt=Map showing Spanish settlements in the Yucatan peninsula and northern Central America (1656 by Nicolas Sanson d'Abbeville)|Yucatan peninsula and the Bay of Honduras in the early 17th century (1656 by N. Sanson d'Abbeville via LC)]]
+[[File:Carte du Mexique et de la Floride des Terres Angloises et des Isles Antilles du Cours et des Environs de la Riviere de Mississipi.jpg|thumb|upright=2|alt=Map showing Spanish settlements in the Yucatan peninsula and northern Central America (1703 by G. de L'Isle via Huntington)|Yucatan peninsula and the Bay of Honduras in the early 18th century (1703 by G. de L'Isle via Huntington)]]
+[[File:Service-gmd-gmd3-g3300-g3300-ct007369.jpg|thumb|upright=2|alt=Map showing Spanish settlements in the Yucatan peninsula and northern Central America (circa 1740 by M. Seutter &amp; T. C. Lotter via LC)|Yucatan peninsula and the Bay of Honduras in the early 18th century ({{circa|1740}} by M. Seutter &amp; T. C. Lotter via LC)]]
+
+=== Physical ===
+
+=== Political ===
+
+== History ==
+
+=== Prelude ===
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Jones 1989 pp17-21 division = First Encomienda 1544-1617, New Encomienda 1618-1637, Resistance and rebellion 1638-1677, last epochs 1677-1707
+
+== Society ==
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+== Government ==
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+== Economy ==
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+== Legacy ==
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.{{sfn|Adams|Macleod|1998|p=1
+}}&lt;ref
+group=note&gt;test
+&lt;/ref&gt;
+
+== Notes ==
+{{reflist|group=note
+}}
+
+== Citations ==
+{{reflist
+}}
+
+== References == &lt;!-- Please keep the alphabetical sorting here - makes it a whole lot easier to navigate :) --&gt;
+{{refbegin
+}}
+
+=== Serials ===
+
+=== Theses ===
+# {{cite thesis |last1=Bolland |first1=Orlando N. |date=June 1975 |title=The Formation of a Colonial Society : Belize, from conquest to Crown colony |publisher=University of Hull |place=Hull, Eng. |type=PhD |oclc=500387462
+}}
+# {{cite thesis |last1=Breuer |first1=Kimberly H. |date=1993 |title=Colonies of Happenstance : The English settlements in Central America, 1525–1787 |publisher=University of Texas |place=Arlington, TX |type=MA |oclc=35313362
+}}
+# {{cite thesis |last1=Breuer |first1=Kimberly H. |date=2004 |title=Reshaping the cosmos: Maya society on the Yucatecan frontier |publisher=Vanderbilt University |place=Nashville, TN |type=PhD |url=https://www.proquest.com/docview/305104367 |url-access=subscription
+}}
+# {{cite thesis |last1=Caso Barrera |first1=Laura |date=2000 |title=Caminos en la selva: Relaciones entre Yucatán y el Petén siglos XVII-XIX |type=PhD |publisher=El Colegio de México |place=Mexico City |url=https://www.proquest.com/docview/2592957686 |url-access=subscription
+}}
+# {{cite thesis |last1=Chuchiak IV |first1=John F. |date=2000 |title=The Indian Inquisition and the extirpation of idolatry: The process of punishment in the provisorato de indios of the Diocese of Yucatan, 1563–1812 |publisher=Tulane University |place=New Orleans, LA |type=PhD |url=https://www.proquest.com/docview/304628157 |url-access=subscription
+}}
+# {{cite thesis |last1=Conover Blancas |first1=Carlos |date=2013 |title=Llave y custodia de esta provincia : el presidio de San Felipe Bacalar ante los asentamientos británicos del sur - oriente de la Península de Yucatán (1779 - 1798) |type=MA |publisher=Universidad Nacional Autónoma de México |place=Mexico City |url=http://132.248.9.41:8880/jspui/handle/DGB_UNAM/TES01000696603
+}}
+# {{cite thesis |last1=Finamore |first1=Daniel R. |date=1994 |type=PhD |title=Sailors and Slaves on the Wood-Cutting Frontier : Archaeology of the British bay settlement, Belize |publisher=Boston University |place=Boston, MA |oclc=35313422
+}}
+# {{cite thesis |last1=Galvin |first1=Peter R. |date=December 1991 |title=The Pirates' Wake : A geography of piracy and pirates as geographers in colonial Spanish America, 1536–1718 |type=PhD |publisher=Louisiana State University |place=Baton Rouge, LA |url=https://digitalcommons.lsu.edu/gradschool_disstheses/5233
+}}
+# {{cite thesis |last1=Garcia |first1=Octavio |date=2015 |title=African slavery and the impact of the Haitian revolution in Bourbon New Spain: Empire-building in the Atlantic age of revolution, 1750-1808 |type=PhD |publisher=University of Arizona |place=Tucson, AZ |url=https://www.proquest.com/docview/1698102241 |url-access=subscription
+}}
+# {{cite thesis |last1=González Cicero |first1=Stella María |date=1976 |title=Yucatan, los Franciscanos y el primer obispo fray Francisco de Toral (1517 - 1571) |type=PhD |publisher=El Colegio de México |place=Mexico City |url=https://www.proquest.com/docview/2627562843 |url-access=subscription
+}}
+# {{cite thesis |last1=Hunt |first1=Sophia Betsworth |date=2017 |title=Grasping the Gulf: Conquest and Indigenous Power from Florida to Yucatán in the Age of Revolutions |type=PhD |publisher=University of Michigan |place=Ann Arbor, MI |url=https://www.proquest.com/docview/1989792074 |url-access=subscription
+}}
+# {{cite thesis |last1=McJunkin |first1=David M. |date=1991 |type=PhD |title=Logwood : An inquiry into the historical biogeography of Haematoxylum campeachianum L. and related dyewoods of the neotropics |publisher=University of California |place=Los Angeles, CA |oclc= 24057056
+}}
+# {{cite thesis 
+| type          = PhD 
+| last          = Meissner 
+| first         = Nathan J. 
+| date          = 2014 
+| title         = Technological systems of small point weaponry of the Postclassic Lowland Maya (a.d. 1400 - 1697) 
+| publisher     = Southern Illinois University
+| place         = Carbondale, Illinois
+| url           = https://www.proquest.com/docview/1660540689
+| url-access    = subscription
+}}
+# {{cite thesis 
+| type          = PhD 
+| last          = Morandi 
+| first         = Steven J. 
+| date          = 2010 
+| title         = Xibun Maya: The archaeology of an early Spanish colonial frontier in southeastern Yucatán 
+| publisher     = Boston University
+| place         = Boston, Massachusetts
+| url           = https://www.proquest.com/docview/305184024
+| url-access    = subscription
+}}
+# {{cite thesis |last1=Nunez-Reynoso |first1=Sergio Roberto |date=2000 |title=Don José de Gálvez, Visitador General de la Nueva España, impacto de la visita en la Península de Yucatán para la aplicación de las Reformas Borbónicas |type=PhD |publisher=Tulane University |place=New Orleans, LA |url=https://www.proquest.com/docview/304624931 |url-access=subscription
+}}
+# {{cite thesis |last1=Oland |first1=Maxine Heather |date=2009 |title=Long-term indigenous history on a colonial frontier: Archaeology at a 15th-17th century Maya village, Progresso Lagoon, Belize |type=PhD |publisher=Northwestern University |place=Evanston, IL |url=https://www.proquest.com/docview/304971330 |url-access=subscription
+}}
+# {{cite thesis |last1=Rushton |first1=Elizabeth A. C. |date=December 2014 |type=PhD |title=Under the Shade I Flourish : An environmental history of northern Belize over the last three thousand five hundred years |publisher=University of Nottingham |place=Nottingham, Eng. |url=http://eprints.nottingham.ac.uk/id/eprint/27615
+}}
+# {{cite thesis |last1=Vazquez Barke |first1=Gabriela |date=August 2012 |title=BACALAR EN EL SIGLO XVII : Colonización y resistencia |type=MA |place=Mexico City |publisher=Centro de Investigaciones y Estudios Superiores en Antropología Social |url=http://ciesas.repositorioinstitucional.mx/jspui/handle/1015/761
+}}
+# {{cite thesis |last1=Vazquez Barke |first1=Gabriela |date=2016 |title=Los poderes y los hombres : El Golfo de Honduras en tiempos de disputa |type=PhD |place=Mexico City |publisher=Centro de Investigaciones y Estudios Superiores en Antropología Social |url=http://ciesas.repositorioinstitucional.mx/jspui/handle/1015/336
+}}
+# {{cite thesis |last1=Wallace |first1=Geoffrey H. |date=2020 |title=The History and Geography of Beeswax Extraction in the Northern Maya Lowlands, 1540–1700 |type=PhD |publisher=McGill University |place=Montreal, Quebec |url=https://www.proquest.com/docview/2516253548 |url-access=subscription
+}}
+
+=== Journals ===
+# {{cite journal
+|last1= Aliphat Fernández
+|first1=Mario M.
+|last2=Caso Barrera
+|first2=Laura
+|date=2013
+|title= La construcción histórica de las Tierras Bajas Mayas del Sur por medio de mapas esquemáticos
+|url= https://historiamexicana.colmex.mx/index.php/RHM/article/view/174
+|doi= 
+|journal= Historia Mexicana
+|series= 
+|volume= 63
+|issue= 2
+|pages= 839–875
+|jstor=
+}}
+# {{cite journal |last1=Awe |first1=Jaime J. |last2=Helmke |first2=Christophe |date=April 2015 |title=The Sword and the Olive Jar : Material evidence of seventeenth-century Maya-European Interaction in central Belize |journal=Ethnohistory |volume=62 |issue=2 |pages=333–360 |doi=10.1215/00141801-2854369
+}}
+# {{cite journal |last1=Baudot |first1=Georges |date=1986 |title=Dissidences indiennes et complicités flibustières dans la Yucatán du XVIIe siècle |journal=Caravelle Cahiers du Monde Hispanique et Luso-Brésilien |volume=46 |pages=21–33 |url=https://www.persee.fr/doc/carav_0008-0152_1986_num_46_1_2260 |issn=2272-9828
+}}
+# {{cite journal |last1=Bialuschewski |first1=Arne |date=1 January 2017 |title=Slaves of the Buccaneers : Mayas in captivity in the second half of the seventeenth century |journal=Ethnohistory |volume=64 |issue=1 |pages=41–63 |doi=10.1215/00141801-3688359
+}}
+# {{cite journal
+|last1= Bialuschewski
+|first1= Arne
+|date= 2020
+|title= Juan Gallardo: A Native American Buccaneer
+|url= 
+|doi= 10.1215/00182168-8178200
+|journal= Hispanic American Historical Review
+|series= 
+|volume= 100
+|issue= 2
+|pages= 233–256
+|s2cid= 218799883
+}}
+# {{cite journal
+|last1= Botella-Ordinas
+|first1= E.
+|date= 2010
+|title= DEBATING EMPIRES, INVENTING EMPIRES: British Territorial Claims Against the Spaniards in America, 1670—1714
+|url= 
+|journal= Journal for Early Modern Cultural Studies
+|series= 
+|volume= 10
+|issue= 1
+|pages= 142–168
+|jstor=23267356
+}}
+# {{cite journal |last1=Bulmer-Thomas |first1=Barbara |last2=Bulmer-Thomas |first2=Victor |date=19 November 2016 |title=Los orígenes del asentamiento de Belice / The Origins of the Belize Settlement |journal=TEMPUS Revista en Historia General |volume=4 |issn=2422-2178 |pages=137–160 |url=https://revistas.udea.edu.co/index.php/tempus/article/view/326161
+}}
+# {{cite journal |last1=Camille |first1=Michael A. |last2=Espejo-Saavedra |first2=Rafael |date=1996 |title=Historical Geography of the Belizean Logwood Trade |journal=Yearbook (Conference of Latin Americanist Geographers) |volume=22 |jstor=25765830 |pages=77–85
+}}
+# {{cite journal |last1=Chuchiak IV |first1=John F. |date=2003 |title=By faith, not arms : The role of franciscan reducciones and the frontier mission experience in the subjugation of the Maya hinterland of colonial Yucatán, 1602–1672 |journal=Svensk Missionstidskrift |volume=91 |issue=2 |issn=0346-217X |pages=215–248
+}}
+# {{cite journal |last1=Contreras Sánchez |first1=Alicia del C. |date=1 July 1987 |title=El palo de tinte, motivo de un conflicto entre dos naciones, 1670-1802 |journal=Historia Mexicana |volume=37 |issue=1 |pages=49–74 |url=https://historiamexicana.colmex.mx/index.php/RHM/article/view/2034 |issn=2448-6531
+}}
+# {{cite journal |last1=Craig |first1=Alan K. |date=April 1969 |title=Logwood as a Factor in the Settlement of British Honduras |journal=Caribbean Studies |volume=9 |issue=1 |pages=53–62 |jstor=25612108
+}}
+# {{cite journal
+|last1= Zamora Castellanos
+|first1=P.
+|date=1941
+|title= Monografías departamentales : Izabal: Extracto de un estudio, por el socio, General e Ingeniero Pedro Zamora Castellanos
+|url= https://archive.org/details/AnalesAGHGTomoXVIIAnyoXVIINo3Septiembre1941
+|doi= 
+|journal= Anales de la Sociedad de Geografía e Historia
+|series= 
+|volume= 17
+|issue= 3
+|pages= 168–187
+|jstor=
+}}
+
+=== Print ===
+# {{cite book 
+|last1= Ancona
+|first1= Eligio
+|title= Historia de Yucatan desde la època mas remota hasta nuestros dias
+|date= 1878
+|volume= 2
+|publisher= Imprenta de M. Heredia Argüelles
+|location= Merida
+|edition= 1st
+|url= https://www.google.com/books/edition/Historia_de_Yucatán_desde_la_época_sic/FDcCAAAAYAAJ?hl=en&amp;gbpv=1
+}}
+# {{cite book 
+|last1= Bohun
+|first1= Edmund
+|title= A geographical dictionary representing the present and ancient names of all the countries, provinces, remarkable cities, universities, ports, towns, mountains, seas, streights, fountains, and rivers of the whole world, their distances, longitudes and latitudes : with a short historical account of the same, and their present state : to which is added an index of the ancient and Latin names ... 
+|date= 1688
+|volume= 
+|publisher= Printed for Charles Brome, at the Gun, at the West-End of St. Pauls
+|location= London
+|edition=1st
+|url= https://www.proquest.com/docview/2240955772
+|url-access= subscription
+}}
+# {{cite book 
+|last1= Bohun
+|first1= Edmund
+|title=A geographical dictionary representing the present and ancient names of all the countries, provinces, remarkable cities, universities, ports, towns, mountains, seas, streights, fountains, and rivers of the whole world, their distances, longitudes and latitudes : with a short historical account of the same, and their present state : to which is added an index of the ancient and Latin names ... 
+|date= 1695
+|volume= 
+|publisher= Printed for Charles Brome, at the Gun, at the West-End of St. Pauls
+|location= London
+|edition=4th
+|url= https://www.proquest.com/docview/2248501804
+|url-access= subscription
+}}
+# {{cite book |last1=Calderón Quijano |first1=José Antonio |date=1944 |title=BELICE : 1663 (?) - 1821 |publisher=Escuela de Estudios Hispanoamericanos |place=Seville |url=http://simurg.bibliotecas.csic.es/viewer/image/CSIC000048031/1/ |series=Publicaciones de la Escuela de Estudios Hispanoamericanos de la Universidad de Sevilla |volume=5
+}}
+# {{cite book |last1=Chamberlain |first1=Robert S. |date=1948 |title=The Conquest and Colonization of Yucatan 1517–1550 |publisher=Carnegie Institution of Washington |place=Washington, DC |series=Carnegie Institution of Washington Publication |volume=582 |hdl=2027/txu.059173008409431 |url=https://hdl.handle.net/2027/txu.059173008409431 |url-access=limited
+}}
+# {{cite book
+| editor-last1  = Chase
+| editor-first1 = Arlen F.
+| editor-last2  = Rice
+| editor-first2 = Prudence M.
+| title         = The Lowland Maya Postclassic
+| date          = 1985
+| publisher     = University of Texas Press
+| location      = Austin, Texas
+| url           = 
+| url-access    =
+| oclc          = 10924247
+| hdl           = 2027/txu.059173018481763
+}}
+# {{cite book 
+|last1= Duval
+|first1= Pierre
+|title= Tables géographiques de tous les pays du monde
+|date= 1651
+|volume=
+|publisher= Antoine de Sommaville
+|location= Paris
+|edition=
+|url= https://www.proquest.com/docview/2090342087
+|url-access=subscription
+}}
+# {{cite book |last1=Fancourt |first1=Charles St. John |date=1854 |title=The History of Yucatan : From its discovery to the close of the seventeenth century |publisher=John Murray |place=London |ol=6914420M 
+}}
+# {{cite book |last1=Gerhard |first1=Peter |date=1993 |title=The Southeast Frontier of New Spain |edition=Rev. |publisher=University of Oklahoma Press |place=Norman, OK |isbn=0806125438
+}}
+# {{cite book |last1=Graham |first1=Elizabeth |date=2011 |title=Maya Christians and their Churches in Sixteenth-Century Belize |series=Maya Studies |publisher=University Press of Florida |place=Gainesville, FL |isbn=9780813036663
+}}
+# {{Cite map 
+| first1        = Heidi 
+| last1         = Hausman
+| date          = 22 February 2013 
+| title         = Mayan Sites/ Ruinas Maya
+| edition       = 
+| scale         =  
+| publisher     = Conservation Biology Institute
+| place         = Corvallis, Oregon
+| url           = https://databasin.org/datasets/3aa6b24c882144d6a4197bd277ae753d/
+| isbn          = 
+}}
+# {{cite book
+| editor-last1  = Jones
+| editor-first1 = Grant D.
+| title         = Anthropology and history in Yucatán
+| series        = The Texas Pan American series
+| date          = 1977
+| publisher     = University of Texas Press
+| location      = Austin, Texas
+| url           = https://hdl-handle-net.ezp-prod1.hul.harvard.edu/2027/heb.03643
+| url-access    = subscription
+| oclc          = 7550928
+| hdl           = 2027/heb.03643
+}}
+# {{cite book
+| last1         = Jones
+| first1        = Grant D.
+| title         = Maya resistance to Spanish rule : time and history on a colonial frontier
+| series        = 
+| date          = 1989
+| publisher     = University of New Mexico Press
+| location      = Albuquerque, New Mexico
+| url           = 
+| url-access    = 
+| oclc          = 20012099
+| hdl           = 2027/mdp.39015015491791
+}}
+# {{cite book
+| last1         = Jones
+| first1        = Grant D.
+| title         = The conquest of the last Maya kingdom
+| series        = 
+| date          = 1998
+| publisher     = Stanford University Press
+| location      = Stanford, California
+| url           = https://hdl-handle-net.ezp-prod1.hul.harvard.edu/2027/heb.03515
+| url-access    = subscription
+| oclc          = 38747674
+| hdl           = 2027/heb.03515
+}}
+# {{cite book |last1=Jones |first1=Grant D. |date=1998 |title=The Conquest of the Last Maya Kingdom |publisher=Stanford University Press |place=Stanford, CA |isbn=0804733171
+}}
+# {{cite thesis |last1=Marcus |first1=Linda C. |date=1990 |title=English Influence on Belize and the Petén Region of Northern Guatemala, 1630 to 1763 |type=PhD |publisher=Southern Methodist University |place=Dallas, TX |oclc=24080926
+}}
+# {{cite book |last1=Marley |first1=David F. |date=2008 |title=Wars of the Americas : A chronology of armed conflict in the western hemisphere, 1492 to the present |edition=2nd |publisher=ABC-CLIO |place=Santa Barbara, CA |isbn=9781598841008
+}}
+# {{cite book |last1=Marley |first1=David F. |date= 2010 |title=Pirates of the Americas |volume=1 |publisher=ABC-CLIO |place=Santa Barbara, CA |isbn=9781598842012
+}}
+# {{cite book |last1=Molina Solís |first1=Juan F. |date=1910 |title=Historia de Yucatán durante la dominación española |volume=2 |publisher=Imprenta de la Lotería del Estado |place=Merida, Yuc. |url=http://simurg.bibliotecas.csic.es/viewer/image/990002353440204201_V02/1/
+}}
+# {{cite book
+| editor-last1  = Orser
+| editor-first1 = Charles E.
+| title         = Encyclopedia of Historical Archaeology
+| date          = 2002
+| publisher     = Routledge
+| location      = London &amp; New York
+| url           = 
+| url-access    =
+| oclc          = 47894546
+}}
+# {{cite book
+| last1         = Ortelius
+| first1        = Abraham
+| title         = Theatrum orbis terrarum
+| series        = 
+| date          = 1570
+| publisher     = Auctoris aere &amp; cura impressum absolutumqe apud aegid, Coppenium Diesth
+| location      = Antwerp
+| url           = https://www.raremaps.com/gallery/detail/80561
+| url-access    = 
+| oclc          = 270120733
+| hdl           = 
+}}
+# {{cite book
+| last1         = Pugh
+| first1        = Timothy W.
+| last2         = Cecil
+| first2        = Leslie G.
+| title         = Maya Worldviews at Conquest
+| series        = Mesoamerican Worlds Series
+| date          = 2004
+| publisher     = University Press of Colorado
+| location      = Boulder, Colorado
+| url           = https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/3817
+| url-access    = subscription
+| oclc          = 558844310
+}}
+# {{cite book |last1=Quezada |first1=Sergio |date=2011 |title=La colonización de los mayas peninsulares |series=Biblioteca Básica de Yucatán |isbn=9786077824275 |url=http://unidadeditorial.yucatan.gob.mx/la-colonizacion-de-los-mayas-peninsulares.php |volume=18 |publisher=Secretaría de Educación del Gobierno del Estado de Yucatán |place=Merida, Yuc.
+}}
+# {{cite book
+| last1         = Rice
+| first1        = Prudence M.
+| title         = Maya Political Science: Time, Astrology, and the Cosmos
+| series        = The Linda Schele series in Maya and pre-Columbian studies
+| date          = 2004
+| publisher     = University of Texas Press
+| location      = Austin, Texas
+| url           = https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/2977
+| url-access    = subscription
+| oclc          = 60612439
+}}
+# {{cite book
+| editor-last1  = Sharer
+| editor-first1 = Robert J.
+| editor-last2  = Traxler
+| editor-first2 = Loa P.
+| title         = The Ancient Maya
+| date          = 2006
+| edition       = 6th
+| publisher     = Stanford University Press
+| location      = Stanford, California
+| url           = 
+| url-access    =
+| oclc          = 57577446
+| hdl           = 2027/mdp.39015062626216
+}}
+# {{cite book
+| editor-last1  = Walker
+| editor-first1 = Debra S.
+| title         = Perspectives on the Ancient Maya of Chetumal Bay
+| date          = 2016
+| publisher     = University Press of Florida
+| location      = Gainesville, Florida
+| url           = https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/48863
+| url-access    = subscription
+| oclc          = 948670056
+}}
+
+{{refend}}
+
+{{Spanish Empire}}
+{{Authority control}}</text>
+      <sha1>3hb5c7ua1r68cm3b2tcfv5b11zce7ib</sha1>
+    </revision>
+  </page>
+</mediawiki>

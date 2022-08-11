@@ -1,0 +1,10 @@
+Table 1
+Sheet	Column	Source	Notes
+Trade + GDP 2020	Trade	((Imports Lsd + Exports Lsd) * UK CPI) ÷ USD to GBP * USD to BZD or (((Imports BHD + Exports BHD) / Lsd to BHD) * UK CPI) ÷ USD to GBP * USD to BZD	Figures in 2020 currency
+	GDP	GDP USD * US CPI * USD to BZD	Figures in 2020 currency
+Population	Estimates	(Nearest future census – Nearest past census) ÷ (Year of nearest future census – Year of nearest past census) + Census or estimate of past year	
+Storm Deaths	S S 1 to 7	0 for storms of distance > 0 miles. 0.00001 * Population Estimates for all other storms	
+	R S 1 to 7	(S S Deaths ÷ Population Estimates) * 1000	Ratio denominator = 1000
+Storm Damages	A S 1 to 7	Damage USD * US CPI * USD to BZD for storms with damage data in USD. Damage BZD * Belize CPI for storms with damage data in BZD. (Damage BHD ÷ Lsd to BHD * UK CPI) ÷ USD to GBP * USD to BZD for storms with damage data in BHD.	Figures in 2020 BZD
+	S S 1 to 7	0 for storms of distance > 0 miles. 0.001 * Trade 2020 for storms of distance = 0 miles and prior to 1960. 0.001 * GDP 2020 for storms of distance = 0 miles and on or after 1960.	Figures in 2020 BZD
+	R S 1 to 7	(S S Damage ÷ Trade 2020) * 100 for storms prior to 1960. (S S Damage ÷ GDP 2020) * 100 for storms on or after 1960.	Ratio denominator = 100
