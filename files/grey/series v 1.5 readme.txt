@@ -1,0 +1,23 @@
+<meta>
+title	Historical series re Belize
+series	null
+series_version	1.5
+file	readme.txt
+file_version	1.1
+file_date	8 aug 2022 5.55 am
+file_author	navidad
+file_rights	copyright
+file_licence	creative
+file_place	boston
+file_action_0	added meta and data_file_0
+file_action_0_timestamp	08 aug 2022 5.55 am
+file_action_1	added data_file_1
+file_action_1_timestamp	08 aug 2022 11.50 am
+</meta>
+<data>
+data_file_0	authorities.numbers
+data_file_0_abstract	authorities ie list of custodians, repositories, search engines, and the like providing access to collections of archival, rare, etc material both printed and manuscript.
+
+data_file_1	graphs.numbers
+data_file_1_abstract	structures ie structure or ogranisation or graphs of authorities.
+</data>
