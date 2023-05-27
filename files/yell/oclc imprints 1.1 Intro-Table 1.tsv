@@ -1,12 +1,3 @@
-Table 1
-							
-							
-	sheet	search	hits	note	import date		
-	Nic 194	"WorldCat results for: (pl: Nicaragua not mt: juv) not mt: fic and yr: 1500-1899 and dt= ""bks"""	194 records		27 JULY 2022		
-	Gua 7281	"WorldCat results for: (pl: Guatemala not mt: juv) not mt: fic and yr: 1500-1899 and dt= ""bks"""	7281 records	inc 100 duplicates from one result page being doubly exported	27 JULY 2022		
-	Hon 188	"WorldCat results for: (pl: Honduras not mt: juv) not mt: fic and yr: 1500-1899 and dt= ""bks"""	188 records		27 JULY 2022		
-	Bel 69	"WorldCat results for: (pl: Belize not mt: juv) not mt: fic and yr: 1500-1899 and dt= ""bks"""	69 records		27 JULY 2022		
-	Yuc 772	"WorldCat results for: (pl: Yucatan not mt: juv) not mt: fic and yr: 1500-1899 and dt= ""bks"""	772 records		27 JULY 2022		
-	Jam 2193	"WorldCat results for: (pl: Jamaica not mt: juv) not mt: fic and yr: 1500-1899 and dt= ""bks"""	2193 records	"inc US places eg in Boston, NY"	27 JULY 2022		
-	Cam 137	"WorldCat results for: (pl: Campeche not mt: juv) not mt: fic and yr: 1500-1899 and dt= ""bks"""	137 records		27 JULY 2022		
-	Sum 10834		10834 records	inc 100 duplicates / inc US places of publication / sans code et code-linked formulas	27 JUL 2022		
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f5ff27da63337c41c3803280020df22da7ae4927fa71ebd0207ed1f4a8edc1f
+size 1231
