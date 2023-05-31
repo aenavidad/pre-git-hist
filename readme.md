@@ -6,9 +6,9 @@ This repository was created on 11 August 2022 in Boston MA to store archival ver
 
 ## navigation
 
-- commit-like data listed in `events.tsv`
-- data-files and their versions listed in `files.tsv`
-- data-files are stored in the `files` directory
+- commit-like data listed in `events.tsv`, though some commit-like data (for large binary files) listed in `sheets.tsv`
+- data-files and their versions listed in `files.tsv`, though large binary files and their versions listed in `sheets.tsv`
+- data-files are stored in the `files` directory, though large binary files stored in `sheets` directory
 
 ## notice
 
